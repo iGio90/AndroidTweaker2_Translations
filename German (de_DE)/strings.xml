@@ -2,27 +2,27 @@
 <resources>
 
     <string name="app_name" translatable="false">Android Tweaker 2</string>
-    <string name="reboot">Reboot your device in order to apply changes</string>
-    <string name="apply">Apply changes</string>
-    <string name="exit">Please tap BACK again to exit</string>
-    <string name="yes">Yes</string>
-    <string name="no">No</string>
+    <string name="reboot">Starten Sie Ihr Handy neu um die Änderungen anzunehmen</string>
+    <string name="apply">Änderungen speichern</string>
+    <string name="exit">Bitte drücken Sie nochmal ZURÜCK um die App zu schließen</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
     <string name="ok">Ok</string>
-    <string name="cancel">Cancel</string>
-    <string name="warning">Warning</string>
-    <string name="error">Error</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="warning">Warnung</string>
+    <string name="error">Fehler</string>
     <string name="checking">Checking dependencies…</string>
-    <string name="connectionc_error">Android tweaker needs an active connection to verify the app license. Please, connect your device and try back.</string>
-    <string name="sure">Are your sure?</string>
-    <string name="wait">Please wait…</string>
+    <string name="connectionc_error">Android tweaker braucht eine aktive Verbindung um die App-Lizenz zu verifizieren. Bitte verbinden Sie sich mit einem Datendienst und versuchen es noch einmal.</string>
+    <string name="sure">Sind Sie sicher?</string>
+    <string name="wait">Bitte warten…</string>
     <string name="updating">Updating dependencies</string>
     <string name="toolchain_exist">Needed resources are already installed. Skipping…</string>
     <string name="require_busybox">This action require busybox installed on your device. Please, install busybox before using this tool</string>
     <string name="require_sql">This action require SQL toolchain. If you are seeing this error it means your ROM doesn\'t support the SQL defragging tool.</string>
     <string name="size">Size:</string>
     <string name="rate_explanation">Give your opinion and help us to improve the various application content</string>
-    <string name="rate_now">Rate now</string>
-    <string name="understand">I understand</string>
+    <string name="rate_now">Jetzt bewerten</string>
+    <string name="understand">Ich verstehe</string>
 
     <!-- TIPS -->
     <string name="tips">Tips:</string>
