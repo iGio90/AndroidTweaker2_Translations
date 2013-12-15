@@ -10,7 +10,7 @@ How to translate:
 - Open the file strings.xml inside the translation folder
 - Tap on the edit button
 - Make your translations
-- Tap on commit changes located at the bottom of the page with an optional title/message
+- Tap on propose file change located at the bottom of the page with an optional title/message
 
 <b>The language i'm going to translate haven't got any folder</b>:
 - Send an e-mail to giovanni.rocca.90@gmail.com and ask for create your language folder
