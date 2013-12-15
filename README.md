@@ -1,4 +1,4 @@
-AndroidTweaker2_Translations
+Android Tweaker 2 Translations
 ============================
 
 How to translate:
