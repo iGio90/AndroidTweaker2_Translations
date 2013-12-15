@@ -11,9 +11,9 @@ How to translate:
 - Tap on the edit button
 - Make your translations
 - Make sure to leave the original name (For example   
- <string name="yes">Yes</string>
+ "<string name="yes">Yes</string>"
 will be
- <string name="yes">Yes translation</string>
+ "<string name="yes">Yes translation</string>"
 )
 - Tap on commit changes located at the bottom of the page with an optional title/message
 
