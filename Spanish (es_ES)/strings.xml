@@ -4,7 +4,7 @@
     <string name="app_name" translatable="false">Android Tweaker 2</string>
     <string name="reboot">Reinicia tu dispositivo para aplicar los cambios</string>
     <string name="apply">Aplicar cambios</string>
-    <string name="exit">Pulsa ATRAS nuevamente para salir</string>
+    <string name="exit">Pulsa ATRÁS nuevamente para salir</string>
     <string name="yes">Sí</string>
     <string name="no">No</string>
     <string name="ok">Ok</string>
@@ -72,30 +72,30 @@
     <string name="contact_subject">Asunto:</string>
 
     <!-- TWEAKER HEADERS -->
-    <string name="title_general_performance">Performance</string>
-    <string name="title_general_performance_summary">Collection of tweaks that will increase the performances on your device</string>
-    <string name="title_ui_performance">UI Performance and scrolling</string>
-    <string name="title_battery">Battery</string>
-    <string name="title_battery_summary">Collection of tweaks that will extend the battery life of your device</string>
-    <string name="title_media">Media</string>
-    <string name="title_media_summary">Collection of tweaks that will tune images, videos and audio properties</string>
-    <string name="title_audio_video_recording">Audio and Video recording</string>
-    <string name="title_streaming">Video streaming</string>
-    <string name="title_images">Images</string>
-    <string name="title_network">Network</string>
-    <string name="title_network_summary">Collection of tweaks that will tune your network speed</string>
-    <string name="title_net_speed">Network Speed</string>
-    <string name="title_phone">Phone</string>
-    <string name="title_signal">Signal</string>
-    <string name="title_ipv4_ipv6">IPV4 and IPV6</string>
-    <string name="title_gps">Location</string>
-    <string name="title_gps_summary">Collection of tweaks that will tune your GPS and network location</string>
-    <string name="title_gps_update">Server update</string>
-    <string name="title_misc">Miscellaneous</string>
-    <string name="title_misc_summary">Collection of miscellaneous tweaks</string>
-    <string name="title_misc_errors">Errors and loggers</string>
-    <string name="title_dalvik">Dalvik Virtual Machine</string>
-    <string name="title_additional">Additional</string>
+    <string name="title_general_performance">Rendimiento</string>
+    <string name="title_general_performance_summary">Colección de tweaks que aumentarán el rendimiento en tu dispositivo</string>
+    <string name="title_ui_performance">Rendimiento de UI y scrolling</string>
+    <string name="title_battery">Batería</string>
+    <string name="title_battery_summary">Colección de tweaks que aumentarán la duración de la batería en tu dispositivo</string>
+    <string name="title_media">Multimedia</string>
+    <string name="title_media_summary">Colección de tweaks que optimizarán las propiedades de las imágenes, los vídeos y el sonido</string>
+    <string name="title_audio_video_recording">Grabación de sonido y vídeo</string>
+    <string name="title_streaming">Streaming de vídeo</string>
+    <string name="title_images">Imágenes</string>
+    <string name="title_network">Red de internet</string>
+    <string name="title_network_summary">Colección de tweaks que optimizarán la velocidad de su conexión a internet</string>
+    <string name="title_net_speed">Velocidad de la conexión a internet</string>
+    <string name="title_phone">Teléfono</string>
+    <string name="title_signal">Señal</string>
+    <string name="title_ipv4_ipv6">IPV4 y IPV6</string>
+    <string name="title_gps">Localización</string>
+    <string name="title_gps_summary">Colección de tweaks que mejorarán la localización a través del GPS y de la conexión a internet</string>
+    <string name="title_gps_update">Actualización del servidor</string>
+    <string name="title_misc">Otros</string>
+    <string name="title_misc_summary">Colección de otros tweaks</string>
+    <string name="title_misc_errors">Errores y loggers</string>
+    <string name="title_dalvik">Máquina Virtual Dalvik</string>
+    <string name="title_additional">Adicional</string>
     
     <!-- PERFORMANCE -->
     <string name="debughw_title">HW debug</string>
