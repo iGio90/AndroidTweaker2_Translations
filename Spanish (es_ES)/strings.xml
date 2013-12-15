@@ -98,28 +98,28 @@
     <string name="title_additional">Adicional</string>
     
     <!-- PERFORMANCE -->
-    <string name="debughw_title">HW debug</string>
-    <string name="debughw_summary">Enable or disable Hardware Debug. Gives a little extra system performance</string>
-    <string name="syshw_title">Persist Sys UI HW</string>
-    <string name="syshw_summary">Enable or disable persistent sys UI HW. Gives a little extra system performance</string>
-    <string name="debug_tuning_title">Performance tuning</string>
-    <string name="debug_tuning_summary">Enable or disable debug performance tuning. Gives a little extra system performance</string>
-    <string name="video_acceleration_title">HW video acceleration</string>
-    <string name="video_acceleration_summary">Enable or disable hardware video acceleration. Gives a little extra system performance</string>
-    <string name="debugegl_title">EGL HW debug</string>
-    <string name="debugegl_summary">Enable or disable EGL HW debug. Gives a little extra system performance</string>
-    <string name="debugeglprofiler_title">EGL Profiler debug</string>
-    <string name="debugeglprofiler_summary">Enable or disable EGL Profiler debug. Gives a little extra system performance</string>
-    <string name="min_fling_title">Minimum fling velocity</string>
-    <string name="min_fling_summary">Increase or decrese min fling veocity. Gives a better scroll and smothness. We suggest to rise this to max</string>
-    <string name="max_fling_title">Maximum fling velocity</string>
-    <string name="max_fling_summary">Increase or decrese max fling veocity. Gives a better scroll and smothness. We suggest to rise this to max</string>
-    <string name="multitouch_title">Multitouch</string>
-    <string name="multitouch_summary">Enable or disable multitouch. This is not working on all devices. Gives extra system performance and decrease battery drain</string>
-    <string name="max_event_title">Max events per sec</string>
-    <string name="max_event_summary">Increase or decrease max events per second. Gives a better scroll and smothness. For low ram devices we suggest to put this to 150 or below.</string>
-    <string name="pointer_dur_title">Pointer duration</string>
-    <string name="pointer_dur_summary">Decrease pointer duration. Gives a better scroll and smothness</string>
+    <string name="debughw_title">Hardware Debug</string>
+    <string name="debughw_summary">Activar o desactivar Hardware Debug. Ofrece una pequeña mejora de rendimiento del sistema</string>
+    <string name="syshw_title">Persistencia del hardware de UI sistema</string>
+    <string name="syshw_summary">Activar o desactivar la persistencia del hardware de UI sistema. Ofrece una pequeña mejora de rendimiento del sistema</string>
+    <string name="debug_tuning_title">Optimización de rendimiento</string>
+    <string name="debug_tuning_summary">Activar o desactivar la optimización de rendimiento. Ofrece una pequeña mejora de rendimiento del sistema</string>
+    <string name="video_acceleration_title">Aceleración de hardware de vídeo</string>
+    <string name="video_acceleration_summary">Activar o desactivar la aceleración de hardware de vídeo. Ofrece una pequeña mejora de rendimiento del sistema</string>
+    <string name="debugegl_title">Debug de harware EGL</string>
+    <string name="debugegl_summary">Activar o desactivar el debug de harware EGL. Ofrece una pequeña mejora de rendimiento del sistema</string>
+    <string name="debugeglprofiler_title">Debug de EGL Profiler</string>
+    <string name="debugeglprofiler_summary">Activar o desactivar el debug de EGL Profiler. Ofrece una pequeña mejora de rendimiento del sistema</string>
+    <string name="min_fling_title">Velocidad mínima de ejecución</string>
+    <string name="min_fling_summary">Aumentar o disminuir la velocidad mínima de ejecución. Ofrece un mejor desplazamiento y una mejor fluidez. Aconsejamos activarlo al máximo</string>
+    <string name="max_fling_title">Velocidad máxima de ejecución</string>
+    <string name="max_fling_summary">Aumentar o disminuir la velocidad máxima de ejecución. Ofrece un mejor desplazamiento y una mejor fluidez. Aconsejamos activarlo al máximo</string>
+    <string name="multitouch_title">Multitáctil</string>
+    <string name="multitouch_summary">Activar o desactivar el multitáctil. Esto no funciona en todos los dispositivos. Ofrece una mejora de rendimiento del sistema y disminuye el gasto de batería.</string>
+    <string name="max_event_title">Máximo número de eventos por segundo</string>
+    <string name="max_event_summary">Aumentar o disminuir el máximo número de eventos por segundo. Ofrece un mejor desplazamiento y una mejor fluidez. Para dispositivos con poca memoria RAM sugerimos establecer este valor en 150 o menos.</string>
+    <string name="pointer_dur_title">Duración del puntero</string>
+    <string name="pointer_dur_summary">Disminuir la duración del puntero. Ofrece un mejor desplazamiento y una mejor fluidez</string>
 
     <!-- BATTERY -->
     <string name="power_collapse">Power collapse</string>
