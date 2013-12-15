@@ -266,7 +266,7 @@
     <string name="enable_daemon">Enable smart actions</string>
     <string name="disable_daemon">Disable smart actions</string>
     <string name="enable_daemon_boot">Persistence</string>
-    <string name="enable_daemon_boot_summary">Launch smart actions on boot</string>
+    <string name="enable_daemon_boot_summary">Launch this service when the device is turned on</string>
     <string name="screen_state" translatable="false">Smart actions</string>
     <string name="screen_state_summary">Set custom actions when screen turns off/on</string>
     <string name="screen_state_notification">Smart bar</string>
