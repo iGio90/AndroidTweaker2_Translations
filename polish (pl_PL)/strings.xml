@@ -2,190 +2,190 @@
 <resources>
 
     <string name="app_name" translatable="false">Android Tweaker 2</string>
-    <string name="reboot">Reboot your device in order to apply changes</string>
-    <string name="apply">Apply changes</string>
-    <string name="exit">Please tap BACK again to exit</string>
-    <string name="yes">Yes</string>
-    <string name="no">No</string>
+    <string name="reboot">Ponownie uruchom urządzenie w celu zastosowania zmian</string>
+    <string name="apply">Zastosuj zmiany</string>
+    <string name="exit">Naciśnij jeszcze raz POWROT aby wyjść</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
     <string name="ok">Ok</string>
-    <string name="cancel">Cancel</string>
-    <string name="warning">Warning</string>
-    <string name="error">Error</string>
-    <string name="checking">Checking dependencies…</string>
-    <string name="connectionc_error">Android tweaker needs an active connection to verify the app license. Please, connect your device and try back.</string>
-    <string name="sure">Are your sure?</string>
-    <string name="wait">Please wait…</string>
-    <string name="updating">Updating dependencies</string>
-    <string name="toolchain_exist">Needed resources are already installed. Skipping…</string>
-    <string name="require_busybox">This action require busybox installed on your device. Please, install busybox before using this tool</string>
+    <string name="cancel">Anuluj</string>
+    <string name="warning">Ostrzeżenie</string>
+    <string name="error">Błąd</string>
+    <string name="checking">Sprawdzanie zależności…</string>
+    <string name="connectionc_error">Android tweaker wymaga aktywnego połączenia z internetem w celu weryfikacji licencji. Prosze połaczyć się z internetem i spróbować ponownie.</string>
+    <string name="sure">Jesteś pewien?</string>
+    <string name="wait">Proszę czekać…</string>
+    <string name="updating">Aktualizowanie zależności</string>
+    <string name="toolchain_exist">Potrzebne zasoby są już zainstalowane. Pomijanie...</string>
+    <string name="require_busybox">Ta czynność wymaga zainstalowanego na urządzeniu busybox'a. Proszę zainstalować busybox przed użyciem tego narzędzia</string>
     <string name="require_sql">This action require SQL toolchain. If you are seeing this error it means your ROM doesn\'t support the SQL defragging tool.</string>
-    <string name="size">Size:</string>
-    <string name="rate_explanation">Give your opinion and help us to improve the various application content</string>
-    <string name="rate_now">Rate now</string>
-    <string name="understand">I understand</string>
+    <string name="size">Rozmiar:</string>
+    <string name="rate_explanation">Wyraź swoją opinię i pomóż nam ulepszać zawartość aplikacji</string>
+    <string name="rate_now">Oceń teraz</string>
+    <string name="understand">Rozumiem</string>
 
     <!-- TIPS -->
-    <string name="tips">Tips:</string>
-    <string name="tips_reset">Reset tips</string>
-    <string name="tips_enable">Enable tips</string>
-    <string name="tips_disable">Disable tips</string>
-    <string name="tips_show">Show tips</string>
-    <string name="tips_tap_tweak">Tap around any tweak name to get a short description</string>
-    <string name="tips_tweaks_dont_enable_all">Do not enable all the tweaks proposed</string>
-    <string name="tips_tweaks_time">Some tweaks take time to activate. Always wait for the SU msg to disappear!</string>
-    <string name="tips_not_a_game">This is not a game. Use this app with your brain!</string>
-    <string name="tips_zipalign">You didn\'t zipalign your app yet! Zipalign decreases the RAM usage of your apps. Tap here to begin!</string>
-    <string name="tips_screenstate">This tool allows you to use the Android Tweaker 2 smart actions. Smart actions can be enabled through preferences panel (in app), a widget or the smart notification (activable in the smart actions preference). Smart actions allows you to setup custom behaviors when your device goes in standby. If, for example, you turn on the wifi smart action, wifi will be turned off, and back on, when the standby mode is inserted/removed. Currently there are 4 smart actions available: Wifi, Bluetooth, Data and Sync. These actions, will extend the battery life of your device up to 300%!</string>
-    <string name="tips_font">This addon allows you to change your system font with one tap. Choose between the 20+ proposed font and if you don\'t like the one you installed, simply tap on the reset button to restore your original one!</string>
-    <string name="tips_weather">This addon allows you to create a custom notification with weather informations based on your GPS location or custom location.</string>
+    <string name="tips">Porady:</string>
+    <string name="tips_reset">Resetuj porady</string>
+    <string name="tips_enable">Włącz porady</string>
+    <string name="tips_disable">Wyłącz porady</string>
+    <string name="tips_show">Pokaż porady</string>
+    <string name="tips_tap_tweak">Stuknij w dowolnym miejscu wokół nazwy ulepszenia aby uzyskać krótki opis</string>
+    <string name="tips_tweaks_dont_enable_all">Nie włączaj wszystkich proponowanych ulepszeń</string>
+    <string name="tips_tweaks_time">Niektóre ulepszenia potrzebują czasu by się uaktywnić. Zawsze czekaj na zniknięcie powiadomienia SU.</string>
+    <string name="tips_not_a_game">To nie jest gra. Używaj tej aplikacji z rozwagą!</string>
+    <string name="tips_zipalign">Zipalign zmniejsza zużycie RAM twoich aplikacji. Stuknij tutaj by rozpocząć!</string>
+    <string name="tips_screenstate">To narzędzie pozwala Tobie na korzystanie z inteligentnych działań Android Tweaker 2. Inteligentne działania można włączyć poprzez panel preferencji (w aplikacji), widget lub inteligentne powiadomienia (dostępne w panelu preferencji inteligentnych działań). Pozwalają one na ustawienie niestandardowych zachowań gdy urządzenie przechodzi w tryb gotowości. Jeśli, na przykład, właczysz inteligentne działanie wifi zostanie ono wyłączone po przejściu urządzenia w tryb gotowości i na nowo właczone po wyjściu z niego. Obecnie dostępne są 4 inteligentne działania: Wifi, Bluetooth, Dane i Synchronizacja. Inteligentne działania wydłużą żywotność baterii twojego urządzenia nawet o 300%!</string>
+    <string name="tips_font">Ten dodatek pozwala Tobie na zmiane czcionki systemowej za pomocą jednego kliknięcia. Wybieraj spośród ponad 20 proponowanych czcionek, a jeśli nie spodoba ci się ta którą zainstalowałeś po prostu naciśnij przycisk reset by powrócić do oryginalnej!</string>
+    <string name="tips_weather">Ten dodatek pozwala Tobie na tworzenie niestandardowych powiadomień o pogodzie na podstawie lokalizacji GPS lub niestandardowej lokalizacji.</string>
 
     <!-- HOME -->
-    <string name="unlicensed">Please, buy a legit copy of this app. Developers put dedication and time on creating applications like that. You should support our work!!</string>
+    <string name="unlicensed">Proszę, kup legalną kopie tej aplikacji. Deweloperzy wkładają serce i czas w tworzenie aplikacji takich jak ta. Należy wspierać naszą prace!!</string>
     <string name="root_check">Root status: </string>
-    <string name="rooted">Rooted</string>
-    <string name="unrooted">Not rooted</string>
+    <string name="rooted">Zrootowany</string>
+    <string name="unrooted">Nie zrootowany</string>
     <string name="busybox_check">Busybox status: </string>
     <string name="mount_check">Mount status: </string>
-    <string name="android_version">Android version: </string>
-    <string name="device_brand">Brand: </string>
+    <string name="android_version">Versja Androida: </string>
+    <string name="device_brand">Marka: </string>
     <string name="device_model">Model: </string>
     <string name="device_board">Board: </string>
     <string name="device_bootloard">Bootloader: </string>
     <string name="device_hardware">Hardware: </string>
     <string name="android_tweaker">System Tweaker</string>
-    <string name="android_tweaker_summary">Collection of system properties tweaks.</string>
-    <string name="initd">Init.d Scripts</string>
-    <string name="initd_summary">Collection of init.d scripts.</string>
-    <string name="tools">Tools</string>
-    <string name="tools_summary">Collection of cleaners and utilities</string>
+    <string name="android_tweaker_summary">Zbiór ulepszeń systemu.</string>
+    <string name="initd">Skrypty Init.d</string>
+    <string name="initd_summary">Zbiór skryptów init.d</string>
+    <string name="tools">Narzędzia</string>
+    <string name="tools_summary">Zbiór narzędzi do poprawy wydajności</string>
     <string name="dns_manager">DNS manager</string>
-    <string name="dns_manager_summary">Set custom DNS or enable the ones proposed</string>
-    <string name="customization">Customizations</string>
-    <string name="customization_summary">Customize your Android OS</string>
+    <string name="dns_manager_summary">Ustaw niestandardowy DNS lub wybierz jeden z proponowanych</string>
+    <string name="customization">Modyfikacje</string>
+    <string name="customization_summary">Zmodyfikuj swojego Androida</string>
     <string name="changelog">Changelog</string>
-    <string name="changelog_summary">Detailed release notes</string>
-    <string name="no_root">This app require root access in order to works. Tap here to get root access on your device</string>
-    <string name="tweaker_store">Shop</string>
-    <string name="tweaker_store_summary">Purchase additional items for Android Tweaker 2</string>
+    <string name="changelog_summary">Szczegółowe informacje o wersji aplikacji</string>
+    <string name="no_root">Ta aplikacja wymaga dostępu root w celu poprawnego działania. Sktuknij tutaj aby nadać uprawnienia root tej aplikacji.</string>
+    <string name="tweaker_store">Sklep</string>
+    <string name="tweaker_store_summary">Zakup dodatkowych elementów do Android Tweaker 2</string>
 
     <!-- CONTACT -->
-    <string name="contact_subject">Subject:</string>
+    <string name="contact_subject">Temat:</string>
 
     <!-- TWEAKER HEADERS -->
-    <string name="title_general_performance">Performance</string>
-    <string name="title_general_performance_summary">Collection of tweaks that will increase the performances on your device</string>
-    <string name="title_ui_performance">UI Performance and scrolling</string>
-    <string name="title_battery">Battery</string>
-    <string name="title_battery_summary">Collection of tweaks that will extend the battery life of your device</string>
+    <string name="title_general_performance">Wydajność</string>
+    <string name="title_general_performance_summary">Zbiór ulepszeń, które zwiększą wydajność twojego urządzenia</string>
+    <string name="title_ui_performance">Wydajność interfejsu użytkownika</string>
+    <string name="title_battery">Bateria</string>
+    <string name="title_battery_summary">Zbiór ulepszeń, które wydłużą życie baterii twojego urządzenia</string>
     <string name="title_media">Media</string>
-    <string name="title_media_summary">Collection of tweaks that will tune images, videos and audio properties</string>
-    <string name="title_audio_video_recording">Audio and Video recording</string>
+    <string name="title_media_summary">Zbiór ulepszeń, które poprawią właściwości zdjęć, filmów i muzyki</string>
+    <string name="title_audio_video_recording">Nagrywanie audio i video</string>
     <string name="title_streaming">Video streaming</string>
-    <string name="title_images">Images</string>
-    <string name="title_network">Network</string>
-    <string name="title_network_summary">Collection of tweaks that will tune your network speed</string>
-    <string name="title_net_speed">Network Speed</string>
-    <string name="title_phone">Phone</string>
-    <string name="title_signal">Signal</string>
-    <string name="title_ipv4_ipv6">IPV4 and IPV6</string>
-    <string name="title_gps">Location</string>
-    <string name="title_gps_summary">Collection of tweaks that will tune your GPS and network location</string>
-    <string name="title_gps_update">Server update</string>
-    <string name="title_misc">Miscellaneous</string>
-    <string name="title_misc_summary">Collection of miscellaneous tweaks</string>
-    <string name="title_misc_errors">Errors and loggers</string>
-    <string name="title_dalvik">Dalvik Virtual Machine</string>
-    <string name="title_additional">Additional</string>
+    <string name="title_images">Zdjęcia</string>
+    <string name="title_network">Sieć</string>
+    <string name="title_network_summary">Zbiór ulepszeń, które poprawią prędkość twojego połączenia internetowego</string>
+    <string name="title_net_speed">Prędkość sieci</string>
+    <string name="title_phone">Telefon</string>
+    <string name="title_signal">Sygnał</string>
+    <string name="title_ipv4_ipv6">IPV4 i IPV6</string>
+    <string name="title_gps">Lokalizacja</string>
+    <string name="title_gps_summary">Zbiór ulepszeń, które poprawią określanie twojego położenia za pomocą GPS i sieci</string>
+    <string name="title_gps_update">Aktualizacja serwera</string>
+    <string name="title_misc">Różności</string>
+    <string name="title_misc_summary">Zbiór rozmaitych ulepszeń</string>
+    <string name="title_misc_errors">Błędy i rejestratory</string>
+    <string name="title_dalvik">Wirtualna Maszyna Dalvik</string>
+    <string name="title_additional">Dodatkowy</string>
     
     <!-- PERFORMANCE -->
     <string name="debughw_title">HW debug</string>
-    <string name="debughw_summary">Enable or disable Hardware Debug. Gives a little extra system performance</string>
-    <string name="syshw_title">Persist Sys UI HW</string>
-    <string name="syshw_summary">Enable or disable persistent sys UI HW. Gives a little extra system performance</string>
+    <string name="debughw_summary">Włącz lub wyłącz debugowanie urządzenia. Trochę zwiększa wydajność systemu</string>
+    <string name="syshw_title">Trwały Sys UI HW</string>
+    <string name="syshw_summary">Włącz lub wyłącz trwały sys UI HW. Trochę zwiększa wydajność systemu</string>
     <string name="debug_tuning_title">Performance tuning</string>
-    <string name="debug_tuning_summary">Enable or disable debug performance tuning. Gives a little extra system performance</string>
-    <string name="video_acceleration_title">HW video acceleration</string>
-    <string name="video_acceleration_summary">Enable or disable hardware video acceleration. Gives a little extra system performance</string>
+    <string name="debug_tuning_summary">Włącz lub wyłącz debug performance tuning. Trochę zwiększa wydajność systemu</string>
+    <string name="video_acceleration_title">Akceleracja HW video</string>
+    <string name="video_acceleration_summary">Włącz lub wyłącz hardware video acceleration. Trochę zwiększa wydajność systemu</string>
     <string name="debugegl_title">EGL HW debug</string>
-    <string name="debugegl_summary">Enable or disable EGL HW debug. Gives a little extra system performance</string>
+    <string name="debugegl_summary">Włącz lub wyłącz EGL HW debug. Trochę zwiększa wydajność systemu</string>
     <string name="debugeglprofiler_title">EGL Profiler debug</string>
-    <string name="debugeglprofiler_summary">Enable or disable EGL Profiler debug. Gives a little extra system performance</string>
+    <string name="debugeglprofiler_summary">Włącz lub wyłącz EGL Profiler debug. Trochę zwiększa wydajność systemu</string>
     <string name="min_fling_title">Minimum fling velocity</string>
-    <string name="min_fling_summary">Increase or decrese min fling veocity. Gives a better scroll and smothness. We suggest to rise this to max</string>
+    <string name="min_fling_summary">Zwiększ lub zmniejsz minimum fling velocity. Zwiększa płynność przewijania. Proponujemy zwiększyć do maksimum</string>
     <string name="max_fling_title">Maximum fling velocity</string>
-    <string name="max_fling_summary">Increase or decrese max fling veocity. Gives a better scroll and smothness. We suggest to rise this to max</string>
+    <string name="max_fling_summary">Zwiększ lub zmniejsz maximum fling velocity. Zwiększa płynność przewijania. Proponujemy zwiększyć do maksimum</string>
     <string name="multitouch_title">Multitouch</string>
-    <string name="multitouch_summary">Enable or disable multitouch. This is not working on all devices. Gives extra system performance and decrease battery drain</string>
-    <string name="max_event_title">Max events per sec</string>
-    <string name="max_event_summary">Increase or decrease max events per second. Gives a better scroll and smothness. For low ram devices we suggest to put this to 150 or below.</string>
-    <string name="pointer_dur_title">Pointer duration</string>
-    <string name="pointer_dur_summary">Decrease pointer duration. Gives a better scroll and smothness</string>
+    <string name="multitouch_summary">Włącz lub wyłącz multitouch. Nie działa na niektórych urządzeniach. Zwiększa wydajność systemu i zmniejszą zużycie baterii</string>
+    <string name="max_event_title">Maksymalna liczba zdarzeń na sekundę</string>
+    <string name="max_event_summary">Zwiększ lub zmniejsz maksymalną liczbę zdarzeń na sekundę. Zwiększa płynność przewijania. Dla urządzeń o małej pamięci RAM proponujemy ustawić na 150 lub mniej</string>
+    <string name="pointer_dur_title">Szybkość wskaźnika</string>
+    <string name="pointer_dur_summary">Zmniejsz szybkość wskaźnika. Zwiększa płynność przewijania.</string>
 
     <!-- BATTERY -->
     <string name="power_collapse">Power collapse</string>
-    <string name="power_collapse_summary">Change power collapse behavior. Helps to relieve pressur on CPU</string>
+    <string name="power_collapse_summary">Zmień zachowanie power collapse. Pomaga odciążyć CPU</string>
     <string name="sleep_mode">PM sleep mode</string>
-    <string name="sleep_mode_summary">Change sleep mode behavior. Helps to relieve CPU pressure during sleep</string>
-    <string name="wifi_scan_interval">Wifi scan interval</string>
-    <string name="wifi_scan_interval_summary">Decrease wifi scan interval and saves some battery</string>
+    <string name="sleep_mode_summary">Zmień zachowanie sleep mode. Pomaga odciążyć CPU podczas uśpienia</string>
+    <string name="wifi_scan_interval">Interwał skanowania wifi</string>
+    <string name="wifi_scan_interval_summary">Zmniejsz częstotliwość skanowania wifi i oszczędź trochę baterii</string>
     
     <!-- NETWORK -->
-    <string name="default_net_speed">Default network speed</string>
-    <string name="default_net_speed_summary">Enable or disable this tweak to increase the default network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
-    <string name="wifi_net_speed">Wifi network speed</string>
-    <string name="wifi_net_speed_summary">Enable or disable this tweak to increase the wifi network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
-    <string name="umts_net_speed">Umts network speed</string>
-    <string name="umts_net_speed_summary">Enable or disable this tweak to increase the umts network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
-    <string name="gprs_net_speed">Gprs network speed</string>
-    <string name="gprs_net_speed_summary">Enable or disable this tweak to increase the gprs network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
-    <string name="edge_net_speed">Edge network speed</string>
-    <string name="edge_net_speed_summary">Enable or disable this tweak to increase the edge network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
+    <string name="default_net_speed">Domyślna prędkość sieci</string>
+    <string name="default_net_speed_summary">Włącz lub wyłącz to ulepszenie by zwiększyć prędkość sieci. Uwaga: Jeśli to ulepszenie jest już włączone oznacza to że nie potrzebujesz tego</string>
+    <string name="wifi_net_speed">Prędkość sieci wifi</string>
+    <string name="wifi_net_speed_summary">Włącz lub wyłącz to ulepszenie by zwiększyć prędkość sieci wifi. Uwaga: Jeśli to ulepszenie jest już włączone oznacza to że nie potrzebujesz tego</string>
+    <string name="umts_net_speed">Prędkość sieci umts</string>
+    <string name="umts_net_speed_summary">Włącz lub wyłącz to ulepszenie by zwiększyć prędkość sieci umts. Uwaga: Jeśli to ulepszenie jest już włączone oznacza to że nie potrzebujesz tego</string>
+    <string name="gprs_net_speed">Prędkość sieci gprs</string>
+    <string name="gprs_net_speed_summary">Włącz lub wyłącz to ulepszenie by zwiększyć prędkość sieci gprs. Uwaga: Jeśli to ulepszenie jest już włączone oznacza to że nie potrzebujesz tego</string>
+    <string name="edge_net_speed">Prędkość sieci edge</string>
+    <string name="edge_net_speed_summary">Włącz lub wyłącz to ulepszenie by zwiększyć prędkość sieci edge. Uwaga: Jeśli to ulepszenie jest już włączone oznacza to że nie potrzebujesz tego</string>
     <string name="ipv4">IPV4</string>
-    <string name="ipv4_summary">Extends support for IPV4 protocol</string>
+    <string name="ipv4_summary">Rozszerza wsparcie dla protokołu IPv4</string>
     <string name="ipv6">IPV6</string>
-    <string name="ipv6_summary">Extends support for IPV6 protocol</string>
+    <string name="ipv6_summary">Rozszerza wsparcie dla protokołu IPv6</string>
     <string name="cust_tel">Cust telephony</string>
-    <string name="cust_tel_summary">Enable or disable this tweak to increase a bit your signal reception</string>
+    <string name="cust_tel_summary">Włącz lub wyłącz to ulepszenie, aby nieco zwiększyć swój odbiór sygnału</string>
     <string name="fast_dormancy">Fast dormancy</string>
-    <string name="fast_dormancy_summary">Enable or disable this tweak to increase a bit your signal reception</string>
+    <string name="fast_dormancy_summary">Włącz lub wyłącz to ulepszenie, aby nieco zwiększyć swój odbiór sygnału</string>
 
     <!-- MEDIA -->
-    <string name="jpeg_quality">JPEG quality</string>
-    <string name="jpeg_quality_summary">Increase or decrease overall JPEG quality</string>
+    <string name="jpeg_quality">Jakość JPEG</string>
+    <string name="jpeg_quality_summary">Zwiększ lub zmniejsz ogólną jakość JPEG</string>
     <string name="dec_jpeg">JPEG decoder memcap</string>
-    <string name="dec_jpeg_summary">Increase or decrease JPEG decoder memcap. Gives a little extra JPEG quality</string>
+    <string name="dec_jpeg_summary">Zwiększ lub zmniejsz JPEG decoder memcap. Trochę polepsza jakość JPEG</string>
     <string name="enc_hprof_bps">Encode video bps</string>
-    <string name="enc_hprof_bps_summary">Increase or decrease hprof video BPS. Gives a better video recording quality</string>
+    <string name="enc_hprof_bps_summary">Zwiększ lub zmniejsz hprof video BPS. Polepsza jakość nagrywanych filmów</string>
     <string name="enc_hprof_fps">Encode video fps</string>
-    <string name="enc_hprof_fps_summary">Increase or decrease hprof video FPS. Gives a better video recording quality</string>
+    <string name="enc_hprof_fps_summary">Zwiększ lub zmniejsz hprof video FPS. Polepsza jakość nagrywanych filmów</string>
     <string name="panorama_defres">Panorama defres (HD)</string>
-    <string name="panorama_defres_summary">Enable or disable panorama defres. Rise to the maximum panorama defres resolution</string>
+    <string name="panorama_defres_summary">Włącz lub wyłącz panorama defres. Zwiększa panorama defres do maksymalniej rozdzielczości</string>
     <string name="panorama_frameres">Panorama frame res (HD)</string>
-    <string name="panorama_frameres_summary">Enable or disable panorama frameres. Rise to the maximum panorama frame resolution</string>
-    <string name="camcorder_video">Camcorder video mode</string>
-    <string name="camcorder_video_summary">Enable or disable camcorder video mode. Gives a better video recording quality</string>
-    <string name="media_streaming">Media streaming speed</string>
-    <string name="media_streaming_summary">Improve media streaming speed with some net/video tweaks</string>
-    <string name="overall_image_quality">Increase overall image quality</string>
-    <string name="overall_image_quality_summary">Collection of image quality tweaks. Gives a little extra images and videos quality at cost of less performances</string>
+    <string name="panorama_frameres_summary">Włącz lub wyłącz panorama frameres. Zwiększa panorama frameres do maksymalniej rozdzielczości</string>
+    <string name="camcorder_video">Kamera w trybie wideo</string>
+    <string name="camcorder_video_summary">Włącz lub wyłącz tryb wideo. Polepsza jakość nagrywanych filmów</string>
+    <string name="media_streaming">Prędkość transmisji strumieniowej mediów</string>
+    <string name="media_streaming_summary">Zwiększyć szybkość przesyłania strumieniowego multimediów</string>
+    <string name="overall_image_quality">Zwiększ ogólną jakość obrazu</string>
+    <string name="overall_image_quality_summary">Zbiór ulepszeń obrazu. Polepsza jakość zdjęć i filmów kosztem mniejszej wydajności</string>
 
     <!-- MISC -->
-    <string name="error_report">Disable error report</string>
-    <string name="error_report_summary">Disable error reporting. Saves some battery and increase general performances</string>
-    <string name="ulog">Disable uLog</string>
-    <string name="ulog_summary">Disable uLog error reporting. Saves some battery and increase general performances</string>
-    <string name="logcat">Disable LogCat</string>
-    <string name="logcat_summary">Disable LogCat error reporting. Saves some battery and increase general performances</string>
-    <string name="kernel_error">Disable kernel errors</string>
-    <string name="kernel_error_summary">Disable Kernel error reporting. Saves some battery and increase general performances</string>
-    <string name="usage_data">Disable sending of usage data</string>
-    <string name="usage_data_summary">Disable sending of usage data. Saves some battery and increase general performances</string>
-    <string name="phone_ring">Phone ring delay</string>
-    <string name="phone_ring_summary">Increase or decrease the phone ring delay</string>
-    <string name="blackscreen">Blackscreen after calls</string>
-    <string name="blackscreen_summary">Fix blackscreen after calls issues</string>
-    <string name="call_quality">Voice quality</string>
-    <string name="call_quality_summary">Increase the quality of voice during phone calls</string>
+    <string name="error_report">Wyłącz raportowanie błędów</string>
+    <string name="error_report_summary">Oszczędza trochę baterii i zwiększa wydajność systemu</string>
+    <string name="ulog">Wyłącz uLog</string>
+    <string name="ulog_summary">Wyłącz raportowanie błędów uLog. Oszczędza trochę baterii i zwiększa wydajność systemu</string>
+    <string name="logcat">Wyłącz LogCat</string>
+    <string name="logcat_summary">Wyłącz raportowanie błędów LogCat. Oszczędza trochę baterii i zwiększa wydajność systemu</string>
+    <string name="kernel_error">Wyłącz błędy jądra</string>
+    <string name="kernel_error_summary">Wyłącz raportowanie błędów jądra systemowego. Oszczędza trochę baterii i zwiększa wydajność systemu</string>
+    <string name="usage_data">Wyłącz wysyłanie o wykorzystaniu danych</string>
+    <string name="usage_data_summary">Oszczędza trochę baterii i zwiększa wydajność systemu</string>
+    <string name="phone_ring">Opóźnienie dzwonka telefonu</string>
+    <string name="phone_ring_summary">Zwiększ lub zmniejsz opóźnienie dzwonka telefonu</string>
+    <string name="blackscreen">Czarny ekran po połązceniu</string>
+    <string name="blackscreen_summary">Napraw błąd czarnego ekranu po połączeniu</string>
+    <string name="call_quality">Jakość głosu</string>
+    <string name="call_quality_summary">Zwiększ jakość głosu podczas rozmów telefonicznych</string>
     <string name="dalvik_checkjni">Dalvik checkjni</string>
     <string name="dalvik_dexopt">Dalvik dexopt</string>
     <string name="dalvik_heapstartsize">Dalvik heapstartsize</string>
@@ -198,182 +198,182 @@
     <string name="dalvik_jmiopts">Dalvik jmiopts</string>
 
     <!-- GPS -->
-    <string name="disable_network_location">Network location</string>
-    <string name="disable_network_location_summary">Disable network location services</string>
-    <string name="gps_update_server_last_date">Last update:</string>
-    <string name="gps_update_server">GPS servers update</string>
-    <string name="gps_update_server_last_server">Today active servers:</string>
-    <string name="gps_update_updating">Updating…</string>
-    <string name="gps_update_choose_continent">Continent</string>
-    <string name="gps_update_choose_state">Country code</string>
-    <string name="gps_update_dialog_title">Setup the servers</string>
-    <string name="reset_gps_config">Restore original config</string>
-    <string name="original_config_not_found">Original config file not found!</string>
+    <string name="disable_network_location">Lokalizacja sieciowa</string>
+    <string name="disable_network_location_summary">Wyłącz usługi lokalizacji sieci</string>
+    <string name="gps_update_server_last_date">Ostatnia aktualizacja:</string>
+    <string name="gps_update_server">Aktualizacja serwerów GPS</string>
+    <string name="gps_update_server_last_server">Aktywne serwery:</string>
+    <string name="gps_update_updating">Aktualizacja…</string>
+    <string name="gps_update_choose_continent">Kontynent</string>
+    <string name="gps_update_choose_state">Kod kraju</string>
+    <string name="gps_update_dialog_title">Konfiguracja serwerów</string>
+    <string name="reset_gps_config">Przywróć oryginalne ustawienia</string>
+    <string name="original_config_not_found">Oryginalny plik konfiguracyjny nie został znaleziony!</string>
 
     <!-- TOOLS -->
     <string name="zipaling" translatable="false">Zipalign</string>
-    <string name="zipaling_summary">Optimize your installed apps and system apps</string>
-    <string name="zipalign_all">Zipalign all apps</string>
+    <string name="zipaling_summary">Optymalizacja zainstalowanych aplikacji i aplikacji systemowych</string>
+    <string name="zipalign_all">Optymalizuj wszystkie aplikacje</string>
     <string name="zipaligning">Zipaligning:\n\n</string>
-    <string name="already_aligned">This app is already zipaligned</string>
-    <string name="sql_defrag">SQL defrag</string>
-    <string name="sql_defrag_summary">Speed up and optimize your SQL databases</string>
-    <string name="sql_defrag_init">Defrag all SQL databases</string>
-    <string name="sql_defrag_last">Last SQL defrag:</string>
-    <string name="sql_report_last">Last SQL report:</string>
-    <string name="sql_setting_up">Setting up environment</string>
-    <string name="sql_executing">Running…</string>
-    <string name="sql_must_reboot">At the end of this process your device will be rebooted. Continue?</string>
+    <string name="already_aligned">Ta aplikacja jest juz zoptymalizowana</string>
+    <string name="sql_defrag">Defragmentacja SQL</string>
+    <string name="sql_defrag_summary">Przyspiesz i zoptymalizuj twoją bazę danych SQL</string>
+    <string name="sql_defrag_init">Defragmentuj wszystkie bazy danych SQL</string>
+    <string name="sql_defrag_last">Ostatnia defragmentacja SQL:</string>
+    <string name="sql_report_last">Ostatni raport SQL:</string>
+    <string name="sql_setting_up">Konfigurowanie środowiska</string>
+    <string name="sql_executing">W toku…</string>
+    <string name="sql_must_reboot">Na końcu tego procesu urządzenie zostanie ponownie uruchomione. Kontynuować?</string>
     <string name="cache_cleaner">Cache cleaner</string>
-    <string name="cache_cleaner_summary">Clean up cache partitions and dalvik cache</string>
-    <string name="cache_cleaner_run">Launch cache cleaner</string>
-    <string name="cache_clear">Cache</string>
-    <string name="cache_dalvik_clear">Dalvik cache</string>
-    <string name="cache_cleaner_last">Cache cleaned:</string>
-    <string name="cache_cleaner_dalvik_last">Dalvik cleaned:</string>
-    <string name="cache_available">Cache space available:</string>
+    <string name="cache_cleaner_summary">Wyczyść partycje pamięci podręcznej i pamięć podręczną dalvik</string>
+    <string name="cache_cleaner_run">Uruchomienie czyszczenia pamięci podręcznej</string>
+    <string name="cache_clear">Pamięć podręczna</string>
+    <string name="cache_dalvik_clear">Pamięć podręczna Dalvik</string>
+    <string name="cache_cleaner_last">Pamięć podręczna wyczyszczona:</string>
+    <string name="cache_cleaner_dalvik_last">Pamięć podręczna Dalvik wyczyszczona:</string>
+    <string name="cache_available">Dostępna przestrzeń pamięci podręcznej:</string>
     <string name="uninstaller">Uninstaller</string>
-    <string name="uninstaller_summary">Uninstall your personal apps or system apps</string>
-    <string name="uninstaller_warning">This tool is extremely powerful. We leave to the users the ability to remove system applications such as Phone or Mms which are indispensable for a daily phone usage. Do not play with this tool. </string>
-    <string name="uninstaller_confirm">Uninstall:</string>
-    <string name="uninstaller_success">successfully uninstalled</string>
-    <string name="enable_custom_dns">Custom DNS</string>
-    <string name="current_dns">Current DNS</string>
-    <string name="original_dns">Stock DNS</string>
-    <string name="primary_dns">Primary DNS</string>
-    <string name="secondary_dns">Secondary DNS</string>
-    <string name="apply_dns">Apply</string>
-    <string name="dns_apply">Set DNS to:</string>
-    <string name="dns_progress">Applying DNS…</string>
-    <string name="dns_restoreing">Restoring original DNS…</string>
+    <string name="uninstaller_summary">Odinstaluj swoje aplikacje lub aplikacje systemowe</string>
+    <string name="uninstaller_warning">To narzędzie jest niezwykle potężne. Dajemy użytkownikom możliwość usuwania aplikacji systemowych, takich jak telefon lub MMS, które są niezbędne do codziennego użytkowania telefonu. Bądz ostrożny z tym narzędziem. </string>
+    <string name="uninstaller_confirm">Odinstaluj:</string>
+    <string name="uninstaller_success">Pomyślnie odinstalowano</string>
+    <string name="enable_custom_dns">Niestandardowe DNS</string>
+    <string name="current_dns">Obecne DNS</string>
+    <string name="original_dns">Oryginalne DNS</string>
+    <string name="primary_dns">Podstawowy DNS</string>
+    <string name="secondary_dns">Drugorzędny DNS</string>
+    <string name="apply_dns">Zastosuj</string>
+    <string name="dns_apply">Ustaw DNS:</string>
+    <string name="dns_progress">Stosowanie DNS…</string>
+    <string name="dns_restoreing">Przywracanie oryginalnego DNS…</string>
 
     <!-- INITD -->
-    <string name="initd_error">Your device doesn\'t support Init.D tweaks</string>
-    <string name="title_general_performance_initd_summary">Collection of init.d scripts that will increase the performances on your device</string>
-    <string name="title_battery_initd_summary">Collection of init.d scripts that will extend the battery life of your device</string>
-    <string name="title_network_initd_summary">Collection of init.d scripts that will tune your network speed</string>
-    <string name="title_misc_initd_summary">Collection of miscellaneous init.d scripts</string>
+    <string name="initd_error">Twoje urządzenie nie wspiera ulepszeń Init.D</string>
+    <string name="title_general_performance_initd_summary">Zbiór skryptów init.d zwiększających wydajność twojego urządzenia </string>
+    <string name="title_battery_initd_summary">Zbiór skryptów init.d wydłużających życie baterii twojego urządzenia</string>
+    <string name="title_network_initd_summary">Zbiór skryptów init.d zwiększających prędkość sieci</string>
+    <string name="title_misc_initd_summary">Zbiór pozostałych skryptów init.d</string>
     <string name="initd_strict_min_free">Strict min free</string>
     <string name="initd_strict_min_free_summary">Tune low memory killer</string>
     <string name="initd_vm_management">VM Management</string>
     <string name="initd_vm_management_summary">Tune virtual memory management</string>
     <string name="initd_improve_sd">SDCard</string>
-    <string name="initd_improve_sd_summary">Increase SDCard and Micro SDCard speed</string>
+    <string name="initd_improve_sd_summary">Zwiększ prędkość SDCard i Micro SDCard</string>
     <string name="initd_normalize_sleeper">Normalize sleeper</string>
     <string name="initd_normalize_sleeper_summary">Disable kernel normalize sleeper</string>
 
     <!-- DAEMON -->
-    <string name="enable_daemon">Enable smart actions</string>
-    <string name="disable_daemon">Disable smart actions</string>
-    <string name="enable_daemon_boot">Persistence</string>
-    <string name="enable_daemon_boot_summary">Launch smart actions on boot</string>
-    <string name="screen_state" translatable="false">Smart actions</string>
-    <string name="screen_state_summary">Set custom actions when screen turns off/on</string>
+    <string name="enable_daemon">Włacz inteligentne działąnia</string>
+    <string name="disable_daemon">Wyłacz inteligentne działąnia</string>
+    <string name="enable_daemon_boot">Trwałość</string>
+    <string name="enable_daemon_boot_summary">Uruchomienie inteligentnych działań na starcie</string>
+    <string name="screen_state" translatable="false">Inteligentne działania</string>
+    <string name="screen_state_summary">Ustaw niestandardowe akcje, gdy ekran zostanie wyłączony/włączony</string>
     <string name="screen_state_notification">Smart bar</string>
-    <string name="screen_state_notification_summary">Add smart actions widgets to the notification drawer</string>
-    <string name="screen_state_battery">Low battery</string>
-    <string name="screen_state_battery_summary">Enable actions only if battery is less then 20%</string>
+    <string name="screen_state_notification_summary">Dodaj widget inteligentnych działań do szuflady powiadomień</string>
+    <string name="screen_state_battery">Niski poziom baterii</string>
+    <string name="screen_state_battery_summary">Włacz akcje tylko wówczas gdy poziom baterii jest mniejszy niż 20%</string>
     <string name="screen_state_wifi">Wifi</string>
-    <string name="screen_state_wifi_summary">Disable wifi when the screen goes off</string>
+    <string name="screen_state_wifi_summary">Wyłącz wifi gdy ekran gaśnie</string>
     <string name="screen_state_bluetooth">Bluetooth</string>
-    <string name="screen_state_bluetooth_summary">Disable bluetooth when the screen goes off</string>
+    <string name="screen_state_bluetooth_summary">Wyłącz bluetooth gdy ekran gaśnie</string>
     <string name="screen_state_data">Data</string>
-    <string name="screen_state_data_summary">Disable data when the screen goes off</string>
+    <string name="screen_state_data_summary">Wyłącz przesył danych gdy ekran gaśnie</string>
     <string name="screen_state_sync">Sync</string>
-    <string name="screen_state_sync_summary">Disable sync when the screen goes off</string>
+    <string name="screen_state_sync_summary">Wyłącz synchronizacje gdy ekran gaśnie</string>
 
     <!-- CUSTOMIZATION -->
-    <string name="no_customization_owned">No customization available</string>
-    <string name="no_customization_owned_summary">There isn\'t any customization available on your Android Tweaker 2. Visit the shop to get some!</string>
-    <string name="font_manager" translatable="false">Font manager</string>
-    <string name="font_manager_summary">Install custom fonts on your device</string>
-    <string name="backup_font">Backing up current font to allows you to restore in future</string>
-    <string name="installing_font">Installing font…</string>
-    <string name="install_font">Do you want to install</string>
-    <string name="reset_font">Set original Roboto font?</string>
+    <string name="no_customization_owned">Brak dostępnych dostosowań</string>
+    <string name="no_customization_owned_summary">Odwiedź sklep, aby uzyskać pewne!</string>
+    <string name="font_manager" translatable="false">Menager czcionek</string>
+    <string name="font_manager_summary">Zainstaluj niestandardowe czcionki na swoim urządzeniu</string>
+    <string name="backup_font">Tworzenie kopii zapasowej bieżącej czcionki by pozwolić na jej przywrócenie w przyszłości</string>
+    <string name="installing_font">Instalowanie czcionki…</string>
+    <string name="install_font">Czy chcesz zainstalować</string>
+    <string name="reset_font">Ustawić oryginalną czcionkę?</string>
 
     <!-- SHOP -->
-    <string name="details">Details</string>
-    <string name="shop_no_ads">Remove ads</string>
-    <string name="no_ads_purchased">Thanks for your donation! The ads are gone now!</string>
-    <string name="shop_screen_state" translatable="false">Smart actions</string>
-    <string name="screen_state_not_purchased">You didn\'t purchase the smart actions tool</string>
-    <string name="screen_state_purchased">Smart actions has been purchased! You got a new card on the main page!</string>
-    <string name="font_manager_purchased">Font manager has been purchased! You got a new card on the customization page!</string>
-    <string name="noty_weather_purchased">Notification weather has been purchased! You got a new card on the customization page!</string>
+    <string name="details">Szczegóły</string>
+    <string name="shop_no_ads">Usuń reklamy</string>
+    <string name="no_ads_purchased">Dziękujemy za Twoją dotacje! Reklamy właśnie zniknęły!</string>
+    <string name="shop_screen_state" translatable="false">Inteligentne działania</string>
+    <string name="screen_state_not_purchased">Nie zakupiłeś narzędzia inteligentnych działań</string>
+    <string name="screen_state_purchased">Inteligentne działania zostały zakupione! Na głównej stronie pojawiła sie nowa karta</string>
+    <string name="font_manager_purchased">Menager czcionek został zakupiony! Masz nową kartę na stronie dostosowywania!</string>
+    <string name="noty_weather_purchased">Powiadomienia o pogodzie zostały zakupione!  Masz nową kartę na stronie dostosowywania!</string>
 
     <!-- WEATHER NOTY -->
-    <string name="enable_weather_noty">Notification weather</string>
-    <string name="enable_weather_noty_summary">Add weather into notification drawer</string>
-    <string name="building_weather_noty">Hold on! I\'m building your new weather notification</string>
-    <string name="weather_use_gps">Use GPS</string>
-    <string name="gps_disabled">Enable GPS</string>
-    <string name="gps_disabled_summary">Tap here to enable your GPS</string>
-    <string name="weather_prior">High priority</string>
-    <string name="weather_prior_summary">Keep weather notification on top</string>
-    <string name="setting_custom_location">Your custom location is set to:</string>
-    <string name="weather_null">Not available</string>
-    <string name="title_weather_location">Weather location</string>
-    <string name="title_weather_customization">Weather customization</string>
+    <string name="enable_weather_noty">Powiadomienia o pogodzie</string>
+    <string name="enable_weather_noty_summary">Dodaj pogodę do szuflady powiadomień</string>
+    <string name="building_weather_noty">Trzymaj się! Tworze twoje nowe powiadomienia o pogodzie!</string>
+    <string name="weather_use_gps">Użyj GPS</string>
+    <string name="gps_disabled">Włącz GPS</string>
+    <string name="gps_disabled_summary">Stuknij tutaj by włączyć GPS</string>
+    <string name="weather_prior">Wysoki priorytet</string>
+    <string name="weather_prior_summary">Trzymaj informacje o pogodzie na górze</string>
+    <string name="setting_custom_location">Twoja niestandardowa lokalizacja:</string>
+    <string name="weather_null">Niedostępne</string>
+    <string name="title_weather_location">Lokalizacja pogody</string>
+    <string name="title_weather_customization">Dostosowywanie pogody</string>
     <string name="weather_fah">Fahrenheit</string>
-    <string name="weather_fah_summary">Use fahrenheit instead of celsius</string>
+    <string name="weather_fah_summary">Użyj stopni Fahrenheit zamiast Celsjusza</string>
     <string-array name="weather_conditions">
         <item>tornado</item>
-        <item>tropical storm</item>
-        <item>hurricane</item>
-        <item>severe thunderstorms</item>
-        <item>thunderstorms</item>
-        <item>mixed rain and snow</item>
-        <item>mixed rain and sleet</item>
-        <item>mixed snow and sleet</item>
-        <item>freezing drizzle</item>
-        <item>drizzle</item>
-        <item>freezing rain</item>
-        <item>showers</item>
-        <item>showers</item>
-        <item>snow flurries</item>
-        <item>light snow showers</item>
-        <item>blowing snow</item>
-        <item>snow</item>
-        <item>hail</item>
-        <item>sleet</item>
-        <item>dust</item>
-        <item>foggy</item>
-        <item>haze</item>
-        <item>smoky</item>
-        <item>blustery</item>
-        <item>windy</item>
-        <item>cold</item>
-        <item>cloudy</item>
-        <item>mostly cloudy</item>
-        <item>mostly cloudy</item>
-        <item>partly cloudy</item>
-        <item>partly cloudy</item>
-        <item>clear (night)</item>
-        <item>sunny</item>
-        <item>fair</item>
-        <item>fair</item>
-        <item>mixed rain and hail</item>
-        <item>hot</item>
-        <item>isolated thunderstorms</item>
-        <item>scattered thunderstorms</item>
-        <item>scattered thunderstorms</item>
-        <item>scattered showers</item>
-        <item>heavy snow</item>
-        <item>partly cloudy</item>
-        <item>thundershowers</item>
-        <item>snow showers</item>
-        <item>isolated thundershowers</item>
+        <item>sztorm tropikalny</item>
+        <item>huragan</item>
+        <item>silne burze</item>
+        <item>burze</item>
+        <item>deszcz ze śniegiem</item>
+        <item>deszcz i deszcz ze śniegiem</item>
+        <item>deszcz i deszcz ze śniegiem</item>
+        <item>marznąca mżawka</item>
+        <item>mżawka</item>
+        <item>marznący deszcz</item>
+        <item>przelotny deszcz</item>
+        <item>przelotny deszcz</item>
+        <item>Przelotne opady śniegu</item>
+        <item>słabe opady sniegu</item>
+        <item>śnieg</item></item>
+        <item>Snieg</item>
+        <item>grad</item>
+        <item>deszcz ze śniegiem</item>
+        <item>kurz</item>
+        <item>mgliście</item>
+        <item>mgiełka</item>
+        <item>zadymienie</item>
+        <item>Przenikliwy</item>
+        <item>wietrzny</item>
+        <item>zimny</item>
+        <item>pochmurny</item>
+        <item>niewielkie zachmurzenie</item>
+        <item>niewielkie zachmurzenie</item>
+        <item>częściowe zachmurzenie</item>
+        <item>częściowe zachmurzenie</item>
+        <item>czyste (noc)</item>
+        <item>słoneczny</item>
+        <item>słonecznie</item>
+        <item>słonecznie</item>
+        <item>deszcz z gradem</item>
+        <item>gorąco</item>
+        <item>pojedyncze burze</item>
+        <item>rozrzucone burze</item>
+        <item>rozrzucone burze</item>
+        <item>przelotne opady</item>
+        <item>mocny śnieg</item>
+        <item>częsciowe zachmurzenie</item>
+        <item>burze</item>
+        <item>przelotne opady śniegu</item>
+        <item>pojedyncze burze</item>
     </string-array>
 
     <string-array name="week_day">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+        <item>Niedziela</item>
+        <item>Poniedziałek</item>
+        <item>Wtorek</item>
+        <item>Środa</item>
+        <item>Czwartek</item>
+        <item>Piątek</item>
+        <item>Sobota</item>
     </string-array>
 
 </resources>
