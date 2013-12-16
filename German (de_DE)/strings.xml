@@ -2,20 +2,20 @@
 <resources>
 
     <string name="app_name" translatable="false">Android Tweaker 2</string>
-    <string name="reboot">Starten Sie Ihr Handy neu um die Änderungen anzunehmen</string>
+    <string name="reboot">Starten Sie Ihr Handy neu, um die Änderungen anzunehmen</string>
     <string name="apply">Änderungen speichern</string>
-    <string name="exit">Bitte drücken Sie nochmal ZURÜCK um die App zu schließen</string>
+    <string name="exit">Erneut ZURÜCK drücken, um die App zu beenden</string>
     <string name="yes">Ja</string>
     <string name="no">Nein</string>
     <string name="ok">Ok</string>
     <string name="cancel">Abbrechen</string>
     <string name="warning">Warnung</string>
     <string name="error">Fehler</string>
-    <string name="checking">Checking dependencies…</string>
-    <string name="connectionc_error">Android tweaker braucht eine aktive Verbindung um die App-Lizenz zu verifizieren. Bitte verbinden Sie sich mit einem Datendienst und versuchen es noch einmal.</string>
+    <string name="checking">Prüfe Abhängigkeiten…</string>
+    <string name="connectionc_error">Android Tweaker braucht eine aktive Verbindung um die App-Lizenz zu verifizieren. Bitte verbinden Sie sich mit einem Datendienst und versuchen es noch einmal.</string>
     <string name="sure">Sind Sie sicher?</string>
     <string name="wait">Bitte warten…</string>
-    <string name="updating">Updating dependencies</string>
+    <string name="updating">Aktualisiere Abhängigkeiten</string>
     <string name="toolchain_exist">Needed resources are already installed. Skipping…</string>
     <string name="require_busybox">This action require busybox installed on your device. Please, install busybox before using this tool</string>
     <string name="require_sql">This action require SQL toolchain. If you are seeing this error it means your ROM doesn\'t support the SQL defragging tool.</string>
