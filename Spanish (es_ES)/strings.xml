@@ -126,28 +126,28 @@
     <string name="power_collapse_summary">Change power collapse behavior. Helps to relieve pressur on CPU</string>
     <string name="sleep_mode">PM sleep mode</string>
     <string name="sleep_mode_summary">Change sleep mode behavior. Helps to relieve CPU pressure during sleep</string>
-    <string name="wifi_scan_interval">Wifi scan interval</string>
-    <string name="wifi_scan_interval_summary">Decrease wifi scan interval and saves some battery</string>
+    <string name="wifi_scan_interval">Tiempo de búsqueda Wifi</string>
+    <string name="wifi_scan_interval_summary">Reducir el intervalo de búsqueda y ahorra algo de batería</string>
     
     <!-- NETWORK -->
-    <string name="default_net_speed">Default network speed</string>
-    <string name="default_net_speed_summary">Enable or disable this tweak to increase the default network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
-    <string name="wifi_net_speed">Wifi network speed</string>
-    <string name="wifi_net_speed_summary">Enable or disable this tweak to increase the wifi network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
-    <string name="umts_net_speed">Umts network speed</string>
-    <string name="umts_net_speed_summary">Enable or disable this tweak to increase the umts network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
-    <string name="gprs_net_speed">Gprs network speed</string>
-    <string name="gprs_net_speed_summary">Enable or disable this tweak to increase the gprs network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
-    <string name="edge_net_speed">Edge network speed</string>
-    <string name="edge_net_speed_summary">Enable or disable this tweak to increase the edge network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
+    <string name="default_net_speed">Velocidad predeterminada de red</string>
+    <string name="default_net_speed_summary">Activar o desactivar este ajuste para incrementar la velocidad predeterminada de la red. Nota: Si este ajuste ya está activado, significa que no es necesario</string>
+    <string name="wifi_net_speed">Velocidad de red Wifi</string>
+    <string name="wifi_net_speed_summary">Activar o desactivar este ajuste para incrementar la velocidad de la red wifi. Nota: Si este ajuste ya está activado, significa que no es necesario</string>
+    <string name="umts_net_speed">Velocidad de red Umts</string>
+    <string name="umts_net_speed_summary">Activar o desactivar este ajuste para incrementar la velocidad de la red umts. Nota: Si este ajuste ya está activado, significa que no es necesario</string>
+    <string name="gprs_net_speed">Velocidad de red Gprs</string>
+    <string name="gprs_net_speed_summary">Activar o desactivar este ajuste para incrementar la velocidad de la red gprs. Nota: Si este ajuste ya está activado, significa que no es necesario</string>
+    <string name="edge_net_speed">Velocidad de red Edge</string>
+    <string name="edge_net_speed_summary">Activar o desactivar este ajuste para incrementar la velocidad de la red edge. Nota: Si este ajuste ya está activado, significa que no es necesario</string>
     <string name="ipv4">IPV4</string>
-    <string name="ipv4_summary">Extends support for IPV4 protocol</string>
+    <string name="ipv4_summary">Ampliar el soporte de protocolo IPV4</string>
     <string name="ipv6">IPV6</string>
-    <string name="ipv6_summary">Extends support for IPV6 protocol</string>
+    <string name="ipv6_summary">Ampliar el soporte de protocolo IPV6</string>
     <string name="cust_tel">Cust telephony</string>
     <string name="cust_tel_summary">Enable or disable this tweak to increase a bit your signal reception</string>
     <string name="fast_dormancy">Fast dormancy</string>
-    <string name="fast_dormancy_summary">Enable or disable this tweak to increase a bit your signal reception</string>
+    <string name="fast_dormancy_summary">Activar o desactivar este ajuste para incrementar ligeramente la recepción de señal</string>
 
     <!-- MEDIA -->
     <string name="jpeg_quality">JPEG quality</string>
