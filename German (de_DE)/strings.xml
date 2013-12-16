@@ -19,7 +19,7 @@
     <string name="toolchain_exist">Needed resources are already installed. Skipping…</string>
     <string name="require_busybox">This action require busybox installed on your device. Please, install busybox before using this tool</string>
     <string name="require_sql">This action require SQL toolchain. If you are seeing this error it means your ROM doesn\'t support the SQL defragging tool.</string>
-    <string name="size">Size:</string>
+    <string name="size">Größe:</string>
     <string name="rate_explanation">Give your opinion and help us to improve the various application content</string>
     <string name="rate_now">Jetzt bewerten</string>
     <string name="understand">Ich verstehe</string>
@@ -30,8 +30,8 @@
     <string name="tips_enable">Enable tips</string>
     <string name="tips_disable">Disable tips</string>
     <string name="tips_show">Show tips</string>
-    <string name="tips_tap_tweak">Tap around any tweak name to get a short description</string>
-    <string name="tips_tweaks_dont_enable_all">Do not enable all the tweaks proposed</string>
+    <string name="tips_tap_tweak">Tippe auf einen Tweak-Namen um eine kurze Beschreibung zu erhalten</string>
+    <string name="tips_tweaks_dont_enable_all">Benutze nicht alle vorgeschlagenen Tweaks</string>
     <string name="tips_tweaks_time">Some tweaks take time to activate. Always wait for the SU msg to disappear!</string>
     <string name="tips_not_a_game">This is not a game. Use this app with your brain!</string>
     <string name="tips_zipalign">You didn\'t zipalign your app yet! Zipalign decreases the RAM usage of your apps. Tap here to begin!</string>
@@ -82,20 +82,20 @@
     <string name="title_audio_video_recording">Audio and Video recording</string>
     <string name="title_streaming">Video streaming</string>
     <string name="title_images">Images</string>
-    <string name="title_network">Network</string>
+    <string name="title_network">Netzwerk</string>
     <string name="title_network_summary">Collection of tweaks that will tune your network speed</string>
     <string name="title_net_speed">Network Speed</string>
     <string name="title_phone">Phone</string>
     <string name="title_signal">Signal</string>
     <string name="title_ipv4_ipv6">IPV4 and IPV6</string>
-    <string name="title_gps">Location</string>
+    <string name="title_gps">Standort</string>
     <string name="title_gps_summary">Collection of tweaks that will tune your GPS and network location</string>
     <string name="title_gps_update">Server update</string>
     <string name="title_misc">Miscellaneous</string>
     <string name="title_misc_summary">Collection of miscellaneous tweaks</string>
     <string name="title_misc_errors">Errors and loggers</string>
     <string name="title_dalvik">Dalvik Virtual Machine</string>
-    <string name="title_additional">Additional</string>
+    <string name="title_additional">Zusätzlich</string>
     
     <!-- PERFORMANCE -->
     <string name="debughw_title">HW debug</string>
@@ -184,7 +184,7 @@
     <string name="phone_ring_summary">Increase or decrease the phone ring delay</string>
     <string name="blackscreen">Blackscreen after calls</string>
     <string name="blackscreen_summary">Fix blackscreen after calls issues</string>
-    <string name="call_quality">Voice quality</string>
+    <string name="call_quality">Sprachqualität</string>
     <string name="call_quality_summary">Increase the quality of voice during phone calls</string>
     <string name="dalvik_checkjni">Dalvik checkjni</string>
     <string name="dalvik_dexopt">Dalvik dexopt</string>
@@ -303,20 +303,20 @@
     <string name="noty_weather_purchased">Notification weather has been purchased! You got a new card on the customization page!</string>
 
     <!-- WEATHER NOTY -->
-    <string name="enable_weather_noty">Notification weather</string>
+    <string name="enable_weather_noty">Wetter Benachrichtigung</string>
     <string name="enable_weather_noty_summary">Add weather into notification drawer</string>
     <string name="building_weather_noty">Hold on! I\'m building your new weather notification</string>
-    <string name="weather_use_gps">Use GPS</string>
-    <string name="gps_disabled">Enable GPS</string>
-    <string name="gps_disabled_summary">Tap here to enable your GPS</string>
-    <string name="weather_prior">High priority</string>
+    <string name="weather_use_gps">Nutze GPS</string>
+    <string name="gps_disabled">Schalte GPS ein</string>
+    <string name="gps_disabled_summary">Drücke hier um dein GPS einzuschalten</string>
+    <string name="weather_prior">Hohe Priorität</string>
     <string name="weather_prior_summary">Keep weather notification on top</string>
     <string name="setting_custom_location">Your custom location is set to:</string>
-    <string name="weather_null">Not available</string>
-    <string name="title_weather_location">Weather location</string>
+    <string name="weather_null">Nicht verfügbar</string>
+    <string name="title_weather_location">Wetterstandort</string>
     <string name="title_weather_customization">Weather customization</string>
     <string name="weather_fah">Fahrenheit</string>
-    <string name="weather_fah_summary">Use fahrenheit instead of celsius</string>
+    <string name="weather_fah_summary">Benutze Fahrenheit anstatt Celsius</string>
     <string-array name="weather_conditions">
         <item>tornado</item>
         <item>tropical storm</item>
