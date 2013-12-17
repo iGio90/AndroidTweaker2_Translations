@@ -40,8 +40,7 @@
     <string name="tips_weather">Mit dieser Erweiterung kannst du eigene Wetterbenachrichtigungen per GPS oder Ortsnamen erstellen.</string>
 
     <!-- HOME -->
-    <string name="unlicensed">Bitte kauf eine legale Kopie dieser App. 
-    Please, buy a legit copy of this app. Entwickler bringen viel Zeit und Engagment für die Entwicklung von solchen Anwendungen. Du solltest unsere Arbeit unterstützten!!</string>
+    <string name="unlicensed">Bitte kauf eine legale Kopie dieser App. Entwickler bringen viel Zeit und Engagment für die Entwicklung von solchen Anwendungen. Du solltest unsere Arbeit unterstützten!!</string>
     <string name="root_check">Root status: </string>
     <string name="rooted">Rooted</string>
     <string name="unrooted">Not rooted</string>
