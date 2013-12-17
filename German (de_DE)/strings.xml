@@ -16,31 +16,32 @@
     <string name="sure">Sind Sie sicher?</string>
     <string name="wait">Bitte warten…</string>
     <string name="updating">Aktualisiere Abhängigkeiten</string>
-    <string name="toolchain_exist">Needed resources are already installed. Skipping…</string>
-    <string name="require_busybox">This action require busybox installed on your device. Please, install busybox before using this tool</string>
+    <string name="toolchain_exist">Benötige Resourcen sind bereits installiert. Überspringe...</string>
+    <string name="require_busybox">Um dies ausführen zu können, musst du Busybox installiert haben. Bitte installiere Busybox bevor du dieses Tool benutzt.</string>
     <string name="require_sql">This action require SQL toolchain. If you are seeing this error it means your ROM doesn\'t support the SQL defragging tool.</string>
     <string name="size">Größe:</string>
-    <string name="rate_explanation">Give your opinion and help us to improve the various application content</string>
+    <string name="rate_explanation">Gib uns deine Meinung und helfe uns den Inhalt dieser Anwendung zu optimiere</string>
     <string name="rate_now">Jetzt bewerten</string>
     <string name="understand">Ich verstehe</string>
 
     <!-- TIPS -->
-    <string name="tips">Tips:</string>
-    <string name="tips_reset">Reset tips</string>
-    <string name="tips_enable">Enable tips</string>
-    <string name="tips_disable">Disable tips</string>
-    <string name="tips_show">Show tips</string>
+    <string name="tips">Tipps:</string>
+    <string name="tips_reset">Tipps zurücksetzten</string>
+    <string name="tips_enable">Tipps aktivieren</string>
+    <string name="tips_disable">Tipps deaktivieren</string>
+    <string name="tips_show">Tipps zeigen</string>
     <string name="tips_tap_tweak">Tippe auf einen Tweak-Namen um eine kurze Beschreibung zu erhalten</string>
     <string name="tips_tweaks_dont_enable_all">Benutze nicht alle vorgeschlagenen Tweaks</string>
-    <string name="tips_tweaks_time">Some tweaks take time to activate. Always wait for the SU msg to disappear!</string>
-    <string name="tips_not_a_game">This is not a game. Use this app with your brain!</string>
+    <string name="tips_tweaks_time">Einige Tweaks benötigen Zeit zum starten. Warte deshalb immer bis die SU Nachricht verschwunden ist!</string>
+    <string name="tips_not_a_game">Das ist kein Spiel. Benutze diese App mit Verstand!</string>
     <string name="tips_zipalign">You didn\'t zipalign your app yet! Zipalign decreases the RAM usage of your apps. Tap here to begin!</string>
     <string name="tips_screenstate">This tool allows you to use the Android Tweaker 2 smart actions. Smart actions can be enabled through preferences panel (in app), a widget or the smart notification (activable in the smart actions preference). Smart actions allows you to setup custom behaviors when your device goes in standby. If, for example, you turn on the wifi smart action, wifi will be turned off, and back on, when the standby mode is inserted/removed. Currently there are 4 smart actions available: Wifi, Bluetooth, Data and Sync. These actions, will extend the battery life of your device up to 300%!</string>
     <string name="tips_font">This addon allows you to change your system font with one tap. Choose between the 20+ proposed font and if you don\'t like the one you installed, simply tap on the reset button to restore your original one!</string>
-    <string name="tips_weather">This addon allows you to create a custom notification with weather informations based on your GPS location or custom location.</string>
+    <string name="tips_weather">Mit dieser Erweiterung kannst du eigene Wetterbenachrichtigungen per GPS oder Ortsnamen erstellen.</string>
 
     <!-- HOME -->
-    <string name="unlicensed">Please, buy a legit copy of this app. Developers put dedication and time on creating applications like that. You should support our work!!</string>
+    <string name="unlicensed">Bitte kauf eine legale Kopie dieser App. 
+    Please, buy a legit copy of this app. Entwickler bringen viel Zeit und Engagment für die Entwicklung von solchen Anwendungen. Du solltest unsere Arbeit unterstützten!!</string>
     <string name="root_check">Root status: </string>
     <string name="rooted">Rooted</string>
     <string name="unrooted">Not rooted</string>
@@ -64,9 +65,9 @@
     <string name="customization_summary">Customize your Android OS</string>
     <string name="changelog">Changelog</string>
     <string name="changelog_summary">Detailed release notes</string>
-    <string name="no_root">This app require root access in order to works. Tap here to get root access on your device</string>
+    <string name="no_root">Diese App benötigt Root zugriff um zu funktionieren. Tippe hier um Root zugriff zu erhalten</string>
     <string name="tweaker_store">Shop</string>
-    <string name="tweaker_store_summary">Purchase additional items for Android Tweaker 2</string>
+    <string name="tweaker_store_summary">Kaufe weitere Artikel für Android Tweaker 2</string>
 
     <!-- CONTACT -->
     <string name="contact_subject">Subject:</string>
@@ -367,13 +368,13 @@
     </string-array>
 
     <string-array name="week_day">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+        <item>Sonntag</item>
+        <item>Montag</item>
+        <item>Dienstag</item>
+        <item>Mittwoch</item>
+        <item>Donnerstag</item>
+        <item>Freitag</item>
+        <item>Samstag</item>
     </string-array>
 
 </resources>
