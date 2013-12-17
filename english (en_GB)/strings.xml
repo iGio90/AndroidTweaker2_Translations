@@ -23,6 +23,8 @@
     <string name="rate_explanation">Give your opinion and help us to improve the various application content</string>
     <string name="rate_now">Rate now</string>
     <string name="understand">I understand</string>
+    <string name="share_at">I\'m customizing my device with Android Tweaker 2… Download it for free from the Google Play Store!\n\n</string>
+    <string name="share_with">Share with…</string>
 
     <!-- TIPS -->
     <string name="tips">Tips:</string>
@@ -315,8 +317,12 @@
     <string name="weather_null">Not available</string>
     <string name="title_weather_location">Weather location</string>
     <string name="title_weather_customization">Weather customization</string>
+    <string name="title_weather_colors">Weather colors</string>
     <string name="weather_fah">Fahrenheit</string>
     <string name="weather_fah_summary">Use fahrenheit instead of celsius</string>
+    <string name="weather_actions">Weather action</string>
+    <string name="weather_actions_summary">If enabled, weather will be updated if notification receive a click</string>
+    <string name="reset_colors">Reset color</string>
     <string-array name="weather_conditions">
         <item>tornado</item>
         <item>tropical storm</item>
