@@ -20,12 +20,14 @@
     <string name="size">Dimensioni:</string>
     <string name="rate_explanation">Dacci la tua opinione e aiutaci a migliorare i vari aspetti dell\'app</string>
     <string name="rate_now">Vota ora</string>
+    <string name="share_at">Sto modificando il mio dispositivo con Android Tweaker 2! Scaricalo gratis dal Google Play Store!\n\n</string>
+    <string name="share_with">Condividi su…</string>
 
     <!--TIPS-->
     <string name="tips">Suggerimenti:</string>
     <string name="tips_reset">Resetta suggerimenti</string>
-    <string name="tips_enable">Abilità suggerimenti</string>
-    <string name="tips_disable">Disabilità suggerimenti</string>
+    <string name="tips_enable">Abilita suggerimenti</string>
+    <string name="tips_disable">Disabilita suggerimenti</string>
     <string name="tips_show">Mostra suggerimenti</string>
     <string name="tips_tap_tweak">Tocca intorno ai tweak per mostrare una breve descrizione</string>
     <string name="tips_tweaks_dont_enable_all">Non abilitare tutti i tweak proposti</string>
@@ -96,7 +98,7 @@
 
     <!--PERFORMANCE-->
     <string name="debughw_title">HW debug</string>
-    <string name="debughw_summary">Abilità o disabilità l\'Hardware Debug. Incrementa di poco le prestazioni del sistema</string>
+    <string name="debughw_summary">Abilita o disabilita l\'Hardware Debug. Incrementa di poco le prestazioni del sistema</string>
     <string name="syshw_title">Sys UI HW persistente</string>
     <string name="syshw_summary">Abilita o disabilita il sys UI HW persistente. Incrementa di poco le prestazioni del sistema</string>
     <string name="debug_tuning_title">Performance tuning</string>
@@ -256,13 +258,13 @@
     <string name="initd_improve_sd">SDCard</string>
     <string name="initd_improve_sd_summary">Aumenta la velocità di lettura e di scrittura delle SDCard e Micro SDCard</string>
     <string name="initd_normalize_sleeper">Normalize sleeper</string>
-    <string name="initd_normalize_sleeper_summary">Disabilità il kernel normalize sleeper</string>
+    <string name="initd_normalize_sleeper_summary">Disabilita il kernel normalize sleeper</string>
 
     <!--DAEMON-->
-    <string name="enable_daemon">Abilità le smart actions</string>
+    <string name="enable_daemon">Abilita le smart actions</string>
     <string name="disable_daemon">Disabilita le smart actions</string>
     <string name="enable_daemon_boot">Persistenza</string>
-    <string name="enable_daemon_boot_summary">Lancia le smart actions al boot</string>
+    <string name="enable_daemon_boot_summary">Lancia questo servizio quando il dispositivo viene acceso</string>
     <string name="screen_state_summary">Imposta azioni personalizzate quando lo schermo viene acceso o spento</string>
     <string name="screen_state_battery">Batteria scarsa</string>
     <string name="screen_state_battery_summary">Abilita le smart actions solo se la batteria è inferiore al 20%</string>
@@ -297,8 +299,12 @@
     <string name="weather_null">Non disponibile</string>
     <string name="title_weather_location">Localizzazione meteo</string>
     <string name="title_weather_customization">Personalizzazione</string>
+    <string name="title_weather_colors">Colore del meteo</string>
     <string name="weather_fah">Fahrenheit</string>
     <string name="weather_fah_summary">Usa fahrenheit al posto di celsius</string>
+    <string name="weather_actions">Azioni meteo</string>
+    <string name="weather_actions_summary">Se abilitato, il meteo verrà aggiornato se viene effettuato il click sulla notifica</string>
+    <string name="reset_colors">Reset color</string>
     <string-array name="weather_conditions">
         <item>tornado</item>
         <item>tempesta tropicale</item>
