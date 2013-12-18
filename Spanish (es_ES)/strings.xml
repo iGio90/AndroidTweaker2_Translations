@@ -23,6 +23,8 @@
     <string name="rate_explanation">Danos tu opinión y ayúdanos a mejorar el contenido de la aplicación</string>
     <string name="rate_now">Votar ahora</string>
     <string name="understand">Entiendo</string>
+    <string name="share_at">Estoy personalizando mi dispositivo con Android Tweaker 2… ¡Descárgalo gratis desde Google Play Store!\n\n</string>
+    <string name="share_with">Compartir con…</string>
 
     <!-- TIPS -->
     <string name="tips">Sugerencias:</string>
@@ -315,8 +317,12 @@
     <string name="weather_null">No disponible</string>
     <string name="title_weather_location">Localización del tiempo</string>
     <string name="title_weather_customization">Personalización del tiempo</string>
+    <string name="title_weather_colors">Colores del tiempo</string>
     <string name="weather_fah">Fahrenheit</string>
     <string name="weather_fah_summary">Utiliza Fahrenheit en vez de Celsius</string>
+    <string name="weather_actions">Acción del tiempo</string>
+    <string name="weather_actions_summary">Una vez activado, el tiempo se actualizará si la notificación recibe un click</string>
+    <string name="reset_colors">Resetear color</string>
     <string-array name="weather_conditions">
         <item>tornado</item>
         <item>tormenta tropical</item>
