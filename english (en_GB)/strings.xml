@@ -45,7 +45,7 @@
     <string name="tips_screenstate">This tool allows you to use the Android Tweaker 2 smart actions. Smart actions can be enabled through preferences panel (in app), a widget or the smart notification (activable in the smart actions preference). Smart actions allows you to setup custom behaviors when your device goes in standby. If, for example, you turn on the wifi smart action, wifi will be turned off, and back on, when the standby mode is inserted/removed. Currently there are 4 smart actions available: Wifi, Bluetooth, Data and Sync. These actions, will extend the battery life of your device up to 300%!</string>
     <string name="tips_font">This addon allows you to change your system font with one tap. Choose between the 20+ proposed font and if you don\'t like the one you installed, simply tap on the reset button to restore your original one!</string>
     <string name="tips_weather">This addon allows you to create a custom notification with weather informations based on your GPS location or custom location.</string>
-    <string name="tips_gestures">Floating gestures allows you to create custom gestures and assign an action to them. The floating icon will open the gestures pad in wich you can draw your custom gestures! check out the video for a preview!</string>
+    <string name="tips_gestures">Floating gestures allows you to create custom gestures and assign an action to them. The floating icon will open the gestures pad in which you can draw your custom gestures! check out the video for a preview!</string>
 
     <!-- HOME -->
     <string name="unlicensed">Please, buy a legit copy of this app. Developers put dedication and time on creating applications like that. You should support our work!!</string>
