@@ -39,10 +39,10 @@
     <string name="tips_tweaks_time">Alcuni tweak richiedono tempo per l\'attivazione. Aspetta sempre che il popup di SU sparisca!</string>
     <string name="tips_not_a_game">Quest\'app non è un gioco, usala col cervello!</string>
     <string name="tips_zipalign">Non hai ancora effettuato lo zipalign alle tue app. Lo zipalign riduce i consumi della RAM. Tocca qui per effettuarlo ora!</string>
-    <string name="tips_screenstate">Questo strumento ti consente di sbloccare le smart actions di Android Tweaker. Le smart actions sono accesseibili attraversio il pannelo delle opzioni smart su Android Tweaker (Visibile solo se si acquistano le smart actions), un widget o una notifica attivabile dal pannello opzioni smart. Se, per esempio, hai abilitato la smart action wifi, il wifi verrà disabilitato, e successivamente riabilitato, quando il tuo schermo verrà messo in modalità standby. Al momento sono presenti 4 smart actions: Wifi, Bluetooth, Data e Sync. Queste azioni personalizzate incrementeranno la duratà della tua batteria di oltre il 300%!</string>
+    <string name="tips_screenstate">Questo strumento ti consente di sbloccare le smart actions di Android Tweaker. Le smart actions sono accesseibili attraversio il pannelo delle opzioni smart su Android Tweaker, un widget o una notifica attivabile dal pannello opzioni smart. Se, per esempio, hai abilitato la smart action wifi, il wifi verrà disabilitato, e successivamente riabilitato, quando il tuo schermo verrà messo in modalità standby. Al momento sono presenti 4 smart actions: Wifi, Bluetooth, Data e Sync. Queste azioni personalizzate incrementeranno la duratà della tua batteria di oltre il 300%!</string>
     <string name="tips_font">Questo addon vi consentirà di cambiare il font di sistema con un semplice tap. Scegli tra gli oltre 20 fonts proposti, e, se non ti piace, ripristina il tuo font originale premendo il bottone di reset!</string>
     <string name="tips_weather">Questo addon ti consente di creare una notifica personalizzata con le informazione meteo basate sulla tua posizione o su una posizione personalizzata.</string>
-    <string name="tips_gestures">Le floating gestures ti consentono di creare gestures customizzate e assegnare ad esse delle azioni. L'icona fluttuante ti consentirà di aprire il pad dove poter disegnare le tue gestures customizzate. Guarda il video dimostrativo disponibile nella descrizione delle floating gestures nel negozio!</string>
+    <string name="tips_gestures">Le floating gestures ti consentono di creare gestures customizzate e assegnare ad esse delle azioni. L\'icona fluttuante ti consentirà di aprire il pad dove poter disegnare le tue gestures customizzate. Guarda il video dimostrativo disponibile nella descrizione delle floating gestures nel negozio!</string>
 
     <!--HOME-->
     <string name="unlicensed">Perfavore, acquista una copia legale di questa applicazione. Gli sviluppatori mettono dedizione e tempo per creare applicazioni come questa. Dovresti supportare il nostro lavoro!</string>
@@ -177,7 +177,7 @@
     <string name="flash_led">Flash led</string>
     <string name="flash_led_summary">Abilita o disabilita il flash a led</string>
     <string name="flash_intensity">Intensità flash</string>
-    <string name="flash_intensity_summary">Aggiusta l'intensità del flash con valori ottimizzati</string>
+    <string name="flash_intensity_summary">Aggiusta l\'intensità del flash con valori ottimizzati</string>
     <string name="flash_voltage">Voltaggi flash</string>
     <string name="flash_voltage_summary">Aggiusta i voltaggi del flash con valori ottimizzati</string>
 
