@@ -25,6 +25,11 @@
     <string name="understand">I understand</string>
     <string name="share_at">I\'m customizing my device with Android Tweaker 2… Download it for free from the Google Play Store!\n\n</string>
     <string name="share_with">Share with…</string>
+    <string name="draw">Draw something…</string>
+    <string name="no_root_activity">This tool require a rooted device. Please, root your device to enable this card</string>
+    <string name="info">Info</string>
+    <string name="not_available_title">Not available</string>
+    <string name="not_available_summary">Please, visit the shop to purchase this addon</string>
 
     <!-- TIPS -->
     <string name="tips">Tips:</string>
@@ -40,6 +45,7 @@
     <string name="tips_screenstate">This tool allows you to use the Android Tweaker 2 smart actions. Smart actions can be enabled through preferences panel (in app), a widget or the smart notification (activable in the smart actions preference). Smart actions allows you to setup custom behaviors when your device goes in standby. If, for example, you turn on the wifi smart action, wifi will be turned off, and back on, when the standby mode is inserted/removed. Currently there are 4 smart actions available: Wifi, Bluetooth, Data and Sync. These actions, will extend the battery life of your device up to 300%!</string>
     <string name="tips_font">This addon allows you to change your system font with one tap. Choose between the 20+ proposed font and if you don\'t like the one you installed, simply tap on the reset button to restore your original one!</string>
     <string name="tips_weather">This addon allows you to create a custom notification with weather informations based on your GPS location or custom location.</string>
+    <string name="tips_gestures">Floating gestures allows you to create custom gestures and assign an action to them. The floating icon will open the gestures pad in wich you can draw your custom gestures! check out the video for a preview!</string>
 
     <!-- HOME -->
     <string name="unlicensed">Please, buy a legit copy of this app. Developers put dedication and time on creating applications like that. You should support our work!!</string>
@@ -84,6 +90,7 @@
     <string name="title_audio_video_recording">Audio and Video recording</string>
     <string name="title_streaming">Video streaming</string>
     <string name="title_images">Images</string>
+    <string name="title_camera">Camera</string>
     <string name="title_network">Network</string>
     <string name="title_network_summary">Collection of tweaks that will tune your network speed</string>
     <string name="title_net_speed">Network Speed</string>
@@ -170,6 +177,12 @@
     <string name="media_streaming_summary">Improve media streaming speed with some net/video tweaks</string>
     <string name="overall_image_quality">Increase overall image quality</string>
     <string name="overall_image_quality_summary">Collection of image quality tweaks. Gives a little extra images and videos quality at cost of less performances</string>
+    <string name="flash_led">Flash led</string>
+    <string name="flash_led_summary">Enable or disable the flash led mode</string>
+    <string name="flash_intensity">Flash intensity</string>
+    <string name="flash_intensity_summary">Adjust flash intensity to an optimized value</string>
+    <string name="flash_voltage">Flash voltage</string>
+    <string name="flash_voltage_summary">Adjust flash voltage to an optimized value</string>
 
     <!-- MISC -->
     <string name="error_report">Disable error report</string>
@@ -303,6 +316,7 @@
     <string name="screen_state_purchased">Smart actions has been purchased! You got a new card on the main page!</string>
     <string name="font_manager_purchased">Font manager has been purchased! You got a new card on the customization page!</string>
     <string name="noty_weather_purchased">Notification weather has been purchased! You got a new card on the customization page!</string>
+    <string name="gestures_purchased">Floating gestures has been purchased! You got a new card on the customization page!</string>
 
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Notification weather</string>
@@ -382,4 +396,49 @@
         <item>Saturday</item>
     </string-array>
 
+    <!-- Density modder -->
+    <string name="density_modder">Density modder</string>
+    <string name="density_modder_summary">Customize the density (DPI) of your screen!</string>
+    <string name="nav_bar">Navigation bar</string>
+    <string name="nav_bar_summary">Enable navigation bar on device that doesn\'t have it enabled by default. This is not working on every device… Once enabled, don\'t forget to tap the save button</string>
+    <string name="current_density">Current density:</string>
+    <string name="is_tablet">You can\'t remove navigation bar from your device!</string>
+
+    <!-- Custom gestures -->
+    <string name="custom_gestures_title">Floating gestures</string>
+    <string name="custom_gestures_summary">Create custom gestures</string>
+    <string name="custom_gestures_pause">Floating gestures is in pause</string>
+    <string name="custom_gestures_enable">Enable</string>
+    <string name="custom_gestures_close">Close</string>
+    <string name="gestures_android_action">Android actions</string>
+    <string name="gestures_application">Applications</string>
+    <string name="gestures_call">Quick call</string>
+    <string name="gestures_sms">Quick SMS</string>
+    <string name="gestures_action_home">Home</string>
+    <string name="gestures_action_torch">Torch</string>
+    <string name="gestures_action_ringer">Ringer mode</string>
+    <string name="button_add">Add gesture</string>
+    <string name="button_reload">Reload</string>
+    <string name="button_discard">Discard</string>
+    <string name="button_done">Done</string>
+    <string name="prompt_gesture_name">Name</string>
+    <string name="error_missing_name">You must enter a name</string>
+    <string name="error_duplicate_name">This name is already in my database</string>
+    <string name="save_success">Gesture saved in %s</string>
+    <string name="rename_action">OK</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="gestures_loading">Loading gestures…</string>
+    <string name="gestures_empty">No gestures</string>
+    <string name="gestures_activity">Gestures</string>
+    <string name="gestures_rename">Rename</string>
+    <string name="gestures_delete">Delete</string>
+    <string name="gestures_delete_success">Gesture deleted</string>
+    <string name="gestures_rename_title">Rename gesture</string>
+    <string name="gestures_rename_label">Gesture name</string>
+    <string name="gestures_error_loading">Could not load %s. Make sure you have storage available.</string>
+    <string name="add_action">Add an action</string>
+    <string name="select_action">Select an action</string>
+    <string name="android_actions">Android actions</string>
+    <string name="gestures_pad_size">Half screen</string>
+    <string name="gestures_inverted_icon">Inverted icon</string>
 </resources>
