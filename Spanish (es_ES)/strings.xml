@@ -25,6 +25,11 @@
     <string name="understand">Entiendo</string>
     <string name="share_at">Estoy personalizando mi dispositivo con Android Tweaker 2… ¡Descárgalo gratis desde Google Play Store!\n\n</string>
     <string name="share_with">Compartir con…</string>
+    <string name="draw">Dibuja algo…</string>
+    <string name="no_root_activity">Este herramienta requiere un dispositivo rooteado. Por favor, rootea tu dispositivo para activar esta tarjeta</string>
+    <string name="info">Información</string>
+    <string name="not_available_title">No disponible</string>
+    <string name="not_available_summary">Por favor, visita la tienda para comprar este addon</string>
 
     <!-- TIPS -->
     <string name="tips">Sugerencias:</string>
@@ -40,6 +45,7 @@
     <string name="tips_screenstate">Esta herramienta te permite usar las smart actions de Android Tweaker 2. Las smart actions pueden activarse por medio del panel de preferencias (dentro de la aplicación), un widget o por smart notification (se puede activar en los ajustes de las smart actions). Las smart actions te permiten personalizar comportamientos cuando tu dispositivo se queda en modo standby. Si, por ejemplo, activas la smart action de Wifi, el Wifi se desactivará y se reactivará cuando entre o salga del modo standby, respectivamente. Actualmente hay 4 smart actions disponibles: Wifi, Bluetooth, Datos y Sincronización. ¡Estas acciones aumentarán la vida de la batería de tu dispositivo un 300%!</string>
     <string name="tips_font">Este addon te permite cambiar la fuente del sistema con un solo toque. Escoge entre las 20+ fuentes propuestas y si no te gusta la que has instalado, ¡simplemente pulsa en el botón reset para restaurar la original!</string>
     <string name="tips_weather">Este addon te permite crear una notificación personalizada con informaciones meteorológicas basadas en tu locaclización GPS o una localización personalizada.</string>
+    <string name="tips_gestures">Las floating gestures te permiten crear gestures personalizadas y asignarlas una acción. El icono flotante abrirá el gestures pad, ¡en el que puedes dibujar tus gestures personalizadas! ¡Mira el vídeo para ver cómo funciona!</string>
 
     <!-- HOME -->
     <string name="unlicensed">Por favor, compra una copia legítima de esta aplicación. Los desarrolladores ponen tiempo y dedicación para crear aplicaciones como ésta. ¡¡Deberías apoyar nuestro trabajo!!</string>
@@ -84,6 +90,7 @@
     <string name="title_audio_video_recording">Grabación de sonido y vídeo</string>
     <string name="title_streaming">Streaming de vídeo</string>
     <string name="title_images">Imágenes</string>
+    <string name="title_camera">Cámara</string>
     <string name="title_network">Red de internet</string>
     <string name="title_network_summary">Colección de tweaks que optimizarán la velocidad de su conexión a internet</string>
     <string name="title_net_speed">Velocidad de la conexión a internet</string>
@@ -170,6 +177,12 @@
     <string name="media_streaming_summary">Mejora la velocidad de streaming multimedia con algunos tweaks de vídeo o red.</string>
     <string name="overall_image_quality">Aumentar la calidad general de la imagen</string>
     <string name="overall_image_quality_summary">Colección de tweaks de la calidad de imagen. Ofrece una pequeña mejora de calidad de imagen y vídeo a cambio de una pequeña pérdida de rendimiento.</string>
+    <string name="flash_led">Flash led</string>
+    <string name="flash_led_summary">Activar o desactivar el modo flash led</string>
+    <string name="flash_intensity">Intensidad del flash</string>
+    <string name="flash_intensity_summary">Ajustar la intensidad del flash a un valor optimizado</string>
+    <string name="flash_voltage">Voltaje del flash</string>
+    <string name="flash_voltage_summary">Ajustar el voltaje del flash a un valor optimizado</string>
 
     <!-- MISC -->
     <string name="error_report">Desactivar informe de errores</string>
@@ -303,6 +316,7 @@
     <string name="screen_state_purchased">¡Las smart actions han sido compradas! ¡Has obtenido una nueva tarjeta en la página principal!</string>
     <string name="font_manager_purchased">¡Font manager ha sido comprado! ¡Has obtenido una nueva tarjeta en la página de personalización!</string>
     <string name="noty_weather_purchased">¡Notification weather ha sido comprado! ¡Has obtenido una nueva tarjeta en la página de personalización!</string>
+    <string name="gestures_purchased">¡Floating gestures ha sido comprado! ¡Has obtenido una nueva tarjeta en la página de personalización!</string>
 
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Notificaciones de tiempo</string>
@@ -381,5 +395,50 @@
         <item>Viernes</item>
         <item>Sábado</item>
     </string-array>
-
+    
+    <!-- Density modder -->
+    <string name="density_modder">Moderador de densidad</string>
+    <string name="density_modder_summary">¡Personalizaa la densidad (DPI) de tu pantalla!</string>
+    <string name="nav_bar">Barra de navegación</string>
+    <string name="nav_bar_summary">Activar la barra de navegación en dispositivos que no lo tienen activado por defecto. Esto no funciona en todos los dispositivos… Una vez activado, ¡no olvides pulsar el botón de guardar!</string>
+    <string name="current_density">Densidad actual:</string>
+    <string name="is_tablet">¡No puedes eliminar la barra de navegación de tu dispositivo!</string>
+    
+    <!-- Custom gestures -->
+    <string name="custom_gestures_title">Floating gestures</string>
+    <string name="custom_gestures_summary">Crear gestures personalizadas</string>
+    <string name="custom_gestures_pause">Las floating gestures están pausadas</string>
+    <string name="custom_gestures_enable">Activar</string>
+    <string name="custom_gestures_close">Cerrar</string>
+    <string name="gestures_android_action">Acciones de Android</string>
+    <string name="gestures_application">Aplicaciones</string>
+    <string name="gestures_call">Llamada rápida</string>
+    <string name="gestures_sms">SMS rápido</string>
+    <string name="gestures_action_home">Inicio</string>
+    <string name="gestures_action_torch">Linterna</string>
+    <string name="gestures_action_ringer">Modo de timbre</string>
+    <string name="button_add">Añadir gesture</string>
+    <string name="button_reload">Recargar</string>
+    <string name="button_discard">Descartar</string>
+    <string name="button_done">Hecho</string>
+    <string name="prompt_gesture_name">Nombre</string>
+    <string name="error_missing_name">Debes poner un nombre</string>
+    <string name="error_duplicate_name">Este nombre ya está en mi base de datos</string>
+    <string name="save_success">Gesture guardada en %s</string>
+    <string name="rename_action">OK</string>
+    <string name="cancel_action">Cancelar</string>
+    <string name="gestures_loading">Cargando gestures…</string>
+    <string name="gestures_empty">No hay gestures</string>
+    <string name="gestures_activity">Gestures</string>
+    <string name="gestures_rename">Renombrar</string>
+    <string name="gestures_delete">Eliminar</string>
+    <string name="gestures_delete_success">Gesture eliminada</string>
+    <string name="gestures_rename_title">Renombrar gesture</string>
+    <string name="gestures_rename_label">Nombre de gesture</string>
+    <string name="gestures_error_loading">No se ha podido cargar %s. Asegúrate de tener este almacenamiento disponible.</string>
+    <string name="add_action">Añadir una acción</string>
+    <string name="select_action">Seleccionar una acción</string>
+    <string name="android_actions">Acciones de Android</string>
+    <string name="gestures_pad_size">Media pantalla</string>
+    <string name="gestures_inverted_icon">Icono invertido</string>
 </resources>
