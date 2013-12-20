@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="disclaimer">- Some of the features of this app can cause unstability and, in rare case, the brick of the device. These tweaks are supposed, and tested, to works on almost every device running Android 4.0+.
-        \n\n- Avoid playing with this app. Most of the features proposed can touch and change the behavior of your system, so, you should use it with brain.
-        \n\n- This app doesn\'t root your device, however, we added a panel to help you find instruction about how to root your device.
+    <string name="disclaimer">- Alcune delle features disponibili in questa applicazione possono causare instabilità e, in rari casi, il brick del device. Tutti i tweaks ed i tools proposti sono testati e compatibili con tutti i device con una versione di Android pari o superiore al 4.0, questo non implica il fatto che non funzionino correttamente su versioni precedenti.
+        \n\n- Evitate di giocare con questa applicazione. La maggior parte delle funzionalità proposte in questa applicazione va a toccare e/o modificare il comportamento abituale del sistema in se. Vi invitiamo quindi ad utilizzare l'app con il cervello di cui diamo per scontato voi siate in possesso!.
+        \n\n- Questa app NON da i permessi di root al tuo device, tuttavia, abbiamo aggiunto un pannello che vi consentirà di riceve istruzioni su come poter ottenere i permessi di root sul vostro dispositivo.
     </string>
 </resources>
