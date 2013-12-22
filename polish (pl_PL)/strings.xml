@@ -46,7 +46,7 @@
     <string name="unrooted">Nie zrootowany</string>
     <string name="busybox_check">Busybox status: </string>
     <string name="mount_check">Mount status: </string>
-    <string name="android_version">Versja Androida: </string>
+    <string name="android_version">Wersja Androida: </string>
     <string name="device_brand">Marka: </string>
     <string name="device_model">Model: </string>
     <string name="device_board">Board: </string>
@@ -62,11 +62,11 @@
     <string name="dns_manager_summary">Ustaw niestandardowy DNS lub wybierz jeden z proponowanych</string>
     <string name="customization">Modyfikacje</string>
     <string name="customization_summary">Zmodyfikuj swojego Androida</string>
-    <string name="changelog">Changelog</string>
+    <string name="changelog">Lista zmian</string>
     <string name="changelog_summary">Szczegółowe informacje o wersji aplikacji</string>
     <string name="no_root">Ta aplikacja wymaga dostępu root w celu poprawnego działania. Sktuknij tutaj aby nadać uprawnienia root tej aplikacji.</string>
     <string name="tweaker_store">Sklep</string>
-    <string name="tweaker_store_summary">Zakup dodatkowych elementów do Android Tweaker 2</string>
+    <string name="tweaker_store_summary">Zakup dodatkowe elementy do Android Tweaker 2</string>
 
     <!-- CONTACT -->
     <string name="contact_subject">Temat:</string>
@@ -334,7 +334,7 @@
         <item>Przelotne opady śniegu</item>
         <item>słabe opady sniegu</item>
         <item>śnieg</item>
-        <item>Snieg</item>
+        <item>śnieg</item>
         <item>grad</item>
         <item>deszcz ze śniegiem</item>
         <item>kurz</item>
