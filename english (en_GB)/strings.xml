@@ -446,6 +446,11 @@
     <string name="gestures_inverted_icon">Inverted icon</string>
 
     <!-- App Manager -->
+    <string name="all_apps">All apps</string>
+    <string name="user_apps">User apps</string>
+    <string name="system_apps">System apps</string>
+    <string name="new_updated_apps">New and updated apps</string>
+    <string name="custom_list">Custom list</string>
     <string name="backup">Backup</string>
     <string name="restore">Restore</string>
     <string name="backupConfirmation">Backup?</string>
