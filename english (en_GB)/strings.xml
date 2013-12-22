@@ -30,6 +30,10 @@
     <string name="info">Info</string>
     <string name="not_available_title">Not available</string>
     <string name="not_available_summary">Please, visit the shop to purchase this addon</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="update">Update</string>
+    <string name="remove">Remove</string>
 
     <!-- TIPS -->
     <string name="tips">Tips:</string>
@@ -46,6 +50,7 @@
     <string name="tips_font">This addon allows you to change your system font with one tap. Choose between the 20+ proposed font and if you don\'t like the one you installed, simply tap on the reset button to restore your original one!</string>
     <string name="tips_weather">This addon allows you to create a custom notification with weather informations based on your GPS location or custom location.</string>
     <string name="tips_gestures">Floating gestures allows you to create custom gestures and assign an action to them. The floating icon will open the gestures pad in which you can draw your custom gestures! check out the video for a preview!</string>
+    <string name="tips_backup">This addon allows you to backup and restore your personal data such as short message, call logs, dictionaries, settings and more</string>
 
     <!-- HOME -->
     <string name="unlicensed">Please, buy a legit copy of this app. Developers put dedication and time on creating applications like that. You should support our work!!</string>
@@ -64,6 +69,8 @@
     <string name="android_tweaker_summary">Collection of system properties tweaks.</string>
     <string name="initd">Init.d Scripts</string>
     <string name="initd_summary">Collection of init.d scripts.</string>
+    <string name="appmanager">App manager</string>
+    <string name="appmanager_summary">Application data backup, uninstaller and enabler</string>
     <string name="tools">Tools</string>
     <string name="tools_summary">Collection of cleaners and utilities</string>
     <string name="dns_manager">DNS manager</string>
@@ -247,11 +254,6 @@
     <string name="cache_cleaner_last">Cache cleaned:</string>
     <string name="cache_cleaner_dalvik_last">Dalvik cleaned:</string>
     <string name="cache_available">Cache space available:</string>
-    <string name="uninstaller">Uninstaller</string>
-    <string name="uninstaller_summary">Uninstall your personal apps or system apps</string>
-    <string name="uninstaller_warning">This tool is extremely powerful. We leave to the users the ability to remove system applications such as Phone or Mms which are indispensable for a daily phone usage. Do not play with this tool. </string>
-    <string name="uninstaller_confirm">Uninstall:</string>
-    <string name="uninstaller_success">successfully uninstalled</string>
     <string name="enable_custom_dns">Custom DNS</string>
     <string name="current_dns">Current DNS</string>
     <string name="original_dns">Stock DNS</string>
@@ -317,6 +319,7 @@
     <string name="font_manager_purchased">Font manager has been purchased! You got a new card on the customization page!</string>
     <string name="noty_weather_purchased">Notification weather has been purchased! You got a new card on the customization page!</string>
     <string name="gestures_purchased">Floating gestures has been purchased! You got a new card on the customization page!</string>
+    <string name="backup_purchased">Data backup has been purchased! You got a new card on the tools page!</string>
 
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Notification weather</string>
@@ -441,4 +444,157 @@
     <string name="android_actions">Android actions</string>
     <string name="gestures_pad_size">Half screen</string>
     <string name="gestures_inverted_icon">Inverted icon</string>
+
+    <!-- App Manager -->
+    <string name="backup">Backup</string>
+    <string name="restore">Restore</string>
+    <string name="backupConfirmation">Backup?</string>
+    <string name="restoreConfirmation">Restore?</string>
+    <string name="restoreApk">Restore apk</string>
+    <string name="restoreData">Restore data</string>
+    <string name="restoreBoth">Restore both</string>
+    <string name="backupApk">Backup apk</string>
+    <string name="backupData">Backup data</string>
+    <string name="backupBoth">Backup both</string>
+    <string name="radioApk">Apk</string>
+    <string name="radioData">Data</string>
+    <string name="radioBoth">Data + Apk</string>
+    <string name="de_selectAll">De/select all</string>
+    <string name="onlyApkBackedUp">Only apk</string>
+    <string name="onlyDataBackedUp">Only data</string>
+    <string name="refresh">Refresh</string>
+    <string name="batchbackup">Batch backup</string>
+    <string name="batchrestore">Batch restore</string>
+    <string name="search">Search</string>
+    <string name="searchHint">Search for apps</string>
+    <string name="deleteBackup">Delete backup</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="uninstallProgress">Uninstalling</string>
+    <string name="showAll">Show all apps</string>
+    <string name="showOnlySystem">Show only system apps</string>
+    <string name="showOnlyUser">Show only user apps</string>
+    <string name="showNotBackedup">Show apps not backed up yet</string>
+    <string name="showNotInstalled">Show apps not installed</string>
+    <string name="showNewAndUpdated">Show new and updated apps</string>
+    <string name="showOldBackups">Show old backups</string>
+    <string name="showOnlyApkBackedUp">Show apps with only apk backed up</string>
+    <string name="showOnlyDataBackedUp">Show apps with only data backed up</string>
+    <string name="sortByLabel">Sort by label</string>
+    <string name="sortByPackageName">Sort by packagename</string>
+    <string name="sort">Sort and filters</string>
+    <string name="uninstallDialogMessage">Uninstall this app?</string>
+    <string name="deleteBackupDialogMessage">Delete backup files?</string>
+    <string name="noBackupYet">No backup yet</string>
+    <string name="restoreDataWithoutApkError">Cannot restore data without restoring apk, package is not installed: </string>
+    <string name="collectingData">Collecting package infos</string>
+    <string name="suCheck">Checking for superuser and busybox</string>
+    <string name="noSu">Couldn\'t get superuser permissions</string>
+    <string name="busyboxProblem">Couldn\'t find busybox. please check error log</string>
+    <string name="mkfileError">Couldn\'t create</string>
+    <string name="fallbackToDefault">Fall back to default</string>
+    <string name="backupFolderError">Please set the correct path in preferences and ensure it exists or is createable</string>
+    <string name="shellReturnSuccess">Success</string>
+    <string name="backupProgress">Backing up</string>
+    <string name="backupSuccess">Backup complete</string>
+    <string name="backupFailure">Error on backup</string>
+    <string name="restoreProgress">Restoring</string>
+    <string name="restoreSuccess">Restore complete</string>
+    <string name="restoreFailure">Error on restore</string>
+    <string name="batchSuccess">Operation complete</string>
+    <string name="batchFailure">Complete with errors</string>
+    <string name="errorDialogTitle">Errors occurred</string>
+    <string name="customListTitle">Custom list</string>
+    <string name="quickReboot">Quick reboot</string>
+    <string name="quickRebootMessage">Do you wish to restart userspace?</string>
+    <string name="enablePackageTitle">Enable for users</string>
+    <string name="disablePackageTitle">Disable for users</string>
+    <string name="prefs_title">Preferences</string>
+    <string name="prefs_timestamp">Use local date format</string>
+    <string name="prefs_acquireWakelock">Acquire wakelock</string>
+    <string name="prefs_summaryAcquireWakelock">Will speed up backups running in the background considerably but will consume more energy</string>
+    <string name="prefs_pathscategory">Custom paths</string>
+    <string name="prefs_pathBackupFolder">Backup folder</string>
+    <string name="prefs_summaryBackupFolder">Path to backup folder. leave blank for default.</string>
+    <string name="prefs_pathLogfile">Logfile</string>
+    <string name="prefs_summaryLogfile">Path to logfile. leave blank for default.</string>
+    <string name="prefs_pathBusybox">Busybox</string>
+    <string name="prefs_summaryBusybox">Path to busybox executable. be sure it\'s correct. leave blank for default.</string>
+    <string name="prefs_oldBackups">Filter backups by age</string>
+    <string name="prefs_summaryOldBackups">Filter backups older than value in days. used with the filter \'show old backups\'</string>
+    <string name="prefs_copySelfApk">Copy own apk</string>
+    <string name="prefs_summaryCopySelfApk">Place a copy of oandbackup in the top level of the backup folder when backed up</string>
+    <string name="prefs_languages">Languages</string>
+    <string name="prefs_languageSystemDefault">System default</string>
+    <string name="sched_title">Scheduling</string>
+    <string name="sched_notificationMessage">Scheduled backup</string>
+    <string name="sched_interval">Interval in days</string>
+    <string name="sched_hourOfDay">Hour of day (0..23)</string>
+    <string name="sched_startingbackup">Starting scheduled backup</string>
+    <string name="sched_backupMode">Backup mode</string>
+    <string name="sched_timeLeft">Hours until next backup</string>
+    <string name="sched_addSchudule">Add schedule</string>
+    <string name="sched_customListUpdateButton">Update custom list</string>
+
+    <!-- Data backup -->
+    <string name="data_backup">Data backup</string>
+    <string name="data_backup_summary">Backup and restore your personal data</string>
+    <string name="menu_export">Export</string>
+    <string name="menu_exporteverything">Export everything</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about">About</string>
+    <string name="contextmenu_deletefile">Delete file</string>
+    <string name="contextmenu_deletedaydata">Delete this days data</string>
+    <string name="error_nosdcard">No SD-card present.</string>
+    <string name="error_unsupporteddatabasestructure">Unsupported database structure</string>
+    <string name="error_couldnotcreatebackupfolder">Could not create backupfolder (%s)</string>
+    <string name="error_somethingwentwrong">Something went wrong: %s.</string>
+    <string name="hint_nobackupsfound">No backups found\n\n
+        press the menu key to create some.</string>
+    <string name="hint_noexportdata">No data available for export.</string>
+    <string name="hint_exporting">Exporting %s &#8230;</string>
+    <string name="hint_existed">\"%s\" existed</string>
+    <string name="message_exportedto">Exported into %s.</string>
+    <string name="message_importsuccessful">Import successful.</string>
+    <plurals name="message_importsuccessful_skipped">
+        <item quantity="one">Import successful, but skipped 1 entry.</item>
+        <item quantity="other">Import successful, but skipped %d entries.</item>
+    </plurals>
+    <string name="message_skippedallentries">Skipped all entries.</string>
+    <plurals name="listentry_items">
+        <item quantity="one">1 item in</item>
+        <item quantity="other">%d items in</item>
+    </plurals>
+    <string name="button_import">Import</string>
+    <string name="smsmessages">Short messages</string>
+    <string name="calllogs">Call logs</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="userdictionary">User dictionary</string>
+    <string name="playlists">Playlists</string>
+    <string name="settings">Settings</string>
+    <string name="wifisettings">Wifi settings</string>
+    <string name="contacts">Contacts</string>
+    <string name="dialog_export">Export</string>
+    <string name="dialog_licenseagreement">License</string>
+    <string name="question_deletefile">Do you really want to delete the file %s?</string>
+    <string name="settings_category_cyclicbehavior">Cyclic behavior</string>
+    <string name="settings_cyclecount">Cycle count (experimental)</string>
+    <string name="settings_cyclecount_description">Max. number of backups of one type</string>
+    <string name="settings_category_storage">Storage</string>
+    <string name="settings_storagelocation">Storage location</string>
+    <string name="settings_storagelocation_description">Location of the backup files</string>
+    <string name="settings_storagelocation_hint">Standard external storage</string>
+    <string name="settings_hideincompletedatawarnings">Hide data warnings</string>
+    <string name="settings_hideincompletedatawarnings_description">Hide warnings about incomplete data and export</string>
+    <string name="warning_incompletedata_import">The import of the %s will be very likely incomplete.</string>
+    <string name="warning_incompletedata_export">The export of the %s will be very likely incomplete.</string>
+    <string-array name="settings_cyclecountvalues">
+        <item>Unlimited</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
 </resources>
