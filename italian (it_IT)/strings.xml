@@ -505,7 +505,7 @@
     <string name="prefs_pathLogfile">Logfile</string>
     <string name="prefs_summaryLogfile">Cartella dei log. Lasciare bianca per utilizzare quella di default.</string>
     <string name="prefs_pathBusybox">Busybox</string>
-    <string name="prefs_summaryBusybox">Cartella dell'eseguibile busybox. accertati che sia corretta. Lasciare bianca per utilizzare quella di default.</string>
+    <string name="prefs_summaryBusybox">Cartella dell\'eseguibile busybox. accertati che sia corretta. Lasciare bianca per utilizzare quella di default.</string>
     <string name="prefs_oldBackups">Filtra i backup per data</string>
     <string name="prefs_summaryOldBackups">Filtra i backup in ordine di data</string>
     <string name="prefs_copySelfApk">Copia il mio APK</string>
