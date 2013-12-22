@@ -27,6 +27,10 @@
     <string name="info">Info</string>
     <string name="not_available_title">Non disponibile</string>
     <string name="not_available_summary">Perfavore, visita il nostro negozio per sbloccare questo addon</string>
+    <string name="enable">Abilita</string>
+    <string name="disable">Disabilita</string>
+    <string name="update">Aggiorna</string>
+    <string name="remove">Rimuovi</string>
 
     <!--TIPS-->
     <string name="tips">Suggerimenti:</string>
@@ -43,6 +47,7 @@
     <string name="tips_font">Questo addon vi consentirà di cambiare il font di sistema con un semplice tap. Scegli tra gli oltre 20 fonts proposti, e, se non ti piace, ripristina il tuo font originale premendo il bottone di reset!</string>
     <string name="tips_weather">Questo addon ti consente di creare una notifica personalizzata con le informazione meteo basate sulla tua posizione o su una posizione personalizzata.</string>
     <string name="tips_gestures">Le floating gestures ti consentono di creare gestures customizzate e assegnare ad esse delle azioni. L\'icona fluttuante ti consentirà di aprire il pad dove poter disegnare le tue gestures customizzate. Guarda il video dimostrativo disponibile nella descrizione delle floating gestures nel negozio!</string>
+    <string name="tips_backup">Questo addon ti consente di eseguire il backup ed il restore dei tuoi dati personali quali SMS, registro chiamate, preferiti, impostazioni e altro!</string>
 
     <!--HOME-->
     <string name="unlicensed">Perfavore, acquista una copia legale di questa applicazione. Gli sviluppatori mettono dedizione e tempo per creare applicazioni come questa. Dovresti supportare il nostro lavoro!</string>
@@ -61,6 +66,8 @@
     <string name="android_tweaker_summary">Collezione di tweaks di sistema</string>
     <string name="initd">Init.d Scripts</string>
     <string name="initd_summary">Collezione di scripts init.d</string>
+    <string name="appmanager">App manager</string>
+    <string name="appmanager_summary">Backup dei dati applicazione, uninstaller ed enabler</string>
     <string name="tools">Strumenti</string>
     <string name="tools_summary">Collezione di utilità e strumenti vari</string>
     <string name="dns_manager">DNS manager</string>
@@ -243,11 +250,6 @@
     <string name="cache_cleaner_last">Ultima pulizia cache:</string>
     <string name="cache_cleaner_dalvik_last">Ultima pulizia dalvik:</string>
     <string name="cache_available">Spazio disponibile per la cache:</string>
-    <string name="uninstaller">Uninstaller</string>
-    <string name="uninstaller_summary">Disinstalla le tue applicazioni personali o le applicazioni di sistema</string>
-    <string name="uninstaller_warning">Questo tool è estremamente potente. Lasciamo agli utenti la possibilità di rimuovere le applicazioni di sistema che sono indispensabili per il corretto utilizzo del telefono. Prestare molta attenzione!</string>
-    <string name="uninstaller_confirm">Disinstalla:</string>
-    <string name="uninstaller_success">disinstallata correttamente</string>
     <string name="enable_custom_dns">DNS personalizzati</string>
     <string name="current_dns">DNS correnti</string>
     <string name="original_dns">DNS originali</string>
@@ -299,6 +301,7 @@
     <string name="understand">Ho capito</string>
     <string name="noty_weather_purchased">Notification weather è stato acquistato con successo! Hai una nuova card nella pagina personalizzazioni!</string>
     <string name="gestures_purchased">Floating gestures è stato acquistato con successo! Hai una nuova card home dell\'applicazione!</string>
+    <string name="backup_purchased">Data backup è stato acquistato con successo! Hai una nuova card nella pagina strumenti!</string>
 
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Notification weather</string>
@@ -423,4 +426,158 @@
     <string name="android_actions">Azioni android</string>
     <string name="gestures_pad_size">Schermo dimezzato</string>
     <string name="gestures_inverted_icon">Icona inverted</string>
+
+    <!-- App Manager -->
+    <string name="all_apps">Tutte le app</string>
+    <string name="user_apps">App utente</string>
+    <string name="system_apps">App di sistema</string>
+    <string name="new_updated_apps">Nuove e aggiornate di recente</string>
+    <string name="custom_list">Lista personalizzata</string>
+    <string name="backup">Backup</string>
+    <string name="restore">Ripristina</string>
+    <string name="backupConfirmation">Backup?</string>
+    <string name="restoreConfirmation">Ripristina?</string>
+    <string name="restoreApk">Ripristina apk</string>
+    <string name="restoreData">Ripristina data</string>
+    <string name="restoreBoth">Ripristina entrambi</string>
+    <string name="backupApk">Backup apk</string>
+    <string name="backupData">Backup data</string>
+    <string name="backupBoth">Backup entrambi</string>
+    <string name="radioApk">Apk</string>
+    <string name="radioData">Data</string>
+    <string name="radioBoth">Data + Apk</string>
+    <string name="de_selectAll">De/seleziona tutte</string>
+    <string name="onlyApkBackedUp">Solo apk</string>
+    <string name="onlyDataBackedUp">Solo data</string>
+    <string name="refresh">Aggiorna</string>
+    <string name="batchbackup">Batch backup</string>
+    <string name="batchrestore">Batch restore</string>
+    <string name="search">Cerca</string>
+    <string name="searchHint">Cerca un app</string>
+    <string name="deleteBackup">Cancella backup</string>
+    <string name="uninstall">Disinstalla</string>
+    <string name="uninstallProgress">Disinstallando</string>
+    <string name="showAll">Mostra tutte le apps</string>
+    <string name="showOnlySystem">Mostra solo le app di sistema</string>
+    <string name="showOnlyUser">Mostra solo le app utente</string>
+    <string name="showNotBackedup">Mostra le app senza backup</string>
+    <string name="showNotInstalled">Mostra app non installate</string>
+    <string name="showNewAndUpdated">Monstra app nuove o aggiornate</string>
+    <string name="showOldBackups">Mostra vecchi backups</string>
+    <string name="showOnlyApkBackedUp">Mostra app con solo il backup dell\'apk</string>
+    <string name="showOnlyDataBackedUp">Mostra app con solo il backup dei dati</string>
+    <string name="sortByLabel">Filtra per nome</string>
+    <string name="sortByPackageName">Filtra per packagename</string>
+    <string name="sort">Filtri di ricerca</string>
+    <string name="uninstallDialogMessage">Disinstallare questa app?</string>
+    <string name="deleteBackupDialogMessage">Cancellare i file di backup?</string>
+    <string name="noBackupYet">Nessun backup</string>
+    <string name="restoreDataWithoutApkError">Non posso ripristinare i dati senza aver ripristinato l\'apk, app non installata: </string>
+    <string name="collectingData">Caricando i dati delle app…</string>
+    <string name="suCheck">Controllo permessi di root e busybox</string>
+    <string name="noSu">Non riesco ad ottenere i permessi superuser</string>
+    <string name="busyboxProblem">Busybox non trovato!</string>
+    <string name="mkfileError">Non posso creare</string>
+    <string name="fallbackToDefault">Ripristina default</string>
+    <string name="backupFolderError">Perfavore, imposta la cartella corretta nelle preferenze e accertati che esista e sia scrivibile</string>
+    <string name="shellReturnSuccess">Riuscito</string>
+    <string name="backupProgress">Backing up</string>
+    <string name="backupSuccess">Backup completato</string>
+    <string name="backupFailure">Errore nel backup</string>
+    <string name="restoreProgress">Ripristinando</string>
+    <string name="restoreSuccess">Ripristino completato</string>
+    <string name="restoreFailure">Errore durante il ripristino</string>
+    <string name="batchSuccess">Operazione completata</string>
+    <string name="batchFailure">Completato con errori</string>
+    <string name="errorDialogTitle">Ci sono degli errori</string>
+    <string name="customListTitle">Lista personalizzata</string>
+    <string name="quickReboot">Riavvio veloce</string>
+    <string name="quickRebootMessage">Vuoi riavviare lo spazio utente?</string>
+    <string name="enablePackageTitle">Abilita per i seguenti utenti</string>
+    <string name="disablePackageTitle">Disabilita per i seguenti utenti</string>
+    <string name="prefs_title">Preferenze</string>
+    <string name="prefs_timestamp">Usa il formato data locale</string>
+    <string name="prefs_acquireWakelock">Acquisisci wakelock</string>
+    <string name="prefs_summaryAcquireWakelock">Aumenta notevolmente la velocità con cui viene effettuato il backup in background ma aumenta anche i consumi della batteria</string>
+    <string name="prefs_pathscategory">Cartella personalizzata</string>
+    <string name="prefs_pathBackupFolder">Cartella backup</string>
+    <string name="prefs_summaryBackupFolder">Cartella dei backup. Lasciare bianca per utilizzare quella di default.</string>
+    <string name="prefs_pathLogfile">Logfile</string>
+    <string name="prefs_summaryLogfile">Cartella dei log. Lasciare bianca per utilizzare quella di default.</string>
+    <string name="prefs_pathBusybox">Busybox</string>
+    <string name="prefs_summaryBusybox">Cartella dell'eseguibile busybox. accertati che sia corretta. Lasciare bianca per utilizzare quella di default.</string>
+    <string name="prefs_oldBackups">Filtra i backup per data</string>
+    <string name="prefs_summaryOldBackups">Filtra i backup in ordine di data</string>
+    <string name="prefs_copySelfApk">Copia il mio APK</string>
+    <string name="prefs_summaryCopySelfApk">Mostra una copia dell\'backup di Android Tweaker 2 in cima all\'elenco</string>
+    <string name="sched_title">Programmazione</string>
+    <string name="sched_notificationMessage">Backup programmati</string>
+    <string name="sched_interval">Intervallo giornaliero</string>
+    <string name="sched_hourOfDay">Ora del giorno (0..23)</string>
+    <string name="sched_startingbackup">Avvio il backup programmato</string>
+    <string name="sched_backupMode">Modalità di backup</string>
+    <string name="sched_timeLeft">Ore mancanti al prossimo backup</string>
+    <string name="sched_addSchudule">Aggiungi programma</string>
+    <string name="sched_customListUpdateButton">Aggiorna la lista personalizzata</string>
+
+    <!-- Data backup -->
+    <string name="data_backup">Data backup</string>
+    <string name="data_backup_summary">Backup e ripristino dei dati personali</string>
+    <string name="menu_export">Esporta</string>
+    <string name="menu_exporteverything">Esporta tutto</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="contextmenu_deletefile">Cancella i file</string>
+    <string name="contextmenu_deletedaydata">Cancella i file di questo giorno</string>
+    <string name="error_nosdcard">Nessuna SDCard trovata.</string>
+    <string name="error_unsupporteddatabasestructure">Struttura del database non supportata</string>
+    <string name="error_couldnotcreatebackupfolder">Non riesco a creare la cartella di backup (%s)</string>
+    <string name="error_somethingwentwrong">Qualcosa è andato storto: %s.</string>
+    <string name="hint_nobackupsfound">Nessun backup trovato\n\n
+        premi il tasto menu per iniziare a crearne qualcuno.</string>
+    <string name="hint_noexportdata">Nessun dato disponibile per l\'esportazione.</string>
+    <string name="hint_exporting">Esportando %s &#8230;</string>
+    <string name="hint_existed">\"%s\" esistente</string>
+    <string name="message_exportedto">Esportato dentro %s.</string>
+    <string name="message_importsuccessful">Importazione avvenuta con successo.</string>
+    <plurals name="message_importsuccessful_skipped">
+        <item quantity="one">Importazione avvenuta con successo, ma ho saltato 1 processo.</item>
+        <item quantity="other">Importazione avvenuta con successo, ma ho saltato %d processi.</item>
+    </plurals>
+    <string name="message_skippedallentries">Saltati tutti i processi.</string>
+    <plurals name="listentry_items">
+        <item quantity="one">1 oggetto in</item>
+        <item quantity="other">%d oggetti in</item>
+    </plurals>
+    <string name="button_import">Importa</string>
+    <string name="smsmessages">SMS</string>
+    <string name="calllogs">Registro chiamate</string>
+    <string name="bookmarks">Preferiti</string>
+    <string name="userdictionary">Dizionari utente</string>
+    <string name="playlists">Playlists</string>
+    <string name="settings">Impostazioni</string>
+    <string name="wifisettings">Impostazioni wifi</string>
+    <string name="contacts">Contatti</string>
+    <string name="dialog_export">Esporta</string>
+    <string name="question_deletefile">Vuoi veramente cancellare %s?</string>
+    <string name="settings_category_cyclicbehavior">Cyclic behavior</string>
+    <string name="settings_cyclecount">Conteggio riciclo</string>
+    <string name="settings_cyclecount_description">Numero massimo di backups per lo stesso tipo</string>
+    <string name="settings_category_storage">Storage</string>
+    <string name="settings_storagelocation">Cartella backup</string>
+    <string name="settings_storagelocation_description">Cartella dove verranno salvati i backup</string>
+    <string name="settings_storagelocation_hint">Memoria esterna</string>
+    <string name="settings_hideincompletedatawarnings">Nascondi messaggi di warning</string>
+    <string name="settings_hideincompletedatawarnings_description">Nascondi i messaggi di warning relativi alla parziale riuscita dei backups</string>
+    <string name="warning_incompletedata_import">L\'importazione di %s sarà probabilmente completata parzialmente.</string>
+    <string name="warning_incompletedata_export">L\'esportazione di %s sarà probabilmente completata parzialmente.</string>
+    <string-array name="settings_cyclecountvalues">
+        <item>Illimitato</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
 </resources>
