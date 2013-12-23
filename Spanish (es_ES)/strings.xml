@@ -30,6 +30,10 @@
     <string name="info">Información</string>
     <string name="not_available_title">No disponible</string>
     <string name="not_available_summary">Por favor, visita la tienda para comprar este addon</string>
+    <string name="enable">Activar</string>
+    <string name="disable">Desactivar</string>
+    <string name="update">Actualizar</string>
+    <string name="remove">Eliminar</string>
 
     <!-- TIPS -->
     <string name="tips">Sugerencias:</string>
@@ -46,6 +50,7 @@
     <string name="tips_font">Este addon te permite cambiar la fuente del sistema con un solo toque. Escoge entre las 20+ fuentes propuestas y si no te gusta la que has instalado, ¡simplemente pulsa en el botón reset para restaurar la original!</string>
     <string name="tips_weather">Este addon te permite crear una notificación personalizada con informaciones meteorológicas basadas en tu locaclización GPS o una localización personalizada.</string>
     <string name="tips_gestures">Las floating gestures te permiten crear gestures personalizadas y asignarlas una acción. El icono flotante abrirá el gestures pad, ¡en el que puedes dibujar tus gestures personalizadas! ¡Mira el vídeo para ver cómo funciona!</string>
+    <string name="tips_backup">Este addon te permite realizar copias de seguridad y restauraciones de tus datos personales, como mensajes, registro de llamadas. diccionarios, ajustes y más</string>
 
     <!-- HOME -->
     <string name="unlicensed">Por favor, compra una copia legítima de esta aplicación. Los desarrolladores ponen tiempo y dedicación para crear aplicaciones como ésta. ¡¡Deberías apoyar nuestro trabajo!!</string>
@@ -64,6 +69,8 @@
     <string name="android_tweaker_summary">Colección de las propiedades de tweaks del sistema.</string>
     <string name="initd">Init.d Scripts</string>
     <string name="initd_summary">Colección de init.d scripts.</string>
+    <string name="appmanager">Administrador de aplicaciones</string>
+    <string name="appmanager_summary">Realizador de copias de seguridad de aplicaciones, desinstalador y activador</string>
     <string name="tools">Herramientas</string>
     <string name="tools_summary">Colección de limpiadores y utilidades</string>
     <string name="dns_manager">Gestor de DNS</string>
@@ -247,11 +254,6 @@
     <string name="cache_cleaner_last">Cache borrado:</string>
     <string name="cache_cleaner_dalvik_last">Dalvik borrado:</string>
     <string name="cache_available">Espacio cache disponible:</string>
-    <string name="uninstaller">Desinstalador</string>
-    <string name="uninstaller_summary">Desinstala tus aplicaciones personales o aplicaciones de sistema</string>
-    <string name="uninstaller_warning">Esta herramienta es extremadamente poderosa. Dejamos a los usuarios la posibilidad de borrar aplicaciones de sistema como Teléfono o MMS, que son indispensables para el uso diario del teléfono. No juegues con esta aplicación.</string>
-    <string name="uninstaller_confirm">Desinstalar:</string>
-    <string name="uninstaller_success">Desinstalación correcta</string>
     <string name="enable_custom_dns">DNS personalizado</string>
     <string name="current_dns">DNS actual</string>
     <string name="original_dns">DNS por defecto</string>
@@ -317,6 +319,7 @@
     <string name="font_manager_purchased">¡Font manager ha sido comprado! ¡Has obtenido una nueva tarjeta en la página de personalización!</string>
     <string name="noty_weather_purchased">¡Notification weather ha sido comprado! ¡Has obtenido una nueva tarjeta en la página de personalización!</string>
     <string name="gestures_purchased">¡Floating gestures ha sido comprado! ¡Has obtenido una nueva tarjeta en la página de personalización!</string>
+    <string name="backup_purchased">¡El realizador de copias de seguridad ha sido comprado! ¡Has obtenido una nueva tarjeta en la página de herramientas!</string>
 
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Notificaciones de tiempo</string>
@@ -441,4 +444,162 @@
     <string name="android_actions">Acciones de Android</string>
     <string name="gestures_pad_size">Media pantalla</string>
     <string name="gestures_inverted_icon">Icono invertido</string>
+    
+    <!-- App Manager -->
+    <string name="all_apps">Todas las aplicaciones</string>
+    <string name="user_apps">Aplicaciones de usuario</string>
+    <string name="system_apps">Aplicaciones de sistema</string>
+    <string name="new_updated_apps">Aplicaciones nuevas y actualizadas</string>
+    <string name="custom_list">Lista personalizada</string>
+    <string name="backup">Realizar copia de seguridad</string>
+    <string name="restore">Restaurar</string>
+    <string name="backupConfirmation">¿Realizar copia de seguridad?</string>
+    <string name="restoreConfirmation">¿Restaurar?</string>
+    <string name="restoreApk">Restaurar apk</string>
+    <string name="restoreData">Restaurar datos</string>
+    <string name="restoreBoth">Restaurar ambos</string>
+    <string name="backupApk">Realizar copia de seguridad de apk</string>
+    <string name="backupData">Realizar copia de seguridad de datos</string>
+    <string name="backupBoth">Realizar copia de seguridad de ambos</string>
+    <string name="radioApk">Apk</string>
+    <string name="radioData">Datos</string>
+    <string name="radioBoth">Datos + Apk</string>
+    <string name="de_selectAll">De/seleccionar todas</string>
+    <string name="onlyApkBackedUp">Sólo apk</string>
+    <string name="onlyDataBackedUp">Sólo datos</string>
+    <string name="refresh">Actualizar</string>
+    <string name="batchbackup">Copia de seguridad por lotes</string>
+    <string name="batchrestore">Restauración por lotes</string>
+    <string name="search">Buscar</string>
+    <string name="searchHint">Buscar aplicaciones</string>
+    <string name="deleteBackup">Borrar copia de seguridad</string>
+    <string name="uninstall">Desinstalar</string>
+    <string name="uninstallProgress">Desinstalando</string>
+    <string name="showAll">Mostrar todas las aplicaciones</string>
+    <string name="showOnlySystem">Mostrar únicamente aplicaciones de sistema</string>
+    <string name="showOnlyUser">Mostrar únicamente aplicaciones de usuario</string>
+    <string name="showNotBackedup">Mostrar aplicaciones de las que aún no se ha hecho copia de seguridad</string>
+    <string name="showNotInstalled">Mostrar aplicaciones no instaladas</string>
+    <string name="showNewAndUpdated">Mostrar las aplicaciones nuevas y/o actualizadas</string>
+    <string name="showOldBackups">Mostrar copias de seguridad antiguas</string>
+    <string name="showOnlyApkBackedUp">Mostrar aplicaciones de las que únicamente se ha hecho copia de seuridad de apk</string>
+    <string name="showOnlyDataBackedUp">Mostrar aplicaciones de las que únicamente se ha hecho copia de seguridad de los datos</string>
+    <string name="sortByLabel">Ordenar por etiqueta</string>
+    <string name="sortByPackageName">Ordenar por nombre de paquete</string>
+    <string name="sort">Ordenación y filtros</string>
+    <string name="uninstallDialogMessage">¿Desinstalar esta aplicación?</string>
+    <string name="deleteBackupDialogMessage">¿Eliminar archivos de copia de seguridad?</string>
+    <string name="noBackupYet">Aún no se ha hecho copia de seguridad</string>
+    <string name="restoreDataWithoutApkError">No se pueden restaurar datos sin restaurar el apk. El paquete no está instalado: </string>
+    <string name="collectingData">Recopilando información de paquete</string>
+    <string name="suCheck">Comprobando superusuario y busybox</string>
+    <string name="noSu">No se han podido obtener permisos de superusuario</string>
+    <string name="busyboxProblem">No se ha podido encontrar busybox. Por favor, comprueba el error log</string>
+    <string name="mkfileError">No se ha podido crear</string>
+    <string name="fallbackToDefault">Reajuste por defecto</string>
+    <string name="backupFolderError">Por favor, establece la ruta correcta en ajustes y asegúrate de que existe o de que se puede crear</string>
+    <string name="shellReturnSuccess">Éxito</string>
+    <string name="backupProgress">Realizando copia de seguridad</string>
+    <string name="backupSuccess">Copia de seguridad completa</string>
+    <string name="backupFailure">Error al realizar copia de seguridad</string>
+    <string name="restoreProgress">Restaurando</string>
+    <string name="restoreSuccess">Restauración completa</string>
+    <string name="restoreFailure">Error al restaurar</string>
+    <string name="batchSuccess">Operación completada</string>
+    <string name="batchFailure">Operación completada con errores</string>
+    <string name="errorDialogTitle">Se han producido errores</string>
+    <string name="customListTitle">Lista personalizada</string>
+    <string name="quickReboot">Reinicio rápido</string>
+    <string name="quickRebootMessage">¿Deseas reiniciar el espacio de usuario?</string>
+    <string name="enablePackageTitle">Habilitar para los usuarios</string>
+    <string name="disablePackageTitle">Inhabilitar para los usuarios</string>
+    <string name="prefs_title">Preferencias</string>
+    <string name="prefs_timestamp">Utilizar el formato de fecha local</string>
+    <string name="prefs_acquireWakelock">Adquirir wakelock</string>
+    <string name="prefs_summaryAcquireWakelock">Aumentará la velocidad de las copias de seguridad en segundo plano considerablemente, pero consumirá más batería</string>
+    <string name="prefs_pathscategory">Rutas personalizadas</string>
+    <string name="prefs_pathBackupFolder">Carpeta de copia de seguridad</string>
+    <string name="prefs_summaryBackupFolder">Ruta a la carpeta de copia de seguridad. Dejar en blanco para utilizar la ruta por defecto.</string>
+    <string name="prefs_pathLogfile">Logfile</string>
+    <string name="prefs_summaryLogfile">Ruta a logfile. Dejar en blanco para utilizar la ruta por defecto.</string>
+    <string name="prefs_pathBusybox">Busybox</string>
+    <string name="prefs_summaryBusybox">Ruta al busybox ejecutable. Asegúrate de que es correcta. Dejar en blanco para utilizar la ruta por defecto.</string>
+    <string name="prefs_oldBackups">Filtrar copias de seguridad por datos</string>
+    <string name="prefs_summaryOldBackups">Filtrar copias de seguridad por fecha</string>
+    <string name="prefs_copySelfApk">Copiar mi propia apk</string>
+    <string name="prefs_summaryCopySelfApk">Situar la copia de Android Tweaker 2 en lo más alto de la carpeta de la copia de seguridad</string>
+    <string name="prefs_languages">Idiomas</string>
+    <string name="prefs_languageSystemDefault">Por defecto</string>
+    <string name="sched_title">Programación</string>
+    <string name="sched_notificationMessage">Copia de seguridad programada</string>
+    <string name="sched_interval">Intervalo en días</string>
+    <string name="sched_hourOfDay">Hora del día (0..23)</string>
+    <string name="sched_startingbackup">Comenzando copia de seguridad programada</string>
+    <string name="sched_backupMode">Modo de copia de seguridad</string>
+    <string name="sched_timeLeft">Horas hasta la próxima copia de seguridad</string>
+    <string name="sched_addSchudule">Añadir programación</string>
+    <string name="sched_customListUpdateButton">Actualizar lista personalizada</string>
+ 
+    <!-- Data backup -->
+    <string name="data_backup">Copia de seguridad de datos</string>
+    <string name="data_backup_summary">Realizar copia de seguridad y restaurar tus datos personales</string>
+    <string name="menu_export">Exportar</string>
+    <string name="menu_exporteverything">Exportar todo</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="contextmenu_deletefile">Eliminar archivo</string>
+    <string name="contextmenu_deletedaydata">Eliminar datos de estos días</string>
+    <string name="error_nosdcard">No hay SD-card.</string>
+    <string name="error_unsupporteddatabasestructure">Estructura de la base de datos no soportada</string>
+    <string name="error_couldnotcreatebackupfolder">No se pudo crear la carpeta de copia de seguridad (%s)</string>
+    <string name="error_somethingwentwrong">Algo ha ido mal: %s.</string>
+    <string name="hint_nobackupsfound">No se han encontrado copias de seguridad\n\n
+        presiona el botón del menú para crear alguna.</string>
+    <string name="hint_noexportdata">No hay datos disponibles para exportar.</string>
+    <string name="hint_exporting">Exportando %s &#8230;</string>
+    <string name="hint_existed">\"%s\" existe</string>
+    <string name="message_exportedto">Exportado en %s.</string>
+    <string name="message_importsuccessful">Importación exitosa.</string>
+    <plurals name="message_importsuccessful_skipped">
+        <item quantity="one">Importación exitosa, pero se ha omitido un proceso.</item>
+        <item quantity="other">Importación exitosa, pero se han omitido %d procesos.</item>
+    </plurals>
+    <string name="message_skippedallentries">Se han omitido todos los procesos.</string>
+    <plurals name="listentry_items">
+        <item quantity="one">1 elemento</item>
+        <item quantity="other">%d elementos</item>
+    </plurals>
+    <string name="button_import">Importar</string>
+    <string name="smsmessages">Mensajes cortos</string>
+    <string name="calllogs">Resgistros de llamadas</string>
+    <string name="bookmarks">Favoritos</string>
+    <string name="userdictionary">Diccionario de usuario</string>
+    <string name="playlists">Listas de reproducción</string>
+    <string name="settings">Ajustes</string>
+    <string name="wifisettings">Ajustes de Wifi</string>
+    <string name="contacts">Contactos</string>
+    <string name="dialog_export">Exportar</string>
+    <string name="dialog_licenseagreement">Licencia</string>
+    <string name="question_deletefile">¿Seguro que quieres eliminar el archivo %s?</string>
+    <string name="settings_category_cyclicbehavior">Comportamiento cíclico</string>
+    <string name="settings_cyclecount">Contador de ciclo (experimental)</string>
+    <string name="settings_cyclecount_description">Número máximo de copias de seguridad de un mismo tipo</string>
+    <string name="settings_category_storage">Almacenamiento</string>
+    <string name="settings_storagelocation">Ubicación de almacenamiento</string>
+    <string name="settings_storagelocation_description">Ubicación de los archivos de copias de seguridad</string>
+    <string name="settings_storagelocation_hint">Almacenamiento externo</string>
+    <string name="settings_hideincompletedatawarnings">Ocultar mensajes de advertencia</string>
+    <string name="settings_hideincompletedatawarnings_description">Ocultar advertencias sobre copias de seguridad y exportaciones incompletas</string>
+    <string name="warning_incompletedata_import">La importación de %s será probablemente incompleta.</string>
+    <string name="warning_incompletedata_export">La exportación de %s será probablemente incompleta.</string>
+    <string-array name="settings_cyclecountvalues">
+        <item>Ilimitado</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
 </resources>
