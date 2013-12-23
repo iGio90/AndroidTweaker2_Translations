@@ -17,7 +17,7 @@
     <string name="wait">Proszę czekać…</string>
     <string name="updating">Aktualizowanie zależności</string>
     <string name="toolchain_exist">Potrzebne zasoby są już zainstalowane. Pomijanie...</string>
-    <string name="require_busybox">Ta czynność wymaga zainstalowanego na urządzeniu busybox'a. Proszę zainstalować busybox przed użyciem tego narzędzia</string>
+    <string name="require_busybox">Ta czynność wymaga zainstalowanego na urządzeniu busybox\'a. Proszę zainstalować busybox przed użyciem tego narzędzia</string>
     <string name="require_sql">This action require SQL toolchain. If you are seeing this error it means your ROM doesn\'t support the SQL defragging tool.</string>
     <string name="size">Rozmiar:</string>
     <string name="rate_explanation">Wyraź swoją opinię i pomóż nam ulepszać zawartość aplikacji</string>
