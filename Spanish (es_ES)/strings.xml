@@ -401,7 +401,7 @@
     
     <!-- Density modder -->
     <string name="density_modder">Moderador de densidad</string>
-    <string name="density_modder_summary">¡Personalizaa la densidad (DPI) de tu pantalla!</string>
+    <string name="density_modder_summary">¡Personaliza la densidad (DPI) de tu pantalla!</string>
     <string name="nav_bar">Barra de navegación</string>
     <string name="nav_bar_summary">Activar la barra de navegación en dispositivos que no lo tienen activado por defecto. Esto no funciona en todos los dispositivos… Una vez activado, ¡no olvides pulsar el botón de guardar!</string>
     <string name="current_density">Densidad actual:</string>
