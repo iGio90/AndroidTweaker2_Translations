@@ -1,0 +1,29 @@
+Estamos encantados de poder introduciros Android Tweaker 2, el segundo capítulo de la utilidad que tuvo un gran éxito entre la comunidad Android.
+
+Siéntete libre de unirte a nuestra comunidad para obtener soporte técnico y tener acceso tanto a la última beta como a las nuevas utilidades de la aplicación:
+https://plus.google.com/communities/107522763082295690993
+
+Hay una gran cantidad de cambios con respecto a la versión anterior:
+- Una completa y nueva disposición al puro estilo de Google card.
+- Funcional y práctico. Todo a tu alcance.
+- Nuevos tweaks, gran cantidad de nuevas herramientas y utilidades que te permitirán conseguir resultados increíbles en el dispositivo.
+- Una nueva tienda dentro de la aplicación, donde puedes comprar gran cantidad de addons y plugins.
+- Compatible con Android 4.4 KitKat.
+
+Nuevos tweaks y herramientas:
+- Hemos dado a la aplicación una interfaz más limpia y simple, y hemos conseguido aportar una gran facilidad de uso de toda la variedad de tweaks y herramientas.
+- Limpiador de cache, limpiador de Dalvik, desinstalador root y Root Zipaligner.
+- Nuevos tweaks para aumentar el rendimiento, la duración de la batería, la velocidad de red, la calidad de multimedia (fotografías, vídeos y audio), ¡y mucho más!
+- Scripts init.d
+- Administrador de DNS.
+- Moderador de densidad (DPI).
+- Administrador de aplicaciones que te permite realizar copias de seguridad de tus datos/apk para cada aplicación, y a la vez tiene función de desinstalador root, congela y descongela aplicaciones,¡e incluye programador de copias de seguridad!
+
+Addons (Tienda):
+- Smart actions: con ellas, puedes personalizar el comportamiento de tu dispositivo cuando entra o sale del modo Standby ¡Aumenta la duración de la batería hacia un 300%! Incluye un widget y una barra de notificaciones opcional.
+- Font manager: ¡personaliza la fuente del sistema con un fácil y simple instalador de fuentes con previsualización!
+- Notification weather: este addon te permite crear una notificación que mostrará información meteorológica basada en tu localización GPS o una localización personalizada. ¡Esta notificación es en gran medida personalizable, por medio de distintos colores y preferencias!
+- Floating gestures: este addon te permite crear gestures personalizadas y asignarlas una determinada acción. El icono flotante abrirá el gestures pad, en el que puedes dibujar tus gestures personalizadas.
+- Realizador se copias de seguridad de datos, que te permite realizar copias de seguridad y restaurar tus datos personales, como registro de llamadas, SMS, Favoritos ¡y mucho más!
+
+¡Compatible con todas las Stock y Custom ROMs, como CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slim, PAC, Samsung y HTC!

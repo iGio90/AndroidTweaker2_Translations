@@ -1,0 +1,29 @@
+Siamo lieti di annunciare Android Tweaker 2, il secondo capitolo di un app che ha riscosso molto successo nella comunità Android.
+
+Vi invitiamo ad entrare nella nostra community di Google Plus per ricevere notizie, aggiornamenti e segnalarci eventuali bug o problemi:
+https://plus.google.com/communities/107522763082295690993
+
+Molti sono i cambiamenti dalla precedente versione:
+- Un nuovo layout in puro Google style
+- Pratica e funzionale, tutto a portata di touch.
+- Nuovi tweaks, nuovi tools e strumenti che ti consentiranno di ottenere le massime prestazione dal tuo dispositivo!
+- Un nuovo shop interno che ti consentirà di acquistare tools e addons da aggiungere al tuo Android Tweaker 2.
+- Compatibile con Android 4.4 KitKat
+
+I nuovi tweaks e tools:
+- Abbiamo dato un interfaccia nuova ai vari tweaks e tools, consentendoti di ottenere descrizioni dettagliate su tutti i vari tweaks proposti!.
+- Cache cleaner, Dalvik cleaner, uninstaller e Zipaligner
+- Tanti nuovi tweaks per migliorare performance, batteria, connettività, media (foto, video e audio) e molto altro ancora!
+- Init.d scripts
+- DNS Manager
+- Density modder (DPI)
+- App Manager che ti consentirà di eseguire il backup dei tuoi dati applicazione e degli apk nonchè disinstallarli o bloccarli/sbloccarli
+
+Addons (Shop):
+- Smart actions: Personalizza il comportamento del dispotivio quando esso viene messo in modalità standby! Incrementa la durata della tua batteria di oltre il 300%! Include il widget e un pannello strumenti nella barra delle notifiche!
+- Font manager: Cambia il font del tuo dispositivo con un semplice tap!
+- Notification weather: Ti consente di creare una notifica permanente con le informazioni meteo in base alla posizione del tuo GPS o una personalizzata. Questa notifica è ampiamente configurabile con colori e opzioni varie!
+- Floating gestures: Ti consente di creare delle gestures personalizzate ed assegnare ad esse delle azioni customizzate! Un pulsante fluttuante ti darà accesso alle floating gestures da poter utilizzare in qualsiasi istante!
+- Data backup che ti consentirà di effettuare il backup ed il restore dei tuoi dati personali quali chiamate, sms, preferiti e altro ancora!
+
+Compatibile con tutte le stock ROM o customizzate quali CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slim, PAC, Samsung e HTC!
