@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="disclaimer">- Einige featires dieser App können unstabilität verursachen und in seltenen fällen das ganze Gerät zerstören. Diese Tweaks sollten auf fast jedem Gerät mit Andoird 4.0+ korrekt funktionieren.
-        \n\n- Vermeide das herumspielen mit dieser App. Die meisten Tweaks verändern dein System, deshalb solltest du diese mit verstand benutzen!
-        \n\n- Diese App Rootet nicht dein Gerät. Jedoch haben wir eine Funktion hinzugefügt, die dir helfen wird, dein Gerät zu rooten.
+    <string name="disclaimer">- Einige Eigenschaften dieser App können unstabilität verursachen und in seltenen fällen das ganze Gerät zerstören. Diese Tweaks sollten auf fast jedem Gerät mit Andoird 4.0+ korrekt funktionieren.
+        \n\n- Vermeide das herumspielen mit dieser App. Die meisten Tweaks verändern dein System, deshalb solltest du diese mit Verstand benutzen!
+        \n\n- Diese App rootet dein Gerät nicht, jedoch haben wir eine Funktion hinzugefügt, die dir helfen wird, dein Gerät zu rooten.
     </string>
 </resources>
