@@ -41,13 +41,13 @@
 
     <!-- HOME -->
     <string name="unlicensed">Bitte kauf eine legale Kopie dieser App. Entwickler bringen viel Zeit und Engagment für die Entwicklung von solchen Anwendungen. Du solltest unsere Arbeit unterstützten!!</string>
-    <string name="root_check">Root status: </string>
-    <string name="rooted">Rooted</string>
-    <string name="unrooted">Not rooted</string>
-    <string name="busybox_check">Busybox status: </string>
-    <string name="mount_check">Mount status: </string>
-    <string name="android_version">Android version: </string>
-    <string name="device_brand">Brand: </string>
+    <string name="root_check">Root Status: </string>
+    <string name="rooted">Gerootet</string>
+    <string name="unrooted">Nicht gerootet</string>
+    <string name="busybox_check">Busybox Status: </string>
+    <string name="mount_check">Mount Status: </string>
+    <string name="android_version">Android Version: </string>
+    <string name="device_brand">Marke: </string>
     <string name="device_model">Model: </string>
     <string name="device_board">Board: </string>
     <string name="device_bootloard">Bootloader: </string>
@@ -55,17 +55,17 @@
     <string name="android_tweaker">System Tweaker</string>
     <string name="android_tweaker_summary">Collection of system properties tweaks.</string>
     <string name="initd">Init.d Scripts</string>
-    <string name="initd_summary">Collection of init.d scripts.</string>
-    <string name="tools">Tools</string>
+    <string name="initd_summary">Sammlung von init.d scripts.</string>
+    <string name="tools">Werkzeuge</string>
     <string name="tools_summary">Collection of cleaners and utilities</string>
     <string name="dns_manager">DNS manager</string>
     <string name="dns_manager_summary">Set custom DNS or enable the ones proposed</string>
     <string name="customization">Customizations</string>
-    <string name="customization_summary">Customize your Android OS</string>
+    <string name="customization_summary">Verändere dein Android OS</string>
     <string name="changelog">Changelog</string>
     <string name="changelog_summary">Detailed release notes</string>
     <string name="no_root">Diese App benötigt Root zugriff um zu funktionieren. Tippe hier um Root zugriff zu erhalten</string>
-    <string name="tweaker_store">Shop</string>
+    <string name="tweaker_store">Laden</string>
     <string name="tweaker_store_summary">Kaufe weitere Artikel für Android Tweaker 2</string>
 
     <!-- CONTACT -->
@@ -75,19 +75,19 @@
     <string name="title_general_performance">Performance</string>
     <string name="title_general_performance_summary">Collection of tweaks that will increase the performances on your device</string>
     <string name="title_ui_performance">UI Performance and scrolling</string>
-    <string name="title_battery">Battery</string>
+    <string name="title_battery">Batterie</string>
     <string name="title_battery_summary">Collection of tweaks that will extend the battery life of your device</string>
     <string name="title_media">Media</string>
     <string name="title_media_summary">Collection of tweaks that will tune images, videos and audio properties</string>
-    <string name="title_audio_video_recording">Audio and Video recording</string>
+    <string name="title_audio_video_recording">Audio- und Videoaufnahmen</string>
     <string name="title_streaming">Video streaming</string>
-    <string name="title_images">Images</string>
+    <string name="title_images">Bilder</string>
     <string name="title_network">Netzwerk</string>
     <string name="title_network_summary">Collection of tweaks that will tune your network speed</string>
-    <string name="title_net_speed">Network Speed</string>
-    <string name="title_phone">Phone</string>
+    <string name="title_net_speed">Netzwerkgeschwindigkeit</string>
+    <string name="title_phone">Telefon</string>
     <string name="title_signal">Signal</string>
-    <string name="title_ipv4_ipv6">IPV4 and IPV6</string>
+    <string name="title_ipv4_ipv6">IPv4 und IPv6</string>
     <string name="title_gps">Standort</string>
     <string name="title_gps_summary">Collection of tweaks that will tune your GPS and network location</string>
     <string name="title_gps_update">Server update</string>
@@ -140,17 +140,17 @@
     <string name="gprs_net_speed_summary">Enable or disable this tweak to increase the gprs network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
     <string name="edge_net_speed">Edge network speed</string>
     <string name="edge_net_speed_summary">Enable or disable this tweak to increase the edge network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
-    <string name="ipv4">IPV4</string>
-    <string name="ipv4_summary">Extends support for IPV4 protocol</string>
-    <string name="ipv6">IPV6</string>
-    <string name="ipv6_summary">Extends support for IPV6 protocol</string>
+    <string name="ipv4">IPv4</string>
+    <string name="ipv4_summary">Extends support for IPv4 protocol</string>
+    <string name="ipv6">IPv6</string>
+    <string name="ipv6_summary">Extends support for IPv6 protocol</string>
     <string name="cust_tel">Cust telephony</string>
     <string name="cust_tel_summary">Enable or disable this tweak to increase a bit your signal reception</string>
     <string name="fast_dormancy">Fast dormancy</string>
     <string name="fast_dormancy_summary">Enable or disable this tweak to increase a bit your signal reception</string>
 
     <!-- MEDIA -->
-    <string name="jpeg_quality">JPEG quality</string>
+    <string name="jpeg_quality">JPEG Qualität</string>
     <string name="jpeg_quality_summary">Increase or decrease overall JPEG quality</string>
     <string name="dec_jpeg">JPEG decoder memcap</string>
     <string name="dec_jpeg_summary">Increase or decrease JPEG decoder memcap. Gives a little extra JPEG quality</string>
@@ -180,9 +180,9 @@
     <string name="kernel_error_summary">Disable Kernel error reporting. Saves some battery and increase general performances</string>
     <string name="usage_data">Disable sending of usage data</string>
     <string name="usage_data_summary">Disable sending of usage data. Saves some battery and increase general performances</string>
-    <string name="phone_ring">Phone ring delay</string>
+    <string name="phone_ring">Telefon Klingel verzögerung</string>
     <string name="phone_ring_summary">Increase or decrease the phone ring delay</string>
-    <string name="blackscreen">Blackscreen after calls</string>
+    <string name="blackscreen">Schwarzen Bildschirm nach Anrufen</string>
     <string name="blackscreen_summary">Fix blackscreen after calls issues</string>
     <string name="call_quality">Sprachqualität</string>
     <string name="call_quality_summary">Increase the quality of voice during phone calls</string>
@@ -198,8 +198,8 @@
     <string name="dalvik_jmiopts">Dalvik jmiopts</string>
 
     <!-- GPS -->
-    <string name="disable_network_location">Network location</string>
-    <string name="disable_network_location_summary">Disable network location services</string>
+    <string name="disable_network_location">Netzwerkstandort</string>
+    <string name="disable_network_location_summary">Schalte Netzwerkstandort ab</string>
     <string name="gps_update_server_last_date">Last update:</string>
     <string name="gps_update_server">GPS servers update</string>
     <string name="gps_update_server_last_server">Today active servers:</string>
