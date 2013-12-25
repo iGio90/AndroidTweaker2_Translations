@@ -1,29 +1,29 @@
-We are pleased to introduce Android Tweaker 2, the second chapter of the utility that had a great success in the Android community.
+Wir freuen uns euch das zweite Kapitel der App Android Tweaker 2, die großen Erfolg in der Android Community hatte, vorstellen zu dürfen.
 
-Feel free to join our community to get support and get access to the latest beta and new upcoming features:
+Falls du möchtest, kannst du auch unserer Community beitreten um Zugriff auf die neuste Beta Version zu bekommen sowie neue Features und Support:
 https://plus.google.com/communities/107522763082295690993
 
-So many changes from the previous version:
-- A whole new layout in pure Google card style
-- Functional and practice. Everything at your touch.
-- New tweak, so many new tools and utilities that will allow you to achieve amazing results on your device
-- A new shop inside where you can buy many addons and plugins.
-- Compatible with Android 4.4 KitKat
+So viele Änderungen zur vorheringen Version:
+- Ein komplett neues Layout im Google-Card Stil.
+- Funktional und Praktisch. Alles in deiner Hand.
+- Neue Tweaks, Tools und Utilites, mit denen du erstaunliche Ergebnisse auf deinem Gerät erreich wirst.
+- Ein neuer Laden ist ebenso vorhanden, indem man viele Addons und Plugins kaufen kann.
+- Kompatibel mit Android 4.4 KitKat
 
-The new tweaks and tools:
-- We gave a more clean graphical interface and greater ease of use to all the various tweaks and tools inside.
-- Cache cleaner, Dalvik cleaner, uninstaller and Root Zipaligner
-- Many new tweaks to increase performance, battery, network, media (photos, videos and autio) and much more!
-- init.d scripts
+Die neuen Tweaks und Tools:
+- Wir haben eine schöne grafische Oberfläche und eine bessere Benutzerfreundlichkeit für alle verschiedenen Tweaks und Tools.
+- Cache cleaner, Dalvik cleaner, uninstaller und Root Zipaligner
+- Viele neue Tweaks, um die Leistung zu erhöhen, Batterielaufzeit, Netzwerk, Medien (Photos, Videos, Audio) und vieles mehr!
+- init.d Scripts
 - DNS Manager
 - Density modder (DPI)
-- App manager that allows you to backup your data/apk for each application, uninstaller, freeze/unfreeze and schedule backups!
+- App manager hilft dir Backups von deiner Data/Apk der Apps, deinstallieren, freeze/unfreeze sowohl geplante Backups! 
 
 Addons (Shop):
-- Smart actions: customize the behavior of your device when it goes in sleep mode and back on! Rise your battery life up to 300%! Includes a widget and an optional notification bar!
-- Font manager: customize your system font with an easy one tap font installer with previews!
-- Notification weather: allows you to create a notification that will display weather informations based on your gps location or a custom one. This notification is highly customizable with colors and preferences!
-- Floating gestures: allows you to create custom gestures and assign an action to them. The floating icon will open the gestures pad in which you can draw your custom gestures
-- Data backup that allows you to backup and restore your personal data such as call logs, sms, bookmarks and more..
+- Smart actions: Verändere das Verhalten deines Geräts, wenn er in den Ruhemodus geht oder wieder heraus! Steigere die Akku-Lebensdauer bis zu 300%! Enthält ebenfalls ein Widget und eine optimale Benachrichtigungsleiste!
+- Schriften manager: Verändere die System-Schriftart mit einem einfachen (one tap) Installationsprogramm mit Vorschau!
+- Wetter-Benachrichtigung: Erlaubt es dir, einen Hinweis zu erstellen, der Wetterinformationen basierend auf deinem GPS Standort oder einem benutzerdefiniertem Ort wiedergibt. Diesen Hinweis kann man sehr vielseitig Gestalten!
+- Floating gestures: Hier kannst du benutzerdefinierte Gesten erstellen und ihr eine Aktion zuweisen. Das 'floating icon' öffnet das 'gestures pad', wo du deine Gesten malen kannst.
+- Datensicherung, mit der du Sicherungen und Wiederherstellungen deiner Persönlichen Daten machen kannst (Anruflisten, SMS, Lesezeichen, und vieles mehr ..)
 
-Compatible with all stock and custom ROMs such as CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slim, PAC, Samsung and HTC!
+Kompatibel mit allen 'stock' und 'custom ROMs' wie CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slim, PAC, Samsung und HTC!
