@@ -18,6 +18,7 @@ The new tweaks and tools:
 - DNS Manager
 - Density modder (DPI)
 - App manager that allows you to backup your data/apk for each application, uninstaller, freeze/unfreeze and schedule backups!
+- Bravia Engine v3 installer
 
 Addons (Shop):
 - Smart actions: customize the behavior of your device when it goes in sleep mode and back on! Rise your battery life up to 300%! Includes a widget and an optional notification bar!
@@ -25,5 +26,6 @@ Addons (Shop):
 - Notification weather: allows you to create a notification that will display weather informations based on your gps location or a custom one. This notification is highly customizable with colors and preferences!
 - Floating gestures: allows you to create custom gestures and assign an action to them. The floating icon will open the gestures pad in which you can draw your custom gestures
 - Data backup that allows you to backup and restore your personal data such as call logs, sms, bookmarks and more..
+- Unity bars: an ubuntu unity like launcher bars with customizable colors and options
 
 Compatible with all stock and custom ROMs such as CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slim, PAC, Samsung and HTC!

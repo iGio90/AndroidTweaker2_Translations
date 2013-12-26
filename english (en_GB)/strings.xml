@@ -51,6 +51,7 @@
     <string name="tips_weather">This addon allows you to create a custom notification with weather informations based on your GPS location or custom location.</string>
     <string name="tips_gestures">Floating gestures allows you to create custom gestures and assign an action to them. The floating icon will open the gestures pad in which you can draw your custom gestures! check out the video for a preview!</string>
     <string name="tips_backup">This addon allows you to backup and restore your personal data such as short message, call logs, dictionaries, settings and more</string>
+    <string name="tips_unity">This addon allows you to create a fully customizable like unity launcher with a swipe from outside the screen on the left or on the right side. Check out the video for a little preview</string>
 
     <!-- HOME -->
     <string name="unlicensed">Please, buy a legit copy of this app. Developers put dedication and time on creating applications like that. You should support our work!!</string>
@@ -302,12 +303,20 @@
     <!-- CUSTOMIZATION -->
     <string name="no_customization_owned">No customization available</string>
     <string name="no_customization_owned_summary">There isn\'t any customization available on your Android Tweaker 2. Visit the shop to get some!</string>
+    <string name="unity_bars">Unity bars</string>
+    <string name="unity_bars_summary">Add unity like launcher bars</string>
     <string name="font_manager" translatable="false">Font manager</string>
     <string name="font_manager_summary">Install custom fonts on your device</string>
     <string name="backup_font">Backing up current font to allows you to restore in future</string>
     <string name="installing_font">Installing font…</string>
     <string name="install_font">Do you want to install</string>
     <string name="reset_font">Set original Roboto font?</string>
+    <string name="bravia_engine">Bravia engine v3</string>
+    <string name="bravia_engine_summary">The Mobile BRAVIA® Engine is a set of Sony-specific image processing algorithms which are applied to the rendering process when drawing an image or video on the screen of your smartphone</string>
+    <string name="install_bravia">Install Bravia</string>
+    <string name="remove_bravia">Remove Bravia</string>
+    <string name="installing_bravia">Installing bravia engine…</string>
+    <string name="removing_bravia">Uninstalling bravia engine…</string>
 
     <!-- SHOP -->
     <string name="details">Details</string>
@@ -320,6 +329,7 @@
     <string name="noty_weather_purchased">Notification weather has been purchased! You got a new card on the customization page!</string>
     <string name="gestures_purchased">Floating gestures has been purchased! You got a new card on the customization page!</string>
     <string name="backup_purchased">Data backup has been purchased! You got a new card on the tools page!</string>
+    <string name="unity_purchased">Unity bars has been puchased! You got a new card on the customization page!</string>
 
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Notification weather</string>
@@ -602,4 +612,13 @@
         <item>15</item>
         <item>20</item>
     </string-array>
+
+    <!-- Unity bars + Smart center -->
+    <string name="start_unity">Unity bars</string>
+    <string name="unity_left">Left bar</string>
+    <string name="unity_right">Right bar</string>
+    <string name="background_color">Background color</string>
+    <string name="text_color">Text color</string>
+    <string name="layer_color">Layer color</string>
+    <string name="battery_level">Battery level</string>
 </resources>
