@@ -318,52 +318,52 @@
     <string name="weather_fah">Fahrenheit</string>
     <string name="weather_fah_summary">Benutze Fahrenheit anstatt Celsius</string>
     <string-array name="weather_conditions">
-        <item>tornado</item>
-        <item>tropical storm</item>
-        <item>hurricane</item>
-        <item>severe thunderstorms</item>
-        <item>thunderstorms</item>
-        <item>mixed rain and snow</item>
-        <item>mixed rain and sleet</item>
-        <item>mixed snow and sleet</item>
-        <item>freezing drizzle</item>
-        <item>drizzle</item>
-        <item>freezing rain</item>
-        <item>showers</item>
-        <item>showers</item>
-        <item>snow flurries</item>
-        <item>light snow showers</item>
-        <item>blowing snow</item>
-        <item>snow</item>
-        <item>hail</item>
-        <item>sleet</item>
-        <item>dust</item>
-        <item>foggy</item>
-        <item>haze</item>
-        <item>smoky</item>
-        <item>blustery</item>
-        <item>windy</item>
-        <item>cold</item>
-        <item>cloudy</item>
-        <item>mostly cloudy</item>
-        <item>mostly cloudy</item>
-        <item>partly cloudy</item>
-        <item>partly cloudy</item>
-        <item>clear (night)</item>
-        <item>sunny</item>
+        <item>Tornado</item>
+        <item>Tropensturm</item>
+        <item>Hurrikan</item>
+        <item>schwere Gewitter</item>
+        <item>Gewitter</item>
+        <item>Schnee / Regen</item>
+        <item>Regen / Schneeregen</item>
+        <item>Schnee / Schneeregen</item>
+        <item>gegrorener Nieselregen</item>
+        <item>Nieselregen</item>
+        <item>Hagel</item>
+        <item>Duschen</item>
+        <item>Duschen</item>
+        <item>Schneegestöber</item>
+        <item>leichter Schneefall</item>
+        <item>Schneeverwehungen</item>
+        <item>Schnee</item>
+        <item>Hagel</item>
+        <item>Schneeregen</item>
+        <item>Staub</item>
+        <item>Neblig</item>
+        <item>Dunst</item>
+        <item>rauchig</item>
+        <item>stürmisch</item>
+        <item>windig</item>
+        <item>kalt</item>
+        <item>bewölkt</item>
+        <item>größtenteils bewölkt</item>
+        <item>größtenteils bewölkt</item>
+        <item>teilweise bewölkt</item>
+        <item>teilweise bewölkt</item>
+        <item>klar (Nacht)</item>
+        <item>sonnig</item>
         <item>fair</item>
         <item>fair</item>
-        <item>mixed rain and hail</item>
-        <item>hot</item>
-        <item>isolated thunderstorms</item>
-        <item>scattered thunderstorms</item>
-        <item>scattered thunderstorms</item>
-        <item>scattered showers</item>
-        <item>heavy snow</item>
-        <item>partly cloudy</item>
-        <item>thundershowers</item>
-        <item>snow showers</item>
-        <item>isolated thundershowers</item>
+        <item>Regen / Hagel</item>
+        <item>Heiß</item>
+        <item>vereinzelte Gewitter</item>
+        <item>vereinzelte Gewitter</item>
+        <item>vereinzelte Gewitter</item>
+        <item>vereinzelte Schauer</item>
+        <item>starker Schnee</item>
+        <item>teilweise bewölkt</item>
+        <item>Gewitter</item>
+        <item>Schneeschauer</item>
+        <item>isolierte Gewitter</item>
     </string-array>
 
     <string-array name="week_day">
