@@ -18,6 +18,7 @@ I nuovi tweaks e tools:
 - DNS Manager
 - Density modder (DPI)
 - App Manager che ti consentirà di eseguire il backup dei tuoi dati applicazione e degli apk nonchè disinstallarli o bloccarli/sbloccarli
+- Bravia Engine v3 installer
 
 Addons (Shop):
 - Smart actions: Personalizza il comportamento del dispotivio quando esso viene messo in modalità standby! Incrementa la durata della tua batteria di oltre il 300%! Include il widget e un pannello strumenti nella barra delle notifiche!
@@ -25,5 +26,6 @@ Addons (Shop):
 - Notification weather: Ti consente di creare una notifica permanente con le informazioni meteo in base alla posizione del tuo GPS o una personalizzata. Questa notifica è ampiamente configurabile con colori e opzioni varie!
 - Floating gestures: Ti consente di creare delle gestures personalizzate ed assegnare ad esse delle azioni customizzate! Un pulsante fluttuante ti darà accesso alle floating gestures da poter utilizzare in qualsiasi istante!
 - Data backup che ti consentirà di effettuare il backup ed il restore dei tuoi dati personali quali chiamate, sms, preferiti e altro ancora!
+- Unity bars: Launcher simile alle barre unity di ubuntu con personalizzazioni e impostazioni varie
 
 Compatibile con tutte le stock ROM o customizzate quali CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slim, PAC, Samsung e HTC!

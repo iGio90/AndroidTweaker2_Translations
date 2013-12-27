@@ -48,6 +48,7 @@
     <string name="tips_weather">Questo addon ti consente di creare una notifica personalizzata con le informazione meteo basate sulla tua posizione o su una posizione personalizzata.</string>
     <string name="tips_gestures">Le floating gestures ti consentono di creare gestures customizzate e assegnare ad esse delle azioni. L\'icona fluttuante ti consentirà di aprire il pad dove poter disegnare le tue gestures customizzate. Guarda il video dimostrativo disponibile nella descrizione delle floating gestures nel negozio!</string>
     <string name="tips_backup">Questo addon ti consente di eseguire il backup ed il restore dei tuoi dati personali quali SMS, registro chiamate, preferiti, impostazioni e altro!</string>
+    <string name="tips_unity">Questo addon ti consente di creare delle barre simili alle ubuntu unity bars. Queste barre sono pienamento customizzabili con colori e impostazioni. Guarda il video dimostrativo per una piccola preview</string>
 
     <!--HOME-->
     <string name="unlicensed">Perfavore, acquista una copia legale di questa applicazione. Gli sviluppatori mettono dedizione e tempo per creare applicazioni come questa. Dovresti supportare il nostro lavoro!</string>
@@ -285,11 +286,19 @@
     <string name="screen_state_battery_summary">Abilita le smart actions solo se la batteria è inferiore al 20%</string>
 
     <!--CUSTOMIZATION-->
+    <string name="unity_bars">Unity bars</string>
+    <string name="unity_bars_summary">Aggiungi un launcher simile alle ubuntu unity bars</string>
     <string name="font_manager_summary">Installa font personalizzati sul tuo dispositivo</string>
     <string name="backup_font">Effettuo il backup del font attuale per consentirti di ripristinarlo in futuro</string>
     <string name="installing_font">Installazione del font…</string>
     <string name="install_font">Vuoi installare</string>
     <string name="reset_font">Impostare il font originale Roboto?</string>
+    <string name="bravia_engine">Bravia engine v3</string>
+    <string name="bravia_engine_summary">Il Mobile BRAVIA® Engine è un set di filtri che vengono applicati ad immagini e video durante il processo di rendering sullo schermo del dispositivo</string>
+    <string name="install_bravia">Installa Bravia</string>
+    <string name="remove_bravia">Rimuovi Bravia</string>
+    <string name="installing_bravia">Installando il bravia engine…</string>
+    <string name="removing_bravia">Rimuovendo il bravia engine…</string>
 
     <!--SHOP-->
     <string name="details">Dettagli</string>
@@ -302,6 +311,7 @@
     <string name="noty_weather_purchased">Notification weather è stato acquistato con successo! Hai una nuova card nella pagina personalizzazioni!</string>
     <string name="gestures_purchased">Floating gestures è stato acquistato con successo! Hai una nuova card home dell\'applicazione!</string>
     <string name="backup_purchased">Data backup è stato acquistato con successo! Hai una nuova card nella pagina strumenti!</string>
+    <string name="unity_purchased">Unity bars è stato acquistato con successo! Hai una nuova card nella pagina personalizzazioni!</string>
 
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Notification weather</string>
@@ -580,4 +590,13 @@
         <item>15</item>
         <item>20</item>
     </string-array>
+
+    <!-- Unity bars + Smart center -->
+    <string name="start_unity">Unity bars</string>
+    <string name="unity_left">Barra a sinistra</string>
+    <string name="unity_right">Barra a destra</string>
+    <string name="background_color">Colore di sfondo</string>
+    <string name="text_color">Colore del testo</string>
+    <string name="layer_color">Colore del layer</string>
+    <string name="battery_level">Livello di carica</string>
 </resources>

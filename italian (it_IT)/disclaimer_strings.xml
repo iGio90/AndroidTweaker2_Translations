@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="permissions">Dichiarazione dei permessi</string>
     <string name="disclaimer">- Alcune delle features disponibili in questa applicazione possono causare instabilità e, in rari casi, il brick del device. Tutti i tweaks ed i tools proposti sono testati e compatibili con tutti i device con una versione di Android pari o superiore al 4.0, questo non implica il fatto che non funzionino correttamente su versioni precedenti.
-        \n\n- Evitate di giocare con questa applicazione. La maggior parte delle funzionalità proposte in questa applicazione va a toccare e/o modificare il comportamento abituale del sistema in se. Vi invitiamo quindi ad utilizzare l'app con il cervello di cui diamo per scontato voi siate in possesso!.
+        \n\n- Evitate di giocare con questa applicazione. La maggior parte delle funzionalità proposte in questa applicazione va a toccare e/o modificare il comportamento abituale del sistema in se. Vi invitiamo quindi ad utilizzare l\'app con il cervello di cui diamo per scontato voi siate in possesso!.
         \n\n- Questa app NON da i permessi di root al tuo device, tuttavia, abbiamo aggiunto un pannello che vi consentirà di riceve istruzioni su come poter ottenere i permessi di root sul vostro dispositivo.
     </string>
+    <string name="perm_license">Questi permessi sono richiesti per verificare che l\'app sia stata correttamente installata attraverso lo store e non attraverso una copia pirata</string>
+    <string name="perm_billing">Questi permessi sono richiesti per abilitare gli acquisti in app presenti nel nostro shop interno</string>
+    <string name="perm_access_extra_location">Questi permessi sono richiesti per garantire il corretto funzionamento dei tweaks relativi al GPS, o da tutti gli addon che consentono di abilitare o disabilitare il GPS su richiesta</string>
+    <string name="perm_network">Questi permessi sono richiesti per consentire all\'app di connettersi ad internet. Sono inoltre utilizzati per tutti quei tweaks o addons che richiedono la modifica o l\'attivazione/disabilitazione di Wifi, rete dati, o sync…</string>
+    <string name="perm_bluetooth">Questi permessi sono richiesti da alcuni addons per interagire con l\'interfaccia bluetooth del dispositivo. Alcuni addons, quali smart actions o floating gestures, ti consentono di abilitare o disabilitare il bluetooth attraverso azione customizzate</string>
+    <string name="perm_general">Questi permessi sono richiesti per garantire ad alcuni addons, quali il backup/restore dei dati personali o le floating gestures, il corretto funzionamento</string>
+    <string name="perm_camera">Questi permessi sono richiesti da alcuni addons, quali le floating gestures, che attraverso azioni customizzate ti consentono di abilitare o disabilitare la torcia del telefono</string>
+    <string name="perm_accounts">Questi permessi sono richiesti all\'avvio dell\'applicazione per consentire di leggere il proprio indirizzo email e garantire features addizionali qual\'ora l\'indirizzo email in uso fosse inserito nei nostri database. Nessun indirizzo email viene salvato e/o inviato ai nostri server in quanto non vendiamo pubblicità o non abbiamo alcun servizio di newsletter!</string>
+    <string name="perm_boot">Molti addons disponibili all\'interno dell\'app hanno una funzione che consente di far ripartire alcuni servizi all\'avvio del telefono. Questi permessi garantiscono il corretto funzionamento di queste features</string>
+    <string name="perm_disclaimer">Ci teniamo a sottolineare che questa applicazione NON registra alcun dato. I contatti, gli indirizzi email e quanto altro di personale letto dall\'applicazione rimane all\'interno dell\'applicazione. Le uniche azioni che registriamo sono attraverso Google Analytics che ci consentono di sapere quanti utenti stanno utilizzando la nostra app e da quale paese.</string>
 </resources>
