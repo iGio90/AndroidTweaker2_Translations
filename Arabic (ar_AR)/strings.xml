@@ -12,7 +12,8 @@
     <string name="warning">تحذير</string>
     <string name="error">حدث خطا</string>
     <string name="checking">جاري التحقق من التبعيات...</string>
-    <string name="connectionc_error">Android tweaker يحتاج الى اتصال بالانترنت للتحقق من ترخيص التطبيق , يرجى وصل الجهاز و اعادة المحاولة.</string><string name="sure">هل انت متاكد ؟</string>
+    <string name="connectionc_error">Android tweaker يحتاج الى اتصال بالانترنت للتحقق من ترخيص التطبيق , يرجى وصل الجهاز و اعادة المحاولة.</string>
+    <string name="sure">هل انت متاكد ؟</string>
     <string name="wait">يرجى الانتظار…</string>
     <string name="updating">تحديث التبعيات...</string>
     <string name="toolchain_exist">الموارد المطلوبة موجودة بالفعل. يتم التخطي...</string>
@@ -77,7 +78,7 @@
     <string name="customization">التخصيصات</string>
     <string name="customization_summary">تخصيص نظام الاندرويد</string>
     <string name="changelog">سجل التغيرات</string>
-    <string name="changelog_summary">ملاحظات مفصلة عن التحريراتstring>
+    <string name="changelog_summary">مملاحظات مفصلة عن التحريرات</string>
     <string name="no_root">هذا التطبيق يتطلب الوصول إلىالروت من أجل الأعمال. اضغط هنا للحصولالروت على الجهاز الخاص بك</string>
     <string name="tweaker_store">متجر</string>
     <string name="tweaker_store_summary">شراء اضافات اخرى</string>
@@ -195,7 +196,7 @@
     <string name="error_report_summary">تعطيله يزيد من السرعة الاجمالية للهاتف و من عمر البطارية</string>
     <string name="ulog">تعطيل ال  uLog</string>
     <string name="ulog_summary">تعطيله يزيد من السرعة الاجمالية للهاتف و من عمر البطارية</string>
-    <string name="logcat"تعطيل ال  LogCat</string>
+    <string name="logcat">تعطيل ال  LogCat</string>
     <string name="logcat_summary">تعطيله يزيد من السرعة الاجمالية للهاتف و من عمر البطارية</string>
     <string name="kernel_error">ايقاف kernel errors</string>
     <string name="kernel_error_summary">تعطيله يزيد من السرعة الاجمالية للهاتف و من عمر البطارية</string>
