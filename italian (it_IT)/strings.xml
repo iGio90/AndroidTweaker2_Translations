@@ -142,6 +142,10 @@
     <string name="sleep_mode_summary">Cambia il comportamento dello sleep mode. Aiuta a ridurre il consumo della CPU durante la fase di standby</string>
     <string name="wifi_scan_interval">Intervallo dello scan wifi</string>
     <string name="wifi_scan_interval_summary">Riduce l\'intervallo di scan del wifi e riduce i consumi della batteria</string>
+    <string name="power_supply">Power supply</string>
+    <string name="power_supply_summary">Abilita o disabilita il power supply. Aiuta a ridurre i consumi della batteria</string>
+    <string name="sensor_sleep">Sensor sleep control</string>
+    <string name="sensor_sleep_summary">Abilita o disabilita il sensor sleep control. Aiuta a ridurre i consumi della batteria</string>
 
     <!--NETWORK-->
     <string name="default_net_speed">Velocità network di default</string>
@@ -595,8 +599,49 @@
     <string name="start_unity">Unity bars</string>
     <string name="unity_left">Barra a sinistra</string>
     <string name="unity_right">Barra a destra</string>
+    <string name="trigger_width">Larghezza trigger</string>
     <string name="background_color">Colore di sfondo</string>
     <string name="text_color">Colore del testo</string>
     <string name="layer_color">Colore del layer</string>
     <string name="battery_level">Livello di carica</string>
+
+    <!-- Auto Tweaker -->
+    <string name="auto_tweaker">Auto tweaker</string>
+    <string name="auto_tweaker_summary">Auto tweak per il tuo device con profili personalizzati</string>
+    <string name="take_a_sit">Questo processo potrebbe richiedere alcuni minuti. Goditi una tazza di caffè nel frattempo!</string>
+    <string name="profile_select">Scegli un profilo</string>
+    <string name="profile_performance">Performance</string>
+    <string name="profile_battery">Batteria</string>
+    <string name="profile_balanced">Bilanciato</string>
+    <string name="safety_select">Scegli il livello di sicurezza</string>
+    <string name="safety_safe">Tweaks sicuri</string>
+    <string name="safety_extreme">Extreme tweaks</string>
+
+    <!-- Benchmarks -->
+    <string name="benchmarks_title">Benchmarks</string>
+    <string name="benchmarks_summary">Controlla le performance del tuo dispositivo</string>
+    <string name="share_result">Condividi il tuo risultato</string>
+    <string name="my_score">Ecco il risultato ottenuto con Android Tweaker 2 benchmarks</string>
+    <string name="running">Lavorando…</string>
+    <string name="result">Risultati:</string>
+    <string name="speed">Velocità</string>
+    <string name="progress">Progresso</string>
+    <string name="network_type">Tipo di network</string>
+    <string name="test_all">Testa tutto</string>
+    <string name="hardware_info">Informazioni hardware</string>
+    <string name="cpu_test">CPU test</string>
+    <string name="io_test">IO test</string>
+    <string name="internal_storage">Memoria interna</string>
+    <string name="external_storage">Memoria esterna</string>
+    <string name="write_speed">Velocità di scrittura:</string>
+    <string name="read_speed">Velocità di lettura:</string>
+    <string name="network_test">Test velocità network</string>
+    <string name="connection_speed">Velocità connessione:</string>
+    <string name="network_edge">Network : EDGE</string>
+    <string name="network_3g">Network : 3G</string>
+    <string name="network_detecting">Network : Detecting</string>
+    <string name="update_speed">%s kbit/sec</string>
+    <string name="update_downloaded" formatted="false">Scaricati %s of %s</string>
+    <string name="update_connectionspeed">Tempo di connessione %s ms</string>
+    <string name="update_downloaded_complete" formatted="false">Scaricati %s @ %s kbit/sec</string>
 </resources>
