@@ -1,6 +1,9 @@
 Siamo lieti di annunciare Android Tweaker 2, il secondo capitolo di un app che ha riscosso molto successo nella comunità Android.
 
-Vi invitiamo ad entrare nella nostra community di Google Plus per ricevere notizie, aggiornamenti e segnalarci eventuali bug o problemi:
+Rimani aggiornato con le ultime news sul nostro sito ufficial: 
+http://bam-android.com
+
+Inoltre, invitiamo ad entrare nella nostra community di Google Plus per ricevere notizie, aggiornamenti e segnalarci eventuali bug o problemi:
 https://plus.google.com/communities/107522763082295690993
 
 Molti sono i cambiamenti dalla precedente versione:
@@ -17,6 +20,7 @@ I nuovi tweaks e tools:
 - Init.d scripts
 - DNS Manager
 - Density modder (DPI)
+- Benchmarks di IO, CPU, Network e hardware in generale
 - App Manager che ti consentirà di eseguire il backup dei tuoi dati applicazione e degli apk nonchè disinstallarli o bloccarli/sbloccarli
 - Bravia Engine v3 installer
 
