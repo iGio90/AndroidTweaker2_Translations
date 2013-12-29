@@ -17,6 +17,7 @@ The new tweaks and tools:
 - init.d scripts
 - DNS Manager
 - Density modder (DPI)
+- Benchmarks for IO, CPU, Network speed and general hardware
 - App manager that allows you to backup your data/apk for each application, uninstaller, freeze/unfreeze and schedule backups!
 - Bravia Engine v3 installer
 

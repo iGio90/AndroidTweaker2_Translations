@@ -621,4 +621,43 @@
     <string name="text_color">Text color</string>
     <string name="layer_color">Layer color</string>
     <string name="battery_level">Battery level</string>
+
+    <!-- Auto Tweaker -->
+    <string name="auto_tweaker">Auto tweaker</string>
+    <string name="auto_tweaker_summary">Auto tweak your device with custom profiles</string>
+    <string name="take_a_sit">This process may take a few minutes. Get a cup of coffee in the meantime!</string>
+    <string name="profile_select">Choose a profile</string>
+    <string name="profile_performance">Performance</string>
+    <string name="profile_battery">Battery</string>
+    <string name="profile_balanced">Balanced</string>
+    <string name="safety_select">Choose safety level</string>
+    <string name="safety_safe">Safe tweaks</string>
+    <string name="safety_extreme">Extreme tweaks</string>
+
+    <!-- Benchmarks -->
+    <string name="benchmarks_title">Benchmarks</string>
+    <string name="benchmarks_summary">Check your device performance score</string>
+    <string name="share_result">Share your results</string>
+    <string name="running">Running…</string>
+    <string name="result">Results:</string>
+    <string name="speed">Speed</string>
+    <string name="progress">Progress</string>
+    <string name="network_type">Network type</string>
+    <string name="test_all">Test all</string>
+    <string name="hardware_info">Hardware information</string>
+    <string name="cpu_test">CPU test</string>
+    <string name="io_test">IO test</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="external_storage">External storage</string>
+    <string name="write_speed">Write speed:</string>
+    <string name="read_speed">Read speed:</string>
+    <string name="network_test">Network speed test</string>
+    <string name="connection_speed">Connection speed:</string>
+    <string name="network_edge">Network : EDGE</string>
+    <string name="network_3g">Network : 3G</string>
+    <string name="network_detecting">Network : Detecting</string>
+    <string name="update_speed">%s kbit/sec</string>
+    <string name="update_downloaded" formatted="false">Downloaded %s of %s</string>
+    <string name="update_connectionspeed">Connection time %s ms</string>
+    <string name="update_downloaded_complete" formatted="false">Downloaded %s @ %s kbit/sec</string>
 </resources>
