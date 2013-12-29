@@ -591,7 +591,7 @@
     <string name="warning_incompletedata_import">الاستيراد %s من المرجح ان لا يكتمل.</string>
     <string name="warning_incompletedata_export">التصدير %s من المرجح ان لا يكتمل</string>
     <string-array name="settings_cyclecountvalues">
-        <item>Unlimited</item>
+        <item>غير محدود</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
