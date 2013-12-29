@@ -294,7 +294,7 @@
 
     <!-- SHOP -->
     <string name="details">Details</string>
-    <string name="shop_no_ads">Remove ads</string>
+    <string name="shop_no_ads">Werbung entfernen</string>
     <string name="no_ads_purchased">Thanks for your donation! The ads are gone now!</string>
     <string name="shop_screen_state" translatable="false">Smart actions</string>
     <string name="screen_state_not_purchased">You didn\'t purchase the smart actions tool</string>
