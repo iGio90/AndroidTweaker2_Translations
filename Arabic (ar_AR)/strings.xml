@@ -12,8 +12,7 @@
     <string name="warning">تحذير</string>
     <string name="error">حدث خطا</string>
     <string name="checking">جاري التحقق من التبعيات...</string>
-    <string name="connectionc_error">Android tweaker يحتاج الى اتصال بالانترنت للتحقق من ترخيص التطبيق , يرجى وصل الجهاز و اعادة المحاولة.</string>
-    <string name="sure">هل انت متاكد ؟</string>
+    <string name="connectionc_error">Android tweaker يحتاج الى اتصال بالانترنت للتحقق من ترخيص التطبيق , يرجى وصل الجهاز و اعادة المحاولة.</string><string name="sure">هل انت متاكد ؟</string>
     <string name="wait">يرجى الانتظار…</string>
     <string name="updating">تحديث التبعيات...</string>
     <string name="toolchain_exist">الموارد المطلوبة موجودة بالفعل. يتم التخطي...</string>
@@ -78,7 +77,7 @@
     <string name="customization">التخصيصات</string>
     <string name="customization_summary">تخصيص نظام الاندرويد</string>
     <string name="changelog">سجل التغيرات</string>
-    <string name="changelog_summary">مملاحظات مفصلة عن التحريرات</string>
+    <string name="changelog_summary">ملاحظات مفصلة عن التحريراتstring>
     <string name="no_root">هذا التطبيق يتطلب الوصول إلىالروت من أجل الأعمال. اضغط هنا للحصولالروت على الجهاز الخاص بك</string>
     <string name="tweaker_store">متجر</string>
     <string name="tweaker_store_summary">شراء اضافات اخرى</string>
@@ -196,7 +195,7 @@
     <string name="error_report_summary">تعطيله يزيد من السرعة الاجمالية للهاتف و من عمر البطارية</string>
     <string name="ulog">تعطيل ال  uLog</string>
     <string name="ulog_summary">تعطيله يزيد من السرعة الاجمالية للهاتف و من عمر البطارية</string>
-    <string name="logcat">تعطيل ال  LogCat</string>
+    <string name="logcat"تعطيل ال  LogCat</string>
     <string name="logcat_summary">تعطيله يزيد من السرعة الاجمالية للهاتف و من عمر البطارية</string>
     <string name="kernel_error">ايقاف kernel errors</string>
     <string name="kernel_error_summary">تعطيله يزيد من السرعة الاجمالية للهاتف و من عمر البطارية</string>
@@ -221,377 +220,376 @@
 
     <!-- GPS -->
     <string name="disable_network_location">الموقع من الشبكة</string>
-    <string name="disable_network_location_summary">Disable network location services</string>
-    <string name="gps_update_server_last_date">Last update:</string>
-    <string name="gps_update_server">GPS servers update</string>
-    <string name="gps_update_server_last_server">Today active servers:</string>
-    <string name="gps_update_updating">Updating…</string>
-    <string name="gps_update_choose_continent">Continent</string>
-    <string name="gps_update_choose_state">Country code</string>
-    <string name="gps_update_dialog_title">Setup the servers</string>
-    <string name="reset_gps_config">Restore original config</string>
-    <string name="original_config_not_found">Original config file not found!</string>
+    <string name="disable_network_location_summary">ايقاف خدمة تحديد الموقع</string>
+    <string name="gps_update_server_last_date">التحديث الاخير:</string>
+    <string name="gps_update_server">تحديثات سيرفيرات الجي بي اس:</string>
+    <string name="gps_update_server_last_server">السيرفييرات الفعالة اليوم:</string>
+    <string name="gps_update_updating">تحديث…</string>
+    <string name="gps_update_choose_continent">القارة</string>
+    <string name="gps_update_choose_state">كود البلد</string>
+    <string name="gps_update_dialog_title">اعداد السيرفير</string>
+    <string name="reset_gps_config">استعادة الضبط الاساسي</string>
+    <string name="original_config_not_found">الضبط الاساسي غير متوفر!</string>
 
     <!-- TOOLS -->
     <string name="zipaling" translatable="false">Zipalign</string>
-    <string name="zipaling_summary">Optimize your installed apps and system apps</string>
-    <string name="zipalign_all">Zipalign all apps</string>
-    <string name="zipaligning">Zipaligning:\n\n</string>
-    <string name="already_aligned">This app is already zipaligned</string>
+    <string name="zipaling_summary">تحسين البرامج المثبتة و برامج النظام</string>
+    <string name="zipalign_all">Zipalign كل البرامج</string>
+    <string name="zipaligning">عملية ال zipaligning بدات</string>
+    <string name="already_aligned">هذا البرنامج تمت عملية ال zipaligning مسبقا</string>
     <string name="sql_defrag">SQL defrag</string>
-    <string name="sql_defrag_summary">Speed up and optimize your SQL databases</string>
+    <string name="sql_defrag_summary">تسريع و تحسين SQL databases</string>
     <string name="sql_defrag_init">Defrag all SQL databases</string>
     <string name="sql_defrag_last">Last SQL defrag:</string>
-    <string name="sql_report_last">Last SQL report:</string>
-    <string name="sql_setting_up">Setting up environment</string>
-    <string name="sql_executing">Running…</string>
-    <string name="sql_must_reboot">At the end of this process your device will be rebooted. Continue?</string>
-    <string name="cache_cleaner">Cache cleaner</string>
-    <string name="cache_cleaner_summary">Clean up cache partitions and dalvik cache</string>
-    <string name="cache_cleaner_run">Launch cache cleaner</string>
-    <string name="cache_clear">Cache</string>
+    <string name="sql_report_last">تقرير ال SQL الاخير:</string>
+    <string name="sql_setting_up">إعداد بيئة</string>
+    <string name="sql_executing">بدأت العملية…</string>
+    <string name="sql_must_reboot">ي نهاية هذه العملية سيتم إعادة تشغيل جهازك. المتابعة؟</string>
+    <string name="cache_cleaner">منظف ال cache</string>
+    <string name="cache_cleaner_summary">تنظيف ال  cache و dalvik cache</string>
+    <string name="cache_cleaner_run"> تشغيل منظف ال كاش</string>
+    <string name="cache_clear">كاش</string>
     <string name="cache_dalvik_clear">Dalvik cache</string>
-    <string name="cache_cleaner_last">Cache cleaned:</string>
-    <string name="cache_cleaner_dalvik_last">Dalvik cleaned:</string>
-    <string name="cache_available">Cache space available:</string>
-    <string name="enable_custom_dns">Custom DNS</string>
-    <string name="current_dns">Current DNS</string>
-    <string name="original_dns">Stock DNS</string>
-    <string name="primary_dns">Primary DNS</string>
-    <string name="secondary_dns">Secondary DNS</string>
-    <string name="apply_dns">Apply</string>
-    <string name="dns_apply">Set DNS to:</string>
-    <string name="dns_progress">Applying DNS…</string>
-    <string name="dns_restoreing">Restoring original DNS…</string>
+    <string name="cache_cleaner_last">الكش الذي تم تنظيفه:</string>
+    <string name="cache_cleaner_dalvik_last">الدالفك كاش الذي تم تنظيفه:</string>
+    <string name="cache_available">مساحة الكاش المتوفرة:</string>
+    <string name="enable_custom_dns">تخصيص ال DNS</string>
+    <string name="current_dns">ال DNS الحالي</string>
+    <string name="original_dns">ال DNS الاصلي</string>
+    <string name="primary_dns">ال DNS الاساسي</string>
+    <string name="secondary_dns">ال DNS الثانوي</string>
+    <string name="apply_dns">تطبيق</string>
+    <string name="dns_apply">تحديد ال DNS  الى:</string>
+    <string name="dns_progress">تطبيق ال DNS…</string>
+    <string name="dns_restoreing">استعادة ال DNS الاساسي…</string>
 
     <!-- INITD -->
-    <string name="initd_error">Your device doesn\'t support Init.D tweaks</string>
-    <string name="title_general_performance_initd_summary">Collection of init.d scripts that will increase the performances on your device</string>
-    <string name="title_battery_initd_summary">Collection of init.d scripts that will extend the battery life of your device</string>
-    <string name="title_network_initd_summary">Collection of init.d scripts that will tune your network speed</string>
-    <string name="title_misc_initd_summary">Collection of miscellaneous init.d scripts</string>
-    <string name="initd_strict_min_free">Strict min free</string>
-    <string name="initd_strict_min_free_summary">Tune low memory killer</string>
-    <string name="initd_vm_management">VM Management</string>
-    <string name="initd_vm_management_summary">Tune virtual memory management</string>
-    <string name="initd_improve_sd">SDCard</string>
-    <string name="initd_improve_sd_summary">Increase SDCard and Micro SDCard speed</string>
-    <string name="initd_normalize_sleeper">Normalize sleeper</string>
-    <string name="initd_normalize_sleeper_summary">Disable kernel normalize sleeper</string>
+    <string name="initd_error">جهازك لا يمكن تحديد ال INIT.D خاصته</string>
+    <string name="title_general_performance_initd_summary">مجموعة من وثائق ال INIT.D التي تحسن من اداء الجهاز</string>
+    <string name="title_battery_initd_summary">مجموعة من وثائق ال INIT.D التي تحسن من اداء البطارية</string>
+    <string name="title_network_initd_summary">مجموعة من وثائق ال INIT.D التي تحسن من اداء الشبكة</string>
+    <string name="title_misc_initd_summary">مجموعة متنوعة من وثائق ال INIT.D</string>
+    <string name="initd_strict_min_free">تحديد الرام المطلق</string>
+    <string name="initd_strict_min_free_summary">تعديل منظم الرام</string>
+    <string name="initd_vm_management">ادارة ال VM</string>
+    <string name="initd_vm_management_summary">تعديل مدير الذاكرة الافتراضية</string>
+    <string name="initd_improve_sd">بطاقة الذاكرة</string>
+    <string name="initd_improve_sd_summary">تسريع بطاقة الذاكرة و بطاقة الذاكرة الخارجية</string>
+    <string name="initd_normalize_sleeper">تطبيع النوم</string>
+    <string name="initd_normalize_sleeper_summary">تطبيع نوم الكيرنال</string>
 
     <!-- DAEMON -->
-    <string name="enable_daemon">Enable smart actions</string>
-    <string name="disable_daemon">Disable smart actions</string>
-    <string name="enable_daemon_boot">Persistence</string>
-    <string name="enable_daemon_boot_summary">Launch this service when the device is turned on</string>
+    <string name="enable_daemon">تشغيل الاجرائات الذكية</string>
+    <string name="disable_daemon">ايقاف الاجرائات الذكية</string>
+    <string name="enable_daemon_boot">تصلب</string>
+    <string name="enable_daemon_boot_summary">تشغيل هذه الخدمة عند تشغيل الجهاز</string>
     <string name="screen_state" translatable="false">Smart actions</string>
-    <string name="screen_state_summary">Set custom actions when screen turns off/on</string>
-    <string name="screen_state_notification">Smart bar</string>
-    <string name="screen_state_notification_summary">Add smart actions widgets to the notification drawer</string>
-    <string name="screen_state_battery">Low battery</string>
-    <string name="screen_state_battery_summary">Enable actions only if battery is less then 20%</string>
-    <string name="screen_state_wifi">Wifi</string>
-    <string name="screen_state_wifi_summary">Disable wifi when the screen goes off</string>
-    <string name="screen_state_bluetooth">Bluetooth</string>
-    <string name="screen_state_bluetooth_summary">Disable bluetooth when the screen goes off</string>
-    <string name="screen_state_data">Data</string>
-    <string name="screen_state_data_summary">Disable data when the screen goes off</string>
-    <string name="screen_state_sync">Sync</string>
-    <string name="screen_state_sync_summary">Disable sync when the screen goes off</string>
+    <string name="screen_state_summary">ضبط إجراءات مخصصة عندما يتحول الشاشة غير فعالة / فعالة</string>
+    <string name="screen_state_notification">الشريط الذكي</string>
+    <string name="screen_state_notification_summary">إضافة إجراءات الحاجيات الذكية إلى درج إعلام</string>
+    <string name="screen_state_battery">البطارية المنخفضة</string>
+    <string name="screen_state_battery_summary">تمكين الإجراءات فقط إذا كانت البطارية أقل من 20٪</string>
+    <string name="screen_state_wifi">الواي فاي</string>
+    <string name="screen_state_wifi_summary">تعطيل الوايفي عند اطفاء الشاشة</string>
+    <string name="screen_state_bluetooth">البلوتوث</string>
+    <string name="screen_state_bluetooth_summary">تعطيل البلوتوث عندما اطفاء الشاشة</string>
+    <string name="screen_state_data">المعطيات</string>
+    <string name="screen_state_data_summary">تعطيل المعطيات عند اطفاء الشاشة</string>
+    <string name="screen_state_sync">مزامنة</string>
+    <string name="screen_state_sync_summary">تعطيل المزامنة عند اطفاء الشاشة</string>
 
     <!-- CUSTOMIZATION -->
-    <string name="no_customization_owned">No customization available</string>
-    <string name="no_customization_owned_summary">There isn\'t any customization available on your Android Tweaker 2. Visit the shop to get some!</string>
+    <string name="no_customization_owned">لا تعديلات متاحة</string>
+    <string name="no_customization_owned_summary">لا يوجد تعديلات متاحة للبرنامج, الرجاء زيارة المتجر للحصول على البعض !</string>
     <string name="font_manager" translatable="false">Font manager</string>
-    <string name="font_manager_summary">Install custom fonts on your device</string>
-    <string name="backup_font">Backing up current font to allows you to restore in future</string>
-    <string name="installing_font">Installing font…</string>
-    <string name="install_font">Do you want to install</string>
-    <string name="reset_font">Set original Roboto font?</string>
+    <string name="font_manager_summary">تثبيت خطوط اضافية على الجهاز</string>
+    <string name="backup_font">الحصول على نسخة احتياطية للخط الموجود</string>
+    <string name="installing_font">تركيب الخط…</string>
+    <string name="install_font">هل تريد تركيب الخط</string>
+    <string name="reset_font">استرجاع الخط الاساسي ؟</string>
 
     <!-- SHOP -->
-    <string name="details">Details</string>
-    <string name="shop_no_ads">Remove ads</string>
-    <string name="no_ads_purchased">Thanks for your donation! The ads are gone now!</string>
+    <string name="details">التفاصيل</string>
+    <string name="shop_no_ads">ازالة الاعلانات</string>
+    <string name="no_ads_purchased">شكرا على التبرع ! تم ازالة الاعلانات !</string>
     <string name="shop_screen_state" translatable="false">Smart actions</string>
-    <string name="screen_state_not_purchased">You didn\'t purchase the smart actions tool</string>
-    <string name="screen_state_purchased">Smart actions has been purchased! You got a new card on the main page!</string>
-    <string name="font_manager_purchased">Font manager has been purchased! You got a new card on the customization page!</string>
-    <string name="noty_weather_purchased">Notification weather has been purchased! You got a new card on the customization page!</string>
-    <string name="gestures_purchased">Floating gestures has been purchased! You got a new card on the customization page!</string>
-    <string name="backup_purchased">Data backup has been purchased! You got a new card on the tools page!</string>
+    <string name="screen_state_not_purchased">لم تقم بشراء هذه الاداة</string>
+    <string name="screen_state_purchased">هذه الاداة تم شرائها بالفعل ! اذهب اللى القائمة الرئيسية!</string>
+    <string name="font_manager_purchased">مدير الخط تم شرائه بالفعل ! اذهب الى القائمة الرئيسية!</string>
+    <string name="noty_weather_purchased">Notification weather تم شرائها بالفعل !</string>
+    <string name="gestures_purchased">تم شراء الفئات العئمة بالفعل !!</string>
+    <string name="backup_purchased">تم شراء ال DATA BACKUP بالفعل!</string>
 
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Notification weather</string>
-    <string name="enable_weather_noty_summary">Add weather into notification drawer</string>
-    <string name="building_weather_noty">Hold on! I\'m building your new weather notification</string>
-    <string name="weather_use_gps">Use GPS</string>
-    <string name="gps_disabled">Enable GPS</string>
-    <string name="gps_disabled_summary">Tap here to enable your GPS</string>
-    <string name="weather_prior">High priority</string>
-    <string name="weather_prior_summary">Keep weather notification on top</string>
-    <string name="setting_custom_location">Your custom location is set to:</string>
-    <string name="weather_null">Not available</string>
-    <string name="title_weather_location">Weather location</string>
-    <string name="title_weather_customization">Weather customization</string>
-    <string name="title_weather_colors">Weather colors</string>
-    <string name="weather_fah">Fahrenheit</string>
+    <string name="enable_weather_noty_summary">إضافة إلى الطقس درج إعلام</string>
+    <string name="building_weather_noty">انتظر دقيقة ! كي تتم اضافة معلومات الطقص</string>
+    <string name="weather_use_gps">استعمال الجي بي اس</string>
+    <string name="gps_disabled">تشغبل الجي بي اس</string>
+    <string name="gps_disabled_summary">اضغط هنا لتشغيل الجي بي اس</string>
+    <string name="weather_prior">الاولوية العليا</string>
+    <string name="weather_prior_summary">ابقاء معلومات الطقس في الاعلى</string>
+    <string name="setting_custom_location">موقعك المختار هو :</string>
+    <string name="weather_null">غير متوفر</string>
+    <string name="title_weather_location">موقع الطقس</string>
+    <string name="title_weather_customization">تغيير و تعديل اداة الطقس</string>
+    <string name="title_weather_colors">الوان اداة الطقص</string>
+    <string name="weather_fah">فهرنهايت</string>
     <string name="weather_fah_summary">Use fahrenheit instead of celsius</string>
-    <string name="weather_actions">Weather action</string>
-    <string name="weather_actions_summary">If enabled, weather will be updated if notification receive a click</string>
-    <string name="reset_colors">Reset color</string>
+    <string name="weather_actions">مفاعيل الطقس</string>
+    <string name="weather_actions_summary">اذا فعلت , يتم تحديث معلومات الطقص عند الضغط عليها</string>
+    <string name="reset_colors">استعادة الالوان الافتراضية</string>
     <string-array name="weather_conditions">
-        <item>tornado</item>
-        <item>tropical storm</item>
-        <item>hurricane</item>
-        <item>severe thunderstorms</item>
-        <item>thunderstorms</item>
-        <item>mixed rain and snow</item>
-        <item>mixed rain and sleet</item>
-        <item>mixed snow and sleet</item>
-        <item>freezing drizzle</item>
-        <item>drizzle</item>
-        <item>freezing rain</item>
-        <item>showers</item>
-        <item>showers</item>
-        <item>snow flurries</item>
-        <item>light snow showers</item>
-        <item>blowing snow</item>
-        <item>snow</item>
-        <item>hail</item>
-        <item>sleet</item>
-        <item>dust</item>
-        <item>foggy</item>
-        <item>haze</item>
-        <item>smoky</item>
-        <item>blustery</item>
-        <item>windy</item>
-        <item>cold</item>
-        <item>cloudy</item>
-        <item>mostly cloudy</item>
-        <item>mostly cloudy</item>
-        <item>partly cloudy</item>
-        <item>partly cloudy</item>
-        <item>clear (night)</item>
-        <item>sunny</item>
-        <item>fair</item>
-        <item>fair</item>
-        <item>mixed rain and hail</item>
-        <item>hot</item>
-        <item>isolated thunderstorms</item>
-        <item>scattered thunderstorms</item>
-        <item>scattered thunderstorms</item>
-        <item>scattered showers</item>
-        <item>heavy snow</item>
-        <item>partly cloudy</item>
-        <item>thundershowers</item>
-        <item>snow showers</item>
-        <item>isolated thundershowers</item>
+        <item>زوبعة</item>
+        <item>عاصفة استوائية</item>
+        <item>اعصار</item>
+        <item>عاصفة رعدية شديدة</item>
+        <item>عاصفة رعدية</item>
+        <item>امطار و ثلوج</item>
+        <item>مطر مع مطر جليدي</item>
+        <item> مع مطر متجمدثلوج</item>
+        <item>رذاذ مجمد</item>
+        <item>رذاذ</item>
+        <item>مطر متجمد</item>
+        <item>امطار متفرقة</item>
+        <item>امطار متفرقة</item>
+        <item>هبات ثلوج</item>
+        <item>lثلوج متفرقة و قليلة</item>
+        <item>ثلوج كثيفة</item>
+        <item>ثلوج</item>
+        <item>برد</item>
+        <item>مطر متجمد</item>
+        <item>غبار</item>
+        <item>ضباب</item>
+        <item>ضباب</item>
+        <item>دخان</item>
+        <item>متبجح</item>
+        <item>عاصف</item>
+        <item>بارد</item>
+        <item>غائم</item>
+        <item>غائم بشدة</item>
+        <item>غائم بشدة</item>
+        <item>غائم قليلا</item>
+        <item>غائم قليلا</item>
+        <item>ليلة صافية</item>
+        <item>مشمس</item>
+        <item>معتدل</item>
+        <item>معتدل</item>
+        <item>مطر و برد</item>
+        <item>حار</item>
+        <item>هبوب عواصف رعدية متفرقة</item>
+        <item>عواصف رعدية متفرقة</item>
+        <item>عواصف رعدية متفرقة</item>
+        <item>مطار متفرقة</item>
+        <item>الثلوج الكثيفة</item>
+        <item>غائم جزئيا</item>
+        <item>زخات مطر رعدية</item>
+        <item>زخات الثلج</item>
+        <item>زخات مطر رعدية معزولة</item>
     </string-array>
 
     <string-array name="week_day">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+        <item>الاحد</item>
+        <item>الاثنين</item>
+        <item>الثلثاء</item>
+        <item>الاربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعة</item>
+        <item>السبت</item>
     </string-array>
 
     <!-- Density modder -->
-    <string name="density_modder">Density modder</string>
-    <string name="density_modder_summary">Customize the density (DPI) of your screen!</string>
-    <string name="nav_bar">Navigation bar</string>
-    <string name="nav_bar_summary">Enable navigation bar on device that doesn\'t have it enabled by default. This is not working on every device… Once enabled, don\'t forget to tap the save button</string>
-    <string name="current_density">Current density:</string>
-    <string name="is_tablet">You can\'t remove navigation bar from your device!</string>
+    <string name="density_modder">معدل الدانسيتي dpi</string>
+    <string name="density_modder_summary">عدل الدانسيتي (dpi)الخاصة بجهازك!</string>
+    <string name="nav_bar">سريط التنفل (NAV-B)</string>
+    <string name="nav_bar_summary">تشغيل شريط التنقل (NAV-B) على الجهاز الذي لا يتوفر فيه شريط التنقل بشكل افتراضي...قد لا يعمل على كل الاجهزة...لا تنسى الضغط لى الحفظ قبل الخروج...</string>
+    <string name="current_density">الدانسيتي الحالية:</string>
+    <string name="is_tablet">لا يمكنك ازالة شريط التنقل من جهازك !</string>
 
     <!-- Custom gestures -->
-    <string name="custom_gestures_title">Floating gestures</string>
-    <string name="custom_gestures_summary">Create custom gestures</string>
-    <string name="custom_gestures_pause">Floating gestures is in pause</string>
-    <string name="custom_gestures_enable">Enable</string>
-    <string name="custom_gestures_close">Close</string>
-    <string name="gestures_android_action">Android actions</string>
-    <string name="gestures_application">Applications</string>
-    <string name="gestures_call">Quick call</string>
-    <string name="gestures_sms">Quick SMS</string>
-    <string name="gestures_action_home">Home</string>
-    <string name="gestures_action_torch">Torch</string>
-    <string name="gestures_action_ringer">Ringer mode</string>
-    <string name="button_add">Add gesture</string>
-    <string name="button_reload">Reload</string>
-    <string name="button_discard">Discard</string>
-    <string name="button_done">Done</string>
-    <string name="prompt_gesture_name">Name</string>
-    <string name="error_missing_name">You must enter a name</string>
-    <string name="error_duplicate_name">This name is already in my database</string>
-    <string name="save_success">Gesture saved in %s</string>
-    <string name="rename_action">OK</string>
-    <string name="cancel_action">Cancel</string>
-    <string name="gestures_loading">Loading gestures…</string>
-    <string name="gestures_empty">No gestures</string>
-    <string name="gestures_activity">Gestures</string>
-    <string name="gestures_rename">Rename</string>
-    <string name="gestures_delete">Delete</string>
-    <string name="gestures_delete_success">Gesture deleted</string>
-    <string name="gestures_rename_title">Rename gesture</string>
-    <string name="gestures_rename_label">Gesture name</string>
-    <string name="gestures_error_loading">Could not load %s. Make sure you have storage available.</string>
-    <string name="add_action">Add an action</string>
-    <string name="select_action">Select an action</string>
-    <string name="android_actions">Android actions</string>
-    <string name="gestures_pad_size">Half screen</string>
-    <string name="gestures_inverted_icon">Inverted icon</string>
+    <string name="custom_gestures_title">الافتات العائمة (gestures)</string>
+    <string name="custom_gestures_summary">تعيين لافتة عائمة</string>
+    <string name="custom_gestures_pause">الافتة العائمة في وضعية السكون</string>
+    <string name="custom_gestures_enable">تشغيل</string>
+    <string name="custom_gestures_close">غلق</string>
+    <string name="gestures_android_action">اجرائات الاندرويد</string>
+    <string name="gestures_application">البرامج</string>
+    <string name="gestures_call">الاتصال السريع</string>
+    <string name="gestures_sms">الرسالة القصيرة السريعة</string>
+    <string name="gestures_action_home">القائمة الرئيسية</string>
+    <string name="gestures_action_torch">المصباح</string>
+    <string name="gestures_action_ringer">وضع الرنين</string>
+    <string name="button_add">اضافة جاستر</string>
+    <string name="button_reload">تحديث</string>
+    <string name="button_discard">تخلص</string>
+    <string name="button_done">تم</string>
+    <string name="prompt_gesture_name">الاسم</string>
+    <string name="error_missing_name">عليك وضع اسم</string>
+    <string name="error_duplicate_name">هذا الاسم مستخدم بالفعل</string>
+    <string name="save_success">الجاستر حفظت %ث</string>
+    <string name="rename_action">نعم</string>
+    <string name="cancel_action">الغاء</string>
+    <string name="gestures_loading">تشغيل الجاستر...</string>
+    <string name="gestures_empty">لا يوجد جاستر...</string>
+    <string name="gestures_activity">جاسترات</string>
+    <string name="gestures_rename">تغيير الاسم</string>
+    <string name="gestures_delete">ازالة</string>
+    <string name="gestures_delete_success">تم ازالة الجاستر</string>
+    <string name="gestures_rename_title">تغيير اسم الجاستر</string>
+    <string name="gestures_rename_label">اسم الجاستر</string>
+    <string name="gestures_error_loading">تعذر وضع الجاستر %s .تاكد من وجود ذاكرة كافية</string>
+    <string name="add_action">اضافة اجراء</string>
+    <string name="select_action">اختر اجراء</string>
+    <string name="android_actions">اجرائات الاندرويد</string>
+    <string name="gestures_pad_size">نصف الشاشة</string>
+    <string name="gestures_inverted_icon">الوان معكوسة</string>
 
     <!-- App Manager -->
-    <string name="all_apps">All apps</string>
-    <string name="user_apps">User apps</string>
-    <string name="system_apps">System apps</string>
-    <string name="new_updated_apps">New and updated apps</string>
-    <string name="custom_list">Custom list</string>
-    <string name="backup">Backup</string>
-    <string name="restore">Restore</string>
-    <string name="backupConfirmation">Backup?</string>
-    <string name="restoreConfirmation">Restore?</string>
-    <string name="restoreApk">Restore apk</string>
-    <string name="restoreData">Restore data</string>
-    <string name="restoreBoth">Restore both</string>
-    <string name="backupApk">Backup apk</string>
-    <string name="backupData">Backup data</string>
-    <string name="backupBoth">Backup both</string>
-    <string name="radioApk">Apk</string>
-    <string name="radioData">Data</string>
-    <string name="radioBoth">Data + Apk</string>
-    <string name="de_selectAll">De/select all</string>
-    <string name="onlyApkBackedUp">Only apk</string>
-    <string name="onlyDataBackedUp">Only data</string>
-    <string name="refresh">Refresh</string>
-    <string name="batchbackup">Batch backup</string>
-    <string name="batchrestore">Batch restore</string>
-    <string name="search">Search</string>
-    <string name="searchHint">Search for apps</string>
-    <string name="deleteBackup">Delete backup</string>
-    <string name="uninstall">Uninstall</string>
-    <string name="uninstallProgress">Uninstalling</string>
-    <string name="showAll">Show all apps</string>
-    <string name="showOnlySystem">Show only system apps</string>
-    <string name="showOnlyUser">Show only user apps</string>
-    <string name="showNotBackedup">Show apps not backed up yet</string>
-    <string name="showNotInstalled">Show apps not installed</string>
-    <string name="showNewAndUpdated">Show new and updated apps</string>
-    <string name="showOldBackups">Show old backups</string>
-    <string name="showOnlyApkBackedUp">Show apps with only apk backed up</string>
-    <string name="showOnlyDataBackedUp">Show apps with only data backed up</string>
-    <string name="sortByLabel">Sort by label</string>
-    <string name="sortByPackageName">Sort by packagename</string>
-    <string name="sort">Sort and filters</string>
-    <string name="uninstallDialogMessage">Uninstall this app?</string>
-    <string name="deleteBackupDialogMessage">Delete backup files?</string>
-    <string name="noBackupYet">No backup yet</string>
-    <string name="restoreDataWithoutApkError">Cannot restore data without restoring apk, package is not installed: </string>
-    <string name="collectingData">Collecting package infos</string>
-    <string name="suCheck">Checking for superuser and busybox</string>
-    <string name="noSu">Couldn\'t get superuser permissions</string>
-    <string name="busyboxProblem">Couldn\'t find busybox. please check error log</string>
-    <string name="mkfileError">Couldn\'t create</string>
-    <string name="fallbackToDefault">Fall back to default</string>
-    <string name="backupFolderError">Please set the correct path in preferences and ensure it exists or is createable</string>
-    <string name="shellReturnSuccess">Success</string>
-    <string name="backupProgress">Backing up</string>
-    <string name="backupSuccess">Backup complete</string>
-    <string name="backupFailure">Error on backup</string>
-    <string name="restoreProgress">Restoring</string>
-    <string name="restoreSuccess">Restore complete</string>
-    <string name="restoreFailure">Error on restore</string>
-    <string name="batchSuccess">Operation complete</string>
-    <string name="batchFailure">Complete with errors</string>
-    <string name="errorDialogTitle">Errors occurred</string>
-    <string name="customListTitle">Custom list</string>
-    <string name="quickReboot">Quick reboot</string>
-    <string name="quickRebootMessage">Do you wish to restart userspace?</string>
-    <string name="enablePackageTitle">Enable for users</string>
-    <string name="disablePackageTitle">Disable for users</string>
-    <string name="prefs_title">Preferences</string>
-    <string name="prefs_timestamp">Use local date format</string>
-    <string name="prefs_acquireWakelock">Acquire wakelock</string>
-    <string name="prefs_summaryAcquireWakelock">Will speed up backups running in the background considerably but will consume more energy</string>
-    <string name="prefs_pathscategory">Custom paths</string>
-    <string name="prefs_pathBackupFolder">Backup folder</string>
-    <string name="prefs_summaryBackupFolder">Path to backup folder. leave blank for default.</string>
-    <string name="prefs_pathLogfile">Logfile</string>
+    <string name="all_apps">كل البرامج</string>
+    <string name="user_apps">البرامج الشخصية</string>
+    <string name="system_apps">برامج النظام</string>
+    <string name="new_updated_apps">البرامج الجديدة و تلك التي تم تحديثها</string>
+    <string name="custom_list">قائمة مخصصة</string>
+    <string name="backup">الاحتفظ بنسخة احتياطية</string>
+    <string name="restore">استعادة</string>
+    <string name="backupConfirmation">القيام بالعملية الاحتياط ؟</string>
+    <string name="restoreConfirmation">القيام بعملي الاستعادة المعطيات (data) ؟</string>
+    <string name="restoreApk">استعادة البرنامج</string>
+    <string name="restoreData">استعادة </string>
+    <string name="restoreBoth">استعادة الاثنين</string>
+    <string name="backupApk">نسخ احتياط من البرنامج</string>
+    <string name="backupData">نسخ احتياط من المعطيات</string>
+    <string name="backupBoth">احتياط من الاثنين</string>
+    <string name="radioApk">برنامج apk</string>
+    <string name="radioData">معطيات</string>
+    <string name="radioBoth">المعطيات + البرنامج</string>
+    <string name="de_selectAll">تحديد الكل\الغاء</string>
+    <string name="onlyApkBackedUp">فقط البرامج</string>
+    <string name="onlyDataBackedUp">فقط المعطيات</string>
+    <string name="refresh">تحديث</string>
+    <string name="batchbackup">تحديد الاحتياط</string>
+    <string name="batchrestore">تحديد الاستعادة</string>
+    <string name="search">بحث</string>
+    <string name="searchHint">بحث في البرامج</string>
+    <string name="deleteBackup">محو الاحتياط</string>
+    <string name="uninstall">الغاء التثبيت</string>
+    <string name="uninstallProgress">بدأ الغاء التثبيت</string>
+    <string name="showAll">اظهار كل البرامج</string>
+    <string name="showOnlySystem">اظهار كل برامج النظام</string>
+    <string name="showOnlyUser">اظهار كل البرامج الخاصة</string>
+    <string name="showNotBackedup">اظهار البرامج التي لم يكون احتياط لها</string>
+    <string name="showNotInstalled">اظهار البرامج الغير مثبتة</string>
+    <string name="showNewAndUpdated">اظهار البرامج الجديدة و تلك التي تم تحديثها</string>
+    <string name="showOldBackups">اظهار الاحتياط القديم</string>
+    <string name="showOnlyApkBackedUp">اظهار البرامج التي لها احتياط apk فقط</string>
+    <string name="showOnlyDataBackedUp">اظهار احتياط المعطيات فقط</string>
+    <string name="sortByLabel">ترتيب حسب التسمية</string>
+    <string name="sortByPackageName">ترتيب حسب الاسم</string>
+    <string name="sort">ترتيب حسب النوع</string>
+    <string name="uninstallDialogMessage">الغاء تثبيت هذا البرنامج ؟</string>
+    <string name="deleteBackupDialogMessage">اذالة احتياط المعطيات</string>
+    <string name="noBackupYet">لا احتياط متوفر</string>
+    <string name="restoreDataWithoutApkError">غير قادر على استعادة البرنامج بدون المعطيات</string>
+    <string name="collectingData">جمع معلومات حول الحزمة (apk)</string>
+    <string name="suCheck">تفحص وجود ال busybox و superuser</string>
+    <string name="noSu">غير قادلر على الحصول على موافقة ال superuser</string>
+    <string name="busyboxProblem">ال busybox غير متوفر .الرجاء التحقق من التقرير</string>
+    <string name="mkfileError">غير قادر على التطبيق</string>
+    <string name="fallbackToDefault">استعدة الضبط الاساسي</string>
+    <string name="backupFolderError">الرجاء اختيار المسار الصحيح في مكان الضبط و التاكد من وجوده او امكاني ايجاده</string>
+    <string name="shellReturnSuccess">نجح العمل</string>
+    <string name="backupProgress">عملية صنع الاحتياط بدات</string>
+    <string name="backupSuccess">اكتملت عملية الاحتياط</string>
+    <string name="backupFailure">فشلت عملية الاحتياط</string>
+    <string name="restoreProgress">عملية الاستعادة بدات</string>
+    <string name="restoreSuccess">نجحت عملية الاستعادة</string>
+    <string name="restoreFailure">فشلت عملية الاستعادة</string>
+    <string name="batchSuccess">نجحت العملية</string>
+    <string name="batchFailure">لم تنجح العملة بشكل كامل</string>
+    <string name="errorDialogTitle">حدث خطا ما</string>
+    <string name="customListTitle">قائمة مخصصة شخصيا</string>
+    <string name="quickReboot">اعادة تشغيل سريعة</string>
+    <string name="quickRebootMessage">هل تريد اعادة تشغيل اليوزر سبايس?</string>
+    <string name="enablePackageTitle">تفعيل للمستخدم</string>
+    <string name="disablePackageTitle">ايقاف للمستخدم</string>
+    <string name="prefs_title">الخيارات</string>
+    <string name="prefs_timestamp">استخدام التاريخ المحلي</string>
+    <string name="prefs_acquireWakelock">اكتساب الوايك لوك (wakelock)</string>
+    <string name="prefs_summaryAcquireWakelock">سوف تسرع عملية نسخ الاحتياط و لكن قد تستخدم طاقة اكثر</string>
+    <string name="prefs_pathscategory">مسار خاص</string>
+    <string name="prefs_pathBackupFolder">الفولدير الذي سبوضع الاحتياط فيه</string>
+    <string name="prefs_summaryBackupFolder">مكان وضع الاحتياط...اتركه فارغا لاختيار الملف المسبق</string>
+    <string name="prefs_pathLogfile">التقرير</string>
     <string name="prefs_summaryLogfile">Path to logfile. leave blank for default.</string>
     <string name="prefs_pathBusybox">Busybox</string>
-    <string name="prefs_summaryBusybox">Path to busybox executable. be sure it\'s correct. leave blank for default.</string>
-    <string name="prefs_oldBackups">Filter backups by age</string>
-    <string name="prefs_summaryOldBackups">Filter backups older than value in days. used with the filter \'show old backups\'</string>
-    <string name="prefs_copySelfApk">Copy own apk</string>
-    <string name="prefs_summaryCopySelfApk">Place a copy of oandbackup in the top level of the backup folder when backed up</string>
-    <string name="prefs_languages">Languages</string>
-    <string name="prefs_languageSystemDefault">System default</string>
-    <string name="sched_title">Scheduling</string>
-    <string name="sched_notificationMessage">Scheduled backup</string>
-    <string name="sched_interval">Interval in days</string>
-    <string name="sched_hourOfDay">Hour of day (0..23)</string>
-    <string name="sched_startingbackup">Starting scheduled backup</string>
-    <string name="sched_backupMode">Backup mode</string>
-    <string name="sched_timeLeft">Hours until next backup</string>
-    <string name="sched_addSchudule">Add schedule</string>
-    <string name="sched_customListUpdateButton">Update custom list</string>
+    <string name="prefs_summaryBusybox">مار ال busybox ...كن متاكدا من المسار او اتركه فارغا !</string>
+    <string name="prefs_oldBackups">تنقبة الاحتياطات بحسب العمر</string>
+    <string name="prefs_summaryOldBackups">تنقية الاحتياطات الاقل من عدد الايام المحددة زالمستخدم في المنقي الذ1ي يظهر الاحتياطات القديمة</string>
+    <string name="prefs_copySelfApk">نسخ ال apk</string>
+    <string name="prefs_summaryCopySelfApk">وضع نسخة من oandbackup في مستوى أعلى من مجلد النسخة الاحتياطية عندما تتم عملي نسخ الاحتياط</string>
+    <string name="prefs_languages">اللغات</string>
+    <string name="prefs_languageSystemDefault">لغة النظام الساسية</string>
+    <string name="sched_title">جدولة</string>
+    <string name="sched_notificationMessage">جدولة الاحتياطي</string>
+    <string name="sched_interval">المدة بالايام</string>
+    <string name="sched_hourOfDay">(الساعة في اليوم (0...23</string>
+    <string name="sched_startingbackup">بدا الاحتياط المجدول</string>
+    <string name="sched_backupMode">وضع النسخ الاحتياطي</string>
+    <string name="sched_timeLeft">المدة بالساعات قبل الاحتياطي التالي</string>
+    <string name="sched_addSchudule">اضافة جدول</string>
+    <string name="sched_customListUpdateButton">تحديث الائحة </string>
 
     <!-- Data backup -->
-    <string name="data_backup">Data backup</string>
-    <string name="data_backup_summary">Backup and restore your personal data</string>
-    <string name="menu_export">Export</string>
-    <string name="menu_exporteverything">Export everything</string>
-    <string name="menu_settings">Settings</string>
-    <string name="menu_about">About</string>
-    <string name="contextmenu_deletefile">Delete file</string>
-    <string name="contextmenu_deletedaydata">Delete this days data</string>
-    <string name="error_nosdcard">No SD-card present.</string>
-    <string name="error_unsupporteddatabasestructure">Unsupported database structure</string>
-    <string name="error_couldnotcreatebackupfolder">Could not create backupfolder (%s)</string>
-    <string name="error_somethingwentwrong">Something went wrong: %s.</string>
-    <string name="hint_nobackupsfound">No backups found\n\n
-        press the menu key to create some.</string>
-    <string name="hint_noexportdata">No data available for export.</string>
-    <string name="hint_exporting">Exporting %s &#8230;</string>
-    <string name="hint_existed">\"%s\" existed</string>
-    <string name="message_exportedto">Exported into %s.</string>
-    <string name="message_importsuccessful">Import successful.</string>
+    <string name="data_backup">نسخ احتياط من المعطيات</string>
+    <string name="data_backup_summary">نسخ احتياط او استعادته معطياتك الخاصة</string>
+    <string name="menu_export">اصدار</string>
+    <string name="menu_exporteverything">اصدار الكل</string>
+    <string name="menu_settings">الاعدادات</string>
+    <string name="menu_about">حول</string>
+    <string name="contextmenu_deletefile">الملف الممحي</string>
+    <string name="contextmenu_deletedaydata">محو معطيات هذه الايام</string>
+    <string name="error_nosdcard">لا يوجد بطاقة ذاكرة</string>
+    <string name="error_unsupporteddatabasestructure">قاعدة البيانات عير مدعومة</string>
+    <string name="error_couldnotcreatebackupfolder">غير قادر على ايجاد ملف للاحتياطي (%s)</string>
+    <string name="error_somethingwentwrong">حدث خطا ما . %s</string>
+    <string name="hint_nobackupsfound">لا يوجد احتياط متوفر ...الرجاء الضغط على  مفتاح القائمة لخلق البعض</string>
+    <string name="hint_noexportdata">لا توجد بيانات متاحة للتصدير.</string>
+    <string name="hint_exporting">التصدير %s &#8230;</string>
+    <string name="hint_existed">\"%s\" موجودة بالفعل</string>
+    <string name="message_exportedto">يصدر الى %s.</string>
+    <string name="message_importsuccessful">تم الاستيراد.</string>
     <plurals name="message_importsuccessful_skipped">
-        <item quantity="one">Import successful, but skipped 1 entry.</item>
-        <item quantity="other">Import successful, but skipped %d entries.</item>
+        <item quantity="one">استيراد ناجحة، ولكن تخطي 1</item>
+        <item quantity="other">استيراد ناجحة، ولكن تخطي ٪ d</item>
     </plurals>
-    <string name="message_skippedallentries">Skipped all entries.</string>
+    <string name="message_skippedallentries">تخطي كافة الإدخالات.</string>
     <plurals name="listentry_items">
-        <item quantity="one">1 item in</item>
-        <item quantity="other">%d items in</item>
+        <item quantity="one">يوجد عنصر 1</item>
+        <item quantity="other">يوجد عنصر %d</item>
     </plurals>
-    <string name="button_import">Import</string>
-    <string name="smsmessages">Short messages</string>
-    <string name="calllogs">Call logs</string>
-    <string name="bookmarks">Bookmarks</string>
-    <string name="userdictionary">User dictionary</string>
-    <string name="playlists">Playlists</string>
-    <string name="settings">Settings</string>
-    <string name="wifisettings">Wifi settings</string>
-    <string name="contacts">Contacts</string>
-    <string name="dialog_export">Export</string>
-    <string name="dialog_licenseagreement">License</string>
-    <string name="question_deletefile">Do you really want to delete the file %s?</string>
-    <string name="settings_category_cyclicbehavior">Cyclic behavior</string>
-    <string name="settings_cyclecount">Cycle count (experimental)</string>
-    <string name="settings_cyclecount_description">Max. number of backups of one type</string>
-    <string name="settings_category_storage">Storage</string>
-    <string name="settings_storagelocation">Storage location</string>
-    <string name="settings_storagelocation_description">Location of the backup files</string>
-    <string name="settings_storagelocation_hint">Standard external storage</string>
-    <string name="settings_hideincompletedatawarnings">Hide data warnings</string>
-    <string name="settings_hideincompletedatawarnings_description">Hide warnings about incomplete data and export</string>
-    <string name="warning_incompletedata_import">The import of the %s will be very likely incomplete.</string>
-    <string name="warning_incompletedata_export">The export of the %s will be very likely incomplete.</string>
+    <string name="button_import">استورد</string>
+    <string name="smsmessages">رسالة قصيرة</string>
+    <string name="calllogs">سجل المكالمات</string>
+    <string name="bookmarks">الاشعارات المرجعية</string>
+    <string name="userdictionary">قاموس المستخدم</string>
+    <string name="playlists">قوائم التشغيل</string>
+    <string name="settings">الاعدادات</string>
+    <string name="wifisettings">اعدادات ال واي فاي</string>
+    <string name="contacts">الاسماء</string>
+    <string name="dialog_export">التصدير</string>
+    <string name="dialog_licenseagreement">الرخصة</string>
+    <string name="question_deletefile">هل حقا تريد حذف الملف %s ؟</string>
+    <string name="settings_category_cyclicbehavior">السلوك الدوري</string>
+    <string name="settings_cyclecount">(العد الدوري (تجريبية</string>
+    <string name="settings_cyclecount_description">كحد أقصى. عدد النسخ الاحتياطية من نوع واحد</string>
+    <string name="settings_category_storage">التخزين</string>
+    <string name="settings_storagelocation">مكان التخزين</string>
+    <string name="settings_storagelocation_description">موقع ملفات النسخ الاحتياطي</string>
+    <string name="settings_storagelocation_hint">تخزين خارجية قياسية</string>
+    <string name="settings_hideincompletedatawarnings">اخفاء تحذيرات البيانات</string>
+    <string name="settings_hideincompletedatawarnings_description">إخفاء تحذيرات حول البيانات غير مكتملة والتصدير</string>
+    <string name="warning_incompletedata_import">الاستيراد %s من المرجح ان لا يكتمل.</string>
+    <string name="warning_incompletedata_export">التصدير %s من المرجح ان لا يكتمل</string>
     <string-array name="settings_cyclecountvalues">
         <item>Unlimited</item>
         <item>1</item>
