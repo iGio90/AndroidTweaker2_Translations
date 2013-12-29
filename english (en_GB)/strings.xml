@@ -145,6 +145,10 @@
     <string name="sleep_mode_summary">Change sleep mode behavior. Helps to relieve CPU pressure during sleep</string>
     <string name="wifi_scan_interval">Wifi scan interval</string>
     <string name="wifi_scan_interval_summary">Decrease wifi scan interval and saves some battery</string>
+    <string name="power_supply">Power supply</string>
+    <string name="power_supply_summary">Enable or disable power supply. Helps to decrease battery drain</string>
+    <string name="sensor_sleep">Sensor sleep control</string>
+    <string name="sensor_sleep_summary">Enable or disable sensor sleep control. Helps to decrease battery drain</string>
     
     <!-- NETWORK -->
     <string name="default_net_speed">Default network speed</string>
@@ -617,6 +621,7 @@
     <string name="start_unity">Unity bars</string>
     <string name="unity_left">Left bar</string>
     <string name="unity_right">Right bar</string>
+    <string name="trigger_width">Trigger width</string>
     <string name="background_color">Background color</string>
     <string name="text_color">Text color</string>
     <string name="layer_color">Layer color</string>
@@ -638,6 +643,7 @@
     <string name="benchmarks_title">Benchmarks</string>
     <string name="benchmarks_summary">Check your device performance score</string>
     <string name="share_result">Share your results</string>
+    <string name="my_score">Here is my scores with Android Tweaker 2 benchmarks</string>
     <string name="running">Running…</string>
     <string name="result">Results:</string>
     <string name="speed">Speed</string>
