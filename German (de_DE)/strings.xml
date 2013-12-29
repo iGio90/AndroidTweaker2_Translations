@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name" translatable="false">Android Tweaker 2</string>
-    <string name="reboot">Starten Sie Ihr Handy neu, um die Änderungen anzunehmen</string>
+    <string name="reboot">Starten Sie Ihr Handy neu, um die Änderungen vorzunehmen</string>
     <string name="apply">Änderungen speichern</string>
     <string name="exit">Erneut ZURÜCK drücken, um die App zu beenden</string>
     <string name="yes">Ja</string>
@@ -11,18 +11,18 @@
     <string name="cancel">Abbrechen</string>
     <string name="warning">Warnung</string>
     <string name="error">Fehler</string>
-    <string name="checking">Prüfe Abhängigkeiten…</string>
+    <string name="checking">Überprüfung läuft...</string>
     <string name="connectionc_error">Android Tweaker braucht eine aktive Verbindung um die App-Lizenz zu verifizieren. Bitte verbinden Sie sich mit einem Datendienst und versuchen es noch einmal.</string>
     <string name="sure">Sind Sie sicher?</string>
     <string name="wait">Bitte warten…</string>
-    <string name="updating">Aktualisiere Abhängigkeiten</string>
+    <string name="updating">Aktualisierungen</string>
     <string name="toolchain_exist">Benötige Resourcen sind bereits installiert. Überspringe...</string>
     <string name="require_busybox">Um dies ausführen zu können, musst du Busybox installiert haben. Bitte installiere Busybox bevor du dieses Tool benutzt.</string>
     <string name="require_sql">This action require SQL toolchain. If you are seeing this error it means your ROM doesn\'t support the SQL defragging tool.</string>
     <string name="size">Größe:</string>
     <string name="rate_explanation">Gib uns deine Meinung und helfe uns den Inhalt dieser Anwendung zu optimiere</string>
     <string name="rate_now">Jetzt bewerten</string>
-    <string name="understand">Ich verstehe</string>
+    <string name="understand">Zustimmen?</string>
 
     <!-- TIPS -->
     <string name="tips">Tipps:</string>
@@ -65,7 +65,7 @@
     <string name="changelog">Changelog</string>
     <string name="changelog_summary">Detailed release notes</string>
     <string name="no_root">Diese App benötigt Root zugriff um zu funktionieren. Tippe hier um Root zugriff zu erhalten</string>
-    <string name="tweaker_store">Laden</string>
+    <string name="tweaker_store">Zusätzliche In-App Käufe</string>
     <string name="tweaker_store_summary">Kaufe weitere Artikel für Android Tweaker 2</string>
 
     <!-- CONTACT -->
