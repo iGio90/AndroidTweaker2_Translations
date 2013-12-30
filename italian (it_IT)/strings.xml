@@ -32,6 +32,8 @@
     <string name="update">Aggiorna</string>
     <string name="remove">Rimuovi</string>
 
+    <string name="rate_us">Se hai trovato questa applicazione facile, intuitiva ed utile, non dimenticarti di lasciarci una tua recensione sullo store!\n\nPer qualsiasi problema, non esistate a contattarci tramite e-mail!</string>
+
     <!--TIPS-->
     <string name="tips">Suggerimenti:</string>
     <string name="tips_reset">Resetta suggerimenti</string>
