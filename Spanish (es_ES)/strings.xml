@@ -51,7 +51,8 @@
     <string name="tips_weather">Este addon te permite crear una notificación personalizada con informaciones meteorológicas basadas en tu locaclización GPS o una localización personalizada.</string>
     <string name="tips_gestures">Las floating gestures te permiten crear gestures personalizadas y asignarlas una acción. El icono flotante abrirá el gestures pad, ¡en el que puedes dibujar tus gestures personalizadas! ¡Mira el vídeo para ver cómo funciona!</string>
     <string name="tips_backup">Este addon te permite realizar copias de seguridad y restauraciones de tus datos personales, como mensajes, registro de llamadas. diccionarios, ajustes y más</string>
-
+    <string name="tips_unity">Este addon te permite crear Unity Bars totalmente personalizables, al estilo de Unity Launcher de Ubuntu, mediante un deslizamiento desde el extremo derecho o izquierdo de la pantalla. ¡Mira el vídeo para ver cómo funciona!</string>
+    
     <!-- HOME -->
     <string name="unlicensed">Por favor, compra una copia legítima de esta aplicación. Los desarrolladores ponen tiempo y dedicación para crear aplicaciones como ésta. ¡¡Deberías apoyar nuestro trabajo!!</string>
     <string name="root_check">Estado de root: </string>
@@ -302,12 +303,20 @@
     <!-- CUSTOMIZATION -->
     <string name="no_customization_owned">No hay personalización disponible</string>
     <string name="no_customization_owned_summary">No hay ninguna personalización disponible en tu Android Tweaker 2. ¡Visita la tienda para obtener algunas!</string>
+    <string name="unity_bars">Unity bars</string>
+    <string name="unity_bars_summary">Añade un launcher similar a Ubuntu Unity Bars</string>
     <string name="font_manager" translatable="false">Font manager</string>
     <string name="font_manager_summary">Instala fuentes personalizadas en tu dispositivo</string>
     <string name="backup_font">Realizar una copia de seguridad de tu fuente actual te permite restaurarla en el futuro</string>
     <string name="installing_font">Instalando fuente…</string>
     <string name="install_font">¿Seguro que quieres instalar?</string>
     <string name="reset_font">¿Establecer la fuente original Roboto?</string>
+    <string name="bravia_engine">Bravia Engine v3</string>
+    <string name="bravia_engine_summary">Mobile BRAVIA® Engine es un conjunto de algoritmos de procesadores de imagen de Sony-specific que se aplican al proceso de renderizado cuando se carga una imagen o un vídeo en la pantalla del smartphone</string>
+    <string name="install_bravia">Instalar Bravia</string>
+    <string name="remove_bravia">Desinstalar Bravia</string>
+    <string name="installing_bravia">Instalando Bravia Engine…</string>
+    <string name="removing_bravia">Desinstalando Bravia Engine…</string>
 
     <!-- SHOP -->
     <string name="details">Detalles</string>
@@ -320,7 +329,8 @@
     <string name="noty_weather_purchased">¡Notification weather ha sido comprado! ¡Has obtenido una nueva tarjeta en la página de personalización!</string>
     <string name="gestures_purchased">¡Floating gestures ha sido comprado! ¡Has obtenido una nueva tarjeta en la página de personalización!</string>
     <string name="backup_purchased">¡El realizador de copias de seguridad ha sido comprado! ¡Has obtenido una nueva tarjeta en la página de herramientas!</string>
-
+    <string name="unity_purchased">¡Unity bars ha sido comprado! ¡Has obtenido una nueva tarjeta en la página de personalización!</string>
+    
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Notificaciones de tiempo</string>
     <string name="enable_weather_noty_summary">Añadir el tiempo al cajón de notificaciones</string>
@@ -602,4 +612,52 @@
         <item>15</item>
         <item>20</item>
     </string-array>
+    
+    <!-- Unity bars + Smart center -->
+    <string name="start_unity">Unity bars</string>
+    <string name="unity_left">Barra izquierda</string>
+    <string name="unity_right">Barra derecha</string>
+    <string name="background_color">Color de fondo</string>
+    <string name="text_color">Color de texto</string>
+    <string name="layer_color">Color de capa</string>
+    <string name="battery_level">Nivel de batería</string>
+    
+    <!-- Auto Tweaker -->
+    <string name="auto_tweaker">Auto tweaker</string>
+    <string name="auto_tweaker_summary">Haz un Auto tweak a tu dispositivo con perfiles personalizados</string>
+    <string name="take_a_sit">Esto puede llevar unos minutos. ¡Tómate un café mientras tanto!</string>
+    <string name="profile_select">Selecciona un perfil</string>
+    <string name="profile_performance">Rendimiento</string>
+    <string name="profile_battery">Batería</string>
+    <string name="profile_balanced">Equilibrado</string>
+    <string name="safety_select">Seleccionar nivel de seguridad</string>
+    <string name="safety_safe">Tweaks de seguridad</string>
+    <string name="safety_extreme">Tweaks extremos</string>
+ 
+    <!-- Benchmarks -->
+    <string name="benchmarks_title">Benchmarks</string>
+    <string name="benchmarks_summary">Comprueba el valor de rendimiento de tu dispositivo</string>
+    <string name="share_result">Comparte tus resultados</string>
+    <string name="running">Ejecutando…</string>
+    <string name="result">Resultados:</string>
+    <string name="speed">Velocidad</string>
+    <string name="progress">Progreso</string>
+    <string name="network_type">Tipo de red</string>
+    <string name="test_all">Analizar todo</string>
+    <string name="hardware_info">Información de hardware</string>
+    <string name="cpu_test">Análisis de CPU</string>
+    <string name="io_test">Test de IO</string>
+    <string name="internal_storage">Almacenamiento interno</string>
+    <string name="external_storage">Almacenamiento externo</string>
+    <string name="write_speed">Velocidad de escritura:</string>
+    <string name="read_speed">Velocidad de lectura:</string>
+    <string name="network_test">Prueba de la velocidad de red</string>
+    <string name="connection_speed">Velocidad de conexión:</string>
+    <string name="network_edge">Red : EDGE</string>
+    <string name="network_3g">Red : 3G</string>
+    <string name="network_detecting">Red : Detectando</string>
+    <string name="update_speed">%s kbit/sec</string>
+    <string name="update_downloaded" formatted="false">Descargado %s of %s</string>
+    <string name="update_connectionspeed">Tiempo de conexión %s ms</string>
+    <string name="update_downloaded_complete" formatted="false">Descargado %s @ %s kbit/sec</string>
 </resources>
