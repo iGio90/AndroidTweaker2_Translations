@@ -35,6 +35,8 @@
     <string name="update">Update</string>
     <string name="remove">Remove</string>
 
+    <string name="rate_us">If you find this application clear, easy and useful, don\'t forget to leave us a review on the store!\n\nDo not hesitate to contact us by email for any problems!</string>
+
     <!-- TIPS -->
     <string name="tips">Tips:</string>
     <string name="tips_reset">Reset tips</string>
