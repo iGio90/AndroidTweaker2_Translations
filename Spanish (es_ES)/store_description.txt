@@ -18,6 +18,7 @@ Nuevos tweaks y herramientas:
 - Administrador de DNS.
 - Moderador de densidad (DPI).
 - Administrador de aplicaciones que te permite realizar copias de seguridad de tus datos/apk para cada aplicación, y a la vez tiene función de desinstalador root, congela y descongela aplicaciones,¡e incluye programador de copias de seguridad!
+- Instalador de Bravia Engine v3.
 
 Addons (Tienda):
 - Smart actions: con ellas, puedes personalizar el comportamiento de tu dispositivo cuando entra o sale del modo Standby ¡Aumenta la duración de la batería hacia un 300%! Incluye un widget y una barra de notificaciones opcional.
@@ -25,5 +26,6 @@ Addons (Tienda):
 - Notification weather: este addon te permite crear una notificación que mostrará información meteorológica basada en tu localización GPS o una localización personalizada. ¡Esta notificación es en gran medida personalizable, por medio de distintos colores y preferencias!
 - Floating gestures: este addon te permite crear gestures personalizadas y asignarlas una determinada acción. El icono flotante abrirá el gestures pad, en el que puedes dibujar tus gestures personalizadas.
 - Realizador se copias de seguridad de datos, que te permite realizar copias de seguridad y restaurar tus datos personales, como registro de llamadas, SMS, Favoritos ¡y mucho más!
+- Unity bars: un aporte de Ubuntu en forma de "launcher bars" con colores y opciones personalizables.
 
 ¡Compatible con todas las Stock y Custom ROMs, como CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slim, PAC, Samsung y HTC!
