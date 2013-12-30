@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="permissions">Declaración de permisos</string>
     <string name="disclaimer">- Algunas de las herramientas de esta aplicación pueden causar inestabilidad y, en algún caso extraño, que el dispositivo quede brick. Estos tweaks están pensados, a la vez que examinados, para funcionar en prácticamente cualquier dispositivo con Android 4.0+.
         \n\n- Evita jugar con esta aplicación. La mayoría de las herramientas presentes pueden modificar el comportamiento del sistema, por lo que deberías usarla con cabeza.
         \n\n- Esta aplicación no rootea tu dispositivo, a pesar de que hemos añadido un apartado para ayudarte a encontrar instrucciones sobre cómo rootearlo.
     </string>
+    <string name="perm_license">Estos permisos son requeridos para comprobar si la aplicación ha sido instalada a través de Play Store o descargada desde la web</string>
+    <string name="perm_billing">Estos permisos son requeridos para permitir a los usuarios de esta aplicación la compra de addons a través de nuestra tienda interna</string>
+    <string name="perm_access_extra_location">Estos permisos son requeridos para los Tweaks de GPS y locaclización, y para ciertos addons que permiten activar o desactivar la localización por red</string>
+    <string name="perm_network">Estos permisos son requeridos para permitir a la aplicación acceder a la web. Son también empleados para Tweaks de red y para la activación/desactivación de Wifi / Datos/ Sincronización a través de acciones personalizadas, como smart actions, floating gestures y demás…</string>
+    <string name="perm_bluetooth">Estos permisos son requeridos para permitir a ciertos addons como smart actions, floating gestures y demás interactuar con el Bluetooth del dispositivo y les permite activar o desactivar los servicios Bluetooth</string>
+    <string name="perm_general">Estos permisos son principalmente empleados por las copias de seguridad y restauraciones de datos privados del usuario y todos los addons, como floating gestures, que permite a los usuarios realizar llamadas, enviar SMS o interactuar con contactos por medio de acciones personalizadas</string>
+    <string name="perm_camera">Estos permisos son requeridos para permitir a los usuarios añadir acciones personalizadas para ejecutar la aplicación de cámara o activar/desactivar la linterna</string>
+    <string name="perm_accounts">Este permiso es requerido para recuperar las direcciones de email configurardas en el dispositivo. Ninguno de estos emails son almacenados en nuestras bases de datos. Esto se requiere para permitir a los desarrolladores de Android Tweaker 1 tener contenido desbloqueado y nos permitirá en un futuro establecer el desbloqueo personalizado de complementos. Un ejemplo de esto podría ser si algún día comenzamos concursos o... ¡Damos premios a nuestros usuarios!</string>
+    <string name="perm_boot">Una gran cantidad de addons de Android Tweaker 2 tienen una opción que permite comenzar alguna herramienta al encender el dispositivo. Este permiso es requerido para permitir que esta herramienta funcione sin problemas</string>
+    <string name="perm_disclaimer">Nos gustaría también aclarar que esta aplicación NO GUARDA datos de tu dispositivo ¡y es totalmente segura! Los únicos datos que se guardan lo hacen a través de Google Analytics, que nos permite saber cuántos usuarios están utilizando nuestra aplicación y de qúe país son. Todos los permisos requeridos por esta aplicación son necesarios para permitir a todos los addons y las distintas funcionalidades ejecutarse correctamente</string>
 </resources>
