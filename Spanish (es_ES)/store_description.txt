@@ -1,6 +1,9 @@
 Estamos encantados de poder introduciros Android Tweaker 2, el segundo capítulo de la utilidad que tuvo un gran éxito entre la comunidad Android.
 
-Siéntete libre de unirte a nuestra comunidad para obtener soporte técnico y tener acceso tanto a la última beta como a las nuevas utilidades de la aplicación:
+Mantente informado con nuestras noticias recientes y nuevos anuncios a través de nuestra web oficial: 
+http://bam-android.com
+
+Y por supuesto, siéntete libre de unirte a nuestra comunidad para obtener soporte técnico y tener acceso tanto a la última beta como a las nuevas utilidades de la aplicación:
 https://plus.google.com/communities/107522763082295690993
 
 Hay una gran cantidad de cambios con respecto a la versión anterior:
@@ -17,6 +20,7 @@ Nuevos tweaks y herramientas:
 - Scripts init.d
 - Administrador de DNS.
 - Moderador de densidad (DPI).
+- Benchmarks para IO, CPU, velocidad de red y hardware general.
 - Administrador de aplicaciones que te permite realizar copias de seguridad de tus datos/apk para cada aplicación, y a la vez tiene función de desinstalador root, congela y descongela aplicaciones,¡e incluye programador de copias de seguridad!
 - Instalador de Bravia Engine v3.
 
