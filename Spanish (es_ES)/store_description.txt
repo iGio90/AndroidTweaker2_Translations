@@ -31,5 +31,6 @@ Addons (Tienda):
 - Floating gestures: este addon te permite crear gestures personalizadas y asignarlas una determinada acción. El icono flotante abrirá el gestures pad, en el que puedes dibujar tus gestures personalizadas.
 - Realizador se copias de seguridad de datos, que te permite realizar copias de seguridad y restaurar tus datos personales, como registro de llamadas, SMS, Favoritos ¡y mucho más!
 - Unity bars: un aporte de Ubuntu en forma de "launcher bars" con colores y opciones personalizables.
+- Exposè: crea una interfaz de Mac OSX al estilo de Exposé. ¡Añade acciones personalizadas en las esquinas de la pantalla!
 
 ¡Compatible con todas las Stock y Custom ROMs, como CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slim, PAC, Samsung y HTC!
