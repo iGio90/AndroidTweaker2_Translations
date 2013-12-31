@@ -34,6 +34,8 @@
     <string name="disable">Desactivar</string>
     <string name="update">Actualizar</string>
     <string name="remove">Eliminar</string>
+    
+    <string name="rate_us">Si crees que esta aplicación es clara, fácil de usar y útil, ¡no te olvides de contarnos tu experiencia con la aplicación en Play Store!\n\n ¡No dudes en ponerte en contacto con nosotros por email si tienes algún problema!</string>
 
     <!-- TIPS -->
     <string name="tips">Sugerencias:</string>
@@ -145,6 +147,10 @@
     <string name="sleep_mode_summary">Cambia el comportamiento del sleep mode. Ayuda a disminuir la presión en la CPU mientras el dispositivo está en standby</string>
     <string name="wifi_scan_interval">Intervalo de escaneado de Wifi</string>
     <string name="wifi_scan_interval_summary">Disminuye el intervalo de escaneado wifi y ahorra batería</string>
+    <string name="power_supply">Power supply</string>
+    <string name="power_supply_summary">Activa o desactiva power supply. Ayuda a disminuir el gasto de batería</string>
+    <string name="sensor_sleep">Sensor sleep control</string>
+    <string name="sensor_sleep_summary">Activa o desactiva sensor sleep control. Ayuda a disminuir el gasto de batería</string>
     
     <!-- NETWORK -->
     <string name="default_net_speed">Velocidad por defecto de la red de internet</string>
@@ -617,6 +623,7 @@
     <string name="start_unity">Unity bars</string>
     <string name="unity_left">Barra izquierda</string>
     <string name="unity_right">Barra derecha</string>
+    <string name="trigger_width">Ancho del trigger</string>
     <string name="background_color">Color de fondo</string>
     <string name="text_color">Color de texto</string>
     <string name="layer_color">Color de capa</string>
@@ -638,6 +645,7 @@
     <string name="benchmarks_title">Benchmarks</string>
     <string name="benchmarks_summary">Comprueba el valor de rendimiento de tu dispositivo</string>
     <string name="share_result">Comparte tus resultados</string>
+    <string name="my_score">Aquí está mi resultado, obtenido con los benchmarks de Android Tweaker 2</string>
     <string name="running">Ejecutando…</string>
     <string name="result">Resultados:</string>
     <string name="speed">Velocidad</string>
