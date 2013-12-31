@@ -31,5 +31,6 @@ Addons (Shop):
 - Floating gestures: allows you to create custom gestures and assign an action to them. The floating icon will open the gestures pad in which you can draw your custom gestures
 - Data backup that allows you to backup and restore your personal data such as call logs, sms, bookmarks and more..
 - Unity bars: an ubuntu unity like launcher bars with customizable colors and options
+- Exposè: create Mac OSX like exposé. Add customized actions to screen corners!
 
 Compatible with all stock and custom ROMs such as CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slim, PAC, Samsung and HTC!

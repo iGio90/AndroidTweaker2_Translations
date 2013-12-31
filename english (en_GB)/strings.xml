@@ -54,6 +54,7 @@
     <string name="tips_gestures">Floating gestures allows you to create custom gestures and assign an action to them. The floating icon will open the gestures pad in which you can draw your custom gestures! check out the video for a preview!</string>
     <string name="tips_backup">This addon allows you to backup and restore your personal data such as short message, call logs, dictionaries, settings and more</string>
     <string name="tips_unity">This addon allows you to create a fully customizable like unity launcher with a swipe from outside the screen on the left or on the right side. Check out the video for a little preview</string>
+    <string name="tips_expose">This addon allows you to create a fully customizable Mac OSX like exposè. This exposè allows you to setup custom actions when you tap the 4 corners of your device screen. Check out the video for a little preview</string>
 
     <!-- HOME -->
     <string name="unlicensed">Please, buy a legit copy of this app. Developers put dedication and time on creating applications like that. You should support our work!!</string>
@@ -336,6 +337,7 @@
     <string name="gestures_purchased">Floating gestures has been purchased! You got a new card on the customization page!</string>
     <string name="backup_purchased">Data backup has been purchased! You got a new card on the tools page!</string>
     <string name="unity_purchased">Unity bars has been puchased! You got a new card on the customization page!</string>
+    <string name="expose_purchased">Exposè has been puchased! You got a new card on the home page!</string>
 
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Notification weather</string>
@@ -434,6 +436,7 @@
     <string name="gestures_call">Quick call</string>
     <string name="gestures_sms">Quick SMS</string>
     <string name="gestures_action_home">Home</string>
+    <string name="gestures_action_recent">Recent</string>
     <string name="gestures_action_torch">Torch</string>
     <string name="gestures_action_ringer">Ringer mode</string>
     <string name="button_add">Add gesture</string>
@@ -668,4 +671,17 @@
     <string name="update_downloaded" formatted="false">Downloaded %s of %s</string>
     <string name="update_connectionspeed">Connection time %s ms</string>
     <string name="update_downloaded_complete" formatted="false">Downloaded %s @ %s kbit/sec</string>
+
+    <!-- Expose -->
+    <string name="expose_title" translatable="false">Exposè</string>
+    <string name="expose_summary">Mac OSX like exposè corner actions</string>
+    <string name="expose_pause">Exposè is in pause</string>
+    <string name="expose_long_click">Long click</string>
+    <string name="expose_long_click_summary">Long click on exposè to pause</string>
+    <string name="expose_top_left">Top left exposè</string>
+    <string name="expose_top_right">Top right exposè</string>
+    <string name="expose_bottom_left">Bottom left exposè</string>
+    <string name="expose_bottom_right">Bottom right exposè</string>
+    <string name="expose_widget_center">Smart center</string>
+    <string name="expose_start">Start</string>
 </resources>
