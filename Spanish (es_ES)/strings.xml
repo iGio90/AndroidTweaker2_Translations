@@ -54,6 +54,7 @@
     <string name="tips_gestures">Las floating gestures te permiten crear gestures personalizadas y asignarlas una acción. El icono flotante abrirá el gestures pad, ¡en el que puedes dibujar tus gestures personalizadas! ¡Mira el vídeo para ver cómo funciona!</string>
     <string name="tips_backup">Este addon te permite realizar copias de seguridad y restauraciones de tus datos personales, como mensajes, registro de llamadas. diccionarios, ajustes y más</string>
     <string name="tips_unity">Este addon te permite crear Unity Bars totalmente personalizables, al estilo de Unity Launcher de Ubuntu, mediante un deslizamiento desde el extremo derecho o izquierdo de la pantalla. ¡Mira el vídeo para ver cómo funciona!</string>
+    <string name="tips_expose">Este addon te permite crear una interfaz de Mac OSX totalmente personalizable, al estilo de Exposè. Exposè te permite configurar acciones personalizadas cuando pulsas las 4 esquinas de la pantalla del dispositivo. ¡Mira el vídeo para ver cómo funciona!</string>
     
     <!-- HOME -->
     <string name="unlicensed">Por favor, compra una copia legítima de esta aplicación. Los desarrolladores ponen tiempo y dedicación para crear aplicaciones como ésta. ¡¡Deberías apoyar nuestro trabajo!!</string>
@@ -336,6 +337,7 @@
     <string name="gestures_purchased">¡Floating gestures ha sido comprado! ¡Has obtenido una nueva tarjeta en la página de personalización!</string>
     <string name="backup_purchased">¡El realizador de copias de seguridad ha sido comprado! ¡Has obtenido una nueva tarjeta en la página de herramientas!</string>
     <string name="unity_purchased">¡Unity bars ha sido comprado! ¡Has obtenido una nueva tarjeta en la página de personalización!</string>
+    <string name="expose_purchased">¡Exposè ha sido comprado! ¡Has obtenido una nueva tarjeta en la página principal!</string>
     
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Notificaciones de tiempo</string>
@@ -434,6 +436,7 @@
     <string name="gestures_call">Llamada rápida</string>
     <string name="gestures_sms">SMS rápido</string>
     <string name="gestures_action_home">Inicio</string>
+    <string name="gestures_action_recent">Recientes</string>
     <string name="gestures_action_torch">Linterna</string>
     <string name="gestures_action_ringer">Modo de timbre</string>
     <string name="button_add">Añadir gesture</string>
@@ -668,4 +671,17 @@
     <string name="update_downloaded" formatted="false">Descargado %s of %s</string>
     <string name="update_connectionspeed">Tiempo de conexión %s ms</string>
     <string name="update_downloaded_complete" formatted="false">Descargado %s @ %s kbit/sec</string>
+    
+    <!-- Expose -->
+    <string name="expose_title" translatable="false">Exposè</string>
+    <string name="expose_summary">Acciones de las esquinas de la pantalla, de Mac OSX al estilo de Exposè</string>
+    <string name="expose_pause">Exposè está pausado</string>
+    <string name="expose_long_click">Pulsación larga</string>
+    <string name="expose_long_click_summary">Pulsación larga en Exposè para pausar</string>
+    <string name="expose_top_left">Parte superior izquierda Exposè</string>
+    <string name="expose_top_right">Parte superior derecha Exposè</string>
+    <string name="expose_bottom_left">Parte inferior izquierda Exposè</string>
+    <string name="expose_bottom_right">Parte inferior derecha Exposè</string>
+    <string name="expose_widget_center">Smart center</string>
+    <string name="expose_start">Comienzo</string>
 </resources>
