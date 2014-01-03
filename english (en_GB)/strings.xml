@@ -51,9 +51,6 @@
 
     <!-- Advanced settings -->
     <string name="title_launchers">Launchers</string>
-    <string name="title_advanced_settings">Advance settings</string>
-    <string name="root_pack">Root pack</string>
-    <string name="root_pack_summary">Things that uses particullary permissions require to be launched from an App located in system partition. If, for example, you rebooted the device using Android Tweaker 2 functions, you noticed some crashes from random apps before executing the reboot. If this pack is installed, the device will be rebooted with the normal process. This pack will be also used in further additions to let the users enable or disable much custom features.</string>
 
     <!-- TIPS -->
     <string name="tips">Tips:</string>
@@ -717,5 +714,4 @@
     <string name="bam_roms_title">BAM</string>
     <string name="cyanogenmod">CyanogenMod</string>
     <string name="aokp">AOKP</string>
-    <string name="paranoid">ParanoidAndroid</string>
 </resources>

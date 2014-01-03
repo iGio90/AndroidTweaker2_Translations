@@ -23,6 +23,8 @@ I nuovi tweaks e tools:
 - Benchmarks di IO, CPU, Network e hardware in generale
 - App Manager che ti consentirà di eseguire il backup dei tuoi dati applicazione e degli apk nonchè disinstallarli o bloccarli/sbloccarli
 - Bravia Engine v3 installer
+- Bootanimation installer
+- Launcher personalizzati per tutti gli strumenti
 
 Addons (Shop):
 - Smart actions: Personalizza il comportamento del dispotivio quando esso viene messo in modalità standby! Incrementa la durata della tua batteria di oltre il 300%! Include il widget e un pannello strumenti nella barra delle notifiche!
