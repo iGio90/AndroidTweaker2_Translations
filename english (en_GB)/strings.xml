@@ -26,7 +26,7 @@
     <string name="share_at">I\'m customizing my device with Android Tweaker 2… Download it for free from the Google Play Store!\n\n</string>
     <string name="share_with">Share with…</string>
     <string name="draw">Draw something…</string>
-    <string name="no_root_activity">This tool require a rooted device. Please, root your device to enable this card</string>
+    <string name="no_root_activity">This tool require a rooted device. Please, root your device to enable this function</string>
     <string name="info">Info</string>
     <string name="not_available_title">Not available</string>
     <string name="not_available_summary">Please, visit the shop to purchase this addon</string>
@@ -34,8 +34,26 @@
     <string name="disable">Disable</string>
     <string name="update">Update</string>
     <string name="remove">Remove</string>
+    <string name="install">Do you want to install</string>
+    <string name="downloading">Downloading…</string>
+    <string name="launcher_summary">Enable or disable launcher icons for Android Tweaker 2 activities</string>
 
     <string name="rate_us">If you find this application clear, easy and useful, don\'t forget to leave us a review on the store!\n\nDo not hesitate to contact us by email for any problems!</string>
+
+    <!-- Settings -->
+    <string-array name="nav_drawer_items">
+        <item>@string/title_launchers</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/home</item>
+    </array>
+
+    <!-- Advanced settings -->
+    <string name="title_launchers">Launchers</string>
+    <string name="title_advanced_settings">Advance settings</string>
+    <string name="root_pack">Root pack</string>
+    <string name="root_pack_summary">Things that uses particullary permissions require to be launched from an App located in system partition. If, for example, you rebooted the device using Android Tweaker 2 functions, you noticed some crashes from random apps before executing the reboot. If this pack is installed, the device will be rebooted with the normal process. This pack will be also used in further additions to let the users enable or disable much custom features.</string>
 
     <!-- TIPS -->
     <string name="tips">Tips:</string>
@@ -100,6 +118,7 @@
     <string name="title_media_summary">Collection of tweaks that will tune images, videos and audio properties</string>
     <string name="title_audio_video_recording">Audio and Video recording</string>
     <string name="title_streaming">Video streaming</string>
+    <string name="title_audio">Audio</string>
     <string name="title_images">Images</string>
     <string name="title_camera">Camera</string>
     <string name="title_network">Network</string>
@@ -198,6 +217,8 @@
     <string name="flash_intensity_summary">Adjust flash intensity to an optimized value</string>
     <string name="flash_voltage">Flash voltage</string>
     <string name="flash_voltage_summary">Adjust flash voltage to an optimized value</string>
+    <string name="noise_reduction">Noise reduction</string>
+    <string name="noise_reduction_summary">Improve audio out quality by removing sound noises</string>
 
     <!-- MISC -->
     <string name="error_report">Disable error report</string>
@@ -684,4 +705,17 @@
     <string name="expose_bottom_right">Bottom right exposè</string>
     <string name="expose_widget_center">Smart center</string>
     <string name="expose_start">Start</string>
+
+    <!-- Bootanimation -->
+    <string name="bootanimation">Bootanimation</string>
+    <string name="bootanimation_summary">Download and install custom bootanimations</string>
+    <string name="bootanimation_not_found">I can\'t find a bootanimation that matches the size of your screen width. Please, try with another one!</string>
+    <string name="bootanimation_reboot">Reboot your device and enjoy the new bootanimation!</string>
+    <string name="custom_bootanimation">Install custom bootanimation</string>
+    <string name="custom_bootanimation_summary">Place the bootanimation.zip file inside the folder:</string>
+    <string name="custom_bootanimation_install">Tap here to install your custom bootanimation</string>
+    <string name="bam_roms_title">BAM</string>
+    <string name="cyanogenmod">CyanogenMod</string>
+    <string name="aokp">AOKP</string>
+    <string name="paranoid">ParanoidAndroid</string>
 </resources>

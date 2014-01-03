@@ -23,6 +23,8 @@ The new tweaks and tools:
 - Benchmarks for IO, CPU, Network speed and general hardware
 - App manager that allows you to backup your data/apk for each application, uninstaller, freeze/unfreeze and schedule backups!
 - Bravia Engine v3 installer
+- Bootanimation installer
+- Custom launchers for every tools
 
 Addons (Shop):
 - Smart actions: customize the behavior of your device when it goes in sleep mode and back on! Rise your battery life up to 300%! Includes a widget and an optional notification bar!
