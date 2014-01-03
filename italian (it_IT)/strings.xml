@@ -51,6 +51,7 @@
     <string name="tips_gestures">Le floating gestures ti consentono di creare gestures customizzate e assegnare ad esse delle azioni. L\'icona fluttuante ti consentirà di aprire il pad dove poter disegnare le tue gestures customizzate. Guarda il video dimostrativo disponibile nella descrizione delle floating gestures nel negozio!</string>
     <string name="tips_backup">Questo addon ti consente di eseguire il backup ed il restore dei tuoi dati personali quali SMS, registro chiamate, preferiti, impostazioni e altro!</string>
     <string name="tips_unity">Questo addon ti consente di creare delle barre simili alle ubuntu unity bars. Queste barre sono pienamento customizzabili con colori e impostazioni. Guarda il video dimostrativo per una piccola preview</string>
+    <string name="tips_expose">Questo addon ti consente di creare degli exposè simili a quelli del Mac OSX. Questi exposè ti consentiranno di aggiungere azioni personalizzate ai 4 angoli dello schermo. Guarda il video dimostrativo per una piccola preview</string>
 
     <!--HOME-->
     <string name="unlicensed">Perfavore, acquista una copia legale di questa applicazione. Gli sviluppatori mettono dedizione e tempo per creare applicazioni come questa. Dovresti supportare il nostro lavoro!</string>
@@ -318,6 +319,7 @@
     <string name="gestures_purchased">Floating gestures è stato acquistato con successo! Hai una nuova card home dell\'applicazione!</string>
     <string name="backup_purchased">Data backup è stato acquistato con successo! Hai una nuova card nella pagina strumenti!</string>
     <string name="unity_purchased">Unity bars è stato acquistato con successo! Hai una nuova card nella pagina personalizzazioni!</string>
+    <string name="expose_purchased">Exposè è stato acquistato con successo! Hai una nuova card home dell\'applicazione!</string>
 
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Notification weather</string>
@@ -416,6 +418,7 @@
     <string name="gestures_call">Chiamata rapida</string>
     <string name="gestures_sms">SMS rapido</string>
     <string name="gestures_action_home">Home</string>
+    <string name="gestures_action_recent">Recent</string>
     <string name="gestures_action_torch">Torcia</string>
     <string name="gestures_action_ringer">Ringer mode</string>
     <string name="button_add">Aggiungi gesture</string>
@@ -646,4 +649,16 @@
     <string name="update_downloaded" formatted="false">Scaricati %s of %s</string>
     <string name="update_connectionspeed">Tempo di connessione %s ms</string>
     <string name="update_downloaded_complete" formatted="false">Scaricati %s @ %s kbit/sec</string>
+
+    <!-- Expose -->
+    <string name="expose_title" translatable="false">Exposè</string>
+    <string name="expose_summary">Crea exposè in stile Mac OSX</string>
+    <string name="expose_pause">Exposè è in pausa</string>
+    <string name="expose_long_click">Long click</string>
+    <string name="expose_long_click_summary">Long click sugli exposè per metterli in pausa</string>
+    <string name="expose_top_left">Exposè in alto a sinistra</string>
+    <string name="expose_top_right">Exposè in alto a destra</string>
+    <string name="expose_bottom_left">Exposè in basso a sinistra</string>
+    <string name="expose_bottom_right">Exposè in basso a destra</string>
+    <string name="expose_widget_center">Smart center</string>
 </resources>
