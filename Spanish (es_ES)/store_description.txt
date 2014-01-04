@@ -23,6 +23,8 @@ Nuevos tweaks y herramientas:
 - Benchmarks para IO, CPU, velocidad de red y hardware general.
 - Administrador de aplicaciones que te permite realizar copias de seguridad de tus datos/apk para cada aplicación, y a la vez tiene función de desinstalador root, congela y descongela aplicaciones,¡e incluye programador de copias de seguridad!
 - Instalador de Bravia Engine v3.
+- Instalador de Bootanimation.
+- Launchers personalizados para cada herramienta.
 
 Addons (Tienda):
 - Smart actions: con ellas, puedes personalizar el comportamiento de tu dispositivo cuando entra o sale del modo Standby ¡Aumenta la duración de la batería hacia un 300%! Incluye un widget y una barra de notificaciones opcional.
