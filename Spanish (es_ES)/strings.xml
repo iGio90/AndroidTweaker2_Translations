@@ -26,7 +26,7 @@
     <string name="share_at">Estoy personalizando mi dispositivo con Android Tweaker 2… ¡Descárgalo gratis desde Google Play Store!\n\n</string>
     <string name="share_with">Compartir con…</string>
     <string name="draw">Dibuja algo…</string>
-    <string name="no_root_activity">Este herramienta requiere un dispositivo rooteado. Por favor, rootea tu dispositivo para activar esta tarjeta</string>
+    <string name="no_root_activity">Este herramienta requiere un dispositivo rooteado. Por favor, rootea tu dispositivo para activar esta función</string>
     <string name="info">Información</string>
     <string name="not_available_title">No disponible</string>
     <string name="not_available_summary">Por favor, visita la tienda para comprar este addon</string>
@@ -34,9 +34,27 @@
     <string name="disable">Desactivar</string>
     <string name="update">Actualizar</string>
     <string name="remove">Eliminar</string>
+    <string name="install">¿Seguro que quieres instalar?</string>
+    <string name="downloading">Descargando…</string>
+    <string name="launcher_summary">Activar o desactivar iconos de launcher para actividades de Android Tweaker 2</string>
     
     <string name="rate_us">Si crees que esta aplicación es clara, fácil de usar y útil, ¡no te olvides de contarnos tu experiencia con la aplicación en Play Store!\n\n ¡No dudes en ponerte en contacto con nosotros por email si tienes algún problema!</string>
 
+    <!-- Settings -->
+    <string-array name="nav_drawer_items">
+        <item>@string/title_launchers</item>
+    </string-array>
+ 
+    <array name="nav_drawer_icons">
+        <item>@drawable/home</item>
+    </array>
+ 
+    <!-- Advanced settings -->
+    <string name="title_launchers">Launchers</string>
+    <string name="title_advanced_settings">Ajustes avanzados</string>
+    <string name="root_pack">Pack Root</string>
+    <string name="root_pack_summary">Las utilidades que usan permisos particulares requieren ser ejecutadas desde una aplicación localizada en la partición del sistema. Por ejemplo, si has reiniciado tu dispositivo por medio de funciones de Android Tweaker 2, habrás notado algunos cierres forzados de aplicaciones aleatorias antes de ejecutarse el reinicio. Con este pack instalado, el dispositivo será reiniciado con el proceso normal. Este pack también será empleado en más elementos para permitir a los usuarios activar o desactivar más utilidades personalizadas.</string>
+    
     <!-- TIPS -->
     <string name="tips">Sugerencias:</string>
     <string name="tips_reset">Reiniciar sugerencias</string>
@@ -100,6 +118,7 @@
     <string name="title_media_summary">Colección de tweaks que optimizarán las propiedades de las imágenes, los vídeos y el sonido</string>
     <string name="title_audio_video_recording">Grabación de sonido y vídeo</string>
     <string name="title_streaming">Streaming de vídeo</string>
+    <string name="title_audio">Audio</string>
     <string name="title_images">Imágenes</string>
     <string name="title_camera">Cámara</string>
     <string name="title_network">Red de internet</string>
@@ -198,6 +217,8 @@
     <string name="flash_intensity_summary">Ajustar la intensidad del flash a un valor optimizado</string>
     <string name="flash_voltage">Voltaje del flash</string>
     <string name="flash_voltage_summary">Ajustar el voltaje del flash a un valor optimizado</string>
+    <string name="noise_reduction">Reducción de ruido</string>
+    <string name="noise_reduction_summary">Mejorar la calidad del audio al eliminar el ruido de fondo</string>
 
     <!-- MISC -->
     <string name="error_report">Desactivar informe de errores</string>
@@ -684,4 +705,17 @@
     <string name="expose_bottom_right">Parte inferior derecha Exposè</string>
     <string name="expose_widget_center">Smart center</string>
     <string name="expose_start">Comienzo</string>
+    
+    <!-- Bootanimation -->
+    <string name="bootanimation">Bootanimation</string>
+    <string name="bootanimation_summary">Descarga e instala bootanimations personalizados</string>
+    <string name="bootanimation_not_found">No puedo encontrar un bootanimation que coincida con el ancho de tu pantalla. Por favor, ¡prueba con otro!</string>
+    <string name="bootanimation_reboot">¡Reinicia tu dispositivo y disfruta de tu nuevo bootanimation!</string>
+    <string name="custom_bootanimation">Instalar un bootanimation personalizado</string>
+    <string name="custom_bootanimation_summary">Situar el archivo bootanimation.zip en la carpeta:</string>
+    <string name="custom_bootanimation_install">Pulsa aquí para instalar tu bootanimation personalizado</string>
+    <string name="bam_roms_title">BAM</string>
+    <string name="cyanogenmod">CyanogenMod</string>
+    <string name="aokp">AOKP</string>
+    <string name="paranoid">ParanoidAndroid</string>
 </resources>
