@@ -51,9 +51,6 @@
  
     <!-- Advanced settings -->
     <string name="title_launchers">Launchers</string>
-    <string name="title_advanced_settings">Ajustes avanzados</string>
-    <string name="root_pack">Pack Root</string>
-    <string name="root_pack_summary">Las utilidades que usan permisos particulares requieren ser ejecutadas desde una aplicación localizada en la partición del sistema. Por ejemplo, si has reiniciado tu dispositivo por medio de funciones de Android Tweaker 2, habrás notado algunos cierres forzados de aplicaciones aleatorias antes de ejecutarse el reinicio. Con este pack instalado, el dispositivo será reiniciado con el proceso normal. Este pack también será empleado en más elementos para permitir a los usuarios activar o desactivar más utilidades personalizadas.</string>
     
     <!-- TIPS -->
     <string name="tips">Sugerencias:</string>
@@ -717,5 +714,4 @@
     <string name="bam_roms_title">BAM</string>
     <string name="cyanogenmod">CyanogenMod</string>
     <string name="aokp">AOKP</string>
-    <string name="paranoid">ParanoidAndroid</string>
 </resources>
