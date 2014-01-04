@@ -18,7 +18,7 @@
     <string name="updating">Aktualizowanie zależności</string>
     <string name="toolchain_exist">Potrzebne zasoby są już zainstalowane. Pomijanie...</string>
     <string name="require_busybox">Ta czynność wymaga zainstalowanego na urządzeniu busybox\'a. Proszę zainstalować busybox przed użyciem tego narzędzia</string>
-    <string name="require_sql">This action require SQL toolchain. If you are seeing this error it means your ROM doesn\'t support the SQL defragging tool.</string>
+    <string name="require_sql">Ta czynność wymaga narzędzi SQL. Jeśli widzisz ten komunikat znaczy to, że twój ROM nie wspiera narzędzia defragmentacji SQL.</string>
     <string name="size">Rozmiar:</string>
     <string name="rate_explanation">Wyraź swoją opinię i pomóż nam ulepszać zawartość aplikacji</string>
     <string name="rate_now">Oceń teraz</string>
@@ -375,5 +375,286 @@
         <item>Piątek</item>
         <item>Sobota</item>
     </string-array>
+    
+    
+    <!-- Density modder -->
+    <string name="density_modder">Density modder</string>
+    <string name="density_modder_summary">Customize the density (DPI) of your screen!</string>
+    <string name="nav_bar">Navigation bar</string>
+    <string name="nav_bar_summary">Enable navigation bar on device that doesn\'t have it enabled by default. This is not working on every device… Once enabled, don\'t forget to tap the save button</string>
+    <string name="current_density">Current density:</string>
+    <string name="is_tablet">You can\'t remove navigation bar from your device!</string>
+
+    <!-- Custom gestures -->
+    <string name="custom_gestures_title">Pływające gesty</string>
+    <string name="custom_gestures_summary">Stwórz własne gesty</string>
+    <string name="custom_gestures_pause">Gesty zostały wstrzymane</string>
+    <string name="custom_gestures_enable">Włącz</string>
+    <string name="custom_gestures_close">Zamknij</string>
+    <string name="gestures_android_action">Akcje androida</string>
+    <string name="gestures_application">Aplikacje</string>
+    <string name="gestures_call">Szybki telefon</string>
+    <string name="gestures_sms">Szybki SMS</string>
+    <string name="gestures_action_home">Ekran główny</string>
+    <string name="gestures_action_recent">Ostatnie aplikacje</string>
+    <string name="gestures_action_torch">Latarka</string>
+    <string name="gestures_action_ringer">Tryb dzwonka</string>
+    <string name="button_add">Dodaj gest</string>
+    <string name="button_reload">Odśwież</string>
+    <string name="button_discard">Odrzuć zmiany</string>
+    <string name="button_done">Gotowe</string>
+    <string name="prompt_gesture_name">Nazwa</string>
+    <string name="error_missing_name">Musisz wpisać nazwę</string>
+    <string name="error_duplicate_name">Ta nazwa została już użyta</string>
+    <string name="save_success">Gest zapisany w %s</string>
+    <string name="rename_action">OK</string>
+    <string name="cancel_action">Anuluj</string>
+    <string name="gestures_loading">Ładowanie gestów…</string>
+    <string name="gestures_empty">Brak gestów</string>
+    <string name="gestures_activity">Gesty</string>
+    <string name="gestures_rename">Zmień nazwę</string>
+    <string name="gestures_delete">Usuń</string>
+    <string name="gestures_delete_success">Gest został usunięty</string>
+    <string name="gestures_rename_title">Zmień nazwę gestu</string>
+    <string name="gestures_rename_label">Nazwa gestu</string>
+    <string name="gestures_error_loading">Nie można załadować %s. Upewnij się, że masz dostęp do pamięci urządzenia.</string>
+    <string name="add_action">Dodaj akcje</string>
+    <string name="select_action">Wybierz akcję</string>
+    <string name="android_actions">Akcje androida</string>
+    <string name="gestures_pad_size">Połowa ekranu</string>
+    <string name="gestures_inverted_icon">Odwrócona ikona</string>
+
+    <!-- App Manager -->
+    <string name="all_apps">Wszystkie aplikacje</string>
+    <string name="user_apps">Aplikacje użytkownika</string>
+    <string name="system_apps">Aplikacje systemowe</string>
+    <string name="new_updated_apps">Nowe i zaktualizowane aplikacje</string>
+    <string name="custom_list">Własna lista</string>
+    <string name="backup">Kopia zapasowa</string>
+    <string name="restore">Przywróć</string>
+    <string name="backupConfirmation">Zrobić kopię zapasową?</string>
+    <string name="restoreConfirmation">Przywrócić?</string>
+    <string name="restoreApk">Przywróć apk</string>
+    <string name="restoreData">Przywróć dane</string>
+    <string name="restoreBoth">Przywróć apk + dane</string>
+    <string name="backupApk">Kopia zapasowa apk</string>
+    <string name="backupData">Kopia zapasowa danych</string>
+    <string name="backupBoth">Kopia zapasowa apk + dane</string>
+    <string name="radioApk">Apk</string>
+    <string name="radioData">Dane</string>
+    <string name="radioBoth">Dane + Apk</string>
+    <string name="de_selectAll">Za/odznacz wszystkie</string>
+    <string name="onlyApkBackedUp">Tylko apk</string>
+    <string name="onlyDataBackedUp">Tylko dane</string>
+    <string name="refresh">Odśwież</string>
+    <string name="batchbackup">Kopia zapasowa partii</string>
+    <string name="batchrestore">Przywróć partię</string>
+    <string name="search">Szukaj</string>
+    <string name="searchHint">Szukaj wśród aplikacji</string>
+    <string name="deleteBackup">Usuń kopię zapasową</string>
+    <string name="uninstall">Odinstaluj</string>
+    <string name="uninstallProgress">Odinstalowywanie</string>
+    <string name="showAll">Pokaż wszystkie aplikacje</string>
+    <string name="showOnlySystem">Pokaż tylko aplikacje systemowe</string>
+    <string name="showOnlyUser">Pokaż tylko aplikacje użytkownika</string>
+    <string name="showNotBackedup">Pokaż aplikacje bez kopii zapasowej</string>
+    <string name="showNotInstalled">Pokaż niezainstalowane aplikacje</string>
+    <string name="showNewAndUpdated">Pokaż nowe i zaktualizowane aplikacje</string>
+    <string name="showOldBackups">Pokaż stare kopie zapasowe</string>
+    <string name="showOnlyApkBackedUp">Pokaż aplikacje tylko z kopią zapasową apk</string>
+    <string name="showOnlyDataBackedUp">Pokaż aplikacje tylko z kopią zapasową danych</string>
+    <string name="sortByLabel">Sortuj według etykiety</string>
+    <string name="sortByPackageName">Sortuj według nazwy pakietu</string>
+    <string name="sort">Sortowanie i filtry</string>
+    <string name="uninstallDialogMessage">Odinstalować tą aplikację?</string>
+    <string name="deleteBackupDialogMessage">Usunąć pliki kopii zapasowej?</string>
+    <string name="noBackupYet">Brak kopii zapasowej</string>
+    <string name="restoreDataWithoutApkError">Nie można przywrócić danych bez przywracania APK, pakiet nie jest zainstalowany: </string>
+    <string name="collectingData">Zbieranie informacji o pakiecie</string>
+    <string name="suCheck">Sprawdzanie superuser and busybox</string>
+    <string name="noSu">Nie udało się uzyskać uprawnień superuser</string>
+    <string name="busyboxProblem">Nie udało się znaleźć busybox. Sprawdź dziennik błędów</string>
+    <string name="mkfileError">Nie można utworzyć</string>
+    <string name="fallbackToDefault">Przywróć do ustawieć domyślnych</string>
+    <string name="backupFolderError">Proszę ustawić właściwą ścieżkę w preferencjach i upewnić się, że istnieje</string>
+    <string name="shellReturnSuccess">Sukces</string>
+    <string name="backupProgress">Tworzenie kopii zapasowej</string>
+    <string name="backupSuccess">Kopia zapasowa została utworzona</string>
+    <string name="backupFailure">Wystąpił błąd podczas tworzenia kopii zapasowej</string>
+    <string name="restoreProgress">Przywracanie</string>
+    <string name="restoreSuccess">Przywracania ukończone</string>
+    <string name="restoreFailure">Wystąpił błąd podczas przywracania</string>
+    <string name="batchSuccess">Operacja zakończona</string>
+    <string name="batchFailure">Zakończono z błędami</string>
+    <string name="errorDialogTitle">Wystąpiły błędy</string>
+    <string name="customListTitle">Własna lista</string>
+    <string name="quickReboot">Szybki restart</string>
+    <string name="quickRebootMessage">Czy chcesz zrestartować urządzenie?</string>
+    <string name="enablePackageTitle">Dostępne dla użytkownika</string>
+    <string name="disablePackageTitle">Niedostępne dla użytkownika</string>
+    <string name="prefs_title">Preferencje</string>
+    <string name="prefs_timestamp">Użyj lokalnego formatu daty</string>
+    <string name="prefs_acquireWakelock">Acquire wakelock</string>
+    <string name="prefs_summaryAcquireWakelock">Przyspieszy tworzenie kopii zapasowych w tle, ale zużywa znacznie więcej energii</string>
+    <string name="prefs_pathscategory">Własne ścieżki</string>
+    <string name="prefs_pathBackupFolder">Folder kopii zapasowej</string>
+    <string name="prefs_summaryBackupFolder">Ścieżka do folderu kopii zapasowej. Pozostaw puste dla domyślnej.</string>
+    <string name="prefs_pathLogfile">Plik z logami</string>
+    <string name="prefs_summaryLogfile">Ścieżka do pliku z logami. Pozostaw puste dla domyślnej.</string>
+    <string name="prefs_pathBusybox">Busybox</string>
+    <string name="prefs_summaryBusybox">Ścieżka do pliku wykonywalnego busybox. Upewnij się, że jest poprawna. Pozostaw puste dla domyślnej.</string>
+    <string name="prefs_oldBackups">Filtruj kopie zapasowe według wieku</string>
+    <string name="prefs_summaryOldBackups">Pokaż kopie zapasowe starsze niż podana wartość w dniach. Używaj z filtrem \'Pokaż stare kopie zapasowe\'</string>
+    <string name="prefs_copySelfApk">Kopiuj własne apk</string>
+    <string name="prefs_summaryCopySelfApk">Umieść kopie własnej apk na szczycie folderu kopii zapasowej</string>
+    <string name="prefs_languages">Języki</string>
+    <string name="prefs_languageSystemDefault">Domyślnie dla systemu</string>
+    <string name="sched_title">Planowanie</string>
+    <string name="sched_notificationMessage">Zaplanowane kopie zapasowe</string>
+    <string name="sched_interval">Przedział w dniach</string>
+    <string name="sched_hourOfDay">Godzina (0..23)</string>
+    <string name="sched_startingbackup">Zaczynanie tworzenia zaplanowanej kopii zapasowej</string>
+    <string name="sched_backupMode">Tryb kopii zapasowej</string>
+    <string name="sched_timeLeft">Godziny, do czasu kolejnej kopii zapasowej</string>
+    <string name="sched_addSchudule">Dodaj harmonogram</string>
+    <string name="sched_customListUpdateButton">Zaktualizuj własną listę</string>
+
+    <!-- Data backup -->
+    <string name="data_backup">Kopia zapasowa danych</string>
+    <string name="data_backup_summary">Tworzenie kopii zapasowych i przywracanie osobistych danych</string>
+    <string name="menu_export">Eksportowanie</string>
+    <string name="menu_exporteverything">Eksportuj wszystko</string>
+    <string name="menu_settings">Ustawienia</string>
+    <string name="menu_about">About</string>
+    <string name="contextmenu_deletefile">Usuń plik</string>
+    <string name="contextmenu_deletedaydata">Usuń dane z dzisiejszego dnia</string>
+    <string name="error_nosdcard">No SD-card present.</string>
+    <string name="error_unsupporteddatabasestructure">Nieobsługiwana struktura bazy danych</string>
+    <string name="error_couldnotcreatebackupfolder">Nie można utworzyć folderu kopii zapasowej (%s)</string>
+    <string name="error_somethingwentwrong">Coś poszło nie tak: %s.</string>
+    <string name="hint_nobackupsfound">Nie odnaleziono kopii zapasowej\n\n
+        naciśnij przycisk menu aby utworzyć.</string>
+    <string name="hint_noexportdata">Brak dostępnych danych do eksportu.</string>
+    <string name="hint_exporting">Eksportowanie %s &#8230;</string>
+    <string name="hint_existed">\"%s\" istnieje</string>
+    <string name="message_exportedto">Eksportowane do %s.</string>
+    <string name="message_importsuccessful">Importowanie zakończono pomyślnie.</string>
+    <plurals name="message_importsuccessful_skipped">
+        <item quantity="one">Importowano pomyślnie, ale pominięto 1 pozycję.</item>
+        <item quantity="other">Importowano pomyślnie, ale pominięto %d pozycji.</item>
+    </plurals>
+    <string name="message_skippedallentries">Pominięto wszystkie pozycje.</string>
+    <plurals name="listentry_items">
+        <item quantity="one">1 pozycja w</item>
+        <item quantity="other">%d pozycji w </item>
+    </plurals>
+    <string name="button_import">Import</string>
+    <string name="smsmessages">Krótkie wiadomości</string>
+    <string name="calllogs">Dziennik połączeń</string>
+    <string name="bookmarks">Zakładki</string>
+    <string name="userdictionary">Słownik użytkownika</string>
+    <string name="playlists">Playlisty</string>
+    <string name="settings">Ustawienia</string>
+    <string name="wifisettings">Ustawienia wifi</string>
+    <string name="contacts">Kontakty</string>
+    <string name="dialog_export">Eksport</string>
+    <string name="dialog_licenseagreement">Licencja</string>
+    <string name="question_deletefile">Czy na pewno chcesz usunąć plik %s?</string>
+    <string name="settings_category_cyclicbehavior">Cykliczne zachowanie</string>
+    <string name="settings_cyclecount">Ilość cykli (eksperymentalne)</string>
+    <string name="settings_cyclecount_description">Maksymalna liczba kopii zapasowych jednego typu</string>
+    <string name="settings_category_storage">Pamięć</string>
+    <string name="settings_storagelocation">Lokalizacja pamięci</string>
+    <string name="settings_storagelocation_description">Lokalizacja plików kopii zapasowej</string>
+    <string name="settings_storagelocation_hint">Standardowa pamięć zewnętrzna</string>
+    <string name="settings_hideincompletedatawarnings">Ukryj ostrzeżenia o danych</string>
+    <string name="settings_hideincompletedatawarnings_description">Ukryj ostrzeżenia o niepełnym eksporcie danych</string>
+    <string name="warning_incompletedata_import">Import %s będzie najprawdopodobniej niekomplenty.</string>
+    <string name="warning_incompletedata_export">Eksport %s będzie najprawdopodobniej niekomplenty.</string>
+    <string-array name="settings_cyclecountvalues">
+        <item>Nieograniczony</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+
+    <!-- Unity bars + Smart center -->
+    <string name="start_unity">Unity bars</string>
+    <string name="unity_left">Left bar</string>
+    <string name="unity_right">Right bar</string>
+    <string name="trigger_width">Trigger width</string>
+    <string name="background_color">Background color</string>
+    <string name="text_color">Text color</string>
+    <string name="layer_color">Layer color</string>
+    <string name="battery_level">Battery level</string>
+
+    <!-- Auto Tweaker -->
+    <string name="auto_tweaker">Auto tweaker</string>
+    <string name="auto_tweaker_summary">Automatyczne dostrojenie urządzenia z przygotowanych profili</string>
+    <string name="take_a_sit">Ten proces może potrwać kilka minut. Zaparz sobie filiżankę kawy w międzyczasie!</string>
+    <string name="profile_select">Wybierz profil</string>
+    <string name="profile_performance">Wydajność</string>
+    <string name="profile_battery">Bateria</string>
+    <string name="profile_balanced">Zrównoważony</string>
+    <string name="safety_select">Wybierz poziom bezpieczeństwa</string>
+    <string name="safety_safe">Bezpieczne ulepszenia</string>
+    <string name="safety_extreme">Ekstremalne ulepszenia</string>
+
+    <!-- Benchmarks -->
+    <string name="benchmarks_title">Benchmarki</string>
+    <string name="benchmarks_summary">Sprawdź swój wynik wydajności urządzenia</string>
+    <string name="share_result">Udostępnij swój wynik</string>
+    <string name="my_score">Oto moje wyniki z benchmarków Android Tweaker 2</string>
+    <string name="running">W toku…</string>
+    <string name="result">Wyniki:</string>
+    <string name="speed">Prędkość</string>
+    <string name="progress">Postęp</string>
+    <string name="network_type">Typ sieci</string>
+    <string name="test_all">Testuj wszystko</string>
+    <string name="hardware_info">Informacje o sprzęcie</string>
+    <string name="cpu_test">CPU test</string>
+    <string name="io_test">IO test</string>
+    <string name="internal_storage">Pamięć wewnętrzna</string>
+    <string name="external_storage">Pamięć zewnętrzna</string>
+    <string name="write_speed">Prędkość zapisu:</string>
+    <string name="read_speed">Prędkość odczytu:</string>
+    <string name="network_test">Test prędkości sieci</string>
+    <string name="connection_speed">Prędkość połączenia:</string>
+    <string name="network_edge">Sieć : EDGE</string>
+    <string name="network_3g">Sieć : 3G</string>
+    <string name="network_detecting">Sieć : Wykrywanie</string>
+    <string name="update_speed">%s kbit/sec</string>
+    <string name="update_downloaded" formatted="false">Pobrano %s z %s</string>
+    <string name="update_connectionspeed">Czas połaczenia %s ms</string>
+    <string name="update_downloaded_complete" formatted="false">Pobrano %s @ %s kbit/sec</string>
+
+    <!-- Expose -->
+    <string name="expose_title" translatable="false">Exposè</string>
+    <string name="expose_summary">Exposè - narożnikowe akcje jak w Mac OSX</string>
+    <string name="expose_pause">Exposè zostało wstrzymane</string>
+    <string name="expose_long_click">Przytrzymanie</string>
+    <string name="expose_long_click_summary">Przytrzymaj na exposè by wstrzymać</string>
+    <string name="expose_top_left">Górny lewy exposè</string>
+    <string name="expose_top_right">Górny prawy exposè</string>
+    <string name="expose_bottom_left">Dolny lewy exposè</string>
+    <string name="expose_bottom_right">Dolny prawy exposè</string>
+    <string name="expose_widget_center">Smart center</string>
+    <string name="expose_start">Start</string>
+
+    <!-- Bootanimation -->
+    <string name="bootanimation">Bootanimacja</string>
+    <string name="bootanimation_summary">Pobierz i zainstaluj niestandardowe bootanimacje</string>
+    <string name="bootanimation_not_found">Nie mogę znaleźć bootanimacji która pasuje do rozmiaru Twojego ekranu. Proszę spróbować z inną!</string>
+    <string name="bootanimation_reboot">Uruchom ponownie urządzenie i ciesz się nową bootanimacją!</string>
+    <string name="custom_bootanimation">Zainstaluj niestandardową bootanimację</string>
+    <string name="custom_bootanimation_summary">Umieść bootanimation.zip w folderze:</string>
+    <string name="custom_bootanimation_install">Kliknij tutaj by zainstalować niestandardową bootanimacje</string>
+    <string name="bam_roms_title">BAM</string>
+    <string name="cyanogenmod">CyanogenMod</string>
+    <string name="aokp">AOKP</string>
 
 </resources>
