@@ -321,7 +321,16 @@
     <string name="enable_daemon_boot_summary">Lancia questo servizio quando il dispositivo viene acceso</string>
     <string name="screen_state_summary">Imposta azioni personalizzate quando lo schermo viene acceso o spento</string>
     <string name="screen_state_battery">Batteria scarsa</string>
-    <string name="screen_state_battery_summary">Abilita le smart actions solo se la batteria è inferiore al 20%</string>
+    <string name="screen_state_battery_summary">Abilita le smart actions solo se la batteria è inferiore al valore configurato</string>
+    <string name="set_battery_level">Imposta il valore minimo della batteria</string>
+    <string name="screen_state_wifi">Wifi</string>
+    <string name="screen_state_wifi_summary">Disabilita il wifi quando lo schermo viene spento</string>
+    <string name="screen_state_bluetooth">Bluetooth</string>
+    <string name="screen_state_bluetooth_summary">Disabilita il bluetooth quando lo schermo viene spento</string>
+    <string name="screen_state_data">Data</string>
+    <string name="screen_state_data_summary">Disabilita i dati a pecchetto quando lo schermo viene spento</string>
+    <string name="screen_state_sync">Sync</string>
+    <string name="screen_state_sync_summary">Disabilita il sync quando lo schermo viene spento</string>
 
     <!--CUSTOMIZATION-->
     <string name="unity_bars">Unity bars</string>
@@ -707,6 +716,9 @@
     <string name="bam_roms_title">BAM</string>
     <string name="cyanogenmod">CyanogenMod</string>
     <string name="aokp">AOKP</string>
+    <string name="chaos">ChameleonOS</string>
+    <string name="carbon">Carbon ROMs</string>
+    <string name="slim">Slim ROMs</string>
 
     <!-- The chamber of secrets -->
     <string name="chamber_title">La camera dei segreuti</string>

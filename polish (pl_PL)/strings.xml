@@ -272,7 +272,7 @@
     <string name="screen_state_notification">Smart bar</string>
     <string name="screen_state_notification_summary">Dodaj widget inteligentnych działań do szuflady powiadomień</string>
     <string name="screen_state_battery">Niski poziom baterii</string>
-    <string name="screen_state_battery_summary">Włacz akcje tylko wówczas gdy poziom baterii jest mniejszy niż 20%</string>
+    <string name="screen_state_battery_summary">Włacz akcje tylko wówczas gdy poziom baterii jest mniejszy niż wartość dostosowanej</string>
     <string name="screen_state_wifi">Wifi</string>
     <string name="screen_state_wifi_summary">Wyłącz wifi gdy ekran gaśnie</string>
     <string name="screen_state_bluetooth">Bluetooth</string>

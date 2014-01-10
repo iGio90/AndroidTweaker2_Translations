@@ -315,7 +315,7 @@
     <string name="screen_state_notification">Smart bar</string>
     <string name="screen_state_notification_summary">Añadir widgets de smart actions al cajón de notificaciones</string>
     <string name="screen_state_battery">Batería baja</string>
-    <string name="screen_state_battery_summary">Activar acciones sólo si la batería está por debajo de 20%</string>
+    <string name="screen_state_battery_summary">Activar acciones sólo si la batería está por debajo del valor configurado</string>
     <string name="screen_state_wifi">Wifi</string>
     <string name="screen_state_wifi_summary">Desactivar el Wifi cuando la pantalla se apaga</string>
     <string name="screen_state_bluetooth">Bluetooth</string>

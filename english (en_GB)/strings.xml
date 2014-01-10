@@ -325,7 +325,8 @@
     <string name="screen_state_notification">Smart bar</string>
     <string name="screen_state_notification_summary">Add smart actions widgets to the notification drawer</string>
     <string name="screen_state_battery">Low battery</string>
-    <string name="screen_state_battery_summary">Enable actions only if battery is less then 20%</string>
+    <string name="screen_state_battery_summary">Enable actions only if battery is less then the level set by you</string>
+    <string name="set_battery_level">Set the minimum battery level</string>
     <string name="screen_state_wifi">Wifi</string>
     <string name="screen_state_wifi_summary">Disable wifi when the screen goes off</string>
     <string name="screen_state_bluetooth">Bluetooth</string>
@@ -727,6 +728,9 @@
     <string name="bam_roms_title">BAM</string>
     <string name="cyanogenmod">CyanogenMod</string>
     <string name="aokp">AOKP</string>
+    <string name="chaos">ChameleonOS</string>
+    <string name="carbon">Carbon ROMs</string>
+    <string name="slim">Slim ROMs</string>
 
     <!-- The chamber of secrets -->
     <string name="chamber_title">The chamber of secrets</string>
