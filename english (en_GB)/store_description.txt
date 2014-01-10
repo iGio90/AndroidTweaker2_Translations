@@ -34,5 +34,6 @@ Addons (Shop):
 - Data backup that allows you to backup and restore your personal data such as call logs, sms, bookmarks and more..
 - Unity bars: an ubuntu unity like launcher bars with customizable colors and options
 - Exposè: create Mac OSX like exposé. Add customized actions to screen corners!
+- The chamber of secrets: Allows you to store secure data inside the app such as pictures, videos, music, audio, documents, notes, bookmarks, phone numbers and more!
 
 Compatible with all stock and custom ROMs such as CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slim, PAC, Samsung and HTC!

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name" translatable="false">Android Tweaker 2</string>
     <string name="reboot">Reboot your device in order to apply changes</string>
     <string name="apply">Apply changes</string>
@@ -27,7 +26,7 @@
     <string name="share_with">Share with…</string>
     <string name="draw">Draw something…</string>
     <string name="no_root_activity">This tool require a rooted device. Please, root your device to enable this function</string>
-    <string name="info">Info</string>
+    <string name="info">Informations</string>
     <string name="not_available_title">Not available</string>
     <string name="not_available_summary">Please, visit the shop to purchase this addon</string>
     <string name="enable">Enable</string>
@@ -37,20 +36,30 @@
     <string name="install">Do you want to install</string>
     <string name="downloading">Downloading…</string>
     <string name="launcher_summary">Enable or disable launcher icons for Android Tweaker 2 activities</string>
-
+    <string name="send_mail">Send mail…</string>
     <string name="rate_us">If you find this application clear, easy and useful, don\'t forget to leave us a review on the store!\n\nDo not hesitate to contact us by email for any problems!</string>
+    <string name="preferences">Preferences</string>
+    <string name="whatsthis">What\'s this</string>
 
-    <!-- Settings -->
-    <string-array name="nav_drawer_items">
-        <item>@string/title_launchers</item>
-    </string-array>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Press on Color to apply</string>
 
-    <array name="nav_drawer_icons">
-        <item>@drawable/home</item>
-    </array>
+    <!-- Preferences -->
+    <string name="pref_category">Category</string>
+    <string name="color1_title">Color 1</string>
+    <string name="color1_summary">black color by default, set by reference</string>
+    <string name="color2_title">Color 2</string>
+    <string name="color2_summary">not persistent color\nalpha slider added via code</string>
+    <string name="color3_title">Color 3</string>
+    <string name="color3_summary">picker with alpha slider</string>
+    <string name="color4_title">Color 4</string>
+    <string name="color4_summary">color set with HEX code in xml</string>
 
     <!-- Advanced settings -->
+    <string name="open_the_drawer">Tap here to show the drawer with preferences</string>
     <string name="title_launchers">Launchers</string>
+    <string name="advanced_user">Advanced user</string>
 
     <!-- TIPS -->
     <string name="tips">Tips:</string>
@@ -70,6 +79,7 @@
     <string name="tips_backup">This addon allows you to backup and restore your personal data such as short message, call logs, dictionaries, settings and more</string>
     <string name="tips_unity">This addon allows you to create a fully customizable like unity launcher with a swipe from outside the screen on the left or on the right side. Check out the video for a little preview</string>
     <string name="tips_expose">This addon allows you to create a fully customizable Mac OSX like exposè. This exposè allows you to setup custom actions when you tap the 4 corners of your device screen. Check out the video for a little preview</string>
+    <string name="tips_chamber">This addon allows you to securely store Documents, APKs, Music, Audio, Pictures, Videos, Personal notes, Bookmarks, Phone numbers etc. inside the chamber of secrets. A password is required to open the chamber and all the files are securely encrypted!</string>
 
     <!-- HOME -->
     <string name="unlicensed">Please, buy a legit copy of this app. Developers put dedication and time on creating applications like that. You should support our work!!</string>
@@ -356,6 +366,7 @@
     <string name="backup_purchased">Data backup has been purchased! You got a new card on the tools page!</string>
     <string name="unity_purchased">Unity bars has been puchased! You got a new card on the customization page!</string>
     <string name="expose_purchased">Exposè has been puchased! You got a new card on the home page!</string>
+    <string name="chamber_purchased">The chamber of secrets has been puchased! You got a new card on the home page!</string>
 
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Notification weather</string>
@@ -492,12 +503,9 @@
     <string name="restore">Restore</string>
     <string name="backupConfirmation">Backup?</string>
     <string name="restoreConfirmation">Restore?</string>
-    <string name="restoreApk">Restore apk</string>
-    <string name="restoreData">Restore data</string>
-    <string name="restoreBoth">Restore both</string>
-    <string name="backupApk">Backup apk</string>
-    <string name="backupData">Backup data</string>
-    <string name="backupBoth">Backup both</string>
+    <string name="handleApk">apk</string>
+    <string name="handleData">data</string>
+    <string name="handleBoth">both</string>
     <string name="radioApk">Apk</string>
     <string name="radioData">Data</string>
     <string name="radioBoth">Data + Apk</string>
@@ -548,6 +556,9 @@
     <string name="customListTitle">Custom list</string>
     <string name="quickReboot">Quick reboot</string>
     <string name="quickRebootMessage">Do you wish to restart userspace?</string>
+    <string name="tools_title">tools</string>
+    <string name="tools_batchDeleteTitle">delete backups?</string>
+    <string name="tools_batchDeleteMessage">deleting backups</string>
     <string name="enablePackageTitle">Enable for users</string>
     <string name="disablePackageTitle">Disable for users</string>
     <string name="prefs_title">Preferences</string>
@@ -711,7 +722,66 @@
     <string name="custom_bootanimation">Install custom bootanimation</string>
     <string name="custom_bootanimation_summary">Place the bootanimation.zip file inside the folder:</string>
     <string name="custom_bootanimation_install">Tap here to install your custom bootanimation</string>
+    <string name="restore_bootanimation">Do you want to restore your original bootanimation?</string>
+    <string name="backup_bootanimation">Backing up current bootanimation to allows you to restore in future</string>
     <string name="bam_roms_title">BAM</string>
     <string name="cyanogenmod">CyanogenMod</string>
     <string name="aokp">AOKP</string>
+
+    <!-- The chamber of secrets -->
+    <string name="chamber_title">The chamber of secrets</string>
+    <string name="chamber_main_message">Create a password that will allows you to open the chamber. Password will be stored in your phone with AES and SALT encryption. It\'s extremely important that you don\'t forget your password!</string>
+    <string name="create_master_password">Create master password</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Password (6 Char min)</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="chamber_uninstall_warning">Important: If you uninstall Android Tweaker 2 or you wipe your data all the files inside the chamber will be deleted! You can use Android Tweaker 2 appmanager to backup/restore app data that will also works for chamber files!</string>
+    <string name="email">E-Mail</string>
+    <string name="password_mismatch">Make sure you enter the same password in both fields</string>
+    <string name="password_empty">Password field can\'t be empty!</string>
+    <string name="chamber_pass_lenght">Password must contain at least 6 char!</string>
+    <string name="password_created">Master password created</string>
+    <string name="password_edited">Master password has been updated!</string>
+    <string name="insert_password">Insert password</string>
+    <string name="wrong_password">Wrong password</string>
+    <string name="open_chamber">Open the chamber</string>
+    <string name="chamber_pictures">Pictures</string>
+    <string name="chamber_videos">Videos</string>
+    <string name="chamber_audio">Audio</string>
+    <string name="chamber_notes">Notes</string>
+    <string name="chamber_apks">APKs</string>
+    <string name="chamber_docs">Documents and general files</string>
+    <string name="chamber_edit_password">Edit password</string>
+    <string name="remove_from_chamber">Remove from chamber</string>
+    <string name="chamber_has_opened">The chamber has been opened</string>
+    <string name="tap_to_close_chamber">Tap here to close it</string>
+    <string name="put_note_chamber">Create secret note</string>
+    <string name="put_note_chamber_summary">All the notes created are encypted and stored into the app! No one except you can access to them</string>
+    <string name="chamber_note_title">Note title</string>
+    <string name="chamber_note_content">Note content</string>
+    <string name="chamber_select_note_type">Choose note type</string>
+    <string name="chamber_note_bookmark">Bookmarks</string>
+    <string name="chamber_note_phone_number">Phone numbers</string>
+    <string name="chamber_note_personal">Personal notes</string>
+    <string name="chamber_insert_title">Please insert a title!</string>
+    <string name="chamber_different_title">This title is already in use. Please use a different note title</string>
+    <string name="chamber_note_edit">Edit</string>
+    <string name="chamber_note_open">Open</string>
+    <string name="chamber_note_mail">Mail</string>
+    <string name="chamber_note_call">Call</string>
+    <string name="chamber_note_sms">SMS</string>
+    <string name="add_some_pics_to_chamber">Pictures chamber is empty! Add some files before entering</string>
+    <string name="add_some_vids_to_chamber">Videos chamber is empty! Add some files before entering</string>
+    <string name="add_some_audio_to_chamber">Audio chamber is empty! Add some files before entering</string>
+    <string name="add_some_personal_notes_to_chamber">Personal notes chamber is empty! Add some files before entering</string>
+    <string name="add_some_bookmarks_notes_to_chamber">Bookmarks notes chamber is empty! Add some files before entering</string>
+    <string name="add_some_phone_notes_to_chamber">Phone numbers notes chamber is empty! Add some files before entering</string>
+    <string name="add_some_apks_notes_to_chamber">Apks chamber is empty! Add some files before entering</string>
+    <string name="add_some_docs_notes_to_chamber">Docs chamber is empty! Add some files before entering</string>
+    <string name="chamber_clearall">Restore all files</string>
+    <string name="chamber_clearnotes">Clear notes</string>
+    <string name="chamber_clearall_dlg">Do you want to move back all files to their original location?</string>
+    <string name="chamber_clearnotes_dlg">Do you want to delete all saved notes?</string>
+    <string name="chamber_prefs_play_files">Play media and docs</string>
+    <string name="chamber_prefs_play_files_summary">Allows you to play media files such as audio, images, docs, videos etc. The files needs to be moved out from the chamber and moved to original directory before get played. All the files will be automatically moved back once you close the chamber!</string>
 </resources>
