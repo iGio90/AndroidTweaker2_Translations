@@ -34,5 +34,6 @@ Addons (Shop):
 - Data backup che ti consentirà di effettuare il backup ed il restore dei tuoi dati personali quali chiamate, sms, preferiti e altro ancora!
 - Unity bars: Launcher simile alle barre unity di ubuntu con personalizzazioni e impostazioni varie
 - Exposè: Crea degli expose come quelli di Mac OSX. Aggiungi azioni personalizzate agli angoli dello schermo del tuo dispositivo!
+- La camera dei segreti: Ti consente di salvare in maniera del tutto sicura i tuoi files dentro l’app quali immagini, video, musica, file audo, documenti, note private, preferiti e molto altro!
 
 Compatibile con tutte le stock ROM o customizzate quali CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slim, PAC, Samsung e HTC!

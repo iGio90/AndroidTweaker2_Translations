@@ -24,7 +24,7 @@
     <string name="share_with">Condividi su…</string>
     <string name="draw">Draw something…</string>
     <string name="no_root_activity">Questo tool richiede il root del dispositivo. Perfavore, effettua il root al tuo device per poter utilizzare questa funzione</string>
-    <string name="info">Info</string>
+    <string name="info">Informazioni</string>
     <string name="not_available_title">Non disponibile</string>
     <string name="not_available_summary">Perfavore, visita il nostro negozio per sbloccare questo addon</string>
     <string name="enable">Abilita</string>
@@ -35,20 +35,31 @@
     <string name="downloading">Scaricando…</string>
     <string name="launcher_summary">Abilita o disabilita le icone launcher per le attività di Android Tweaker 2</string>
 
+    <string name="send_mail">Invia mail…</string>
     <string name="rate_us">Se hai trovato questa applicazione facile, intuitiva ed utile, non dimenticarti di lasciarci una tua recensione sullo store!\n\nPer qualsiasi problema, non esistate a contattarci tramite e-mail!</string>
+    <string name="preferences">Preferenze</string>
+    <string name="whatsthis">Cos\'è</string>
 
-    <!-- Settings -->
-    <string-array name="nav_drawer_items">
-        <item>@string/title_launchers</item>
-    </string-array>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Premi sul colore per applicare</string>
 
-    <array name="nav_drawer_icons">
-        <item>@drawable/home</item>
-    </array>
+    <!-- Preferences -->
+    <string name="pref_category">Categoria</string>
+    <string name="color1_title">Colore 1</string>
+    <string name="color1_summary">black color by default, set by reference</string>
+    <string name="color2_title">Colore 2</string>
+    <string name="color2_summary">not persistent color\nalpha slider added via code</string>
+    <string name="color3_title">Colore 3</string>
+    <string name="color3_summary">picker with alpha slider</string>
+    <string name="color4_title">Colore 4</string>
+    <string name="color4_summary">color set with HEX code in xml</string>
 
     <!-- Advanced settings -->
+    <string name="open_the_drawer">Fai tap qui per aprire il drawer con le preferenze</string>
     <string name="title_launchers">Launchers</string>
     <string name="title_advanced_settings">Impostazioni avanzate</string>
+    <string name="advanced_user">Utente esperto</string>
 
     <!--TIPS-->
     <string name="tips">Suggerimenti:</string>
@@ -68,6 +79,7 @@
     <string name="tips_backup">Questo addon ti consente di eseguire il backup ed il restore dei tuoi dati personali quali SMS, registro chiamate, preferiti, impostazioni e altro!</string>
     <string name="tips_unity">Questo addon ti consente di creare delle barre simili alle ubuntu unity bars. Queste barre sono pienamento customizzabili con colori e impostazioni. Guarda il video dimostrativo per una piccola preview</string>
     <string name="tips_expose">Questo addon ti consente di creare degli exposè simili a quelli del Mac OSX. Questi exposè ti consentiranno di aggiungere azioni personalizzate ai 4 angoli dello schermo. Guarda il video dimostrativo per una piccola preview</string>
+    <string name="tips_chamber">Questo addon ti consente di salvare in maniera sicura i tuoi documenti, APK, musica, file audio, immagini, video, note personali, preferiti, numeri di telefono e molto altro dentro alla camera dei segreti. Una password è richiesta per aprire la camera e tutti i file sono criptati!</string>
 
     <!--HOME-->
     <string name="unlicensed">Perfavore, acquista una copia legale di questa applicazione. Gli sviluppatori mettono dedizione e tempo per creare applicazioni come questa. Dovresti supportare il nostro lavoro!</string>
@@ -339,6 +351,7 @@
     <string name="backup_purchased">Data backup è stato acquistato con successo! Hai una nuova card nella pagina strumenti!</string>
     <string name="unity_purchased">Unity bars è stato acquistato con successo! Hai una nuova card nella pagina personalizzazioni!</string>
     <string name="expose_purchased">Exposè è stato acquistato con successo! Hai una nuova card home dell\'applicazione!</string>
+    <string name="chamber_purchased">La camera dei segreti è stata acquistato con successo! Hai una nuova card home dell\'applicazione!</string>
 
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Notification weather</string>
@@ -475,12 +488,9 @@
     <string name="restore">Ripristina</string>
     <string name="backupConfirmation">Backup?</string>
     <string name="restoreConfirmation">Ripristina?</string>
-    <string name="restoreApk">Ripristina apk</string>
-    <string name="restoreData">Ripristina data</string>
-    <string name="restoreBoth">Ripristina entrambi</string>
-    <string name="backupApk">Backup apk</string>
-    <string name="backupData">Backup data</string>
-    <string name="backupBoth">Backup entrambi</string>
+    <string name="handleApk">apk</string>
+    <string name="handleData">data</string>
+    <string name="handleBoth">entrambi</string>
     <string name="radioApk">Apk</string>
     <string name="radioData">Data</string>
     <string name="radioBoth">Data + Apk</string>
@@ -531,6 +541,9 @@
     <string name="customListTitle">Lista personalizzata</string>
     <string name="quickReboot">Riavvio veloce</string>
     <string name="quickRebootMessage">Vuoi riavviare lo spazio utente?</string>
+    <string name="tools_title">strumenti</string>
+    <string name="tools_batchDeleteTitle">cancellare backups?</string>
+    <string name="tools_batchDeleteMessage">cancellando i backups</string>
     <string name="enablePackageTitle">Abilita per i seguenti utenti</string>
     <string name="disablePackageTitle">Disabilita per i seguenti utenti</string>
     <string name="prefs_title">Preferenze</string>
@@ -689,7 +702,66 @@
     <string name="custom_bootanimation">Installa una bootanimation personalizzata</string>
     <string name="custom_bootanimation_summary">Metti il file bootanimation.zip dentro la cartella:</string>
     <string name="custom_bootanimation_install">Tocca qui per installare la tua bootanimation personalizzata</string>
+    <string name="restore_bootanimation">Vuoi ripristinare la tua bootanimation originale?</string>
+    <string name="backup_bootanimation">Effettuo il backup della tua bootanimation per consentirti di ripristinarla in futuro</string>
     <string name="bam_roms_title">BAM</string>
     <string name="cyanogenmod">CyanogenMod</string>
     <string name="aokp">AOKP</string>
+
+    <!-- The chamber of secrets -->
+    <string name="chamber_title">La camera dei segreuti</string>
+    <string name="chamber_main_message">Crea una password che ti consentirà di aprire la camera. La password verrà salvata sul tuo telefono e criptata con AES e SALT. Non dimenticarla!</string>
+    <string name="create_master_password">Crea la master password</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Password (6 Char min)</string>
+    <string name="repeat_password">Ripeti password</string>
+    <string name="chamber_uninstall_warning">Importante: Se disinstalli l\'applicazione o effettui il wipe dei dati tutti i file dentro la camera verranno eliminati! Puoi usare l\'appmanager per effettuare il backup dei dati di Android Tweaker 2 che effettuerà il backup anche dei files contenuti nella camera!</string>
+    <string name="email">E-Mail</string>
+    <string name="password_mismatch">Accertati di aver inserito la stessa password in entrambi i campi</string>
+    <string name="password_empty">La password non può essere vuota!</string>
+    <string name="chamber_pass_lenght">La password deve contenere almeno 6 lettere!</string>
+    <string name="password_created">Master password creata</string>
+    <string name="password_edited">Master password è stata aggiornata!</string>
+    <string name="insert_password">Inserici password</string>
+    <string name="wrong_password">Password errata</string>
+    <string name="open_chamber">Apri la camera</string>
+    <string name="chamber_pictures">Immagini</string>
+    <string name="chamber_videos">Video</string>
+    <string name="chamber_audio">Audio</string>
+    <string name="chamber_notes">Note</string>
+    <string name="chamber_apks">APKs</string>
+    <string name="chamber_docs">Documenti e file generali</string>
+    <string name="chamber_edit_password">Modifica password</string>
+    <string name="remove_from_chamber">Rimuovi dalla camera</string>
+    <string name="chamber_has_opened">La camera è stata aperta</string>
+    <string name="tap_to_close_chamber">Tocca qui per chiuderla</string>
+    <string name="put_note_chamber">Crea una nota segreta</string>
+    <string name="put_note_chamber_summary">Tutte le note create sono criptate e salvate all\'interno dell\'app! Nessuno a parte te sarà in grado di accedervi!</string>
+    <string name="chamber_note_title">Titolo della nota</string>
+    <string name="chamber_note_content">Contenuto della nota</string>
+    <string name="chamber_select_note_type">Tipo di nota</string>
+    <string name="chamber_note_bookmark">Preferito</string>
+    <string name="chamber_note_phone_number">Numero di telefono</string>
+    <string name="chamber_note_personal">Nota personale</string>
+    <string name="chamber_insert_title">Per favore, inserisci un titolo!</string>
+    <string name="chamber_different_title">Questo titolo è gia in uso! Utilizza un titolo diverso!</string>
+    <string name="chamber_note_edit">Modifica</string>
+    <string name="chamber_note_open">Apri</string>
+    <string name="chamber_note_mail">Mail</string>
+    <string name="chamber_note_call">Chiama</string>
+    <string name="chamber_note_sms">SMS</string>
+    <string name="add_some_pics_to_chamber">La camera delle immagini è vuota! aggiungi qualche file prima di entrare!</string>
+    <string name="add_some_vids_to_chamber">La camera dei video è vuota! aggiungi qualche file prima di entrare!</string>
+    <string name="add_some_audio_to_chamber">La camera dei file audio è vuota! aggiungi qualche file prima di entrare!</string>
+    <string name="add_some_personal_notes_to_chamber">La camera delle note personali è vuota! aggiungi qualche file prima di entrare!</string>
+    <string name="add_some_bookmarks_notes_to_chamber">La camera dei preferiti è vuota! aggiungi qualche file prima di entrare!</string>
+    <string name="add_some_phone_notes_to_chamber">La camera dei numeri di telefono è vuota! aggiungi qualche file prima di entrare!</string>
+    <string name="add_some_apks_notes_to_chamber">La camera degli APKs è vuota! aggiungi qualche file prima di entrare!</string>
+    <string name="add_some_docs_notes_to_chamber">La camera dei documenti è vuota! aggiungi qualche file prima di entrare!</string>
+    <string name="chamber_clearall">Ripristina tutti i files</string>
+    <string name="chamber_clearnotes">Cancella tutte le note</string>
+    <string name="chamber_clearall_dlg">Vuoi spostare tutti i files nella camera nella loro posizione originale?</string>
+    <string name="chamber_clearnotes_dlg">Vuoi cancellare tutte le note create?</string>
+    <string name="chamber_prefs_play_files">Riproduci media e documenti</string>
+    <string name="chamber_prefs_play_files_summary">Ti consente di aprire i files media quali immagini, video, audio, documenti ecc. I files devono essere spostati nella loro posizione originale prima di essere riprodotti. Tutti i files riprodotti verranno automaticamente spostati dentro la camera quando essa verrà chiusa!</string>
 </resources>
