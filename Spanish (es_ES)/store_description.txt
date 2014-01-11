@@ -34,5 +34,5 @@ Addons (Tienda):
 - Realizador se copias de seguridad de datos, que te permite realizar copias de seguridad y restaurar tus datos personales, como registro de llamadas, SMS, Favoritos ¡y mucho más!
 - Unity bars: un aporte de Ubuntu en forma de "launcher bars" con colores y opciones personalizables.
 - Exposè: crea una interfaz de Mac OSX al estilo de Exposé. ¡Añade acciones personalizadas en las esquinas de la pantalla!
-
+- Cámara de los Secretos: te permite almacenar con seguridad datos dentro de la aplicación, como imágenes, vídeos, música, audio, documentos, notas, favoritos, números de teléfono ¡y más!
 ¡Compatible con todas las Stock y Custom ROMs, como CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slim, PAC, Samsung y HTC!
