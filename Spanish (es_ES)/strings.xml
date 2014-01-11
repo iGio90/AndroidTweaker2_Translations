@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name" translatable="false">Android Tweaker 2</string>
     <string name="reboot">Reinicia tu dispositivo para aplicar los cambios</string>
     <string name="apply">Aplicar cambios</string>
@@ -37,20 +36,30 @@
     <string name="install">¿Seguro que quieres instalar?</string>
     <string name="downloading">Descargando…</string>
     <string name="launcher_summary">Activar o desactivar iconos de launcher para actividades de Android Tweaker 2</string>
-    
+    <string name="send_mail">Enviar correo…</string>
     <string name="rate_us">Si crees que esta aplicación es clara, fácil de usar y útil, ¡no te olvides de contarnos tu experiencia con la aplicación en Play Store!\n\n ¡No dudes en ponerte en contacto con nosotros por email si tienes algún problema!</string>
-
-    <!-- Settings -->
-    <string-array name="nav_drawer_items">
-        <item>@string/title_launchers</item>
-    </string-array>
+    <string name="preferences">Preferencias</string>
+    <string name="whatsthis">¿Qué es esto?</string>
  
-    <array name="nav_drawer_icons">
-        <item>@drawable/home</item>
-    </array>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Selector de color</string>
+    <string name="press_color_to_apply">Pulsa en Color para aplicar</string>
+    
+    <!-- Preferences -->
+    <string name="pref_category">Categoría</string>
+    <string name="color1_title">Color 1</string>
+    <string name="color1_summary">Color negro por defecto, establecido como referencia</string>
+    <string name="color2_title">Color 2</string>
+    <string name="color2_summary">Color no persistente\nDeslizador alpha añadido via código</string>
+    <string name="color3_title">Color 3</string>
+    <string name="color3_summary">Selector con deslizador alpha</string>
+    <string name="color4_title">Color 4</string>
+    <string name="color4_summary">Establecimiento de color con código HEX en xml</string>
  
     <!-- Advanced settings -->
+    <string name="open_the_drawer">Pulsa aquí para mostrar el cajón de preferencias</string>
     <string name="title_launchers">Launchers</string>
+    <string name="advanced_user">Usuario avanzado</string>
     
     <!-- TIPS -->
     <string name="tips">Sugerencias:</string>
@@ -70,6 +79,7 @@
     <string name="tips_backup">Este addon te permite realizar copias de seguridad y restauraciones de tus datos personales, como mensajes, registro de llamadas. diccionarios, ajustes y más</string>
     <string name="tips_unity">Este addon te permite crear Unity Bars totalmente personalizables, al estilo de Unity Launcher de Ubuntu, mediante un deslizamiento desde el extremo derecho o izquierdo de la pantalla. ¡Mira el vídeo para ver cómo funciona!</string>
     <string name="tips_expose">Este addon te permite crear una interfaz de Mac OSX totalmente personalizable, al estilo de Exposè. Exposè te permite configurar acciones personalizadas cuando pulsas las 4 esquinas de la pantalla del dispositivo. ¡Mira el vídeo para ver cómo funciona!</string>
+    <string name="tips_chamber">Este addon te permite almacenar de forma segura Documentos, APKs, Música, Audio, Imágenes, Vídeos, Notas personales, Marcadores, Números de teléfono, etc. dentro de la Cámara de los Secretos. Se requiere una contraseña para abrir la Cámara, ¡y todos los archivos están encriptados de forma segura!</string>
     
     <!-- HOME -->
     <string name="unlicensed">Por favor, compra una copia legítima de esta aplicación. Los desarrolladores ponen tiempo y dedicación para crear aplicaciones como ésta. ¡¡Deberías apoyar nuestro trabajo!!</string>
@@ -316,6 +326,7 @@
     <string name="screen_state_notification_summary">Añadir widgets de smart actions al cajón de notificaciones</string>
     <string name="screen_state_battery">Batería baja</string>
     <string name="screen_state_battery_summary">Activar acciones sólo si la batería está por debajo del valor configurado</string>
+    <string name="set_battery_level">Establecer el nivel mínimo de batería</string>
     <string name="screen_state_wifi">Wifi</string>
     <string name="screen_state_wifi_summary">Desactivar el Wifi cuando la pantalla se apaga</string>
     <string name="screen_state_bluetooth">Bluetooth</string>
@@ -356,6 +367,7 @@
     <string name="backup_purchased">¡El realizador de copias de seguridad ha sido comprado! ¡Has obtenido una nueva tarjeta en la página de herramientas!</string>
     <string name="unity_purchased">¡Unity bars ha sido comprado! ¡Has obtenido una nueva tarjeta en la página de personalización!</string>
     <string name="expose_purchased">¡Exposè ha sido comprado! ¡Has obtenido una nueva tarjeta en la página principal!</string>
+    <string name="chamber_purchased">¡La Cámara de los Secretos ha sido comprada! ¡Has obtenido una nueva tarjeta en la página principal!</string>
     
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Notificaciones de tiempo</string>
@@ -492,12 +504,9 @@
     <string name="restore">Restaurar</string>
     <string name="backupConfirmation">¿Realizar copia de seguridad?</string>
     <string name="restoreConfirmation">¿Restaurar?</string>
-    <string name="restoreApk">Restaurar apk</string>
-    <string name="restoreData">Restaurar datos</string>
-    <string name="restoreBoth">Restaurar ambos</string>
-    <string name="backupApk">Realizar copia de seguridad de apk</string>
-    <string name="backupData">Realizar copia de seguridad de datos</string>
-    <string name="backupBoth">Realizar copia de seguridad de ambos</string>
+    <string name="handleApk">Apk</string>
+    <string name="handleData">Datos</string>
+    <string name="handleBoth">Ambos</string>
     <string name="radioApk">Apk</string>
     <string name="radioData">Datos</string>
     <string name="radioBoth">Datos + Apk</string>
@@ -548,6 +557,9 @@
     <string name="customListTitle">Lista personalizada</string>
     <string name="quickReboot">Reinicio rápido</string>
     <string name="quickRebootMessage">¿Deseas reiniciar el espacio de usuario?</string>
+    <string name="tools_title">Herramientas</string>
+    <string name="tools_batchDeleteTitle">¿Eliminar copias de seguridad?</string>
+    <string name="tools_batchDeleteMessage">Eliminando copias de seguridad</string>
     <string name="enablePackageTitle">Habilitar para los usuarios</string>
     <string name="disablePackageTitle">Inhabilitar para los usuarios</string>
     <string name="prefs_title">Preferencias</string>
@@ -711,7 +723,69 @@
     <string name="custom_bootanimation">Instalar un bootanimation personalizado</string>
     <string name="custom_bootanimation_summary">Situar el archivo bootanimation.zip en la carpeta:</string>
     <string name="custom_bootanimation_install">Pulsa aquí para instalar tu bootanimation personalizado</string>
+    <string name="restore_bootanimation">¿Quieres restaurar tu bootanimation original?</string>
+    <string name="backup_bootanimation">Realizando copia de seguridad del bootanimation actual para permitir su recuperación en un futuro</string>
     <string name="bam_roms_title">BAM</string>
     <string name="cyanogenmod">CyanogenMod</string>
     <string name="aokp">AOKP</string>
+    <string name="chaos">ChameleonOS</string>
+    <string name="carbon">Carbon ROMs</string>
+    <string name="slim">Slim ROMs</string>
+    
+    <!-- The chamber of secrets -->
+    <string name="chamber_title">Cámara de los Secretos</string>
+    <string name="chamber_main_message">Crea una contraseña que te permita abrir la Cámara. La contraseña se almacenará en tu dispositivo con encriptación AES y SALT. ¡Es extremadamente importante que no te olvides de la contraseña!</string>
+    <string name="create_master_password">Crear contraseña maestra</string>
+    <string name="password">Contraseña</string>
+    <string name="password_hint">Contraseña(6 caracteres mínimo)</string>
+    <string name="repeat_password">Repetir contraseña</string>
+    <string name="chamber_uninstall_warning">Importante: Si desinstalas Android Tweaker 2 o borras tus datos, ¡todos los archivos almacenados en el interior de la Cámara serán eliminados! Puedes usar el Administrador de aplicaciones de Android Tweaker 2 para realizar copias de seguridad o restaurar datos de aplicaciones, ¡que también funcionarán para la Cámara de los Secretos!</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password_mismatch">Asegúrate de introducir la misma contraseña en ambos campos</string>
+    <string name="password_empty">¡El campo de la contraseña no puede estar vacío!</string>
+    <string name="chamber_pass_lenght">¡La contraseña debe tener como mínimo 6 caracteres!</string>
+    <string name="password_created">Contraseña maestra creada</string>
+    <string name="password_edited">¡La contraseña maestra se ha actualizado!</string>
+    <string name="insert_password">Introducir contraseña</string>
+    <string name="wrong_password">Contraseña incorrecta</string>
+    <string name="open_chamber">Abrir la Cámara</string>
+    <string name="chamber_pictures">Imágenes</string>
+    <string name="chamber_videos">Vídeos</string>
+    <string name="chamber_audio">Audio</string>
+    <string name="chamber_notes">Notas</string>
+    <string name="chamber_apks">APKs</string>
+    <string name="chamber_docs">Documentos y archivos generales</string>
+    <string name="chamber_edit_password">Editar contraseña</string>
+    <string name="remove_from_chamber">Eliminar de la Cámara</string>
+    <string name="chamber_has_opened">La Cámara ha sido abierta</string>
+    <string name="tap_to_close_chamber">Pulsa aquí para cerrarla</string>
+    <string name="put_note_chamber">Crear nota secreta</string>
+    <string name="put_note_chamber_summary">¡Todas las notas creadas son encriptadas y almacenadas dentro de la aplicación! Nadie más aparte de ti puede acceder a ellas</string>
+    <string name="chamber_note_title">Título de nota</string>
+    <string name="chamber_note_content">Contenido de nota</string>
+    <string name="chamber_select_note_type">Elige el tipo de nota</string>
+    <string name="chamber_note_bookmark">Marcadores</string>
+    <string name="chamber_note_phone_number">Números de teléfono</string>
+    <string name="chamber_note_personal">Notas personales</string>
+    <string name="chamber_insert_title">Por favor, ¡inserta un título!</string>
+    <string name="chamber_different_title">Este título ya está siendo usado. Por favor, usa un título de nota distinto</string>
+    <string name="chamber_note_edit">Editar</string>
+    <string name="chamber_note_open">Abrir</string>
+    <string name="chamber_note_mail">Correo</string>
+    <string name="chamber_note_call">Llamadas</string>
+    <string name="chamber_note_sms">SMS</string>
+    <string name="add_some_pics_to_chamber">¡La Cámara de almacenamiento de imágenes está vacía! Añade algunos archivos antes de entrar</string>
+    <string name="add_some_vids_to_chamber">¡La Cámara de almacenamiento de vídeos está vacía! Añade algunos archivos antes de entrar</string>
+    <string name="add_some_audio_to_chamber">¡La Cámara de almacenamiento de audio está vacía! Añade algunos archivos antes de entrar</string>
+    <string name="add_some_personal_notes_to_chamber">¡La Cámara de almacenamiento de notas personales está vacía! Añade algunos archivos antes de entrar</string>
+    <string name="add_some_bookmarks_notes_to_chamber">¡La Cámara de almacenamiento de marcadores está vacía! Añade algunos archivos antes de entrar</string>
+    <string name="add_some_phone_notes_to_chamber">¡La Cámara de almacenamiento de números de teléfono está vacía! Añade algunos archivos antes de entrar</string>
+    <string name="add_some_apks_notes_to_chamber">¡La Cámara de almacenamiento de APKs está vacía! Añade algunos archivos antes de entrar</string>
+    <string name="add_some_docs_notes_to_chamber">¡La Cámara de almacenamiento de documentos está vacía! Añade algunos archivos antes de entrar</string>
+    <string name="chamber_clearall">Restaurar todos los archivos</string>
+    <string name="chamber_clearnotes">Eliminar notas</string>
+    <string name="chamber_clearall_dlg">¿Quieres volver a situar todos los archivos a su localización original?</string>
+    <string name="chamber_clearnotes_dlg">¿Quieres eliminar todas las notas guardadas?</string>
+    <string name="chamber_prefs_play_files">Reproducir multimedia y abrir documentos</string>
+    <string name="chamber_prefs_play_files_summary">Te permite reproducir archivos multimedia, como audio, imágenes, documentos, vídeos etc. Los archivos necesitan ser movidos fuera de la Cámara y restaurados a su directorio otiginal antes de ser reproducidos. ¡Todos los archivos serán restaurados automáticamente una vez cierres la Cámara!</string>
 </resources>
