@@ -771,7 +771,7 @@
     <string name="chamber_different_title">Este título ya está siendo usado. Por favor, usa un título de nota distinto</string>
     <string name="chamber_note_edit">Editar</string>
     <string name="chamber_note_open">Abrir</string>
-    <string name="chamber_note_mail">Correo</string>
+    <string name="chamber_note_mail">Compartir</string>
     <string name="chamber_note_call">Llamadas</string>
     <string name="chamber_note_sms">SMS</string>
     <string name="add_some_pics_to_chamber">¡La Cámara de almacenamiento de imágenes está vacía! Añade algunos archivos antes de entrar</string>
