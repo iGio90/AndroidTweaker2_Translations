@@ -277,7 +277,7 @@
     <string name="sql_defrag_summary">Versnel en optimaliseer uw SQL databases</string>
     <string name="sql_defrag_init">Defragmenteer alle SQL databases</string>
     <string name="sql_defrag_last">Laatste SQL defrag:</string>
-    <string name="sql_report_last">Laatste SQL verslagng>
+    <string name="sql_report_last">Laatste SQL verslag:</string>
     <string name="sql_setting_up">Het op zetten van milieu</string>
     <string name="sql_executing">Aan het werk…</string>
     <string name="sql_must_reboot">Aan het einde van dit proces moet het apparaat worden herstart. Doorgaan?</string>
