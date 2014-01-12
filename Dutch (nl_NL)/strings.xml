@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name" translatable="false">Android Tweaker 2</string>
     <string name="reboot">Herstart je apparaat om aanpassingen toe te passen</string>
-    <string name="apply">Aanpassingen toepassen</string>
+    <string name="apply">Wijzigingen toepassen</string>
     <string name="exit">Druk nog een keer op TERUG om af te sluiten</string>
     <string name="yes">Ja</string>
     <string name="no">Nee</string>
