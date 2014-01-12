@@ -11,13 +11,13 @@
     <string name="warning">Waarschuwing</string>
     <string name="error">Fout</string>
     <string name="checking">Afhankelijkheden controleren...</string>
-    <string name="connectionc_error">Android tweaker vereist een actieve internet verbinding om de app licentie te verifieren. Verbind je apparaat en probeer het opnieuw.</string>
+    <string name="connectionc_error">Android Tweaker vereist een actieve internet verbinding om de app licentie te verifieren. Verbind je apparaat en probeer het opnieuw.</string>
     <string name="sure">Weet u het zeker?</string>
     <string name="wait">Wacht astublieft...</string>
     <string name="updating">Afhankelijkheden updaten</string>
-    <string name="toolchain_exist">Benodigde middelen al geintalleerd. Overslaan...</string>
-    <string name="require_busybox">Deze actie vereist busybox geinstalleerd op uw apparaat. Installeer busybox voor dat u deze tool gebruikt</string>
-    <string name="require_sql">Deze actie vereist SQL toolchain. Als u deze melding ziet betekend het dat uw ROM niet compitabel is met SQL defragging tool.</string>
+    <string name="toolchain_exist">Benodigde middelen al geinstalleerd. Overslaan...</string>
+    <string name="require_busybox">Deze actie vereist busybox geinstalleerd op uw apparaat. Installeer busybox voordat u deze tool gebruikt</string>
+    <string name="require_sql">Deze actie vereist SQL toolchain. Als u deze melding ziet betekent het dat uw ROM niet compitabel is met de SQL defragging tool.</string>
     <string name="size">Grootte:</string>
     <string name="rate_explanation">Geef uw mening en help ons de gevarieerde inhoud te verbeteren</string>
     <string name="rate_now">Beoordeel nu</string>
@@ -71,11 +71,11 @@
     <string name="tips_tweaks_time">Sommige tweaks duren even om te activeren. Altijd wachten tot het SU bericht verdwijnt!</string>
     <string name="tips_not_a_game">Dit is geen spel. Gebruik deze app met je hersenen!</string>
     <string name="tips_zipalign">U hebt uw apps nog niet gezipaligned! Zipaligning verlaagt het RAM gebruik van uw apps. Klik hier om te beginnen!</string>
-    <string name="tips_screenstate">Deze tool maakt het mogelijk Android Tweaker 2 slimme acties te gebruiken. Slimme acties kan worden ingeschakeld via de voorkeuren paneel (in app), de widget of de slimme notificatie (Kan worden geactiveerd via slimme acties instellingen). Slimme acties geeft toestemming om aangepast gedrag in te stellen wanneer uw apparaat in slaap mode gaat. Als voorbeeld, u zet de wifi slimme actie aan, wifi zal uit gaan, en weer aan, als de slaap mode aan of uitgaat. Momenteel zijn er 4 slimme acties beschikbaar: Wifi, Bluetooth, Data en Sync. Deze acties, zal de batterij levensduur verhogen tot wel 300%!</string>
+    <string name="tips_screenstate">Deze tool maakt het mogelijk Android Tweaker 2 slimme acties te gebruiken. Slimme acties kan worden ingeschakeld via het voorkeuren paneel (in de app), de widget of de slimme notificatie (Kan worden geactiveerd via slimme acties instellingen). Slimme acties geeft toestemming om aangepast gedrag in te stellen wanneer uw apparaat in slaap modus gaat. Als voorbeeld, u zet de wifi slimme actie aan, wifi zal uit gaan, en weer aan, als de slaap modus aan of uitgaat. Momenteel zijn er 4 slimme acties beschikbaar: Wifi, Bluetooth, Gegevens en Sync. Deze acties, zal de batterij levensduur verhogen tot wel 300%!</string>
     <string name="tips_font">Deze addon geeft toestemming om uw systeem lettertype te veranderen in één klik. Kies tussen de 20+ voorgestelde lettertypes en als u de gene niet leuk vind die u kiest, klikt uw simpel op de reset knop om te herstellen naar de originele!</string>
-    <string name="tips_weather">Deze addon geeft toestemming om een aangepaste notificatie met weer informatie aan te maken gebasseerd op uw GPS locatie of gewoonlijke locatie.</string>
-    <string name="tips_gestures">Zwevende gebaren geeft toestemming om aangepaste gebaren te maken en een actie aan toe te voegen. Het zwevende icoon opent het gebaren pad waar uw een gewoonlijk gebaar kan tekenen! Bekijk de video voor een kleine preview</string>    
-    <string name="tips_backup">Deze addon geeft toestemming om een back-up en uw persoonlijke gegevens zoals een korte boodschap, oproeplogboeken, woordenboeken, instellingen en meer te herstellen</string>
+    <string name="tips_weather">Deze addon geeft toestemming om een aangepaste notificatie met weer informatie aan te maken gebasseerd op uw GPS locatie of aangepaste locatie.</string>
+    <string name="tips_gestures">Zwevende gebaren geeft toestemming om aangepaste gebaren te maken en daar een actie aan toe te voegen. Het zwevende icoon opent het gebaren pad waar uw een aangepast gebaar kan tekenen! Bekijk de video voor een kleine preview</string>    
+    <string name="tips_backup">Deze addon geeft toestemming om een back-up te maken en uw persoonlijke gegevens zoals een korte boodschap, oproeplogboeken, woordenboeken, instellingen en meer te herstellen</string>
     <string name="tips_unity">Deze addon geeft toestemming om een volledig aanpasbare eenheid launcher met een uithaal van buiten het scherm aan de linkerkant of aan de rechterkant te creëren. Bekijk de video voor een kleine preview</string>
     <string name="tips_expose">Deze addon geeft u toestemming een volledig aanpasbare Mac OSX als Expose creëren. Deze expose staat je toe om aangepaste acties in te stellen wanneer u op de 4 hoeken van uw scherm tikt. Bekijk de video voor een kleine preview</string>
     <string name="tips_chamber">Deze addon geeft toestemming om veilig Documenten, APKs, Muziek, Audio, Foto's, Video's, Persoonlijke notities, Bladwijzers, Telefoonnummers etc. in de Geheime Kamer op te slaan. Een wachtwoord is vereist om de kamer te openen en alle bestanden zijn veilig gecodeerd!</string>
@@ -98,7 +98,7 @@
     <string name="initd">Init.d Scripts</string>
     <string name="initd_summary">Collectie van init.d scripts.</string>
     <string name="appmanager">App beheer</string>
-    <string name="appmanager_summary">Applicatie data backup, uninstaller en enabler</string>
+    <string name="appmanager_summary">Applicatie gegevens backup, uninstaller en enabler</string>
     <string name="tools">Tools</string>
     <string name="tools_summary">Collectie van schoonmakers en nutsbedrijven</string>
     <string name="dns_manager">DNS beheer</string>
@@ -107,7 +107,7 @@
     <string name="customization_summary">Pas uw Android OS aan</string>
     <string name="changelog">Wijzigingsoverzicht</string>
     <string name="changelog_summary">Gedetailleerde wijzigingsoverzicht</string>
-    <string name="no_root">Deze app vereist root toegang om te werken. Klik hier root toegang te verkrijgen</string>
+    <string name="no_root">Deze app vereist root toegang om te werken. Klik hier om root toegang te verkrijgen</string>
     <string name="tweaker_store">Winkel</string>
     <string name="tweaker_store_summary">Koop extra items voor Android Tweaker 2</string>
 
@@ -119,7 +119,7 @@
     <string name="title_general_performance_summary">Collectie van tweaks om de prestatie te verbeteren van uw apparaat</string>
     <string name="title_ui_performance">UI Prestaties en scrollen</string>
     <string name="title_battery">Batterij</string>
-    <string name="title_battery_summary">Collectie van tweaks om de batterij leven te verhogen op uw apparaat</string>
+    <string name="title_battery_summary">Collectie van tweaks om de levensduur van uw batterij te verhogen op uw apparaat</string>
     <string name="title_media">Media</string>
     <string name="title_media_summary">Collectie van tweaks dat afbeeldingen, videos en audio instellingen tuned</string>
     <string name="title_audio_video_recording">Audio en Video opnemen</string>
@@ -146,7 +146,7 @@
     <string name="debughw_title">HW debug</string>
     <string name="debughw_summary">Schakel Hardware Debug in of uit. Geeft een klein extra systeem prestatie</string>
     <string name="syshw_title">Houd Sys UI HW aan</string>
-    <string name="syshw_summary">Houd sys UI HW aan of uit. Geeft een klein extra systeem prestaties</string>
+    <string name="syshw_summary">Schakel houd sys UI HW aan of uit. Geeft een klein extra systeem prestaties</string>
     <string name="debug_tuning_title">Prestaties tunen</string>
     <string name="debug_tuning_summary">Schakel prestatie tunen in of uit. Geeft een klein extra systeem prestatie</string>
     <string name="video_acceleration_title">HW video versneller</string>
@@ -156,11 +156,11 @@
     <string name="debugeglprofiler_title">EGL Profiler debug</string>
     <string name="debugeglprofiler_summary">Schakel EGL Profiler debug in of uit. Geeft een klein extra systeem prestatie</string>
     <string name="min_fling_title">Minimum gooi snelheid</string>
-    <string name="min_fling_summary">Verhoog of verlaag min. gooi snelheid. Geeft een betere scroll en gladheid. We raden aan dit tot max. te zetten</string>
+    <string name="min_fling_summary">Verhoog of verlaag min. gooi snelheid. Geeft een betere scroll en gladheid. We raden aan dit te verhogen tot max/string>
     <string name="max_fling_title">Maximum gooi snelheid</string>
     <string name="max_fling_summary">Verhoog of verlaag max gooi snelheid. Geeft een betere scroll en gladheid. We raden aan dit te verhogen tot max</string>
     <string name="multitouch_title">Multitouch</string>
-    <string name="multitouch_summary">Schakel multitouch in of uit. Dit werkt niet op alle apparaten. Geeft extra systeem pretaties en verlaagt batterij gebruik</string>
+    <string name="multitouch_summary">Schakel multitouch in of uit. Dit werkt niet op alle apparaten. Geeft extra systeem pretaties en verlaagt batterij verbruik</string>
     <string name="max_event_title">Max evenementen per sec</string>
     <string name="max_event_summary">Verhoog of verlaag evenementen per seconde. Geeft een betere scroll en gladheid. Voor lage RAM apparaten raden we aan dit op 150 of lager te zetten.</string>
     <string name="pointer_dur_title">Pointer duur</string>
@@ -168,29 +168,29 @@
 
     <!-- BATTERY -->
     <string name="power_collapse">Macht instorting</string>
-    <string name="power_collapse_summary">Verander macht instorting gedrag. Helpt om de druk te verminderen op CPU</string>
-    <string name="sleep_mode">PM slaap mode</string>
-    <string name="sleep_mode_summary">Verander slaap mode gedrag. Helpt de druk te verminderen tijdens slaap</string>
+    <string name="power_collapse_summary">Verander macht instorting gedrag. Helpt om de druk te verminderen op de CPU</string>
+    <string name="sleep_mode">PM slaap modus</string>
+    <string name="sleep_mode_summary">Verander slaap modus gedrag. Helpt de druk te verminderen tijdens slaap modus</string>
     <string name="wifi_scan_interval">Wifi scan interval</string>
     <string name="wifi_scan_interval_summary">Verlaagt wifi scan interval en spaart een beetje batterij</string>
     <string name="power_supply">Stroomvoorziening</string>
-    <string name="power_supply_summary">Schakel stroomvoorzienig in of uit. Helpt om batterij gebruik te verminderen</string>
+    <string name="power_supply_summary">Schakel stroomvoorzienig in of uit. Helpt om de batterij gebruik te verminderen</string>
     <string name="sensor_sleep">Sensor slaap controle</string>
-    <string name="sensor_sleep_summary">Schakel sensor slaap controle in of uit. Helpt om batterij gebruik te verminderen</string>
+    <string name="sensor_sleep_summary">Schakel sensor slaap controle in of uit. Helpt om de batterij gebruik te verminderen</string>
     
     <!-- NETWORK -->
     <string name="default_net_speed">Standaard netwerk snelheid</string>
     <string name="default_net_speed_summary">Schakel deze tweak in om de standaard netwerk snelheid te verhogen. Opmerking: Als u ziet dat deze tweak al ingeschakeld is betekent het dat u dit niet nodig heeft</string>
     <string name="wifi_net_speed">Wifi netwerk snelheid</string>
-    <string name="wifi_net_speed_summary">Schakel deze tweak in om de WiFi netwerk snelheid te verhogen. Opmerking: Als u ziet dat deze tweak al ingeschakeld is, betekent het dat u deze niet nodig heeft</string>
+    <string name="wifi_net_speed_summary">Schakel deze tweak in om de WiFi netwerk snelheid te verhogen. Opmerking: Als u ziet dat deze al ingeschakeld is, betekent het dat u deze niet nodig heeft</string>
     <string name="umts_net_speed">Umts netwerk snelheid</string>
     <string name="umts_net_speed_summary">Schakel deze tweak in om de umts netwerk snelheid te verhogen. Opmerking: Als u ziet dat deze al ingeschakeld is, betekent het dat u dit niet nodig heeft</string>
     <string name="gprs_net_speed">Gprs netwerk snelheid</string>
     <string name="gprs_net_speed_summary">Schakel deze tweak in om de gprs netwerk snelheid te verhogen. Opmerking: Als u ziet dat deze al ingeschakeld is, betekent het dat u dit niet nodig heeft</string>
     <string name="edge_net_speed">Rand netwerk snelheid</string>
-    <string name="edge_net_speed_summary">Schakel deze tweak in om de rand netwerk snelheid te verhogen. Opmerking: Als u ziet dat deze al ingeschakeld is, betekent het dat u dit niet nodig heeft.</string>
+    <string name="edge_net_speed_summary">Schakel deze tweak in om de rand netwerk snelheid te verhogen. Opmerking: Als u ziet dat deze al ingeschakeld is, betekent het dat u dit niet nodig heeft</string>
     <string name="ipv4">IPV4</string>
-    <string name="ipv4_summary">Strek support uit voor IPV4 protocol</string>
+    <string name="ipv4_summary">Strekt support uit voor IPV4 protocol</string>
     <string name="ipv6">IPV6</string>
     <string name="ipv6_summary">Strekt support uit voor IPV6 protocol</string>
     <string name="cust_tel">Cust telefonie</string>
@@ -204,21 +204,21 @@
     <string name="dec_jpeg">JPEG decoder memcap</string>
     <string name="dec_jpeg_summary">Verhoog of verlaag JPEG decoder memcap. Geeft een beetje extra JPEG kwaliteit</string>
     <string name="enc_hprof_bps">Video bps coderen</string>
-    <string name="enc_hprof_bps_summary">Verhoog of verlaag hprof video BPS. Geeft een verhoogde video recording kwaliteit</string>
+    <string name="enc_hprof_bps_summary">Verhoog of verlaag hprof video BPS. Geeft een verhoogde video opname kwaliteit</string>
     <string name="enc_hprof_fps"> Video fps coderen</string>
-    <string name="enc_hprof_fps_summary">Verhoog of verlaag hprof video FPS. Geeft een betere video recording kwaliteit</string>
+    <string name="enc_hprof_fps_summary">Verhoog of verlaag hprof video FPS. Geeft een betere video opname kwaliteit</string>
     <string name="panorama_defres">Panorama defres (HD)</string>
     <string name="panorama_defres_summary">Schakel panorama defres in of uit. Verhoog de maximum panorama defres resolutie</string>
     <string name="panorama_frameres">Panorama frame res (HD)</string>
     <string name="panorama_frameres_summary">Schakel panorama frameres in of uit. Verhoog de maximum panorama frame resolutie</string>
-    <string name="camcorder_video">Camcorder video mode</string>
-    <string name="camcorder_video_summary">Schakel camrecorder video mode in of uit. Geeft een betere video recording kwaliteit</string>
+    <string name="camcorder_video">Camcorder video modus</string>
+    <string name="camcorder_video_summary">Schakel camrecorder video modus in of uit. Geeft een betere video opname kwaliteit</string>
     <string name="media_streaming">Media streaming snelheid</string>
     <string name="media_streaming_summary">Verbeter media streaming snelheid met sommige net/video tweaks</string>
     <string name="overall_image_quality">Verhoog alle foto kwaliteit</string>
     <string name="overall_image_quality_summary">Collectie van foto kwaliteit tweaks. Geeft een iets betere foto en video kwaliteit maar gebruikt meer prestaties</string>
     <string name="flash_led">Flits led</string>
-    <string name="flash_led_summary">Schakel de flits led mode in of uit</string>
+    <string name="flash_led_summary">Schakel de flits led modus in of uit</string>
     <string name="flash_intensity">Flits intensiteit</string>
     <string name="flash_intensity_summary">Flits intensiteit aanpassen naar een geoptimaliseerde waarde</string>
     <string name="flash_voltage">Flits spanning</string>
@@ -227,16 +227,16 @@
     <string name="noise_reduction_summary">Verbeter de audio out kwaliteit door het verwijderen van ruis geluid</string>
 
     <!-- MISC -->
-    <string name="error_report">Fout report uitschakelen</string>
-    <string name="error_report_summary">Fout reporten uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
+    <string name="error_report">Fout verslag uitschakelen</string>
+    <string name="error_report_summary">Fout verslagen uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
     <string name="ulog">uLog uitschakelen</string>
-    <string name="ulog_summary">uLog fout reporten uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
+    <string name="ulog_summary">uLog fout verslagen uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
     <string name="logcat">LogCat uitschakelen</string>
-    <string name="logcat_summary">LogCat fout reporten uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
+    <string name="logcat_summary">LogCat fout verslagen uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
     <string name="kernel_error">Kernel fouten uitschakelen</string>
-    <string name="kernel_error_summary">Kernel fout reporten uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
-    <string name="usage_data">Versturen van gebruiker data uitschakelen</string>
-    <string name="usage_data_summary">Versturen van gebruikers data uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
+    <string name="kernel_error_summary">Kernel fout verslagen uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
+    <string name="usage_data">Versturen van gebruikers gegegevens uitschakelen</string>
+    <string name="usage_data_summary">Versturen van gebruikers gegevens uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
     <string name="phone_ring">Beltoonvertraging</string>
     <string name="phone_ring_summary">Verhoog of verlaag beltoonvertraging</string>
     <string name="blackscreen">Zwartscherm na bellen</string>
@@ -249,7 +249,7 @@
     <string name="dalvik_heapgrowthlimit">Dalvik heapgroeilimiet</string>
     <string name="dalvik_heapsize">Dalvik heapgrootte</string>
     <string name="dalvik_bytecode">Dalvik controleer-bytecode</string>
-    <string name="dalvik_execution">Dalvik uitvoeringsmode</string>
+    <string name="dalvik_execution">Dalvik uitvoeringsmodus</string>
     <string name="dalvik_treshold">Dalvik lockprof drempel</string>
     <string name="dalvik_flags">Dalvik dexopt vlaggen</string>
     <string name="dalvik_jmiopts">Dalvik jmiopts</string>
@@ -263,7 +263,7 @@
     <string name="gps_update_updating">Updaten…</string>
     <string name="gps_update_choose_continent">Continent</string>
     <string name="gps_update_choose_state">Land code</string>
-    <string name="gps_update_dialog_title">Setup de servers</string>
+    <string name="gps_update_dialog_title">Stel de servers in</string>
     <string name="reset_gps_config">Originele configuratie herstellen</string>
     <string name="original_config_not_found">Originele configuratie bestand niet gevonden!</string>
 
@@ -277,11 +277,11 @@
     <string name="sql_defrag_summary">Versnel en optimaliseer uw SQL databases</string>
     <string name="sql_defrag_init">Defragmenteer alle SQL databases</string>
     <string name="sql_defrag_last">Laatste SQL defrag:</string>
-    <string name="sql_report_last">Laatste SQL report:</string>
+    <string name="sql_report_last">Laatste SQL verslagng>
     <string name="sql_setting_up">Het op zetten van milieu</string>
     <string name="sql_executing">Aan het werk…</string>
-    <string name="sql_must_reboot">Aan het einde van deze processie zal uw apparaat herstarten. Doorgaan?</string>
-    <string name="cache_cleaner">Cache cleaner</string>
+    <string name="sql_must_reboot">Aan het einde van dit proces moet het apparaat worden herstart. Doorgaan?</string>
+    <string name="cache_cleaner">Cache wisser</string>
     <string name="cache_cleaner_summary">Wis cache partities en dalvik cache</string>
     <string name="cache_cleaner_run">Open cache wisser</string>
     <string name="cache_clear">Cache</string>
@@ -305,7 +305,7 @@
     <string name="title_battery_initd_summary">Collectie van init.d scripts dat de leven van uw batterij verhoogt van uw apparaat</string>
     <string name="title_network_initd_summary">Collectie van init.d scripts dat uw netwerk snelheid zal tunen</string>
     <string name="title_misc_initd_summary">Collectie van overige init.d scripts</string>
-    <string name="initd_strict_min_free">Streng min gratis</string>
+    <string name="initd_strict_min_free">Strikte min gratis</string>
     <string name="initd_strict_min_free_summary">Tune laag geheugen doder</string>
     <string name="initd_vm_management">Virtuele geheugenbeheer</string>
     <string name="initd_vm_management_summary">Tune virtuele geheugenbeer</string>
@@ -330,8 +330,8 @@
     <string name="screen_state_wifi_summary">Wifi uitschakelen wanneer scherm uit gaat</string>
     <string name="screen_state_bluetooth">Bluetooth</string>
     <string name="screen_state_bluetooth_summary">Bluetooth uitschakelen als scherm uit gaat</string>
-    <string name="screen_state_data">Data</string>
-    <string name="screen_state_data_summary">Data uitschakelen als scherm uit gaat</string>
+    <string name="screen_state_data">Gegevens</string>
+    <string name="screen_state_data_summary">Gegevens uitschakelen als scherm uit gaat</string>
     <string name="screen_state_sync">Sync</string>
     <string name="screen_state_sync_summary">Sync uitschakelen als scherm uit gaat</string>
 
@@ -370,7 +370,7 @@
 
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Weer notificatie</string>
-    <string name="enable_weather_noty_summary">Voeg weer info toe aan notificatie lade</string>
+    <string name="enable_weather_noty_summary">Voeg weer informatie toe aan notficatie lade</string>
     <string name="building_weather_noty">Moment! Ik bouw uw nieuwe weer notificatie</string>
     <string name="weather_use_gps">Gebruik GPS</string>
     <string name="gps_disabled">GPS inschakelen</string>
@@ -583,7 +583,7 @@
     <string name="sched_interval">Interval in dagen</string>
     <string name="sched_hourOfDay">Uur van de dag (0..23)</string>
     <string name="sched_startingbackup">Geplande backup startenp</string>
-    <string name="sched_backupMode">Backup-modus</string>
+    <string name="sched_backupMode">Backup modus</string>
     <string name="sched_timeLeft">Uren tot volgende backup</string>
     <string name="sched_addSchudule">Planning toevoegen</string>
     <string name="sched_customListUpdateButton">Update aangepaste lijst</string>
@@ -619,7 +619,7 @@
     </plurals>
     <string name="button_import">Importeer</string>
     <string name="smsmessages">Korte berichten</string>
-    <string name="calllogs">Bel logs</string>
+    <string name="calllogs">Oproep logs</string>
     <string name="bookmarks">Bladwijzers</string>
     <string name="userdictionary">Gebruiker woordenboek</string>
     <string name="playlists">Afspeellijsten</string>
