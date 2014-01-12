@@ -1,29 +1,44 @@
-We are pleased to introduce Android Tweaker 2, the second chapter of the utility that had a great success in the Android community.
+We zijn blij om Android Tweaker 2, het tweede hoofdstuk van het nut dat een groot succes in de Android gemeenschap gehad te introduceren.
 
-Feel free to join our community to get support and get access to the latest beta and new upcoming features:
+Vertalingen: Hier kunt u instructies vinden over hoe u de app kunt vertalen naar uw taal op het officiële GitHub project (https://github.com/iGio90/AndroidTweaker2_Translations/) Vertalers hebben het recht om te verzoeken voor een volledig ontgrendelde versie van de app.
+
+Blijf op de hoogte met onze recente nieuws en aankondigingen via onze officiële website:
+http://bam-android.com
+
+Voel je vrij om u bij onze gemeenschap aan te sluiten en steun te krijgen, ook krijgt u toegang tot de laatste beta en de nieuwste functies:
 https://plus.google.com/communities/107522763082295690993
 
-So many changes from the previous version:
-- A whole new layout in pure Google card style
-- Functional and practice. Everything at your touch.
-- New tweak, so many new tools and utilities that will allow you to achieve amazing results on your device
-- A new shop inside where you can buy many addons and plugins.
-- Compatible with Android 4.4 KitKat
+Zo veel veranderingen ten opzichte van de vorige versie:
+- Een geheel nieuwe lay-out in pure Google-kaart stijl
+- Functionele en praktijk. Alles in je aanraking.
+- Nieuwe tweak, zo veel nieuwe tools en utilities die u zal toestaan om verbazingwekkende resultaten te bereiken op uw apparaat
+- Een nieuwe interne winkel waar u veel addons en plugins kunt kopen.
+- Compatibel met Android 4.4 KitKat
 
-The new tweaks and tools:
-- We gave a more clean graphical interface and greater ease of use to all the various tweaks and tools inside.
-- Cache cleaner, Dalvik cleaner, uninstaller and Root Zipaligner
-- Many new tweaks to increase performance, battery, network, media (photos, videos and autio) and much more!
-- init.d scripts
+De nieuwe tweaks en hulpmiddelen:
+- We gaven een meer schone grafische interface en een groter gebruiksgemak voor alle verschillende tweaks en hulpmiddelen binnen in.
+- Cache schoner, Dalvik schoner, uninstaller en Root Zipaligner
+- Veel nieuwe tweaks om de prestaties te verhogen, de batterij, netwerk, media (foto's, video's en audio) en nog veel meer!
+- Init.d scripts
 - DNS Manager
-- Density modder (DPI)
-- App manager that allows you to backup your data/apk for each application, uninstaller, freeze/unfreeze and schedule backups!
+- Dichtheid modder (DPI)
+- Benchmarks voor IO, CPU, snelheid van het netwerk en ijzerwaren
+- App beheer waarmee u back-ups van uw gegevens / apk voor elke toepassing, uninstaller, bevriezen / ontdooien en schema back-ups!
+- Bravia Engine v3 installateur
+- Bootanimatie installer
+- Aangepaste launchers voor elke tool
 
 Addons (Shop):
-- Smart actions: customize the behavior of your device when it goes in sleep mode and back on! Rise your battery life up to 300%! Includes a widget and an optional notification bar!
-- Font manager: customize your system font with an easy one tap font installer with previews!
-- Notification weather: allows you to create a notification that will display weather informations based on your gps location or a custom one. This notification is highly customizable with colors and preferences!
-- Floating gestures: allows you to create custom gestures and assign an action to them. The floating icon will open the gestures pad in which you can draw your custom gestures
-- Data backup that allows you to backup and restore your personal data such as call logs, sms, bookmarks and more..
+- Slimme acties: aanpassen van het gedrag van het apparaat, als het in slaapstand gaat en weer aan! Verhoog uw levensduur van de batterij tot 300%! Inclusief een widget en een optionele kennisgeving bar!
+- Font manager: pas uw systeem lettertype met een eenvoudig een tik font installer met previews!
+- Kennisgeving weer: hiermee kunt u een melding dat weer informatie wordt weergegeven op basis van je GPS-locatie of een aangepaste aanmaken. Deze kennisgeving is zeer flexibel met kleuren en voorkeuren!
+- Drijvende gebaren: kunt u aangepaste gebaren maken en een actie toekennen. De drijvende icoon zal de gebaren pad waarin u uw aangepaste gebaren kunt tekenen openen
+- Data back-up waarmee u back-up en uw persoonlijke gegevens zoals oproep logs, sms, bladwijzers en meer herstellen ..
+- Unity bars: een ubuntu eenheid achtige launcher bars met aanpasbare kleuren en opties
+- Expose: maak Mac OSX als expose. Voeg aangepaste acties om hoeken te screenen!
+- De Geheime Kamer: Hiermee kunt u beveiligde gegevens in de app, zoals foto's op te slaan, video's, muziek, audio, documenten, notities, bookmarks, telefoonnummers en meer!
 
-Compatible with all stock and custom ROMs such as CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slim, PAC, Samsung and HTC!
+Compatibel met alle voorraad en aangepaste ROMs zoals CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slank, PAC, Samsung en HTC!
+
+
+
