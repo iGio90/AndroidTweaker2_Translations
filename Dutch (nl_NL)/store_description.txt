@@ -39,6 +39,3 @@ Addons (Shop):
 - De Geheime Kamer: Hiermee kunt u beveiligde gegevens in de app, zoals foto's op te slaan, video's, muziek, audio, documenten, notities, bookmarks, telefoonnummers en meer!
 
 Compatibel met alle voorraad en aangepaste ROMs zoals CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slank, PAC, Samsung en HTC!
-
-
-
