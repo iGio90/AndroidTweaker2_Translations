@@ -17,7 +17,7 @@
     <string name="updating">Afhankelijkheden updaten</string>
     <string name="toolchain_exist">Benodigde middelen al geinstalleerd. Overslaan...</string>
     <string name="require_busybox">Deze actie vereist busybox geinstalleerd op uw apparaat. Installeer busybox voordat u deze tool gebruikt</string>
-    <string name="require_sql">Deze actie vereist SQL toolchain. Als u deze melding ziet betekend het dat uw ROM niet compitabel is met de SQL defragging tool.</string>
+    <string name="require_sql">Deze actie vereist SQL toolchain. Als u deze melding ziet betekent het dat uw ROM niet compitabel is met de SQL defragging tool.</string>
     <string name="size">Grootte:</string>
     <string name="rate_explanation">Geef uw mening en help ons de gevarieerde inhoud te verbeteren</string>
     <string name="rate_now">Beoordeel nu</string>
@@ -71,7 +71,7 @@
     <string name="tips_tweaks_time">Sommige tweaks duren even om te activeren. Altijd wachten tot het SU bericht verdwijnt!</string>
     <string name="tips_not_a_game">Dit is geen spel. Gebruik deze app met je hersenen!</string>
     <string name="tips_zipalign">U hebt uw apps nog niet gezipaligned! Zipaligning verlaagt het RAM gebruik van uw apps. Klik hier om te beginnen!</string>
-    <string name="tips_screenstate">Deze tool maakt het mogelijk Android Tweaker 2 slimme acties te gebruiken. Slimme acties kan worden ingeschakeld via het voorkeuren paneel (in de app), de widget of de slimme notificatie (Kan worden geactiveerd via slimme acties instellingen). Slimme acties geeft toestemming om aangepast gedrag in te stellen wanneer uw apparaat in slaap modus gaat. Als voorbeeld, u zet de wifi slimme actie aan, wifi zal uit gaan, en weer aan, als de slaap mode aan of uitgaat. Momenteel zijn er 4 slimme acties beschikbaar: Wifi, Bluetooth, Data en Sync. Deze acties, zal de batterij levensduur verhogen tot wel 300%!</string>
+    <string name="tips_screenstate">Deze tool maakt het mogelijk Android Tweaker 2 slimme acties te gebruiken. Slimme acties kan worden ingeschakeld via het voorkeuren paneel (in de app), de widget of de slimme notificatie (Kan worden geactiveerd via slimme acties instellingen). Slimme acties geeft toestemming om aangepast gedrag in te stellen wanneer uw apparaat in slaap modus gaat. Als voorbeeld, u zet de wifi slimme actie aan, wifi zal uit gaan, en weer aan, als de slaap modus aan of uitgaat. Momenteel zijn er 4 slimme acties beschikbaar: Wifi, Bluetooth, Gegevens en Sync. Deze acties, zal de batterij levensduur verhogen tot wel 300%!</string>
     <string name="tips_font">Deze addon geeft toestemming om uw systeem lettertype te veranderen in één klik. Kies tussen de 20+ voorgestelde lettertypes en als u de gene niet leuk vind die u kiest, klikt uw simpel op de reset knop om te herstellen naar de originele!</string>
     <string name="tips_weather">Deze addon geeft toestemming om een aangepaste notificatie met weer informatie aan te maken gebasseerd op uw GPS locatie of aangepaste locatie.</string>
     <string name="tips_gestures">Zwevende gebaren geeft toestemming om aangepaste gebaren te maken en daar een actie aan toe te voegen. Het zwevende icoon opent het gebaren pad waar uw een aangepast gebaar kan tekenen! Bekijk de video voor een kleine preview</string>    
@@ -169,8 +169,8 @@
     <!-- BATTERY -->
     <string name="power_collapse">Macht instorting</string>
     <string name="power_collapse_summary">Verander macht instorting gedrag. Helpt om de druk te verminderen op de CPU</string>
-    <string name="sleep_mode">PM slaap mode</string>
-    <string name="sleep_mode_summary">Verander slaap mode gedrag. Helpt de druk te verminderen tijdens slaap modus</string>
+    <string name="sleep_mode">PM slaap modus</string>
+    <string name="sleep_mode_summary">Verander slaap modus gedrag. Helpt de druk te verminderen tijdens slaap modus</string>
     <string name="wifi_scan_interval">Wifi scan interval</string>
     <string name="wifi_scan_interval_summary">Verlaagt wifi scan interval en spaart een beetje batterij</string>
     <string name="power_supply">Stroomvoorziening</string>
@@ -227,14 +227,14 @@
     <string name="noise_reduction_summary">Verbeter de audio out kwaliteit door het verwijderen van ruis geluid</string>
 
     <!-- MISC -->
-    <string name="error_report">Fout report uitschakelen</string>
-    <string name="error_report_summary">Fout reporten uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
+    <string name="error_report">Fout verslag uitschakelen</string>
+    <string name="error_report_summary">Fout verslagen uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
     <string name="ulog">uLog uitschakelen</string>
-    <string name="ulog_summary">uLog fout reporten uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
+    <string name="ulog_summary">uLog fout verslagen uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
     <string name="logcat">LogCat uitschakelen</string>
-    <string name="logcat_summary">LogCat fout reporten uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
+    <string name="logcat_summary">LogCat fout verslagen uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
     <string name="kernel_error">Kernel fouten uitschakelen</string>
-    <string name="kernel_error_summary">Kernel fout reporten uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
+    <string name="kernel_error_summary">Kernel fout verslagen uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
     <string name="usage_data">Versturen van gebruikers gegegevens uitschakelen</string>
     <string name="usage_data_summary">Versturen van gebruikers gegevens uitschakelen. Spaart een beetje batterij en verhoogt de algemene prestaties</string>
     <string name="phone_ring">Beltoonvertraging</string>
@@ -249,7 +249,7 @@
     <string name="dalvik_heapgrowthlimit">Dalvik heapgroeilimiet</string>
     <string name="dalvik_heapsize">Dalvik heapgrootte</string>
     <string name="dalvik_bytecode">Dalvik controleer-bytecode</string>
-    <string name="dalvik_execution">Dalvik uitvoeringsmode</string>
+    <string name="dalvik_execution">Dalvik uitvoeringsmodus</string>
     <string name="dalvik_treshold">Dalvik lockprof drempel</string>
     <string name="dalvik_flags">Dalvik dexopt vlaggen</string>
     <string name="dalvik_jmiopts">Dalvik jmiopts</string>
@@ -619,7 +619,7 @@
     </plurals>
     <string name="button_import">Importeer</string>
     <string name="smsmessages">Korte berichten</string>
-    <string name="calllogs">Bel logs</string>
+    <string name="calllogs">Oproep logs</string>
     <string name="bookmarks">Bladwijzers</string>
     <string name="userdictionary">Gebruiker woordenboek</string>
     <string name="playlists">Afspeellijsten</string>
