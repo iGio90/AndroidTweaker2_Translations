@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name" translatable="false">Android Tweaker 2</string>
-    <string name="reboot">Herstart je apparaat om aanpassingen toe te passen</string>
+    <string name="reboot">Herstart uw apparaat om aanpassingen toe te passen</string>
     <string name="apply">Wijzigingen toepassen</string>
     <string name="exit">Druk nog een keer op TERUG om af te sluiten</string>
     <string name="yes">Ja</string>
@@ -11,7 +11,7 @@
     <string name="warning">Waarschuwing</string>
     <string name="error">Fout</string>
     <string name="checking">Afhankelijkheden controleren...</string>
-    <string name="connectionc_error">Android Tweaker vereist een actieve internet verbinding om de app licentie te verifieren. Verbind je apparaat en probeer het opnieuw.</string>
+    <string name="connectionc_error">Android Tweaker vereist een actieve internet verbinding om de app licentie te verifieren. Verbind uw apparaat en probeer het opnieuw.</string>
     <string name="sure">Weet u het zeker?</string>
     <string name="wait">Wacht astublieft...</string>
     <string name="updating">Afhankelijkheden updaten</string>
@@ -69,7 +69,7 @@
     <string name="tips_tap_tweak">Klik op een tweak naam om een korte beschrijving te zien</string>
     <string name="tips_tweaks_dont_enable_all">Activeer niet alle voorgestelde tweaks</string>
     <string name="tips_tweaks_time">Sommige tweaks duren even om te activeren. Altijd wachten tot het SU bericht verdwijnt!</string>
-    <string name="tips_not_a_game">Dit is geen spel. Gebruik deze app met je hersenen!</string>
+    <string name="tips_not_a_game">Dit is geen spel. Gebruik deze app met uw hersenen!</string>
     <string name="tips_zipalign">U hebt uw apps nog niet gezipaligned! Zipaligning verlaagt het RAM gebruik van uw apps. Klik hier om te beginnen!</string>
     <string name="tips_screenstate">Deze tool maakt het mogelijk Android Tweaker 2 slimme acties te gebruiken. Slimme acties kan worden ingeschakeld via het voorkeuren paneel (in de app), de widget of de slimme notificatie (Kan worden geactiveerd via slimme acties instellingen). Slimme acties geeft toestemming om aangepast gedrag in te stellen wanneer uw apparaat in slaap modus gaat. Als voorbeeld, u zet de wifi slimme actie aan, wifi zal uit gaan, en weer aan, als de slaap modus aan of uitgaat. Momenteel zijn er 4 slimme acties beschikbaar: Wifi, Bluetooth, Gegevens en Sync. Deze acties, zal de batterij levensduur verhogen tot wel 300%!</string>
     <string name="tips_font">Deze addon geeft toestemming om uw systeem lettertype te veranderen in één klik. Kies tussen de 20+ voorgestelde lettertypes en als u de gene niet leuk vind die u kiest, klikt uw simpel op de reset knop om te herstellen naar de originele!</string>
@@ -77,7 +77,7 @@
     <string name="tips_gestures">Zwevende gebaren geeft toestemming om aangepaste gebaren te maken en daar een actie aan toe te voegen. Het zwevende icoon opent het gebaren pad waar uw een aangepast gebaar kan tekenen! Bekijk de video voor een kleine preview</string>    
     <string name="tips_backup">Deze addon geeft toestemming om een back-up te maken en uw persoonlijke gegevens zoals een korte boodschap, oproeplogboeken, woordenboeken, instellingen en meer te herstellen</string>
     <string name="tips_unity">Deze addon geeft toestemming om een volledig aanpasbare eenheid launcher met een uithaal van buiten het scherm aan de linkerkant of aan de rechterkant te creëren. Bekijk de video voor een kleine preview</string>
-    <string name="tips_expose">Deze addon geeft u toestemming een volledig aanpasbare Mac OSX als Expose creëren. Deze expose staat je toe om aangepaste acties in te stellen wanneer u op de 4 hoeken van uw scherm tikt. Bekijk de video voor een kleine preview</string>
+    <string name="tips_expose">Deze addon geeft u toestemming een volledig aanpasbare Mac OSX als Expose creëren. Deze expose staat u toe om aangepaste acties in te stellen wanneer u op de 4 hoeken van uw scherm tikt. Bekijk de video voor een kleine preview</string>
     <string name="tips_chamber">Deze addon geeft toestemming om veilig Documenten, APKs, Muziek, Audio, Foto's, Video's, Persoonlijke notities, Bladwijzers, Telefoonnummers etc. in de Geheime Kamer op te slaan. Een wachtwoord is vereist om de kamer te openen en alle bestanden zijn veilig gecodeerd!</string>
 
     <!-- HOME -->
@@ -590,7 +590,7 @@
 
     <!-- Data backup -->
     <string name="data_backup">Gegevens backup</string>
-    <string name="data_backup_summary">Backup en herstel je persoonlijke gegevens</string>
+    <string name="data_backup_summary">Backup en herstel uw persoonlijke gegevens</string>
     <string name="menu_export">Export</string>
     <string name="menu_exporteverything">Export alles</string>
     <string name="menu_settings">Instellingen</string>
@@ -718,7 +718,7 @@
     <string name="bootanimation">Bootanimatie</string>
     <string name="bootanimation_summary">Download en installeer een aangepaste bootanimatie</string>
     <string name="bootanimation_not_found">Ik kan geen bootanimatie vinden met de breedte van uw scherm. Probeer een ander!</string>
-    <string name="bootanimation_reboot">Herstart je apparaat en geniet van de nieuwe bootanimatie!</string>
+    <string name="bootanimation_reboot">Herstart uw apparaat en geniet van de nieuwe bootanimatie!</string>
     <string name="custom_bootanimation">Installeer aamgepaste bootanimatie</string>
     <string name="custom_bootanimation_summary">Plaats de bootanimatie.zip bestand in de map:</string>
     <string name="custom_bootanimation_install">Tik hier om uw aangepaste bootanimatie te installeren</string>
