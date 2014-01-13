@@ -5,19 +5,19 @@ Vertalingen: Hier kunt u instructies vinden over hoe u de app kunt vertalen naar
 Blijf op de hoogte met onze recente nieuws en aankondigingen via onze officiële website:
 http://bam-android.com
 
-Voel je vrij om u bij onze gemeenschap aan te sluiten en steun te krijgen, ook krijgt u toegang tot de laatste beta en de nieuwste functies:
+Voel u vrij om u bij onze gemeenschap aan te sluiten en steun te krijgen, ook krijgt u toegang tot de laatste beta en de nieuwste functies:
 https://plus.google.com/communities/107522763082295690993
 
 Zo veel veranderingen ten opzichte van de vorige versie:
-- Een geheel nieuwe lay-out in pure Google-kaart stijl
-- Functionele en praktijk. Alles in je aanraking.
-- Nieuwe tweak, zo veel nieuwe tools en utilities die u zal toestaan om verbazingwekkende resultaten te bereiken op uw apparaat
+- Een geheel nieuwe lay-out in een pure Google-kaart stijl
+- Functioneel en praktisch. Alles in uw aanraking.
+- Nieuwe tweaks, zo veel nieuwe tools en utilities die u zal toestaan om verbazingwekkende resultaten te bereiken op uw apparaat
 - Een nieuwe interne winkel waar u veel addons en plugins kunt kopen.
 - Compatibel met Android 4.4 KitKat
 
 De nieuwe tweaks en hulpmiddelen:
 - We gaven een meer schone grafische interface en een groter gebruiksgemak voor alle verschillende tweaks en hulpmiddelen binnen in.
-- Cache schoner, Dalvik schoner, uninstaller en Root Zipaligner
+- Cache wisser, Dalvik wisser, uninstaller en Root Zipaligner
 - Veel nieuwe tweaks om de prestaties te verhogen, de batterij, netwerk, media (foto's, video's en audio) en nog veel meer!
 - Init.d scripts
 - DNS Manager
@@ -28,13 +28,13 @@ De nieuwe tweaks en hulpmiddelen:
 - Bootanimatie installer
 - Aangepaste launchers voor elke tool
 
-Addons (Shop):
+Addons (Winkel):
 - Slimme acties: aanpassen van het gedrag van het apparaat, als het in slaapstand gaat en weer aan! Verhoog uw levensduur van de batterij tot 300%! Inclusief een widget en een optionele kennisgeving bar!
-- Font manager: pas uw systeem lettertype met een eenvoudig een tik font installer met previews!
-- Kennisgeving weer: hiermee kunt u een melding dat weer informatie wordt weergegeven op basis van je GPS-locatie of een aangepaste aanmaken. Deze kennisgeving is zeer flexibel met kleuren en voorkeuren!
-- Drijvende gebaren: kunt u aangepaste gebaren maken en een actie toekennen. De drijvende icoon zal de gebaren pad waarin u uw aangepaste gebaren kunt tekenen openen
+- Lettertype beheer: pas uw systeem lettertype met een eenvoudig een tik font installer met previews!
+- Kennisgeving weer: hiermee kunt u een melding dat weer informatie wordt weergegeven op basis van uw GPS-locatie of een aangepaste aanmaken. Deze kennisgeving is zeer flexibel met kleuren en voorkeuren!
+- Zwevende gebaren: kunt u aangepaste gebaren maken en een actie toekennen. De drijvende icoon zal de gebaren pad waarin u uw aangepaste gebaren kunt tekenen openen
 - Data back-up waarmee u back-up en uw persoonlijke gegevens zoals oproep logs, sms, bladwijzers en meer herstellen ..
-- Unity bars: een ubuntu eenheid achtige launcher bars met aanpasbare kleuren en opties
+- Eenheid bars: een ubuntu eenheid achtige launcher bars met aanpasbare kleuren en opties
 - Expose: maak Mac OSX als expose. Voeg aangepaste acties om hoeken te screenen!
 - De Geheime Kamer: Hiermee kunt u beveiligde gegevens in de app, zoals foto's op te slaan, video's, muziek, audio, documenten, notities, bookmarks, telefoonnummers en meer!
 
