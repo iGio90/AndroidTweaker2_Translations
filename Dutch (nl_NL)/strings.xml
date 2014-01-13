@@ -156,7 +156,7 @@
     <string name="debugeglprofiler_title">EGL Profiler debug</string>
     <string name="debugeglprofiler_summary">Schakel EGL Profiler debug in of uit. Geeft een klein extra systeem prestatie</string>
     <string name="min_fling_title">Minimum gooi snelheid</string>
-    <string name="min_fling_summary">Verhoog of verlaag min. gooi snelheid. Geeft een betere scroll en gladheid. We raden aan dit te verhogen tot max/string>
+    <string name="min_fling_summary">Verhoog of verlaag min. gooi snelheid. Geeft een betere scroll en gladheid. We raden aan dit te verhogen tot max</string>
     <string name="max_fling_title">Maximum gooi snelheid</string>
     <string name="max_fling_summary">Verhoog of verlaag max gooi snelheid. Geeft een betere scroll en gladheid. We raden aan dit te verhogen tot max</string>
     <string name="multitouch_title">Multitouch</string>
@@ -277,7 +277,7 @@
     <string name="sql_defrag_summary">Versnel en optimaliseer uw SQL databases</string>
     <string name="sql_defrag_init">Defragmenteer alle SQL databases</string>
     <string name="sql_defrag_last">Laatste SQL defrag:</string>
-    <string name="sql_report_last">Laatste SQL verslagng>
+    <string name="sql_report_last">Laatste SQL verslagng</string>
     <string name="sql_setting_up">Het op zetten van milieu</string>
     <string name="sql_executing">Aan het werk…</string>
     <string name="sql_must_reboot">Aan het einde van dit proces moet het apparaat worden herstart. Doorgaan?</string>
