@@ -23,8 +23,8 @@ De nieuwe tweaks en hulpmiddelen:
 - DNS beheer
 - Dichtheid modder (DPI)
 - Benchmarks voor IO, CPU, snelheid van het netwerk en hardware
-- App beheer waarmee u back-ups van uw gegevens / apk voor elke toepassing, uninstaller, bevriezen / ontdooien en schema back-ups!
-- Bravia Engine v3 installateur
+- App beheer waarmee u backups van uw gegevens / apks kunt maken, uninstaller, bevriezen / ontdooien van apps en schema backups!
+- Bravia Engine v3 installer
 - Bootanimatie installer
 - Aangepaste launchers voor elke tool
 
@@ -32,7 +32,7 @@ Addons (Winkel):
 - Slimme acties: aanpassen van het gedrag van het apparaat, als het in slaapstand gaat en weer aan! Verhoog uw levensduur van de batterij tot wel 300%! Inclusief een widget en een optionele kennisgeving bar!
 - Lettertype beheer: pas uw systeem lettertype aan met een eenvoudige tik op de lettertype installer met previews!
 - Kennisgeving weer: hiermee kunt u een melding aanmaken waarop weer informatie wordt weergegeven op basis van uw GPS-locatie of een aangepaste locatie. Deze kennisgeving is zeer flexibel met kleuren en voorkeuren!
-- Zwevende gebaren: hiermee kunt u aangepaste gebaren maken en een actie toekennen. Het zwevende icoon zal het gebaren pad waarin u uw aangepaste gebaren kunt tekenen openen
+- Zwevende gebaren: hiermee kunt u aangepaste gebaren maken en een actie eraan toevoegen. Het zwevende icoon zal het gebaren pad waarin u uw aangepaste gebaren kunt tekenen openen
 - Gegevens backup waarmee u uw persoonlijke gegevens zoals oproep logs, sms, bladwijzers en meer kunt herstellen...
 - Eenheid bars: een ubuntu eenheid achtige launcher bars met aanpasbare kleuren en opties
 - Expose: maak Mac OSX als expose. Voeg aangepaste acties toe aan de hoeken van uw scherm!
