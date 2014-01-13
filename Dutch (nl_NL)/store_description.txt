@@ -22,7 +22,7 @@ De nieuwe tweaks en hulpmiddelen:
 - Init.d scripts
 - DNS beheer
 - Dichtheid modder (DPI)
-- Benchmarks voor IO, CPU, snelheid van het netwerk en ijzerwaren
+- Benchmarks voor IO, CPU, snelheid van het netwerk en hardware
 - App beheer waarmee u back-ups van uw gegevens / apk voor elke toepassing, uninstaller, bevriezen / ontdooien en schema back-ups!
 - Bravia Engine v3 installateur
 - Bootanimatie installer
@@ -30,12 +30,12 @@ De nieuwe tweaks en hulpmiddelen:
 
 Addons (Winkel):
 - Slimme acties: aanpassen van het gedrag van het apparaat, als het in slaapstand gaat en weer aan! Verhoog uw levensduur van de batterij tot 300%! Inclusief een widget en een optionele kennisgeving bar!
-- Lettertype beheer: pas uw systeem lettertype aan met een eenvoudige op tik lettertype installer met previews!
-- Kennisgeving weer: hiermee kunt u een melding dat weer informatie wordt weergegeven op basis van uw GPS-locatie of een aangepaste aanmaken. Deze kennisgeving is zeer flexibel met kleuren en voorkeuren!
-- Zwevende gebaren: kunt u aangepaste gebaren maken en een actie toekennen. De drijvende icoon zal de gebaren pad waarin u uw aangepaste gebaren kunt tekenen openen
-- Data back-up waarmee u back-up en uw persoonlijke gegevens zoals oproep logs, sms, bladwijzers en meer herstellen...
+- Lettertype beheer: pas uw systeem lettertype aan met een eenvoudige tik op de lettertype installer met previews!
+- Kennisgeving weer: hiermee kunt u een melding aanmaken waarop weer informatie wordt weergegeven op basis van uw GPS-locatie of een aangepaste aanmaken. Deze kennisgeving is zeer flexibel met kleuren en voorkeuren!
+- Zwevende gebaren: hiermee kunt u aangepaste gebaren maken en een actie toekennen. De drijvende icoon zal de gebaren pad waarin u uw aangepaste gebaren kunt tekenen openen
+- Gegevens backup waarmee u uw backup en uw persoonlijke gegevens zoals oproep logs, sms, bladwijzers en meer kunt herstellen...
 - Eenheid bars: een ubuntu eenheid achtige launcher bars met aanpasbare kleuren en opties
-- Expose: maak Mac OSX als expose. Voeg aangepaste acties om hoeken te screenen!
-- De Geheime Kamer: Hiermee kunt u beveiligde gegevens in de app, zoals foto's op te slaan, video's, muziek, audio, documenten, notities, bookmarks, telefoonnummers en meer!
+- Expose: maak Mac OSX als expose. Voeg aangepaste acties toe aan de hoeken van uw scherm!
+- De Geheime Kamer: hiermee kunt u beveiligde gegevens in de app, zoals foto's op slaan, video's, muziek, audio, documenten, notities, bookmarks, telefoonnummers en meer!
 
 Compatibel met alle voorraad en aangepaste ROMs zoals CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slank, PAC, Samsung en HTC!
