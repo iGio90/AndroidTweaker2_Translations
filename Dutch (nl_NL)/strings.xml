@@ -75,7 +75,7 @@
     <string name="tips_font">Deze addon geeft toestemming om uw systeem lettertype te veranderen in één klik. Kies tussen de 20+ voorgestelde lettertypes en als u de gene niet leuk vind die u kiest, klikt uw simpel op de reset knop om te herstellen naar de originele!</string>
     <string name="tips_weather">Deze addon geeft toestemming om een aangepaste notificatie met weer informatie aan te maken gebasseerd op uw GPS locatie of aangepaste locatie.</string>
     <string name="tips_gestures">Zwevende gebaren geeft toestemming om aangepaste gebaren te maken en daar een actie aan toe te voegen. Het zwevende icoon opent het gebaren pad waar uw een aangepast gebaar kan tekenen! Bekijk de video voor een kleine preview</string>    
-    <string name="tips_backup">Deze addon geeft toestemming om een back-up te maken en uw persoonlijke gegevens zoals een korte boodschap, oproeplogboeken, woordenboeken, instellingen en meer te herstellen</string>
+    <string name="tips_backup">Deze addon geeft toestemming om een backup te maken en uw persoonlijke gegevens zoals een korte boodschap, oproeplogboeken, woordenboeken, instellingen en meer te herstellen</string>
     <string name="tips_unity">Deze addon geeft toestemming om een volledig aanpasbare eenheid launcher met een uithaal van buiten het scherm aan de linkerkant of aan de rechterkant te creëren. Bekijk de video voor een kleine preview</string>
     <string name="tips_expose">Deze addon geeft u toestemming een volledig aanpasbare Mac OSX als Expose creëren. Deze expose staat u toe om aangepaste acties in te stellen wanneer u op de 4 hoeken van uw scherm tikt. Bekijk de video voor een kleine preview</string>
     <string name="tips_chamber">Deze addon geeft toestemming om veilig Documenten, APKs, Muziek, Audio, Foto's, Video's, Persoonlijke notities, Bladwijzers, Telefoonnummers etc. in de Geheime Kamer op te slaan. Een wachtwoord is vereist om de kamer te openen en alle bestanden zijn veilig gecodeerd!</string>
@@ -340,8 +340,8 @@
     <string name="no_customization_owned_summary">Er is geen enkele aanpassing beschikbaar in uw Android Tweaker 2. Bezoek de winkel om er een paar te krijgen!</string>
     <string name="unity_bars">Eenheid bars</string>
     <string name="unity_bars_summary">Eenheid toevoegen zoals launcher bars</string>
-    <string name="font_manager" translatable="false">Font manager</string>
-    <string name="font_manager_summary">Installeer aangepaste lettertype op uw apparaat</string>
+    <string name="font_manager" translatable="false">Lettertype beheer</string>
+    <string name="font_manager_summary">Installeer een aangepaste lettertype op uw apparaat</string>
     <string name="backup_font">Backup uw huidige lettertype om te herstellen in de toekomst</string>
     <string name="installing_font">Lettertype installeren…</string>
     <string name="install_font">Wilt u dit installeren?</string>
@@ -357,7 +357,7 @@
     <string name="details">Details</string>
     <string name="shop_no_ads">Verwijder advertenties!</string>
     <string name="no_ads_purchased">Bedankt voor uw donatie! Advertenties zijn nu weg!</string>
-    <string name="shop_screen_state" translatable="false">Smart actions</string>
+    <string name="shop_screen_state" translatable="false">Slimme acties</string>
     <string name="screen_state_not_purchased">U heeft de slimme acties tool niet gekocht</string>
     <string name="screen_state_purchased">Slimme acties is gekocht! U heeft een nieuwe kaart in het hoofdscherm!</string>
     <string name="font_manager_purchased">Lettertype beheer is gekocht! U heeft een nieuwe kaart in het aanpassings scherm!</string>
@@ -477,7 +477,7 @@
     <string name="error_duplicate_name">Deze naam is al in mijn database</string>
     <string name="save_success">Gebaar opgeslagen in %s</string>
     <string name="rename_action">Oké</string>
-    <string name="cancel_action">Cancel</string>
+    <string name="cancel_action">Annuleren</string>
     <string name="gestures_loading">Gebaren laden...</string>
     <string name="gestures_empty">Geen gebaren</string>
     <string name="gestures_activity">Gebaren</string>
@@ -524,7 +524,7 @@
     <string name="showOnlySystem">Toon alleen system apps</string>
     <string name="showOnlyUser">Toon alleen gebruikers apps</string>
     <string name="showNotBackedup">Toon apps die nog niet een backup hebben</string>
-    <string name="showNotInstalled">Toon niet geinstalleerde apps</string>
+    <string name="showNotInstalled">Toon niet geïnstalleerde apps</string>
     <string name="showNewAndUpdated">Toon nieuwe en geupdate apps</string>
     <string name="showOldBackups">Toon oude backups</string>
     <string name="showOnlyApkBackedUp">Toon apps met alleen een apk backup</string>
@@ -555,16 +555,16 @@
     <string name="errorDialogTitle">Fouten zijn opgetreden</string>
     <string name="customListTitle">Aangepaste lijst</string>
     <string name="quickReboot">Snelle herstart</string>
-    <string name="quickRebootMessage">Wilt u gebruiker ruimte herstarten?</string>
-    <string name="tools_title">tools</string>
+    <string name="quickRebootMessage">Wilt u uw gebruikers ruimte herstarten?</string>
+    <string name="tools_title">Tools</string>
     <string name="tools_batchDeleteTitle">Backups verwijderen?</string>
-    <string name="tools_batchDeleteMessage">Backups verwijderen</string>
+    <string name="tools_batchDeleteMessage">Backups verwijderen van alle apps die momenteel niet geïnstalleerd zijn</string>
     <string name="enablePackageTitle">Aanzetten voor gebruikers</string>
     <string name="disablePackageTitle">Uitzetten voor gebruikers</string>
     <string name="prefs_title">Voorkeuren</string>
     <string name="prefs_timestamp">Gebruik locale datumnotitie</string>
     <string name="prefs_acquireWakelock">Wakelock verkrijgen</string>
-    <string name="prefs_summaryAcquireWakelock">Zal de snelheid van back-ups die op de achtergrond draaien aanzienlijk versnellen, maar zal meer energie verbruiken</string>
+    <string name="prefs_summaryAcquireWakelock">Zal de snelheid van backups die op de achtergrond draaien aanzienlijk versnellen, maar zal meer energie verbruiken</string>
     <string name="prefs_pathscategory">Aangepaste paden</string>
     <string name="prefs_pathBackupFolder">Backup map</string>
     <string name="prefs_summaryBackupFolder">Pad naar backup map. Laat leeg voor standaard pad.</string>
@@ -573,9 +573,9 @@
     <string name="prefs_pathBusybox">Busybox</string>
     <string name="prefs_summaryBusybox">Pad naar busybox uitvoerbaar. Zeker weten dat het correct is. Laat leeg voor de standaard pad.</string>
     <string name="prefs_oldBackups">Filter backups naar leeftijd</string>
-    <string name="prefs_summaryOldBackups">Filter backups ouder dan de waarde in dagen. Gebruikt de filter \'toon oude back-ups\'</string>
+    <string name="prefs_summaryOldBackups">Filter backups ouder dan de waarde in dagen. Gebruikt de filter \'toon oude backups\'</string>
     <string name="prefs_copySelfApk">Kopieer eigen apk</string>
-    <string name="prefs_summaryCopySelfApk">Plaats een kopie van oandbackup in het hoogste niveau van de map back-up als een back-up</string>
+    <string name="prefs_summaryCopySelfApk">Plaats een kopie van oandbackup in het hoogste niveau van de map backup als een backup</string>
     <string name="prefs_languages">Talen</string>
     <string name="prefs_languageSystemDefault">Systeem standaard</string>
     <string name="sched_title">Planning</string>
@@ -668,7 +668,7 @@
     <string name="profile_select">Kies een profiel</string>
     <string name="profile_performance">Prestatie</string>
     <string name="profile_battery">Batterij</string>
-    <string name="profile_balanced">gebalanceerd</string>
+    <string name="profile_balanced">Gebalanceerd</string>
     <string name="safety_select">Kies veiligheidsniveau</string>
     <string name="safety_safe">Veilige tweaks</string>
     <string name="safety_extreme">Extreme tweaks</string>
@@ -719,7 +719,7 @@
     <string name="bootanimation_summary">Download en installeer een aangepaste bootanimatie</string>
     <string name="bootanimation_not_found">Ik kan geen bootanimatie vinden met de breedte van uw scherm. Probeer een ander!</string>
     <string name="bootanimation_reboot">Herstart uw apparaat en geniet van de nieuwe bootanimatie!</string>
-    <string name="custom_bootanimation">Installeer aamgepaste bootanimatie</string>
+    <string name="custom_bootanimation">Installeer aangepaste bootanimatie</string>
     <string name="custom_bootanimation_summary">Plaats de bootanimatie.zip bestand in de map:</string>
     <string name="custom_bootanimation_install">Tik hier om uw aangepaste bootanimatie te installeren</string>
     <string name="restore_bootanimation">Wilt u uw originele bootanimatie herstellen?</string>
