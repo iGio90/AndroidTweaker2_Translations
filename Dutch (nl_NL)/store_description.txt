@@ -16,7 +16,7 @@ Zo veel veranderingen ten opzichte van de vorige versie:
 - Compatibel met Android 4.4 KitKat
 
 De nieuwe tweaks en hulpmiddelen:
-- We gaven een meer schone grafische interface en een groter gebruiksgemak voor alle verschillende tweaks en hulpmiddelen binnen in.
+- We geven een meer schone grafische interface en een groter gebruiksgemak voor alle verschillende tweaks en hulpmiddelen binnen in.
 - Cache wisser, Dalvik wisser, uninstaller en Root Zipaligner
 - Veel nieuwe tweaks om de prestaties te verhogen, de batterij, netwerk, media (foto's, video's en audio) en nog veel meer!
 - Init.d scripts
@@ -29,13 +29,13 @@ De nieuwe tweaks en hulpmiddelen:
 - Aangepaste launchers voor elke tool
 
 Addons (Winkel):
-- Slimme acties: aanpassen van het gedrag van het apparaat, als het in slaapstand gaat en weer aan! Verhoog uw levensduur van de batterij tot 300%! Inclusief een widget en een optionele kennisgeving bar!
+- Slimme acties: aanpassen van het gedrag van het apparaat, als het in slaapstand gaat en weer aan! Verhoog uw levensduur van de batterij tot wel 300%! Inclusief een widget en een optionele kennisgeving bar!
 - Lettertype beheer: pas uw systeem lettertype aan met een eenvoudige tik op de lettertype installer met previews!
-- Kennisgeving weer: hiermee kunt u een melding aanmaken waarop weer informatie wordt weergegeven op basis van uw GPS-locatie of een aangepaste aanmaken. Deze kennisgeving is zeer flexibel met kleuren en voorkeuren!
-- Zwevende gebaren: hiermee kunt u aangepaste gebaren maken en een actie toekennen. De drijvende icoon zal de gebaren pad waarin u uw aangepaste gebaren kunt tekenen openen
-- Gegevens backup waarmee u uw backup en uw persoonlijke gegevens zoals oproep logs, sms, bladwijzers en meer kunt herstellen...
+- Kennisgeving weer: hiermee kunt u een melding aanmaken waarop weer informatie wordt weergegeven op basis van uw GPS-locatie of een aangepaste locatie. Deze kennisgeving is zeer flexibel met kleuren en voorkeuren!
+- Zwevende gebaren: hiermee kunt u aangepaste gebaren maken en een actie toekennen. Het zwevende icoon zal het gebaren pad waarin u uw aangepaste gebaren kunt tekenen openen
+- Gegevens backup waarmee u uw persoonlijke gegevens zoals oproep logs, sms, bladwijzers en meer kunt herstellen...
 - Eenheid bars: een ubuntu eenheid achtige launcher bars met aanpasbare kleuren en opties
 - Expose: maak Mac OSX als expose. Voeg aangepaste acties toe aan de hoeken van uw scherm!
-- De Geheime Kamer: hiermee kunt u beveiligde gegevens in de app, zoals foto's op slaan, video's, muziek, audio, documenten, notities, bookmarks, telefoonnummers en meer!
+- De Geheime Kamer: hiermee kunt u uw gegevens beveiligen in de app, zoals foto's op slaan, video's, muziek, audio, documenten, notities, bookmarks, telefoonnummers en meer!
 
 Compatibel met alle voorraad en aangepaste ROMs zoals CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slank, PAC, Samsung en HTC!
