@@ -20,7 +20,7 @@ De nieuwe tweaks en hulpmiddelen:
 - Cache wisser, Dalvik wisser, uninstaller en Root Zipaligner
 - Veel nieuwe tweaks om de prestaties te verhogen, de batterij, netwerk, media (foto's, video's en audio) en nog veel meer!
 - Init.d scripts
-- DNS Manager
+- DNS beheer
 - Dichtheid modder (DPI)
 - Benchmarks voor IO, CPU, snelheid van het netwerk en ijzerwaren
 - App beheer waarmee u back-ups van uw gegevens / apk voor elke toepassing, uninstaller, bevriezen / ontdooien en schema back-ups!
@@ -30,10 +30,10 @@ De nieuwe tweaks en hulpmiddelen:
 
 Addons (Winkel):
 - Slimme acties: aanpassen van het gedrag van het apparaat, als het in slaapstand gaat en weer aan! Verhoog uw levensduur van de batterij tot 300%! Inclusief een widget en een optionele kennisgeving bar!
-- Lettertype beheer: pas uw systeem lettertype met een eenvoudig een tik font installer met previews!
+- Lettertype beheer: pas uw systeem lettertype aan met een eenvoudige op tik lettertype installer met previews!
 - Kennisgeving weer: hiermee kunt u een melding dat weer informatie wordt weergegeven op basis van uw GPS-locatie of een aangepaste aanmaken. Deze kennisgeving is zeer flexibel met kleuren en voorkeuren!
 - Zwevende gebaren: kunt u aangepaste gebaren maken en een actie toekennen. De drijvende icoon zal de gebaren pad waarin u uw aangepaste gebaren kunt tekenen openen
-- Data back-up waarmee u back-up en uw persoonlijke gegevens zoals oproep logs, sms, bladwijzers en meer herstellen ..
+- Data back-up waarmee u back-up en uw persoonlijke gegevens zoals oproep logs, sms, bladwijzers en meer herstellen...
 - Eenheid bars: een ubuntu eenheid achtige launcher bars met aanpasbare kleuren en opties
 - Expose: maak Mac OSX als expose. Voeg aangepaste acties om hoeken te screenen!
 - De Geheime Kamer: Hiermee kunt u beveiligde gegevens in de app, zoals foto's op te slaan, video's, muziek, audio, documenten, notities, bookmarks, telefoonnummers en meer!
