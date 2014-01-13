@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name" translatable="false">Android Tweaker 2</string>
-    <string name="reboot">Herstart je apparaat om aanpassingen toe te passen</string>
-    <string name="apply">Aanpassingen toepassen</string>
-    <string name="exit">Druk nog een keer op TERUG om af te sluiten</string>
+    <string name="reboot">Herstart uw apparaat om aanpassingen toe te passen</string>
+    <string name="apply">Wijzigingen toepassen</string>
+    <string name="exit">Druk nog een keer op TERUG om af te sluiten</string>
     <string name="yes">Ja</string>
     <string name="no">Nee</string>
     <string name="ok">Oké</string>
@@ -11,7 +11,7 @@
     <string name="warning">Waarschuwing</string>
     <string name="error">Fout</string>
     <string name="checking">Afhankelijkheden controleren...</string>
-    <string name="connectionc_error">Android Tweaker vereist een actieve internet verbinding om de app licentie te verifieren. Verbind je apparaat en probeer het opnieuw.</string>
+    <string name="connectionc_error">Android Tweaker vereist een actieve internet verbinding om de app licentie te verifieren. Verbind uw apparaat en probeer het opnieuw.</string>
     <string name="sure">Weet u het zeker?</string>
     <string name="wait">Wacht astublieft...</string>
     <string name="updating">Afhankelijkheden updaten</string>
@@ -277,7 +277,7 @@
     <string name="sql_defrag_summary">Versnel en optimaliseer uw SQL databases</string>
     <string name="sql_defrag_init">Defragmenteer alle SQL databases</string>
     <string name="sql_defrag_last">Laatste SQL defrag:</string>
-    <string name="sql_report_last">Laatste SQL verslagng</string>
+    <string name="sql_report_last">Laatste SQL verslag:</string>
     <string name="sql_setting_up">Het op zetten van milieu</string>
     <string name="sql_executing">Aan het werk…</string>
     <string name="sql_must_reboot">Aan het einde van dit proces moet het apparaat worden herstart. Doorgaan?</string>
