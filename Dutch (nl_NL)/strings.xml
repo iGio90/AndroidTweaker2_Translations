@@ -78,7 +78,7 @@
     <string name="tips_backup">Deze addon geeft toestemming om een back-up te maken en uw persoonlijke gegevens zoals een korte boodschap, oproeplogboeken, woordenboeken, instellingen en meer te herstellen</string>
     <string name="tips_unity">Deze addon geeft toestemming om een volledig aanpasbare eenheid launcher met een uithaal van buiten het scherm aan de linkerkant of aan de rechterkant te creëren. Bekijk de video voor een kleine preview</string>
     <string name="tips_expose">Deze addon geeft u toestemming een volledig aanpasbare Mac OSX als Expose creëren. Deze expose staat je toe om aangepaste acties in te stellen wanneer u op de 4 hoeken van uw scherm tikt. Bekijk de video voor een kleine preview</string>
-    <string name="tips_chamber">Deze addon geeft toestemming om veilig Documenten, APKs, Muziek, Audio, Foto's, Video's, Persoonlijke notities, Bladwijzers, Telefoonnummers etc. in de Geheime Kamer op te slaan. Een wachtwoord is vereist om de kamer te openen en alle bestanden zijn veilig gecodeerd!</string>
+    <string name="tips_chamber">Deze addon geeft toestemming om veilig Documenten, APKs, Muziek, Audio, Foto\'s, Video\'s, Persoonlijke notities, Bladwijzers, Telefoonnummers etc. in de Geheime Kamer op te slaan. Een wachtwoord is vereist om de kamer te openen en alle bestanden zijn veilig gecodeerd!</string>
 
     <!-- HOME -->
     <string name="unlicensed">Koop een legale versie van deze app. Ontwikkelaars besteden er veel tijd en aandacht aan zoals apps als dit. U zou ons werk moeten supporten!</string>
@@ -296,8 +296,8 @@
     <string name="secondary_dns">Secundaire DNS</string>
     <string name="apply_dns">Toepassen</string>
     <string name="dns_apply">Stel DNS in naar:</string>
-    <string name="dns_progress">DNS toepassen...</string>
-    <string name="dns_restoreing">Originele DNS herstellen...</string>
+    <string name="dns_progress">DNS toepassen…</string>
+    <string name="dns_restoreing">Originele DNS herstellen…</string>
 
     <!-- INITD -->
     <string name="initd_error">Uw apparaat levert geen support voor Init.D tweaks</string>
@@ -786,5 +786,5 @@
     <string name="chamber_clearall_dlg">Wilt u alle bestanden terug zetten naar de originele locatie?</string>
     <string name="chamber_clearnotes_dlg">Wilt u alle opgeslagen notities verwijderen?</string>
     <string name="chamber_prefs_play_files">Speel media en documenten af</string>
-    <string name="chamber_prefs_play_files_summary">Hiermee kunt u mediabestanden zoals audio, afbeeldingen, documenten, video's etc. afspelen. De bestanden moeten worden verplaatst uit de kamer en verhuizen naar de originele locatie alvorens te spelen. Alle bestanden worden automatisch terug verplaatst zodra u de kamer weer sluit!</string>
+    <string name="chamber_prefs_play_files_summary">Hiermee kunt u mediabestanden zoals audio, afbeeldingen, documenten, video\'s etc. afspelen. De bestanden moeten worden verplaatst uit de kamer en verhuizen naar de originele locatie alvorens te spelen. Alle bestanden worden automatisch terug verplaatst zodra u de kamer weer sluit!</string>
 </resources>
