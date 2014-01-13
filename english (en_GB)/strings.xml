@@ -40,6 +40,8 @@
     <string name="rate_us">If you find this application clear, easy and useful, don\'t forget to leave us a review on the store!\n\nDo not hesitate to contact us by email for any problems!</string>
     <string name="preferences">Preferences</string>
     <string name="whatsthis">What\'s this</string>
+    <string name="multitasking">Multitasking</string>
+    <string name="title_translations">Translations</string>
 
     <!-- Color Picker -->
     <string name="dialog_color_picker">Color Picker</string>
@@ -557,7 +559,7 @@
     <string name="customListTitle">Custom list</string>
     <string name="quickReboot">Quick reboot</string>
     <string name="quickRebootMessage">Do you wish to restart userspace?</string>
-    <string name="tools_title">tools</string>
+    <string name="tools_title">Tools</string>
     <string name="tools_batchDeleteTitle">delete backups?</string>
     <string name="tools_batchDeleteMessage">deleting backups</string>
     <string name="enablePackageTitle">Enable for users</string>
@@ -788,4 +790,25 @@
     <string name="chamber_clearnotes_dlg">Do you want to delete all saved notes?</string>
     <string name="chamber_prefs_play_files">Play media and docs</string>
     <string name="chamber_prefs_play_files_summary">Allows you to play media files such as audio, images, docs, videos etc. The files needs to be moved out from the chamber and moved to original directory before get played. All the files will be automatically moved back once you close the chamber!</string>
+
+    <!-- OOM and Caching --> <!-- Translate only things like "cache size" or "app mem". leave all other things such as Texture, Layer, Path etc. as provided -->
+    <string name="oom_caching_title">OOM and caching</string>
+    <string name="oom_caching_summary">Tweaks collection for OOM and caching</string>
+    <string name="caching_title">Caching</string>
+    <string name="oom_title">OOM</string>
+    <string name="texture_cache_size">Texture cache size</string>
+    <string name="layer_cache_size">Layer cache size</string>
+    <string name="buffer_cache_size">Buffer cache size</string>
+    <string name="path_cache_size">Path cache size</string>
+    <string name="drop_shadow_cache_size">Drop shadow cache size</string>
+    <string name="oom_foreground_app_mem">Foreground app mem</string>
+    <string name="oom_visible_app_mem">Visible app mem</string>
+    <string name="oom_secondary_server_mem">Secondary server mem</string>
+    <string name="oom_backup_app_mem">Backup app mem</string>
+    <string name="oom_home_app_mem">Home app mem</string>
+    <string name="oom_hidden_app_mem">Hidden app mem</string>
+    <string name="oom_empty_app_mem">Empty app mem</string>
+    <string name="oom_perceptible_app_mem">Perceptible app mem</string>
+    <string name="oom_heavy_weight_app_mem">Heavy weight app mem</string>
+    <string name="oom_content_provider_mem">Content provider mem</string>
 </resources>
