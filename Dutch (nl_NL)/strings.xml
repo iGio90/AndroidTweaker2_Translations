@@ -15,8 +15,8 @@
     <string name="sure">Weet u het zeker?</string>
     <string name="wait">Wacht astublieft...</string>
     <string name="updating">Afhankelijkheden updaten</string>
-    <string name="toolchain_exist">Benodigde middelen al geinstalleerd. Overslaan...</string>
-    <string name="require_busybox">Deze actie vereist busybox geinstalleerd op uw apparaat. Installeer busybox voordat u deze tool gebruikt</string>
+    <string name="toolchain_exist">Benodigde middelen al geïnstalleerd. Overslaan...</string>
+    <string name="require_busybox">Deze actie vereist busybox geïnstalleerd op uw apparaat. Installeer busybox voordat u deze tool gebruikt</string>
     <string name="require_sql">Deze actie vereist SQL toolchain. Als u deze melding ziet betekent het dat uw ROM niet compitabel is met de SQL defragging tool.</string>
     <string name="size">Grootte:</string>
     <string name="rate_explanation">Geef uw mening en help ons de gevarieerde inhoud te verbeteren</string>
@@ -32,7 +32,7 @@
     <string name="disable">Uit</string>
     <string name="update">Update</string>
     <string name="remove">Verwijderen</string>
-    <string name="install">Wilt uw dit installeren</string>
+    <string name="install">Wilt u dit installeren</string>
     <string name="downloading">Downloaden…</string>
     <string name="launcher_summary">Schakel launcher iconen aan of uit in Android Tweaker 2 activiteiten</string>
     <string name="send_mail">Mail versturen…</string>
@@ -74,9 +74,9 @@
     <string name="tips_not_a_game">Dit is geen spel. Gebruik deze app met je hersenen!</string>
     <string name="tips_zipalign">U hebt uw apps nog niet gezipaligned! Zipaligning verlaagt het RAM gebruik van uw apps. Klik hier om te beginnen!</string>
     <string name="tips_screenstate">Deze tool maakt het mogelijk Android Tweaker 2 slimme acties te gebruiken. Slimme acties kan worden ingeschakeld via het voorkeuren paneel (in de app), de widget of de slimme notificatie (Kan worden geactiveerd via slimme acties instellingen). Slimme acties geeft toestemming om aangepast gedrag in te stellen wanneer uw apparaat in slaap modus gaat. Als voorbeeld, u zet de wifi slimme actie aan, wifi zal uit gaan, en weer aan, als de slaap modus aan of uitgaat. Momenteel zijn er 4 slimme acties beschikbaar: Wifi, Bluetooth, Gegevens en Sync. Deze acties, zal de batterij levensduur verhogen tot wel 300%!</string>
-    <string name="tips_font">Deze addon geeft toestemming om uw systeem lettertype te veranderen in één klik. Kies tussen de 20+ voorgestelde lettertypes en als u de gene niet leuk vind die u kiest, klikt uw simpel op de reset knop om te herstellen naar de originele!</string>
+    <string name="tips_font">Deze addon geeft toestemming om uw systeem lettertype te veranderen in één klik. Kies tussen de 20+ voorgestelde lettertypes en als u de gene niet leuk vind die u kiest, klikt u simpel op de reset knop om te herstellen naar de originele!</string>
     <string name="tips_weather">Deze addon geeft toestemming om een aangepaste notificatie met weer informatie aan te maken gebasseerd op uw GPS locatie of aangepaste locatie.</string>
-    <string name="tips_gestures">Zwevende gebaren geeft toestemming om aangepaste gebaren te maken en daar een actie aan toe te voegen. Het zwevende icoon opent het gebaren pad waar uw een aangepast gebaar kan tekenen! Bekijk de video voor een kleine preview</string>    
+    <string name="tips_gestures">Zwevende gebaren geeft toestemming om aangepaste gebaren te maken en daar een actie aan toe te voegen. Het zwevende icoon opent het gebaren pad waar u een aangepast gebaar kan tekenen! Bekijk de video voor een kleine preview</string>    
     <string name="tips_backup">Deze addon geeft toestemming om een back-up te maken en uw persoonlijke gegevens zoals een korte boodschap, oproeplogboeken, woordenboeken, instellingen en meer te herstellen</string>
     <string name="tips_unity">Deze addon geeft toestemming om een volledig aanpasbare eenheid launcher met een uithaal van buiten het scherm aan de linkerkant of aan de rechterkant te creëren. Bekijk de video voor een kleine preview</string>
     <string name="tips_expose">Deze addon geeft u toestemming een volledig aanpasbare Mac OSX als Expose creëren. Deze expose staat je toe om aangepaste acties in te stellen wanneer u op de 4 hoeken van uw scherm tikt. Bekijk de video voor een kleine preview</string>
@@ -326,7 +326,7 @@
     <string name="screen_state_notification">Slimme balk</string>
     <string name="screen_state_notification_summary">Slimme acties widget toevoegen aan notificatie lade</string>
     <string name="screen_state_battery">Lage batterij</string>
-    <string name="screen_state_battery_summary">Acties alleen inschakelen als batterij lager is dan het level dat uw heeft ingesteld</string>
+    <string name="screen_state_battery_summary">Acties alleen inschakelen als batterij lager is dan het level dat u heeft ingesteld</string>
     <string name="set_battery_level">Stel the minimum batterij level in</string>
     <string name="screen_state_wifi">Wifi</string>
     <string name="screen_state_wifi_summary">Wifi uitschakelen wanneer scherm uit gaat</string>
@@ -526,7 +526,7 @@
     <string name="showOnlySystem">Toon alleen system apps</string>
     <string name="showOnlyUser">Toon alleen gebruikers apps</string>
     <string name="showNotBackedup">Toon apps die nog niet een backup hebben</string>
-    <string name="showNotInstalled">Toon niet geinstalleerde apps</string>
+    <string name="showNotInstalled">Toon niet geïnstalleerde apps</string>
     <string name="showNewAndUpdated">Toon nieuwe en geupdate apps</string>
     <string name="showOldBackups">Toon oude backups</string>
     <string name="showOnlyApkBackedUp">Toon apps met alleen een apk backup</string>
@@ -537,7 +537,7 @@
     <string name="uninstallDialogMessage">Wilt u deze app verwijderen?</string>
     <string name="deleteBackupDialogMessage">Verwijder backup bestanden?</string>
     <string name="noBackupYet">Nog geen backup</string>
-    <string name="restoreDataWithoutApkError">Kan gegevens niet herstellen zonder herstellen van apk, pakket is niet geinstalleerd: </string>
+    <string name="restoreDataWithoutApkError">Kan gegevens niet herstellen zonder herstellen van apk, pakket is niet geïnstalleerd: </string>
     <string name="collectingData">Pakket informaties verzamelen</string>
     <string name="suCheck">Controleren voor superuser en busybox</string>
     <string name="noSu">Kon geen superuser rechten verkrijgen</string>
