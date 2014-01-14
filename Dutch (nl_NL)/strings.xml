@@ -7,7 +7,7 @@
     <string name="yes">Ja</string>
     <string name="no">Nee</string>
     <string name="ok">Oké</string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Annuleren</string>
     <string name="warning">Waarschuwing</string>
     <string name="error">Fout</string>
     <string name="checking">Afhankelijkheden controleren...</string>
@@ -39,6 +39,8 @@
     <string name="rate_us">Als u deze applicatie duidelijk, makkelijk en handig vind, vergeet dan niet een recentie achter te laten in de Play Store!\n\nAarsel niet om ons te emailen over enkele problemen!</string>
     <string name="preferences">Voorkeuren</string>
     <string name="whatsthis">Wat is dit?</string>
+    <string name="multitasking">Multitasken</string>
+    <string name="title_translations">Vertalingen</string>
 
     <!-- Color Picker -->
     <string name="dialog_color_picker">Kleurenkiezer</string>
@@ -787,4 +789,25 @@
     <string name="chamber_clearnotes_dlg">Wilt u alle opgeslagen notities verwijderen?</string>
     <string name="chamber_prefs_play_files">Speel media en documenten af</string>
     <string name="chamber_prefs_play_files_summary">Hiermee kunt u mediabestanden zoals audio, afbeeldingen, documenten, video\'s etc. afspelen. De bestanden moeten worden verplaatst uit de kamer en verhuizen naar de originele locatie alvorens te spelen. Alle bestanden worden automatisch terug verplaatst zodra u de kamer weer sluit!</string>
+
+    <!-- OOM and Caching --> <!-- Translate only things like "cache size" or "app mem". leave all other things such as Texture, Layer, Path etc. as provided -->
+    <string name="oom_caching_title">OOM en caching</string>
+    <string name="oom_caching_summary">Collectie van tweaks voor OOM en caching</string>
+    <string name="caching_title">Caching</string>
+    <string name="oom_title">OOM</string>
+    <string name="texture_cache_size">Texture cache grootte</string>
+    <string name="layer_cache_size">Layer cache grootte</string>
+    <string name="buffer_cache_size">Buffer cache grootte</string>
+    <string name="path_cache_size">Path cache grootte</string>
+    <string name="drop_shadow_cache_size">Drop shadow cache grootte</string>
+    <string name="oom_foreground_app_mem">Foreground app mem</string>
+    <string name="oom_visible_app_mem">Visible app mem</string>
+    <string name="oom_secondary_server_mem">Secondary server mem</string>
+    <string name="oom_backup_app_mem">Backup app mem</string>
+    <string name="oom_home_app_mem">Home app mem</string>
+    <string name="oom_hidden_app_mem">Hidden app mem</string>
+    <string name="oom_empty_app_mem">Empty app mem</string>
+    <string name="oom_perceptible_app_mem">Perceptible app mem</string>
+    <string name="oom_heavy_weight_app_mem">Heavy weight app mem</string>
+    <string name="oom_content_provider_mem">Content provider mem</string>
 </resources>
