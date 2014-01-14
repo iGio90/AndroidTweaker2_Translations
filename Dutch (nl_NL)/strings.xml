@@ -331,11 +331,11 @@
     <string name="screen_state_wifi">Wifi</string>
     <string name="screen_state_wifi_summary">Wifi uitschakelen wanneer scherm uit gaat</string>
     <string name="screen_state_bluetooth">Bluetooth</string>
-    <string name="screen_state_bluetooth_summary">Bluetooth uitschakelen als scherm uit gaat</string>
+    <string name="screen_state_bluetooth_summary">Bluetooth uitschakelen wanneer scherm uit gaat</string>
     <string name="screen_state_data">Gegevens</string>
-    <string name="screen_state_data_summary">Gegevens uitschakelen als scherm uit gaat</string>
+    <string name="screen_state_data_summary">Gegevens uitschakelen wanneer scherm uit gaat</string>
     <string name="screen_state_sync">Sync</string>
-    <string name="screen_state_sync_summary">Sync uitschakelen als scherm uit gaat</string>
+    <string name="screen_state_sync_summary">Sync uitschakelen wanneer scherm uit gaat</string>
 
     <!-- CUSTOMIZATION -->
     <string name="no_customization_owned">Geen aanpassingen beschikbaar</string>
