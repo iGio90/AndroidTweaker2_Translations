@@ -1,4 +1,4 @@
-We zijn blij om Android Tweaker 2, het tweede hoofdstuk van het nut dat een groot succes in de Android gemeenschap gehad te introduceren.
+We zijn blij om Android Tweaker 2, het tweede hoofdstuk van het nut dat een groot succes in de Android gemeenschap gehad te introduceren. De prestatie verhogen van uw apparaat is nooit zo gemakkelijk geweest! Met een schone en gebruiksvriendelijke interface en een kleine instelling om te kiezen tussen geavanceerde gebruiker of niet!
 
 Vertalingen: Hier kunt u instructies vinden over hoe u de app kunt vertalen naar uw taal op het officiële GitHub project (https://github.com/iGio90/AndroidTweaker2_Translations/) Vertalers hebben het recht om te verzoeken voor een volledig ontgrendelde versie van de app.
 
@@ -26,6 +26,7 @@ De nieuwe tweaks en hulpmiddelen:
 - App beheer waarmee u backups van uw gegevens / apks kunt maken, uninstaller, bevriezen / ontdooien van apps en schema backups!
 - Bravia Engine v3 installer
 - Bootanimatie installer
+- Eerste app met OOM en caching tweaks
 - Aangepaste launchers voor elke tool
 
 Addons (Winkel):
