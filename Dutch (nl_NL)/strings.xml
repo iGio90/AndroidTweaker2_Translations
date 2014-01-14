@@ -94,9 +94,9 @@
     <string name="device_bootloard">Bootloader: </string>
     <string name="device_hardware">Hardware: </string>
     <string name="android_tweaker">Systeem Tweaker</string>
-    <string name="android_tweaker_summary">Collectie van systeem instellingen tweaks</string>
+    <string name="android_tweaker_summary">Collectie van tweaks voor systeem instellingen</string>
     <string name="initd">Init.d Scripts</string>
-    <string name="initd_summary">Collectie van init.d scripts.</string>
+    <string name="initd_summary">Collectie van init.d scripts</string>
     <string name="appmanager">App beheer</string>
     <string name="appmanager_summary">Applicatie gegevens backup, uninstaller en enabler</string>
     <string name="tools">Tools</string>
@@ -668,7 +668,7 @@
     <string name="profile_select">Kies een profiel</string>
     <string name="profile_performance">Prestatie</string>
     <string name="profile_battery">Batterij</string>
-    <string name="profile_balanced">gebalanceerd</string>
+    <string name="profile_balanced">Gebalanceerd</string>
     <string name="safety_select">Kies veiligheidsniveau</string>
     <string name="safety_safe">Veilige tweaks</string>
     <string name="safety_extreme">Extreme tweaks</string>
@@ -719,7 +719,7 @@
     <string name="bootanimation_summary">Download en installeer een aangepaste bootanimatie</string>
     <string name="bootanimation_not_found">Ik kan geen bootanimatie vinden met de breedte van uw scherm. Probeer een ander!</string>
     <string name="bootanimation_reboot">Herstart je apparaat en geniet van de nieuwe bootanimatie!</string>
-    <string name="custom_bootanimation">Installeer aamgepaste bootanimatie</string>
+    <string name="custom_bootanimation">Installeer aangepaste bootanimatie</string>
     <string name="custom_bootanimation_summary">Plaats de bootanimatie.zip bestand in de map:</string>
     <string name="custom_bootanimation_install">Tik hier om uw aangepaste bootanimatie te installeren</string>
     <string name="restore_bootanimation">Wilt u uw originele bootanimatie herstellen?</string>
