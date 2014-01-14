@@ -758,7 +758,7 @@
     <string name="chamber_docs">Documenten en algemene bestanden</string>
     <string name="chamber_edit_password">Wachtwoord wijzigen</string>
     <string name="remove_from_chamber">Verwijder uit kamer</string>
-    <string name="chamber_has_opened">De kamer is geopend</string>
+    <string name="chamber_has_opened">De kamer is geopent</string>
     <string name="tap_to_close_chamber">Klik hier om het te sluiten</string>
     <string name="put_note_chamber">Maak een geheime notitie</string>
     <string name="put_note_chamber_summary">Alle gemaakte notities zijn versleuteld en opgeslagen in de app! Niemand anders dan u heeft er toegang tot</string>
@@ -766,7 +766,7 @@
     <string name="chamber_note_content">Notitie inhoud</string>
     <string name="chamber_select_note_type">Kies notitie type</string>
     <string name="chamber_note_bookmark">Bladwijzers</string>
-    <string name="chamber_note_phone_number">Telefoon nummers</string>
+    <string name="chamber_note_phone_number">Telefoonnummers</string>
     <string name="chamber_note_personal">Persoonlijke notities</string>
     <string name="chamber_insert_title">Gelieve een titel invoeren!</string>
     <string name="chamber_different_title">Deze titel is al in gebruik. Gebruik een andere titel voor de notitie</string>
@@ -780,7 +780,7 @@
     <string name="add_some_audio_to_chamber">Audio kamer is leeg! Voeg bestanden toe om erin te gaan</string>
     <string name="add_some_personal_notes_to_chamber">Persoonlijke notities is leeg! Voeg bestanden toe om erin te gaan</string>
     <string name="add_some_bookmarks_notes_to_chamber">Bladwijzer notities is leeg! Voeg bestanden toe om erin te gaan</string>
-    <string name="add_some_phone_notes_to_chamber">Telefoon nummers notities kamer is leeg! Voeg bestanden toe om erin te gaan</string>
+    <string name="add_some_phone_notes_to_chamber">Telefoonnummers notities kamer is leeg! Voeg bestanden toe om erin te gaan</string>
     <string name="add_some_apks_notes_to_chamber">Apks kamer is leeg! Voeg bestanden toe om erin te gaan</string>
     <string name="add_some_docs_notes_to_chamber">Documenten kamer is leeg! Voeg bestanden toe om erin te gaan</string>
     <string name="chamber_clearall">Alle bestanden herstellen</string>
