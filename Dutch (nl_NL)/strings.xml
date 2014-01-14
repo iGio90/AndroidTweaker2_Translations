@@ -472,7 +472,7 @@
     <string name="gestures_action_ringer">Beltoonmodus</string>
     <string name="button_add">Gebaar toevoegen</string>
     <string name="button_reload">Herladen</string>
-    <string name="button_discard">Afdanken</string>
+    <string name="button_discard">Annuleren</string>
     <string name="button_done">Klaar</string>
     <string name="prompt_gesture_name">Naam</string>
     <string name="error_missing_name">U moet een naam invoeren</string>
