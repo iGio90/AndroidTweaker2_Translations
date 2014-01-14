@@ -100,7 +100,7 @@
     <string name="initd">Init.d Scripts</string>
     <string name="initd_summary">Collectie van init.d scripts</string>
     <string name="appmanager">App beheer</string>
-    <string name="appmanager_summary">Applicatie gegevens backup, uninstaller en enabler</string>
+    <string name="appmanager_summary">Applicatie gegevens backup, verwijderen en aanzetten</string>
     <string name="tools">Tools</string>
     <string name="tools_summary">Collectie van schoonmakers en nutsbedrijven</string>
     <string name="dns_manager">DNS beheer</string>
@@ -340,8 +340,8 @@
     <!-- CUSTOMIZATION -->
     <string name="no_customization_owned">Geen aanpassingen beschikbaar</string>
     <string name="no_customization_owned_summary">Er is geen enkele aanpassing beschikbaar in uw Android Tweaker 2. Bezoek de winkel om er een paar te krijgen!</string>
-    <string name="unity_bars">Eenheid bars</string>
-    <string name="unity_bars_summary">Eenheid toevoegen zoals launcher bars</string>
+    <string name="unity_bars">Eenheid balk</string>
+    <string name="unity_bars_summary">Eenheid toevoegen zoals launcher balk</string>
     <string name="font_manager" translatable="false">Font manager</string>
     <string name="font_manager_summary">Installeer aangepaste lettertype op uw apparaat</string>
     <string name="backup_font">Backup uw huidige lettertype om te herstellen in de toekomst</string>
@@ -366,7 +366,7 @@
     <string name="noty_weather_purchased">Weer notificatie is gekocht! U heeft een nieuwe kaart in het aanpassings scherm!</string>
     <string name="gestures_purchased">Zwevende gebaren is gekocht! U heeft een nieuwe kaart in het aanpassings scherm!</string>
     <string name="backup_purchased">Data backup is gekocht!! U heeft een nieuwe kaart in het tools scherm!</string>
-    <string name="unity_purchased">Eenheid bars is gekocht! U heeft een nieuwe kaart in het maatwerk scherm!</string>
+    <string name="unity_purchased">Eenheid balken is gekocht! U heeft een nieuwe kaart in het maatwerk scherm!</string>
     <string name="expose_purchased">Exposè is gekocht! U hebt een nieuwe kaart in het hoofdscherm!</string>
     <string name="chamber_purchased">De geheime kamer is gekocht! U hebt een nieuwe kaart in het hoofdscherm!</string>
 
@@ -654,9 +654,9 @@
     </string-array>
 
     <!-- Unity bars + Smart center -->
-    <string name="start_unity">Eenheid bars</string>
-    <string name="unity_left">Linker bar</string>
-    <string name="unity_right">Rechter bar</string>
+    <string name="start_unity">Eenheid balk</string>
+    <string name="unity_left">Linker balk</string>
+    <string name="unity_right">Rechter balk</string>
     <string name="trigger_width">Trigger breedte</string>
     <string name="background_color">Achtergrond kleur</string>
     <string name="text_color">Tekst kleur</string>
@@ -705,7 +705,7 @@
 
     <!-- Expose -->
     <string name="expose_title" translatable="false">Exposè</string>
-    <string name="expose_summary">Mac OSX zoals exposè hoeken acties</string>
+    <string name="expose_summary">Mac OSX zoals exposè actie hoeken</string>
     <string name="expose_pause">Exposè is in pauze</string>
     <string name="expose_long_click">Ingedrukt</string>
     <string name="expose_long_click_summary">Hou Exposè ingedrukt om te pauzeren</string>
@@ -738,7 +738,7 @@
     <string name="chamber_main_message">Maak een wachtwoord aan waarmee u uw kamer kunt openen. Wachtwoord zal worden opgeslagen in uw mobiel met AES en SALT encryptie. Het is extreem belangrijk dat u uw wachtwoord niet vergeet!</string>
     <string name="create_master_password">Maak hoofdwachtwoord</string>
     <string name="password">Wachtwoord</string>
-    <string name="password_hint">Wachtwoord (6 tekens min)</string>
+    <string name="password_hint">Wachtwoord (min 6 tekens)</string>
     <string name="repeat_password">Herhaal wachtwoord</string>
     <string name="chamber_uninstall_warning">Belangrijk: Als u Android Tweaker 2 deinstalleerd of alle data verwijderd, dan zullen alle bestanden in de kamer worden verwijderd! U kunt Android Tweaker 2 app beheer gebruiken om een backup te maken en de app gegevens te herstellen, dit zal ook werken voor kamer bestanden!</string>
     <string name="email">E-Mail</string>
