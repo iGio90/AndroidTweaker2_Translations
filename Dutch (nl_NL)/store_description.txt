@@ -19,6 +19,7 @@ De nieuwe tweaks en hulpmiddelen:
 - We geven een meer schone grafische interface en een groter gebruiksgemak voor alle verschillende tweaks en hulpmiddelen binnen in.
 - Cache wisser, Dalvik wisser, uninstaller en Root Zipaligner
 - Veel nieuwe tweaks om de prestaties te verhogen, de batterij, netwerk, media (foto's, video's en audio) en nog veel meer!
+- OTA tweaker is gemakkelijk om uw apparaat terug te tweaken na elke nightly/OTA update van uw ROM!
 - Init.d scripts
 - DNS beheer
 - Dichtheid modder (DPI)
