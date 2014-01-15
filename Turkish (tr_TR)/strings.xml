@@ -602,4 +602,176 @@
         <item>15</item>
         <item>20</item>
     </string-array>
+
+    <!-- Unity bars + Smart center -->
+    <string name="start_unity">Unity bars</string>
+    <string name="unity_left">Left bar</string>
+    <string name="unity_right">Right bar</string>
+    <string name="trigger_width">Trigger width</string>
+    <string name="background_color">Background color</string>
+    <string name="text_color">Text color</string>
+    <string name="layer_color">Layer color</string>
+    <string name="battery_level">Battery level</string>
+
+    <!-- Auto Tweaker -->
+    <string name="auto_tweaker">Auto tweaker</string>
+    <string name="auto_tweaker_summary">Auto tweak your device with custom profiles</string>
+    <string name="take_a_sit">This process may take a few minutes. Get a cup of coffee in the meantime!</string>
+    <string name="profile_select">Choose a profile</string>
+    <string name="profile_performance">Performance</string>
+    <string name="profile_battery">Battery</string>
+    <string name="profile_balanced">Balanced</string>
+    <string name="safety_select">Choose safety level</string>
+    <string name="safety_safe">Safe tweaks</string>
+    <string name="safety_extreme">Extreme tweaks</string>
+
+    <!-- Benchmarks -->
+    <string name="benchmarks_title">Benchmarks</string>
+    <string name="benchmarks_summary">Check your device performance score</string>
+    <string name="share_result">Share your results</string>
+    <string name="my_score">Here is my scores with Android Tweaker 2 benchmarks</string>
+    <string name="running">Running…</string>
+    <string name="result">Results:</string>
+    <string name="speed">Speed</string>
+    <string name="progress">Progress</string>
+    <string name="network_type">Network type</string>
+    <string name="test_all">Test all</string>
+    <string name="hardware_info">Hardware information</string>
+    <string name="cpu_test">CPU test</string>
+    <string name="io_test">IO test</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="external_storage">External storage</string>
+    <string name="write_speed">Write speed:</string>
+    <string name="read_speed">Read speed:</string>
+    <string name="network_test">Network speed test</string>
+    <string name="connection_speed">Connection speed:</string>
+    <string name="network_edge">Network : EDGE</string>
+    <string name="network_3g">Network : 3G</string>
+    <string name="network_detecting">Network : Detecting</string>
+    <string name="update_speed">%s kbit/sec</string>
+    <string name="update_downloaded" formatted="false">Downloaded %s of %s</string>
+    <string name="update_connectionspeed">Connection time %s ms</string>
+    <string name="update_downloaded_complete" formatted="false">Downloaded %s @ %s kbit/sec</string>
+
+    <!-- Expose -->
+    <string name="expose_title" translatable="false">Exposè</string>
+    <string name="expose_summary">Mac OSX like exposè corner actions</string>
+    <string name="expose_pause">Exposè is in pause</string>
+    <string name="expose_long_click">Long click</string>
+    <string name="expose_long_click_summary">Long click on exposè to pause</string>
+    <string name="expose_top_left">Top left exposè</string>
+    <string name="expose_top_right">Top right exposè</string>
+    <string name="expose_bottom_left">Bottom left exposè</string>
+    <string name="expose_bottom_right">Bottom right exposè</string>
+    <string name="expose_widget_center">Smart center</string>
+    <string name="expose_start">Start</string>
+
+    <!-- Bootanimation -->
+    <string name="bootanimation">Bootanimation</string>
+    <string name="bootanimation_summary">Download and install custom bootanimations</string>
+    <string name="bootanimation_not_found">I can\'t find a bootanimation that matches the size of your screen width. Please, try with another one!</string>
+    <string name="bootanimation_reboot">Reboot your device and enjoy the new bootanimation!</string>
+    <string name="custom_bootanimation">Install custom bootanimation</string>
+    <string name="custom_bootanimation_summary">Place the bootanimation.zip file inside the folder:</string>
+    <string name="custom_bootanimation_install">Tap here to install your custom bootanimation</string>
+    <string name="restore_bootanimation">Do you want to restore your original bootanimation?</string>
+    <string name="backup_bootanimation">Backing up current bootanimation to allows you to restore in future</string>
+    <string name="bam_roms_title">BAM</string>
+    <string name="cyanogenmod">CyanogenMod</string>
+    <string name="aokp">AOKP</string>
+    <string name="chaos">ChameleonOS</string>
+    <string name="carbon">Carbon ROMs</string>
+    <string name="slim">Slim ROMs</string>
+
+    <!-- The chamber of secrets -->
+    <string name="chamber_title">The chamber of secrets</string>
+    <string name="chamber_main_message">Create a password that will allows you to open the chamber. Password will be stored in your phone with AES and SALT encryption. It\'s extremely important that you don\'t forget your password!</string>
+    <string name="create_master_password">Create master password</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Password (6 Char min)</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="chamber_uninstall_warning">Important: If you uninstall Android Tweaker 2 or you wipe your data all the files inside the chamber will be deleted! You can use Android Tweaker 2 appmanager to backup/restore app data that will also works for chamber files!</string>
+    <string name="email">E-Mail</string>
+    <string name="password_mismatch">Make sure you enter the same password in both fields</string>
+    <string name="password_empty">Password field can\'t be empty!</string>
+    <string name="chamber_pass_lenght">Password must contain at least 6 char!</string>
+    <string name="password_created">Master password created</string>
+    <string name="password_edited">Master password has been updated!</string>
+    <string name="insert_password">Insert password</string>
+    <string name="wrong_password">Wrong password</string>
+    <string name="open_chamber">Open the chamber</string>
+    <string name="chamber_pictures">Pictures</string>
+    <string name="chamber_videos">Videos</string>
+    <string name="chamber_audio">Audio</string>
+    <string name="chamber_notes">Notes</string>
+    <string name="chamber_apks">APKs</string>
+    <string name="chamber_docs">Documents and general files</string>
+    <string name="chamber_edit_password">Edit password</string>
+    <string name="remove_from_chamber">Remove from chamber</string>
+    <string name="chamber_has_opened">The chamber has been opened</string>
+    <string name="tap_to_close_chamber">Tap here to close it</string>
+    <string name="put_note_chamber">Create secret note</string>
+    <string name="put_note_chamber_summary">All the notes created are encypted and stored into the app! No one except you can access to them</string>
+    <string name="chamber_note_title">Note title</string>
+    <string name="chamber_note_content">Note content</string>
+    <string name="chamber_select_note_type">Choose note type</string>
+    <string name="chamber_note_bookmark">Bookmarks</string>
+    <string name="chamber_note_phone_number">Phone numbers</string>
+    <string name="chamber_note_personal">Personal notes</string>
+    <string name="chamber_insert_title">Please insert a title!</string>
+    <string name="chamber_different_title">This title is already in use. Please use a different note title</string>
+    <string name="chamber_note_edit">Edit</string>
+    <string name="chamber_note_open">Open</string>
+    <string name="chamber_note_mail">Mail</string>
+    <string name="chamber_note_call">Call</string>
+    <string name="chamber_note_sms">SMS</string>
+    <string name="add_some_pics_to_chamber">Pictures chamber is empty! Add some files before entering</string>
+    <string name="add_some_vids_to_chamber">Videos chamber is empty! Add some files before entering</string>
+    <string name="add_some_audio_to_chamber">Audio chamber is empty! Add some files before entering</string>
+    <string name="add_some_personal_notes_to_chamber">Personal notes chamber is empty! Add some files before entering</string>
+    <string name="add_some_bookmarks_notes_to_chamber">Bookmarks notes chamber is empty! Add some files before entering</string>
+    <string name="add_some_phone_notes_to_chamber">Phone numbers notes chamber is empty! Add some files before entering</string>
+    <string name="add_some_apks_notes_to_chamber">Apks chamber is empty! Add some files before entering</string>
+    <string name="add_some_docs_notes_to_chamber">Docs chamber is empty! Add some files before entering</string>
+    <string name="chamber_clearall">Restore all files</string>
+    <string name="chamber_clearnotes">Clear notes</string>
+    <string name="chamber_clearall_dlg">Do you want to move back all files to their original location?</string>
+    <string name="chamber_clearnotes_dlg">Do you want to delete all saved notes?</string>
+    <string name="chamber_prefs_play_files">Play media and docs</string>
+    <string name="chamber_prefs_play_files_summary">Allows you to play media files such as audio, images, docs, videos etc. The files needs to be moved out from the chamber and moved to original directory before get played. All the files will be automatically moved back once you close the chamber!</string>
+
+    <!-- OOM and Caching --> <!-- Translate only things like "cache size" or "app mem". leave all other things such as Texture, Layer, Path etc. as provided -->
+    <string name="oom_caching_title">OOM and caching</string>
+    <string name="oom_caching_summary">Tweaks collection for OOM and caching</string>
+    <string name="caching_title">Caching</string>
+    <string name="oom_title">OOM</string>
+    <string name="texture_cache_size">Texture cache size</string>
+    <string name="layer_cache_size">Layer cache size</string>
+    <string name="buffer_cache_size">Buffer cache size</string>
+    <string name="path_cache_size">Path cache size</string>
+    <string name="drop_shadow_cache_size">Drop shadow cache size</string>
+    <string name="oom_foreground_app_mem">Foreground app mem</string>
+    <string name="oom_visible_app_mem">Visible app mem</string>
+    <string name="oom_secondary_server_mem">Secondary server mem</string>
+    <string name="oom_backup_app_mem">Backup app mem</string>
+    <string name="oom_home_app_mem">Home app mem</string>
+    <string name="oom_hidden_app_mem">Hidden app mem</string>
+    <string name="oom_empty_app_mem">Empty app mem</string>
+    <string name="oom_perceptible_app_mem">Perceptible app mem</string>
+    <string name="oom_heavy_weight_app_mem">Heavy weight app mem</string>
+    <string name="oom_content_provider_mem">Content provider mem</string>
+
+    <!-- Restore -->
+    <string name="reset_tweaks">Reset tweaks</string>
+    <string name="cant_reset_tweaks">Root access is required in order to tweak and restore your Android OS</string>
+    <string name="reset_tweaks_sure">Do you want to reset all tweaks?</string>
+
+    <!-- Ota tweaker -->
+    <string name="ota_tweaker">OTA Tweaker</string>
+    <string name="ota_tweaker_summary">Auto tweaks on OTA updates</string>
+    <string name="ota_start">Launch OTA auto tweaker</string>
+    <string name="ota_init">Initializing…</string>
+    <string name="ota_writing">Writing</string>
+    <string name="ota_ready">OTA Tweaker is ready to tweak back your device</string>
+    <string name="ota_tweaker_summary_tips">OTA Tweaker will tweak your device back if device receive OTA updates such as nightlies or new build. Keep in mind that this will not work if during update process the data will be wiped!\n\nNote: if you already tweaked your device with Android Tweaker 2, you should tweak it again to store the new tweaks into the OTA tweaker!</string>
 </resources>

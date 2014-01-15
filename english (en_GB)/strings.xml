@@ -811,4 +811,18 @@
     <string name="oom_perceptible_app_mem">Perceptible app mem</string>
     <string name="oom_heavy_weight_app_mem">Heavy weight app mem</string>
     <string name="oom_content_provider_mem">Content provider mem</string>
+
+    <!-- Restore -->
+    <string name="reset_tweaks">Reset tweaks</string>
+    <string name="cant_reset_tweaks">Root access is required in order to tweak and restore your Android OS</string>
+    <string name="reset_tweaks_sure">Do you want to reset all tweaks?</string>
+
+    <!-- Ota tweaker -->
+    <string name="ota_tweaker">OTA Tweaker</string>
+    <string name="ota_tweaker_summary">Auto tweaks on OTA updates</string>
+    <string name="ota_start">Launch OTA auto tweaker</string>
+    <string name="ota_init">Initializing…</string>
+    <string name="ota_writing">Writing</string>
+    <string name="ota_ready">OTA Tweaker is ready to tweak back your device</string>
+    <string name="ota_tweaker_summary_tips">OTA Tweaker will tweak your device back if device receive OTA updates such as nightlies or new build. Keep in mind that this will not work if during update process the data will be wiped!\n\nNote: if you already tweaked your device with Android Tweaker 2, you should tweak it again to store the new tweaks into the OTA tweaker!</string>
 </resources>

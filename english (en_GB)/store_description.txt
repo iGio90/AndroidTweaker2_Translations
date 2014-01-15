@@ -19,6 +19,7 @@ The new tweaks and tools:
 - We gave a more clean graphical interface and greater ease of use to all the various tweaks and tools inside.
 - Cache cleaner, Dalvik cleaner, uninstaller and Root Zipaligner
 - Many new tweaks to increase performance, battery, network, media (photos, videos and autio) and much more!
+- OTA tweaker for easy tweak your device back at every nightly/OTA update of your custom ROM
 - init.d scripts
 - DNS Manager
 - Density modder (DPI)
