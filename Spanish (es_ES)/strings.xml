@@ -40,6 +40,8 @@
     <string name="rate_us">Si crees que esta aplicación es clara, fácil de usar y útil, ¡no te olvides de contarnos tu experiencia con la aplicación en Play Store!\n\n ¡No dudes en ponerte en contacto con nosotros por email si tienes algún problema!</string>
     <string name="preferences">Preferencias</string>
     <string name="whatsthis">¿Qué es esto?</string>
+    <string name="multitasking">Multitarea</string>
+    <string name="title_translations">Traducciones</string>
  
     <!-- Color Picker -->
     <string name="dialog_color_picker">Selector de color</string>
@@ -790,15 +792,15 @@
     <string name="chamber_prefs_play_files_summary">Te permite reproducir archivos multimedia, como audio, imágenes, documentos, vídeos etc. Los archivos necesitan ser movidos fuera de la Cámara y restaurados a su directorio otiginal antes de ser reproducidos. ¡Todos los archivos serán restaurados automáticamente una vez cierres la Cámara!</string>
 
     <!-- OOM and Caching --> <!-- Translate only things like "cache size" or "app mem". leave all other things such as Texture, Layer, Path etc. as provided -->
-    <string name="oom_caching_title">OOM and caching</string>
-    <string name="oom_caching_summary">Tweaks collection for OOM and caching</string>
+    <string name="oom_caching_title">OOM y caching</string>
+    <string name="oom_caching_summary">Colección de tweaks para OOM y caching</string>
     <string name="caching_title">Caching</string>
     <string name="oom_title">OOM</string>
-    <string name="texture_cache_size">Texture cache size</string>
-    <string name="layer_cache_size">Layer cache size</string>
-    <string name="buffer_cache_size">Buffer cache size</string>
-    <string name="path_cache_size">Path cache size</string>
-    <string name="drop_shadow_cache_size">Drop shadow cache size</string>
+    <string name="texture_cache_size">Tamaño de texture cache</string>
+    <string name="layer_cache_size">Tamaño de layer cache</string>
+    <string name="buffer_cache_size">Tamaño de buffer cache</string>
+    <string name="path_cache_size">Tamaño de path cache</string>
+    <string name="drop_shadow_cache_size">Tamaño de drop shadow cache</string>
     <string name="oom_foreground_app_mem">Foreground app mem</string>
     <string name="oom_visible_app_mem">Visible app mem</string>
     <string name="oom_secondary_server_mem">Secondary server mem</string>
@@ -811,16 +813,16 @@
     <string name="oom_content_provider_mem">Content provider mem</string>
 
     <!-- Restore -->
-    <string name="reset_tweaks">Reset tweaks</string>
-    <string name="cant_reset_tweaks">Root access is required in order to tweak and restore your Android OS</string>
-    <string name="reset_tweaks_sure">Do you want to reset all tweaks?</string>
+    <string name="reset_tweaks">Resetear tweaks</string>
+    <string name="cant_reset_tweaks">Se requiere acceso root para hacer tweak y restaurar tu Android OS</string>
+    <string name="reset_tweaks_sure">¿Quieres resetear todos los tweaks?</string>
 
     <!-- Ota tweaker -->
-    <string name="ota_tweaker">OTA Tweaker</string>
-    <string name="ota_tweaker_summary">Auto tweaks on OTA updates</string>
-    <string name="ota_start">Launch OTA auto tweaker</string>
-    <string name="ota_init">Initializing…</string>
-    <string name="ota_writing">Writing</string>
-    <string name="ota_ready">OTA Tweaker is ready to tweak back your device</string>
-    <string name="ota_tweaker_summary_tips">OTA Tweaker will tweak your device back if device receive OTA updates such as nightlies or new build. Keep in mind that this will not work if during update process the data will be wiped!\n\nNote: if you already tweaked your device with Android Tweaker 2, you should tweak it again to store the new tweaks into the OTA tweaker!</string>
+    <string name="ota_tweaker">Tweaker OTA</string>
+    <string name="ota_tweaker_summary">Hacer auto tweaks en actualizaciones OTA</string>
+    <string name="ota_start">Ejecutar OTA auto tweaker</string>
+    <string name="ota_init">Iniciando…</string>
+    <string name="ota_writing">Escribiendo</string>
+    <string name="ota_ready">Tweaker OTA está listo para hacer tweak back a tu dispositivo</string>
+    <string name="ota_tweaker_summary_tips">Tweaker OTA hará tweak back a tu dispositivo si éste recibe actualizaciones OTA como versiones Nightly o nuevas build. ¡Recuerda que esto no funcionará si durante el proceso de actualización los datos son eliminados!\n\nNota: si ya has hecho tweak a tu dispositivo con Android Tweaker 2, ¡deberías hacerle un nuevo tweak para almacenar los nuevos tweaks en el Tweaker OTA!</string>
 </resources>
