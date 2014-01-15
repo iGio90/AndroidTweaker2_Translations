@@ -810,4 +810,18 @@
     <string name="oom_perceptible_app_mem">Perceptible app mem</string>
     <string name="oom_heavy_weight_app_mem">Heavy weight app mem</string>
     <string name="oom_content_provider_mem">Content provider mem</string>
+    
+    <!-- Restore -->
+    <string name="reset_tweaks">Reset tweaks</string>
+    <string name="cant_reset_tweaks">Root toegang is vereist om te tweaken en het herstellen van uw Android OS</string>
+    <string name="reset_tweaks_sure">Wilt u alle tweaks resetten?</string>
+
+    <!-- Ota tweaker -->
+    <string name="ota_tweaker">OTA Tweaker</string>
+    <string name="ota_tweaker_summary">Auto tweaks na OTA updates</string>
+    <string name="ota_start">Start OTA auto tweaker</string>
+    <string name="ota_init">Initialiseren…</string>
+    <string name="ota_writing">Schrijven</string>
+    <string name="ota_ready">OTA Tweaker is klaar om uw apparaat terug te tweaken</string>
+    <string name="ota_tweaker_summary_tips">OTA Tweaker zal uw apparaat terug tweaken wanneer het apparaat een OTA update ontvangt zoals nightlies of een nieuwe build. Houd in gedachten dat dit niet zal werken als u update en uw gegevens wist!\n\nOpmerking: als u uw apparaat al heeft getweaked met Android Tweaker 2, zal u dit opnieuw moeten doen om de tweaks op te slaan in OTA tweaker!</string>
 </resources>
