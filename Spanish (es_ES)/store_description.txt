@@ -1,4 +1,6 @@
-Estamos encantados de poder introduciros Android Tweaker 2, el segundo capítulo de la utilidad que tuvo un gran éxito entre la comunidad Android.
+Estamos encantados de poder introduciros Android Tweaker 2, el segundo capítulo de la utilidad que tuvo un gran éxito entre la comunidad Android. ¡Aumentar el rendimiento de tu dispositivo nunca ha sido tan fácil! ¡La aplicación tiene una sencilla y limpia interfaz y una pequeña posibilidad de activar u ocultar el contenido de usuario avanzado!
+
+Traducciones: puedes encontrar instrucciones sobre cómo traducir la app en el proyecto oficial de Github (https://github.com/iGio90/AndroidTweaker2_Translations/). Los traductores tienen el derecho de pedir una versión de la aplicación completamente desbloqueada.
 
 Mantente informado con nuestras noticias recientes y nuevos anuncios a través de nuestra web oficial: 
 http://bam-android.com
@@ -17,6 +19,7 @@ Nuevos tweaks y herramientas:
 - Hemos dado a la aplicación una interfaz más limpia y simple, y hemos conseguido aportar una gran facilidad de uso de toda la variedad de tweaks y herramientas.
 - Limpiador de cache, limpiador de Dalvik, desinstalador root y Root Zipaligner.
 - Nuevos tweaks para aumentar el rendimiento, la duración de la batería, la velocidad de red, la calidad de multimedia (fotografías, vídeos y audio), ¡y mucho más!
+- Tweaker OTA para hacer un tweak fácil a tu dispositivo en cada actualización nightly/OTA de tu Custom ROM.
 - Scripts init.d
 - Administrador de DNS.
 - Moderador de densidad (DPI).
@@ -24,6 +27,7 @@ Nuevos tweaks y herramientas:
 - Administrador de aplicaciones que te permite realizar copias de seguridad de tus datos/apk para cada aplicación, y a la vez tiene función de desinstalador root, congela y descongela aplicaciones,¡e incluye programador de copias de seguridad!
 - Instalador de Bravia Engine v3.
 - Instalador de Bootanimation.
+- Primera aplicación con OOM y tweaks de cache.
 - Launchers personalizados para cada herramienta.
 
 Addons (Tienda):
