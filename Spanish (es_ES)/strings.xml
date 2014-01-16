@@ -13,7 +13,7 @@
     <string name="checking">Comprobando dependencias…</string>
     <string name="connectionc_error">Android Tweaker necesita una conexión activa para verificar la lincencia de la aplicación. Por favor, conecta tu dispositivo y vuelve a intentarlo.</string>
     <string name="sure">¿Estás seguro?</string>
-    <string name="wait">Por favor, espera...</string>
+    <string name="wait">Por favor, espera…</string>
     <string name="updating">Actualizando dependencias</string>
     <string name="toolchain_exist">Los recursos necesarios ya están instalados. Omitiendo…</string>
     <string name="require_busybox">Esta acción requiere que busybox esté instalado en tu dispositivo. Por favor, instala busybox antes de usar esta herramienta</string>
