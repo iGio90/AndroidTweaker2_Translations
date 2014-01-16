@@ -827,9 +827,9 @@
 
     <!-- Quick flasher -->
     <string name="quick_flasher_title">Quick flasher</string>
-    <string name="quick_flasher_summary">Allows you to flash zip files. A custom recovery is required in order to flash zip files on your device!</string>
-    <string name="no_zips_in_dir">There isn\'t any zip files inside this folder</string>
-    <string name="flash_confirm">Do you want to flash</string> <!-- This will be followed by the file name. I.E: Do you want to flash: filename.zip? -->
+    <string name="quick_flasher_summary">Hiermee kunt u zip bestanden flashen. Een aangepaste recovery is nodig om zip bestanden te flashen op uw apparaat!</string>
+    <string name="no_zips_in_dir">Er is geen zip bestand in deze map</string>
+    <string name="flash_confirm">Wilt u het volgende bestand flashen</string> <!-- This will be followed by the file name. I.E: Do you want to flash: filename.zip? -->
     <string name="wipe_cache">Wipe cache</string>
-    <string name="wipe_data">Wipe data</string>
+    <string name="wipe_data">Wipe gegevens</string>
 </resources>
