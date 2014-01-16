@@ -826,10 +826,10 @@
     <string name="ota_tweaker_summary_tips">OTA Tweaker zal uw apparaat terug tweaken wanneer het apparaat een OTA update ontvangt zoals nightlies of een nieuwe build. Houd in gedachten dat dit niet zal werken als u update en uw gegevens wist!\n\nOpmerking: als u uw apparaat al heeft getweaked met Android Tweaker 2, zal u dit opnieuw moeten doen om de tweaks op te slaan in OTA tweaker!</string>
 
     <!-- Quick flasher -->
-    <string name="quick_flasher_title">Quick flasher</string>
-    <string name="quick_flasher_summary">Hiermee kunt u zip bestanden flashen. Een aangepaste recovery is nodig om zip bestanden te flashen op uw apparaat!</string>
+    <string name="quick_flasher_title">Snelle installatie methode</string>
+    <string name="quick_flasher_summary">Hiermee kunt u zip bestanden installeren. Een aangepaste recovery is nodig om zip bestanden te installeren op uw apparaat!</string>
     <string name="no_zips_in_dir">Er is geen zip bestand in deze map</string>
-    <string name="flash_confirm">Wilt u het volgende bestand flashen</string> <!-- This will be followed by the file name. I.E: Do you want to flash: filename.zip? -->
+    <string name="flash_confirm">Wilt u het volgende bestand installeren</string> <!-- This will be followed by the file name. I.E: Do you want to flash: filename.zip? -->
     <string name="wipe_cache">Wipe cache</string>
     <string name="wipe_data">Wipe gegevens</string>
 </resources>
