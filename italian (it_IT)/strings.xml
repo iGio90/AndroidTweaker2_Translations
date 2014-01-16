@@ -811,4 +811,12 @@
     <string name="ota_writing">Scrivo</string>
     <string name="ota_ready">OTA tweaker è pronto per ripristinare i tuou tweaks</string>
     <string name="ota_tweaker_summary_tips">OTA tweaker ripristinerà i tuoi tweaks se la tua custom ROM riceverà un aggiornamento OTA o nightly. Tieni presente che questo processo non funzionerà se durante l\’aggiornamento della tua ROM verrà effettuato il wipe dei dati!\n\nNota: Se hai già eseguito usato i tweaks di Android Tweaker 2 in precedenza, questi non sono ancora scritti dentro il file OTA tweaker. Si consiglia di disabilitare e riabilitare i vari tweaks per far si che essi vengano inseriti dentro il sistema di OTA!</string>
+
+    <!-- Quick flasher -->
+    <string name="quick_flasher_title">Quick flasher</string>
+    <string name="quick_flasher_summary">Allows you to flash zip files. A custom recovery is required in order to flash zip files on your device!</string>
+    <string name="no_zips_in_dir">There isn\'t any zip files inside this folder</string>
+    <string name="flash_confirm">Do you want to flash</string> <!-- This will be followed by the file name. I.E: Do you want to flash: filename.zip? -->
+    <string name="wipe_cache">Wipe cache</string>
+    <string name="wipe_data">Wipe data</string>
 </resources>

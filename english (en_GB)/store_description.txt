@@ -27,6 +27,7 @@ The new tweaks and tools:
 - App manager that allows you to backup your data/apk for each application, uninstaller, freeze/unfreeze and schedule backups!
 - Bravia Engine v3 installer
 - Bootanimation installer
+- Quick flasher to flash your zip files with your custom recovery with a single tap!
 - First app with OOM and caching tweaks
 - Custom launchers for every tools
 

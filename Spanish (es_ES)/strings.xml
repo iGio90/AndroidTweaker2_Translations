@@ -825,4 +825,12 @@
     <string name="ota_writing">Escribiendo</string>
     <string name="ota_ready">Tweaker OTA está listo para hacer tweak back a tu dispositivo</string>
     <string name="ota_tweaker_summary_tips">Tweaker OTA hará tweak back a tu dispositivo si éste recibe actualizaciones OTA como versiones Nightly o nuevas build. ¡Recuerda que esto no funcionará si durante el proceso de actualización los datos son eliminados!\n\nNota: si ya has hecho tweak a tu dispositivo con Android Tweaker 2, ¡deberías hacerle un nuevo tweak para almacenar los nuevos tweaks en el Tweaker OTA!</string>
+
+    <!-- Quick flasher -->
+    <string name="quick_flasher_title">Quick flasher</string>
+    <string name="quick_flasher_summary">Allows you to flash zip files. A custom recovery is required in order to flash zip files on your device!</string>
+    <string name="no_zips_in_dir">There isn\'t any zip files inside this folder</string>
+    <string name="flash_confirm">Do you want to flash</string> <!-- This will be followed by the file name. I.E: Do you want to flash: filename.zip? -->
+    <string name="wipe_cache">Wipe cache</string>
+    <string name="wipe_data">Wipe data</string>
 </resources>
