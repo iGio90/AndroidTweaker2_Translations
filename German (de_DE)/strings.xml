@@ -34,9 +34,9 @@
     <string name="tips_tweaks_dont_enable_all">Benutze nicht alle vorgeschlagenen Tweaks</string>
     <string name="tips_tweaks_time">Einige Tweaks benötigen Zeit zum starten. Warte deshalb immer bis die SU Nachricht verschwunden ist!</string>
     <string name="tips_not_a_game">Das ist kein Spiel. Benutze diese App mit Verstand!</string>
-    <string name="tips_zipalign">You didn\'t zipalign your app yet! Zipalign decreases the RAM usage of your apps. Tap here to begin!</string>
-    <string name="tips_screenstate">This tool allows you to use the Android Tweaker 2 smart actions. Smart actions can be enabled through preferences panel (in app), a widget or the smart notification (activable in the smart actions preference). Smart actions allows you to setup custom behaviors when your device goes in standby. If, for example, you turn on the wifi smart action, wifi will be turned off, and back on, when the standby mode is inserted/removed. Currently there are 4 smart actions available: Wifi, Bluetooth, Data and Sync. These actions, will extend the battery life of your device up to 300%!</string>
-    <string name="tips_font">This addon allows you to change your system font with one tap. Choose between the 20+ proposed font and if you don\'t like the one you installed, simply tap on the reset button to restore your original one!</string>
+    <string name="tips_zipalign">Diese App ist noch nicht zipalign! Zipalign verringert die RAM-Nutzung deiner Apps. Drücke hier um zu starten!</string>
+    <string name="tips_screenstate">Dieses Tool erlaubt es dir, die smart actions von Android Tweaker 2 zu nutzen. Smart actions können mit Hilfe des preferences panel (in app)aktiviert werden, durch ein widget oder durch die smart notification (aktivierbar in smart actions preference). Smart actions erlauben es dir benutzerdefinierte Umgebungen zu definieren, wenn dein Gerät in standby geht. Wenn du, zum Besipiel die wifi smart action aktivierst, wird wifi ausgeschaltet, und wieder eingeschaltet, wenn der standby mode eingeschaltet wird oder entferntwird. Momentan sind 4 smart actions verfügbar: Wifi, Bluetooth, Data und Sync. Diese Aktionen werden die Lebensdauer der Batterie deines Gerätes um bis zu 300% verbessern!</string>
+    <string name="tips_font">Dieses addon erlaubt es dir, die System-Schrift mit einem Tastendruck zu ändern. Wähle zwischen 20+ vorgeschlagenen Schriften. Falls du diese nicht möchtest, nutze die, die du selber installierst, einfach auf den reset Knopf drücken, um die originale Schrift wieder herzustellen!</string>
     <string name="tips_weather">Mit dieser Erweiterung kannst du eigene Wetterbenachrichtigungen per GPS oder Ortsnamen erstellen.</string>
 
     <!-- HOME -->
@@ -57,13 +57,13 @@
     <string name="initd">Init.d Scripte</string>
     <string name="initd_summary">Sammlung von init.d Scripten.</string>
     <string name="tools">Werkzeuge</string>
-    <string name="tools_summary">Collection of cleaners and utilities</string>
+    <string name="tools_summary">Sammlung Reinigern und utilities</string>
     <string name="dns_manager">DNS Manager</string>
-    <string name="dns_manager_summary">Set custom DNS or enable the ones proposed</string>
+    <string name="dns_manager_summary">Custom DNS einstellen oder die vorgeschlagene einschalten</string>
     <string name="customization">Anpassungen</string>
     <string name="customization_summary">Verändere dein Android OS</string>
     <string name="changelog">Changelog</string>
-    <string name="changelog_summary">Detailed release notes</string>
+    <string name="changelog_summary">Detaillierte release notes</string>
     <string name="no_root">Diese App benötigt Root zugriff um zu funktionieren. Tippe hier um Root zugriff zu erhalten</string>
     <string name="tweaker_store">Zusätzliche In-App Käufe</string>
     <string name="tweaker_store_summary">Kaufe weitere Artikel für Android Tweaker 2</string>
@@ -73,101 +73,101 @@
 
     <!-- TWEAKER HEADERS -->
     <string name="title_general_performance">Performance</string>
-    <string name="title_general_performance_summary">Collection of tweaks that will increase the performances on your device</string>
-    <string name="title_ui_performance">UI Performance and scrolling</string>
+    <string name="title_general_performance_summary">Sammlung von tweaks welche die Performances deines Gerätes verbessern</string>
+    <string name="title_ui_performance">UI Performance und scrolling</string>
     <string name="title_battery">Batterie</string>
-    <string name="title_battery_summary">Collection of tweaks that will extend the battery life of your device</string>
+    <string name="title_battery_summary">Sammlung von tweaks welche die Batterielebensdauer deiens Gerätes verbessern</string>
     <string name="title_media">Medien</string>
-    <string name="title_media_summary">Collection of tweaks that will tune images, videos and audio properties</string>
+    <string name="title_media_summary">Sammlung von tweaks die Bilder tunen, Videos und Audio-Eigenschaften ändern</string>
     <string name="title_audio_video_recording">Audio- und Videoaufnahmen</string>
     <string name="title_streaming">Video streaming</string>
     <string name="title_images">Bilder</string>
     <string name="title_network">Netzwerk</string>
-    <string name="title_network_summary">Collection of tweaks that will tune your network speed</string>
+    <string name="title_network_summary">Sammlung von tweaks die deine Netzwerkgeschwindigkeit verbessern</string>
     <string name="title_net_speed">Netzwerkgeschwindigkeit</string>
     <string name="title_phone">Telefon</string>
     <string name="title_signal">Signal</string>
     <string name="title_ipv4_ipv6">IPv4 und IPv6</string>
     <string name="title_gps">Standort</string>
-    <string name="title_gps_summary">Collection of tweaks that will tune your GPS and network location</string>
+    <string name="title_gps_summary">Sammlung von tweaks welche dein GPS tunen und die Netzwerk Einstellungen verbessern</string>
     <string name="title_gps_update">Server update</string>
     <string name="title_misc">Verschiedenes</string>
     <string name="title_misc_summary">Sammlung verschiedener Tweaks</string>
-    <string name="title_misc_errors">Errors and loggers</string>
+    <string name="title_misc_errors">Errors und loggers</string>
     <string name="title_dalvik">Dalvik Virtual Machine</string>
     <string name="title_additional">Zusätzlich</string>
     
     <!-- PERFORMANCE -->
     <string name="debughw_title">HW debug</string>
-    <string name="debughw_summary">Enable or disable Hardware Debug. Gives a little extra system performance</string>
+    <string name="debughw_summary">Aktivieren oder deaktivieren des Hardware Debug. Bringt ein bisschen extra system performance</string>
     <string name="syshw_title">Persist Sys UI HW</string>
-    <string name="syshw_summary">Enable or disable persistent sys UI HW. Gives a little extra system performance</string>
+    <string name="syshw_summary">Aktivieren oder deaktivieren persistent sys UI HW. Bringt ein bisschen extra system performance</string>
     <string name="debug_tuning_title">Performance tuning</string>
-    <string name="debug_tuning_summary">Enable or disable debug performance tuning. Gives a little extra system performance</string>
+    <string name="debug_tuning_summary">Aktivieren oder deaktivieren debug performance tuning. Bringt ein bisschen extra system performance</string>
     <string name="video_acceleration_title">HW video acceleration</string>
-    <string name="video_acceleration_summary">Enable or disable hardware video acceleration. Gives a little extra system performance</string>
+    <string name="video_acceleration_summary"Aktivieren oder deaktivieren hardware video acceleration. Bringt ein bisschen extra system performance</string>
     <string name="debugegl_title">EGL HW debug</string>
-    <string name="debugegl_summary">Enable or disable EGL HW debug. Gives a little extra system performance</string>
+    <string name="debugegl_summary">Aktivieren oder deaktivieren EGL HW debug. Bringt ein bisschen extra system performance</string>
     <string name="debugeglprofiler_title">EGL Profiler debug</string>
-    <string name="debugeglprofiler_summary">Enable or disable EGL Profiler debug. Gives a little extra system performance</string>
+    <string name="debugeglprofiler_summary"Aktivieren oder deaktivieren EGL Profiler debug. Bringt ein bisschen extra system performance</string>
     <string name="min_fling_title">Minimum fling velocity</string>
-    <string name="min_fling_summary">Increase or decrese min fling veocity. Gives a better scroll and smothness. We suggest to rise this to max</string>
+    <string name="min_fling_summary">Erhöhen oder verringern min fling veocity. Verbessert das scrollen und die smothness. Wir empfehlen, auf max einzustellen</string>
     <string name="max_fling_title">Maximum fling velocity</string>
-    <string name="max_fling_summary">Increase or decrese max fling veocity. Gives a better scroll and smothness. We suggest to rise this to max</string>
+    <string name="max_fling_summary">Erhöhen oder verringern max fling veocity. Verbessert das scrollen und die smothness. Wir empfehlen, auf max einzustellen</string>
     <string name="multitouch_title">Multitouch</string>
-    <string name="multitouch_summary">Enable or disable multitouch. This is not working on all devices. Gives extra system performance and decrease battery drain</string>
+    <string name="multitouch_summary">Aktivieren oder deaktivieren multitouch. Das funktioniert nicht auf allen Geräten. Bringt extra system performance und verringert battery drain</string>
     <string name="max_event_title">Max events per sec</string>
-    <string name="max_event_summary">Increase or decrease max events per second. Gives a better scroll and smothness. For low ram devices we suggest to put this to 150 or below.</string>
+    <string name="max_event_summary">Erhöhen oder verringern max events pro Sekunde. Verbessert das scrollen und die smothness. Für Geräte mit geringem RAM empfehlen wir, das auf 150 oder niedriger einzustellen.</string>
     <string name="pointer_dur_title">Pointer duration</string>
-    <string name="pointer_dur_summary">Decrease pointer duration. Gives a better scroll and smothness</string>
+    <string name="pointer_dur_summary">Verringerung pointer duration. Verbessert das scrollen und die smothness</string>
 
     <!-- BATTERY -->
     <string name="power_collapse">Power collapse</string>
-    <string name="power_collapse_summary">Change power collapse behavior. Helps to relieve pressur on CPU</string>
+    <string name="power_collapse_summary">Änderung der power collapse Umgebung. Hilft, den Druck auf die CPU zu verringern</string>
     <string name="sleep_mode">PM sleep mode</string>
-    <string name="sleep_mode_summary">Change sleep mode behavior. Helps to relieve CPU pressure during sleep</string>
+    <string name="sleep_mode_summary">Ändern sleep mode Umgebung. Hilft , den Druck auf die CPU während des Schlafes zu verringern</string>
     <string name="wifi_scan_interval">Wifi scan interval</string>
-    <string name="wifi_scan_interval_summary">Decrease wifi scan interval and saves some battery</string>
+    <string name="wifi_scan_interval_summary">Verringern des wifi scan interval und schützt die Batterie</string>
     
     <!-- NETWORK -->
-    <string name="default_net_speed">Default network speed</string>
-    <string name="default_net_speed_summary">Enable or disable this tweak to increase the default network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
-    <string name="wifi_net_speed">Wifi network speed</string>
-    <string name="wifi_net_speed_summary">Enable or disable this tweak to increase the wifi network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
-    <string name="umts_net_speed">Umts network speed</string>
-    <string name="umts_net_speed_summary">Enable or disable this tweak to increase the umts network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
-    <string name="gprs_net_speed">Gprs network speed</string>
-    <string name="gprs_net_speed_summary">Enable or disable this tweak to increase the gprs network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
-    <string name="edge_net_speed">Edge network speed</string>
-    <string name="edge_net_speed_summary">Enable or disable this tweak to increase the edge network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
+    <string name="default_net_speed">Voreinstellung Netzwerkgeschwindigkeit</string>
+    <string name="default_net_speed_summary">Aktivieren oder deakitvieren dieses tweaks um die voreingestellte Netzwerkgeschwindigkeit zu verbessern. Beachte: Wenn du siehst, das dieser tweak schon aktiviert ist, bedeutet das, das du das nicht benötigst</string>
+    <string name="wifi_net_speed">Wifi Netzwerkgeschwindigkeit</string>
+    <string name="wifi_net_speed_summary"Aktivieren oder deakitvieren dieses tweaks um die wifi Netzwerkgeschwindigkeit zu verbessern. Beachte: Wenn du siehst, das dieser tweak schon aktiviert ist, bedeutet das, das du das nicht benötigst</string>
+    <string name="umts_net_speed">Umts Netzwerkgeschwindigkeit</string>
+    <string name="umts_net_speed_summary">Aktivieren oder deakitvieren dieses tweaks um die umts Netzwerkgeschwindigkeit zu verbessern. Beachte: Wenn du siehst, das dieser tweak schon aktiviert ist, bedeutet das, das du das nicht benötigst</string>
+    <string name="gprs_net_speed">Gprs Netzwerkgeschwindigkeit</string>
+    <string name="gprs_net_speed_summary">Aktivieren oder deakitvieren dieses tweaks um die gprs Netzwerkgeschwindigkeit zu verbessern. Beachte: Wenn du siehst, das dieser tweak schon aktiviert ist, bedeutet das, das du das nicht benötigst</string>
+    <string name="edge_net_speed">Edge Netzwerkgeschwindigkeit</string>
+    <string name="edge_net_speed_summary">Aktivieren oder deakitvieren dieses tweaks um die edge Netzwerkgeschwindigkeit zu verbessern. Beachte: Wenn du siehst, das dieser tweak schon aktiviert ist, bedeutet das, das du das nicht benötigst</string>
     <string name="ipv4">IPv4</string>
-    <string name="ipv4_summary">Extends support for IPv4 protocol</string>
+    <string name="ipv4_summary">Erweitert den Support für IPv4 Protkcoll</string>
     <string name="ipv6">IPv6</string>
-    <string name="ipv6_summary">Extends support for IPv6 protocol</string>
+    <string name="ipv6_summary">Erweitert den Support für IPv6 Protkcoll</string>
     <string name="cust_tel">Cust telephony</string>
-    <string name="cust_tel_summary">Enable or disable this tweak to increase a bit your signal reception</string>
+    <string name="cust_tel_summary">Aktivieren oder deakitvieren diesen tweaks um den Signal Empfang ein wenig zu verbessern</string>
     <string name="fast_dormancy">Fast dormancy</string>
-    <string name="fast_dormancy_summary">Enable or disable this tweak to increase a bit your signal reception</string>
+    <string name="fast_dormancy_summary">Aktivieren oder deakitvieren diesen tweaks um den Signal Empfang ein wenig zu verbessern</string>
 
     <!-- MEDIA -->
     <string name="jpeg_quality">JPEG Qualität</string>
-    <string name="jpeg_quality_summary">Increase or decrease overall JPEG quality</string>
+    <string name="jpeg_quality_summary">Erhöhung oder Verringerung der gesamten JPEG Qualität</string>
     <string name="dec_jpeg">JPEG decoder memcap</string>
-    <string name="dec_jpeg_summary">Increase or decrease JPEG decoder memcap. Gives a little extra JPEG quality</string>
+    <string name="dec_jpeg_summary">Erhöhung oder Verringerung der JPEG decoder memcap. Bringt ein bisschen extra JPEG Qualität</string>
     <string name="enc_hprof_bps">Encode video bps</string>
-    <string name="enc_hprof_bps_summary">Increase or decrease hprof video BPS. Gives a better video recording quality</string>
+    <string name="enc_hprof_bps_summary">Erhöhung oder Verringerung der hprof video BPS. Bringt eine bessere video recording Qualität</string>
     <string name="enc_hprof_fps">Encode video fps</string>
-    <string name="enc_hprof_fps_summary">Increase or decrease hprof video FPS. Gives a better video recording quality</string>
+    <string name="enc_hprof_fps_summary">Erhöhung oder Verringerung der hprof video FPS. Bringt eine bessere video recording Qualität</string>
     <string name="panorama_defres">Panorama defres (HD)</string>
-    <string name="panorama_defres_summary">Enable or disable panorama defres. Rise to the maximum panorama defres resolution</string>
+    <string name="panorama_defres_summary">Aktivieren oder deakitvieren der panorama defres. Auf Maximum panorama defres resolution einstellen</string>
     <string name="panorama_frameres">Panorama frame res (HD)</string>
-    <string name="panorama_frameres_summary">Enable or disable panorama frameres. Rise to the maximum panorama frame resolution</string>
+    <string name="panorama_frameres_summary">Ein- oder Ausschalten der panorama frameres. Auf Maximum panorama frame resolution einstellen</string>
     <string name="camcorder_video">Camcorder video mode</string>
-    <string name="camcorder_video_summary">Enable or disable camcorder video mode. Gives a better video recording quality</string>
-    <string name="media_streaming">Media streaming speed</string>
-    <string name="media_streaming_summary">Improve media streaming speed with some net/video tweaks</string>
-    <string name="overall_image_quality">Increase overall image quality</string>
-    <string name="overall_image_quality_summary">Collection of image quality tweaks. Gives a little extra images and videos quality at cost of less performances</string>
+    <string name="camcorder_video_summary">Ein- oder Ausschalten des camcorder video mode. Verbessert die video recording Qualität</string>
+    <string name="media_streaming">Media streaming Geschwindigkeit</string>
+    <string name="media_streaming_summary">Verbessert die media streaming Geschwindigkeit mit einigen net/video tweaks</string>
+    <string name="overall_image_quality">Verbesserung der gesamten Bildqualität</string>
+    <string name="overall_image_quality_summary">Sammlung von Bildqualität tweaks. Bringt ein bisschen extra Bild und video Qualität auf Kosten einer verringerten performance</string>
 
     <!-- MISC -->
     <string name="error_report">Disable error report</string>
@@ -180,7 +180,7 @@
     <string name="kernel_error_summary">Disable Kernel error reporting. Saves some battery and increase general performances</string>
     <string name="usage_data">Disable sending of usage data</string>
     <string name="usage_data_summary">Disable sending of usage data. Saves some battery and increase general performances</string>
-    <string name="phone_ring">Telefon Klingel verzögerung</string>
+    <string name="phone_ring">Telefon Klingel Verzögerung</string>
     <string name="phone_ring_summary">Increase or decrease the phone ring delay</string>
     <string name="blackscreen">Schwarzen Bildschirm nach Anrufen</string>
     <string name="blackscreen_summary">Fix blackscreen after calls issues</string>
