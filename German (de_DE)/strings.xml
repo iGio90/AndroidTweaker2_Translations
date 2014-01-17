@@ -105,11 +105,11 @@
     <string name="debug_tuning_title">Performance tuning</string>
     <string name="debug_tuning_summary">Aktivieren oder deaktivieren debug performance tuning. Bringt ein bisschen extra system performance</string>
     <string name="video_acceleration_title">HW video acceleration</string>
-    <string name="video_acceleration_summary"Aktivieren oder deaktivieren hardware video acceleration. Bringt ein bisschen extra system performance</string>
+    <string name="video_acceleration_summary">Aktivieren oder deaktivieren hardware video acceleration. Bringt ein bisschen extra system performance</string>
     <string name="debugegl_title">EGL HW debug</string>
     <string name="debugegl_summary">Aktivieren oder deaktivieren EGL HW debug. Bringt ein bisschen extra system performance</string>
     <string name="debugeglprofiler_title">EGL Profiler debug</string>
-    <string name="debugeglprofiler_summary"Aktivieren oder deaktivieren EGL Profiler debug. Bringt ein bisschen extra system performance</string>
+    <string name="debugeglprofiler_summary">Aktivieren oder deaktivieren EGL Profiler debug. Bringt ein bisschen extra system performance</string>
     <string name="min_fling_title">Minimum fling velocity</string>
     <string name="min_fling_summary">Erhöhen oder verringern min fling veocity. Verbessert das scrollen und die smothness. Wir empfehlen, auf max einzustellen</string>
     <string name="max_fling_title">Maximum fling velocity</string>
@@ -133,7 +133,7 @@
     <string name="default_net_speed">Voreinstellung Netzwerkgeschwindigkeit</string>
     <string name="default_net_speed_summary">Aktivieren oder deakitvieren dieses tweaks um die voreingestellte Netzwerkgeschwindigkeit zu verbessern. Beachte: Wenn du siehst, das dieser tweak schon aktiviert ist, bedeutet das, das du das nicht benötigst</string>
     <string name="wifi_net_speed">Wifi Netzwerkgeschwindigkeit</string>
-    <string name="wifi_net_speed_summary"Aktivieren oder deakitvieren dieses tweaks um die wifi Netzwerkgeschwindigkeit zu verbessern. Beachte: Wenn du siehst, das dieser tweak schon aktiviert ist, bedeutet das, das du das nicht benötigst</string>
+    <string name="wifi_net_speed_summary">Aktivieren oder deakitvieren dieses tweaks um die wifi Netzwerkgeschwindigkeit zu verbessern. Beachte: Wenn du siehst, das dieser tweak schon aktiviert ist, bedeutet das, das du das nicht benötigst</string>
     <string name="umts_net_speed">Umts Netzwerkgeschwindigkeit</string>
     <string name="umts_net_speed_summary">Aktivieren oder deakitvieren dieses tweaks um die umts Netzwerkgeschwindigkeit zu verbessern. Beachte: Wenn du siehst, das dieser tweak schon aktiviert ist, bedeutet das, das du das nicht benötigst</string>
     <string name="gprs_net_speed">Gprs Netzwerkgeschwindigkeit</string>
