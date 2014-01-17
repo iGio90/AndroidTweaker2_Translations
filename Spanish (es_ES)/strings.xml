@@ -828,9 +828,9 @@
 
     <!-- Quick flasher -->
     <string name="quick_flasher_title">Quick flasher</string>
-    <string name="quick_flasher_summary">Allows you to flash zip files. A custom recovery is required in order to flash zip files on your device!</string>
-    <string name="no_zips_in_dir">There isn\'t any zip files inside this folder</string>
-    <string name="flash_confirm">Do you want to flash</string> <!-- This will be followed by the file name. I.E: Do you want to flash: filename.zip? -->
+    <string name="quick_flasher_summary">Te permite flashear archivos zip. ¡Se requiere tener un custom recovery para flashear archivos zip en tu dispositivo!</string>
+    <string name="no_zips_in_dir">No hay ningún archivo zip en esta carpeta</string>
+    <string name="flash_confirm">¿Quieres flashear</string> <!-- This will be followed by the file name. I.E: Do you want to flash: filename.zip? -->
     <string name="wipe_cache">Wipe cache</string>
     <string name="wipe_data">Wipe data</string>
 </resources>
