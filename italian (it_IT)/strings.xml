@@ -721,7 +721,7 @@
     <string name="slim">Slim ROMs</string>
 
     <!-- The chamber of secrets -->
-    <string name="chamber_title">La camera dei segreuti</string>
+    <string name="chamber_title">La camera dei segreti</string>
     <string name="chamber_main_message">Crea una password che ti consentirà di aprire la camera. La password verrà salvata sul tuo telefono e criptata con AES e SALT. Non dimenticarla!</string>
     <string name="create_master_password">Crea la master password</string>
     <string name="password">Password</string>
@@ -814,9 +814,9 @@
 
     <!-- Quick flasher -->
     <string name="quick_flasher_title">Quick flasher</string>
-    <string name="quick_flasher_summary">Allows you to flash zip files. A custom recovery is required in order to flash zip files on your device!</string>
-    <string name="no_zips_in_dir">There isn\'t any zip files inside this folder</string>
-    <string name="flash_confirm">Do you want to flash</string> <!-- This will be followed by the file name. I.E: Do you want to flash: filename.zip? -->
+    <string name="quick_flasher_summary">Ti permette di flasshare velocemente i file zip. Una recovery customizzata è necessaria per poter procedere ai vari flash!</string>
+    <string name="no_zips_in_dir">Non c\’è nessun file zip in questa directory</string>
+    <string name="flash_confirm">Vuoi flasshare</string> <!-- This will be followed by the file name. I.E: Do you want to flash: filename.zip? -->
     <string name="wipe_cache">Wipe cache</string>
     <string name="wipe_data">Wipe data</string>
 </resources>
