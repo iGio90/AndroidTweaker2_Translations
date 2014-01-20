@@ -16,11 +16,11 @@
     <string name="sure">Sind Sie sicher?</string>
     <string name="wait">Bitte warten…</string>
     <string name="updating">Aktualisierungen</string>
-    <string name="toolchain_exist">Benötige Resourcen sind bereits installiert. Überspringe...</string>
+    <string name="toolchain_exist">Benötigte Resourcen sind bereits installiert. Überspringe...</string>
     <string name="require_busybox">Um dies ausführen zu können, musst du Busybox installiert haben. Bitte installiere Busybox bevor du dieses Tool benutzt.</string>
-    <string name="require_sql">This action require SQL toolchain. If you are seeing this error it means your ROM doesn\'t support the SQL defragging tool.</string>
+    <string name="require_sql">Dafür brauchst du die SQL Toolchain. Wenn du diesen Hinweis siehst heist das dass deine ROM das SQL Defragging Tool nicht Unterstützt.</string>
     <string name="size">Größe:</string>
-    <string name="rate_explanation">Gib uns deine Meinung und helfe uns den Inhalt dieser Anwendung zu optimiere</string>
+    <string name="rate_explanation">Teile uns deine Meinungmit und helfe uns den Inhalt dieser Anwendung zu optimieren.</string>
     <string name="rate_now">Jetzt bewerten</string>
     <string name="understand">Zustimmen?</string>
 
@@ -170,16 +170,16 @@
     <string name="overall_image_quality_summary">Sammlung von Bildqualität tweaks. Bringt ein bisschen extra Bild und video Qualität auf Kosten einer verringerten performance</string>
 
     <!-- MISC -->
-    <string name="error_report">Disable error report</string>
-    <string name="error_report_summary">Disable error reporting. Saves some battery and increase general performances</string>
+    <string name="error_report">Schaltet die Fehlerberichte aus.</string>
+    <string name="error_report_summary">Schaltet die Fehlerberichte aus. Spart Akku und verbessert allgemeine Performance.</string>
     <string name="ulog">Disable uLog</string>
-    <string name="ulog_summary">Disable uLog error reporting. Saves some battery and increase general performances</string>
+    <string name="ulog_summary">Schaltet die uLog Fehlerberichte aus. Spart Akku und verbessert allgemeine Performance.</string>
     <string name="logcat">Disable LogCat</string>
-    <string name="logcat_summary">Disable LogCat error reporting. Saves some battery and increase general performances</string>
+    <string name="logcat_summary">Schaltet die LogCat Fehlerberichte aus. Spart Akku und verbessert allgemeine Performance.</string>
     <string name="kernel_error">Disable kernel errors</string>
-    <string name="kernel_error_summary">Disable Kernel error reporting. Saves some battery and increase general performances</string>
+    <string name="kernel_error_summary">Schaltet die Kernel Fehlerberichte aus. Spart Akku und verbessert allgemeine Performance.</string>
     <string name="usage_data">Disable sending of usage data</string>
-    <string name="usage_data_summary">Disable sending of usage data. Saves some battery and increase general performances</string>
+    <string name="usage_data_summary">Schaltet das Senden von Nutzerdaten aus. Spart Akku und verbessert allgemeine Performance.</string>
     <string name="phone_ring">Telefon Klingel Verzögerung</string>
     <string name="phone_ring_summary">Increase or decrease the phone ring delay</string>
     <string name="blackscreen">Schwarzen Bildschirm nach Anrufen</string>
@@ -200,12 +200,12 @@
     <!-- GPS -->
     <string name="disable_network_location">Netzwerkstandort</string>
     <string name="disable_network_location_summary">Schalte Netzwerkstandort ab</string>
-    <string name="gps_update_server_last_date">Last update:</string>
-    <string name="gps_update_server">GPS servers update</string>
+    <string name="gps_update_server_last_date">Letztes update:</string>
+    <string name="gps_update_server">GPS server update</string>
     <string name="gps_update_server_last_server">Today active servers:</string>
-    <string name="gps_update_updating">Updating…</string>
-    <string name="gps_update_choose_continent">Continent</string>
-    <string name="gps_update_choose_state">Country code</string>
+    <string name="gps_update_updating">Aktualisieren…</string>
+    <string name="gps_update_choose_continent">Kontinent</string>
+    <string name="gps_update_choose_state">Ländercode</string>
     <string name="gps_update_dialog_title">Setup the servers</string>
     <string name="reset_gps_config">Restore original config</string>
     <string name="original_config_not_found">Original config file not found!</string>
