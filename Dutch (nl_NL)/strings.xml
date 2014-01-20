@@ -10,21 +10,21 @@
     <string name="cancel">Annuleren</string>
     <string name="warning">Waarschuwing</string>
     <string name="error">Fout</string>
-    <string name="checking">Afhankelijkheden controleren...</string>
+    <string name="checking">Afhankelijkheden controleren…</string>
     <string name="connectionc_error">Android Tweaker vereist een actieve internet verbinding om de app licentie te verifieren. Verbind uw apparaat en probeer het opnieuw.</string>
     <string name="sure">Weet u het zeker?</string>
-    <string name="wait">Wacht astublieft...</string>
+    <string name="wait">Wacht astublieft…</string>
     <string name="updating">Afhankelijkheden updaten</string>
-    <string name="toolchain_exist">Benodigde middelen al geïnstalleerd. Overslaan...</string>
+    <string name="toolchain_exist">Benodigde middelen al geïnstalleerd. Overslaan…</string>
     <string name="require_busybox">Deze actie vereist busybox geïnstalleerd op uw apparaat. Installeer busybox voordat u deze tool gebruikt</string>
     <string name="require_sql">Deze actie vereist SQL toolchain. Als u deze melding ziet betekent het dat uw ROM niet compitabel is met de SQL defragging tool.</string>
     <string name="size">Grootte:</string>
     <string name="rate_explanation">Geef uw mening en help ons de gevarieerde inhoud te verbeteren</string>
     <string name="rate_now">Beoordeel nu</string>
     <string name="understand">Ik begrijp het</string>
-    <string name="share_at">Ik pas mijn apparaat aan met Android Tweaker 2... Download het gratis van Google Play!\n\n</string>
+    <string name="share_at">Ik pas mijn apparaat aan met Android Tweaker 2… Download het gratis van Google Play!\n\n</string>
     <string name="share_with">Delen via</string>
-    <string name="draw">Teken iets...</string>
+    <string name="draw">Teken iets…</string>
     <string name="no_root_activity">Deze tool vereist een geroot apparaat. Root uw apparaat om deze functie te activeren</string>
     <string name="info">Informatie</string>
     <string name="not_available_title">Niet beschikbaar</string>
@@ -452,7 +452,7 @@
     <string name="density_modder">Dichtheid modder</string>
     <string name="density_modder_summary">Pas de dichtheid (DPI) van uw scherm aan!</string>
     <string name="nav_bar">Navigatie bar</string>
-    <string name="nav_bar_summary">Navigatie bar inschakelen op apparaat die dit niet standaard heeft ingeschakeld. Dit werkt niet op elk apparaat... Eenmaal geactiveerd, niet vergeten op de opslaan knop te klikken</string>
+    <string name="nav_bar_summary">Navigatie bar inschakelen op apparaat die dit niet standaard heeft ingeschakeld. Dit werkt niet op elk apparaat… Eenmaal geactiveerd, niet vergeten op de opslaan knop te klikken</string>
     <string name="current_density">Huidige dichtheid:</string>
     <string name="is_tablet">U kunt u navigatie bar niet verwijderen van uw apparaat!</string>
 
@@ -480,7 +480,7 @@
     <string name="save_success">Gebaar opgeslagen in %s</string>
     <string name="rename_action">Oké</string>
     <string name="cancel_action">Cancel</string>
-    <string name="gestures_loading">Gebaren laden...</string>
+    <string name="gestures_loading">Gebaren laden…</string>
     <string name="gestures_empty">Geen gebaren</string>
     <string name="gestures_activity">Gebaren</string>
     <string name="gestures_rename">Hernoemen</string>

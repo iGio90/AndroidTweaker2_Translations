@@ -11,12 +11,12 @@
     <string name="cancel">Abbrechen</string>
     <string name="warning">Warnung</string>
     <string name="error">Fehler</string>
-    <string name="checking">Überprüfung läuft...</string>
+    <string name="checking">Überprüfung läuft…</string>
     <string name="connectionc_error">Android Tweaker braucht eine aktive Verbindung um die App-Lizenz zu verifizieren. Bitte verbinden Sie sich mit einem Datendienst und versuchen es noch einmal.</string>
     <string name="sure">Sind Sie sicher?</string>
     <string name="wait">Bitte warten…</string>
     <string name="updating">Aktualisierungen</string>
-    <string name="toolchain_exist">Benötigte Resourcen sind bereits installiert. Überspringe...</string>
+    <string name="toolchain_exist">Benötigte resourcen sind bereits installiert. Überspringe…</string>
     <string name="require_busybox">Um dies ausführen zu können, musst du Busybox installiert haben. Bitte installiere Busybox bevor du dieses Tool benutzt.</string>
     <string name="require_sql">Dafür brauchst du die SQL Toolchain. Wenn du diesen Hinweis siehst heist das dass deine ROM das SQL Defragging Tool nicht Unterstützt.</string>
     <string name="size">Größe:</string>
