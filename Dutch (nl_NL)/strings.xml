@@ -717,15 +717,15 @@
     <string name="expose_start">Start</string>
 
     <!-- Bootanimation -->
-    <string name="bootanimation">Bootanimatie</string>
-    <string name="bootanimation_summary">Download en installeer een aangepaste bootanimatie</string>
-    <string name="bootanimation_not_found">Ik kan geen bootanimatie vinden met de breedte van uw scherm. Probeer een ander!</string>
-    <string name="bootanimation_reboot">Herstart uw apparaat en geniet van de nieuwe bootanimatie!</string>
-    <string name="custom_bootanimation">Installeer een aangepaste bootanimatie</string>
-    <string name="custom_bootanimation_summary">Plaats de bootanimatie.zip bestand in de map:</string>
-    <string name="custom_bootanimation_install">Tik hier om uw aangepaste bootanimatie te installeren</string>
-    <string name="restore_bootanimation">Wilt u uw originele bootanimatie herstellen?</string>
-    <string name="backup_bootanimation">Backup maken van huidige bootanimatie, om te herstellen in de toekomst</string>
+    <string name="bootanimation">Opstart animatie</string>
+    <string name="bootanimation_summary">Download en installeer een aangepaste opstart animatie</string>
+    <string name="bootanimation_not_found">Ik kan geen opstart animatie vinden met de breedte van uw scherm. Probeer een ander!</string>
+    <string name="bootanimation_reboot">Herstart uw apparaat en geniet van de nieuwe opstart animatie!</string>
+    <string name="custom_bootanimation">Installeer een aangepaste opstart animatie</string>
+    <string name="custom_bootanimation_summary">Plaats de opstartanimatie.zip bestand in de map:</string>
+    <string name="custom_bootanimation_install">Tik hier om uw aangepaste opstart animatie te installeren</string>
+    <string name="restore_bootanimation">Wilt u uw originele opstart animatie herstellen?</string>
+    <string name="backup_bootanimation">Backup maken van huidige opstart animatie, om te herstellen in de toekomst</string>
     <string name="bam_roms_title">BAM</string>
     <string name="cyanogenmod">CyanogenMod</string>
     <string name="aokp">AOKP</string>
