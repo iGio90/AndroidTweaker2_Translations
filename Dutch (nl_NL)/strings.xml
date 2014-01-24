@@ -90,9 +90,9 @@
     <string name="busybox_check">Busybox status: </string>
     <string name="mount_check">Mount status: </string>
     <string name="android_version">Android versie: </string>
-    <string name="device_brand">Brand: </string>
+    <string name="device_brand">Merk: </string>
     <string name="device_model">Model: </string>
-    <string name="device_board">Board: </string>
+    <string name="device_board">Boord: </string>
     <string name="device_bootloard">Bootloader: </string>
     <string name="device_hardware">Hardware: </string>
     <string name="android_tweaker">Systeem Tweaker</string>
