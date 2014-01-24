@@ -520,8 +520,8 @@
     <string name="search">Zoeken</string>
     <string name="searchHint">Zoek voor applicaties</string>
     <string name="deleteBackup">Verwijder backup</string>
-    <string name="uninstall">Deinstalleer</string>
-    <string name="uninstallProgress">Deinstalleren</string>
+    <string name="uninstall">Deïnstalleer</string>
+    <string name="uninstallProgress">Deïnstalleren</string>
     <string name="showAll">Toon alle applicaties</string>
     <string name="showOnlySystem">Toon alleen system applicaties</string>
     <string name="showOnlyUser">Toon alleen gebruikers applicaties</string>
@@ -740,9 +740,9 @@
     <string name="password">Wachtwoord</string>
     <string name="password_hint">Wachtwoord (min 6 tekens)</string>
     <string name="repeat_password">Herhaal wachtwoord</string>
-    <string name="chamber_uninstall_warning">Belangrijk: Als u Android Tweaker 2 deinstalleerd of alle data verwijderd, dan zullen alle bestanden in de kamer worden verwijderd! U kunt Android Tweaker 2 applicatie beheer gebruiken om een backup te maken en de applicatie gegevens te herstellen, dit zal ook werken voor kamer bestanden!</string>
+    <string name="chamber_uninstall_warning">Belangrijk: Als u Android Tweaker 2 deïnstalleerd of alle data verwijderd, dan zullen alle bestanden in de kamer worden verwijderd! U kunt Android Tweaker 2 applicatie beheer gebruiken om een backup te maken en de applicatie gegevens te herstellen, dit zal ook werken voor kamer bestanden!</string>
     <string name="email">E-Mail</string>
-    <string name="password_mismatch">Zorg ervoor dat u hetzelfde wachtwoord in beide velden invoert</string>
+    <string name="password_mismatch">Zorg ervoor dat u hetzelfde wachtwoord in beide velden invult</string>
     <string name="password_empty">Wachtwoord veld kan niet leeg zijn!</string>
     <string name="chamber_pass_lenght">Wachtwoord moet minimaal 6 tekens bevatten!</string>
     <string name="password_created">Hoofdwachtwoord aangemaakt</string>
@@ -758,10 +758,10 @@
     <string name="chamber_docs">Documenten en algemene bestanden</string>
     <string name="chamber_edit_password">Wachtwoord wijzigen</string>
     <string name="remove_from_chamber">Verwijder uit kamer</string>
-    <string name="chamber_has_opened">De kamer is geopent</string>
-    <string name="tap_to_close_chamber">Klik hier om het te sluiten</string>
+    <string name="chamber_has_opened">De kamer is geopend</string>
+    <string name="tap_to_close_chamber">Klik hier om de geheime kamer te sluiten</string>
     <string name="put_note_chamber">Maak een geheime notitie</string>
-    <string name="put_note_chamber_summary">Alle gemaakte notities zijn versleuteld en opgeslagen in de applicatie! Niemand anders dan u heeft er toegang tot</string>
+    <string name="put_note_chamber_summary">Alle gemaakte notities zijn versleuteld en opgeslagen in de applicatie! Niemand anders dan u heeft toegang tot deze notities</string>
     <string name="chamber_note_title">Notitie titel</string>
     <string name="chamber_note_content">Notitie inhoud</string>
     <string name="chamber_select_note_type">Kies notitie type</string>
