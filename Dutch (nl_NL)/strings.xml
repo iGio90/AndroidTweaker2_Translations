@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name" translatable="false">Android Tweaker 2</string>
     <string name="reboot">Herstart uw apparaat om aanpassingen toe te passen</string>
-    <string name="apply">Wijzigingen toepassen</string>
+    <string name="apply">Toepassen</string>
     <string name="exit">Druk nog een keer op TERUG om af te sluiten</string>
     <string name="yes">Ja</string>
     <string name="no">Nee</string>
@@ -11,9 +11,9 @@
     <string name="warning">Waarschuwing</string>
     <string name="error">Fout</string>
     <string name="checking">Afhankelijkheden controleren…</string>
-    <string name="connectionc_error">Android Tweaker vereist een actieve internet verbinding om de app licentie te verifieren. Verbind uw apparaat en probeer het opnieuw.</string>
+    <string name="connectionc_error">Android Tweaker vereist een actieve internet verbinding om de applicatie licentie te verifieren. Verbind uw apparaat en probeer het opnieuw.</string>
     <string name="sure">Weet u het zeker?</string>
-    <string name="wait">Wacht astublieft…</string>
+    <string name="wait">Wacht alstublieft…</string>
     <string name="updating">Afhankelijkheden updaten</string>
     <string name="toolchain_exist">Benodigde middelen al geïnstalleerd. Overslaan…</string>
     <string name="require_busybox">Deze actie vereist busybox geïnstalleerd op uw apparaat. Installeer busybox voordat u deze tool gebruikt</string>
@@ -99,7 +99,7 @@
     <string name="android_tweaker_summary">Collectie van tweaks voor systeem instellingen</string>
     <string name="initd">Init.d Scripts</string>
     <string name="initd_summary">Collectie van init.d scripts</string>
-    <string name="appmanager">App beheer</string>
+    <string name="appmanager">Applicatie beheer</string>
     <string name="appmanager_summary">Applicatie gegevens backup, verwijderen en aanzetten</string>
     <string name="tools">Tools</string>
     <string name="tools_summary">Collectie van schoonmakers en nutsbedrijven</string>
@@ -109,7 +109,7 @@
     <string name="customization_summary">Pas uw Android OS aan</string>
     <string name="changelog">Wijzigingsoverzicht</string>
     <string name="changelog_summary">Gedetailleerde wijzigingsoverzicht</string>
-    <string name="no_root">Deze app vereist root toegang om te werken. Klik hier om root toegang te verkrijgen</string>
+    <string name="no_root">Deze applicatie vereist root toegang om te werken. Klik hier om root toegang te verkrijgen</string>
     <string name="tweaker_store">Winkel</string>
     <string name="tweaker_store_summary">Koop extra items voor Android Tweaker 2</string>
 
@@ -271,10 +271,10 @@
 
     <!-- TOOLS -->
     <string name="zipaling" translatable="false">Zipalign</string>
-    <string name="zipaling_summary">Optimaliseer uw geïnstalleerde en systeem apps</string>
-    <string name="zipalign_all">Zipalign alle apps</string>
+    <string name="zipaling_summary">Optimaliseer uw geïnstalleerde en systeem applicaties</string>
+    <string name="zipalign_all">Zipalign alle applicaties</string>
     <string name="zipaligning">Zipalignen:\n\n</string>
-    <string name="already_aligned">Deze app is al gezipaligned!</string>
+    <string name="already_aligned">Deze applicatie is al gezipaligned!</string>
     <string name="sql_defrag">SQL defrag</string>
     <string name="sql_defrag_summary">Versnel en optimaliseer uw SQL databases</string>
     <string name="sql_defrag_init">Defragmenteer alle SQL databases</string>
@@ -343,10 +343,10 @@
     <string name="unity_bars">Eenheid balk</string>
     <string name="unity_bars_summary">Eenheid toevoegen zoals launcher balk</string>
     <string name="font_manager" translatable="false">Font manager</string>
-    <string name="font_manager_summary">Installeer aangepaste lettertype op uw apparaat</string>
+    <string name="font_manager_summary">Installeer een aangepaste lettertype op uw apparaat</string>
     <string name="backup_font">Backup uw huidige lettertype om te herstellen in de toekomst</string>
     <string name="installing_font">Lettertype installeren…</string>
-    <string name="install_font">Wilt u dit installeren?</string>
+    <string name="install_font">Installeer</string>
     <string name="reset_font">Stel originele Roboto lettertype in?</string>
     <string name="bravia_engine">Bravia engine v3</string>
     <string name="bravia_engine_summary">De Mobiele BRAVIA ® Engine is een set van Sony-specifieke algoritmen voor beeldverwerking die worden toegepast op het rendering proces bij het opstellen van een afbeelding of video op het scherm van uw smartphone</string>
@@ -449,11 +449,11 @@
     </string-array>
 
     <!-- Density modder -->
-    <string name="density_modder">Dichtheid modder</string>
+    <string name="density_modder">Dichtheid aanpassen</string>
     <string name="density_modder_summary">Pas de dichtheid (DPI) van uw scherm aan!</string>
     <string name="nav_bar">Navigatie bar</string>
     <string name="nav_bar_summary">Navigatie bar inschakelen op apparaat die dit niet standaard heeft ingeschakeld. Dit werkt niet op elk apparaat… Eenmaal geactiveerd, niet vergeten op de opslaan knop te klikken</string>
-    <string name="current_density">Huidige dichtheid:</string>
+    <string name="current_density">Huidige DPI:</string>
     <string name="is_tablet">U kunt u navigatie bar niet verwijderen van uw apparaat!</string>
 
     <!-- Custom gestures -->
@@ -496,10 +496,10 @@
     <string name="gestures_inverted_icon">Omgekeerde pictogram</string>
     
         <!-- App Manager -->
-    <string name="all_apps">Alle apps</string>
-    <string name="user_apps">Gebruiker apps</string>
-    <string name="system_apps">Systeem apps</string>
-    <string name="new_updated_apps">Nieuwe en geupdate apps</string>
+    <string name="all_apps">Alle applicaties</string>
+    <string name="user_apps">Gebruiker applicaties</string>
+    <string name="system_apps">Systeem applicaties</string>
+    <string name="new_updated_apps">Nieuwe en geupdate applicaties</string>
     <string name="custom_list">Aangepaste lijst</string>
     <string name="backup">Backup</string>
     <string name="restore">Herstellen</string>
@@ -518,23 +518,23 @@
     <string name="batchbackup">Batch backup</string>
     <string name="batchrestore">Batch herstellen</string>
     <string name="search">Zoeken</string>
-    <string name="searchHint">Zoek voor apps</string>
+    <string name="searchHint">Zoek voor applicaties</string>
     <string name="deleteBackup">Verwijder backup</string>
     <string name="uninstall">Deinstalleer</string>
     <string name="uninstallProgress">Deinstalleren</string>
-    <string name="showAll">Toon alle apps</string>
-    <string name="showOnlySystem">Toon alleen system apps</string>
-    <string name="showOnlyUser">Toon alleen gebruikers apps</string>
-    <string name="showNotBackedup">Toon apps die nog niet een backup hebben</string>
-    <string name="showNotInstalled">Toon niet geïnstalleerde apps</string>
-    <string name="showNewAndUpdated">Toon nieuwe en geupdate apps</string>
+    <string name="showAll">Toon alle applicaties</string>
+    <string name="showOnlySystem">Toon alleen system applicaties</string>
+    <string name="showOnlyUser">Toon alleen gebruikers applicaties</string>
+    <string name="showNotBackedup">Toon applicaties die nog niet een backup hebben</string>
+    <string name="showNotInstalled">Toon niet geïnstalleerde applicaties</string>
+    <string name="showNewAndUpdated">Toon nieuwe en geupdate applicaties</string>
     <string name="showOldBackups">Toon oude backups</string>
-    <string name="showOnlyApkBackedUp">Toon apps met alleen een apk backup</string>
-    <string name="showOnlyDataBackedUp">Toon apps met alleen een gegevens backup</string>
+    <string name="showOnlyApkBackedUp">Toon applicatie met alleen een apk backup</string>
+    <string name="showOnlyDataBackedUp">Toon applicatie met alleen een gegevens backup</string>
     <string name="sortByLabel">Sorteren op label</string>
     <string name="sortByPackageName">Sorteer op pakketnaam</string>
     <string name="sort">Sorteren en filters</string>
-    <string name="uninstallDialogMessage">Wilt u deze app verwijderen?</string>
+    <string name="uninstallDialogMessage">Wilt u deze applicatie verwijderen?</string>
     <string name="deleteBackupDialogMessage">Verwijder backup bestanden?</string>
     <string name="noBackupYet">Nog geen backup</string>
     <string name="restoreDataWithoutApkError">Kan gegevens niet herstellen zonder herstellen van apk, pakket is niet geïnstalleerd: </string>
@@ -558,7 +558,7 @@
     <string name="customListTitle">Aangepaste lijst</string>
     <string name="quickReboot">Snelle herstart</string>
     <string name="quickRebootMessage">Wilt u gebruiker ruimte herstarten?</string>
-    <string name="tools_title">tools</string>
+    <string name="tools_title">Tools</string>
     <string name="tools_batchDeleteTitle">Backups verwijderen?</string>
     <string name="tools_batchDeleteMessage">Backups verwijderen</string>
     <string name="enablePackageTitle">Aanzetten voor gebruikers</string>
@@ -592,7 +592,7 @@
 
     <!-- Data backup -->
     <string name="data_backup">Gegevens backup</string>
-    <string name="data_backup_summary">Backup en herstel je persoonlijke gegevens</string>
+    <string name="data_backup_summary">Backup en herstel uw persoonlijke gegevens</string>
     <string name="menu_export">Export</string>
     <string name="menu_exporteverything">Export alles</string>
     <string name="menu_settings">Instellingen</string>
@@ -677,7 +677,7 @@
 
     <!-- Benchmarks -->
     <string name="benchmarks_title">Benchmarks</string>
-    <string name="benchmarks_summary">Controleer uw apparaat prestaties score</string>
+    <string name="benchmarks_summary">Controleer de prestaties van uw apparaat</string>
     <string name="share_result">Deel uw resultaten</string>
     <string name="my_score">Hier is mijn score met Android Tweaker 2 benchmarks</string>
     <string name="running">Bezig…</string>
@@ -721,7 +721,7 @@
     <string name="bootanimation_summary">Download en installeer een aangepaste bootanimatie</string>
     <string name="bootanimation_not_found">Ik kan geen bootanimatie vinden met de breedte van uw scherm. Probeer een ander!</string>
     <string name="bootanimation_reboot">Herstart je apparaat en geniet van de nieuwe bootanimatie!</string>
-    <string name="custom_bootanimation">Installeer aangepaste bootanimatie</string>
+    <string name="custom_bootanimation">Installeer een aangepaste bootanimatie</string>
     <string name="custom_bootanimation_summary">Plaats de bootanimatie.zip bestand in de map:</string>
     <string name="custom_bootanimation_install">Tik hier om uw aangepaste bootanimatie te installeren</string>
     <string name="restore_bootanimation">Wilt u uw originele bootanimatie herstellen?</string>
@@ -740,7 +740,7 @@
     <string name="password">Wachtwoord</string>
     <string name="password_hint">Wachtwoord (min 6 tekens)</string>
     <string name="repeat_password">Herhaal wachtwoord</string>
-    <string name="chamber_uninstall_warning">Belangrijk: Als u Android Tweaker 2 deinstalleerd of alle data verwijderd, dan zullen alle bestanden in de kamer worden verwijderd! U kunt Android Tweaker 2 app beheer gebruiken om een backup te maken en de app gegevens te herstellen, dit zal ook werken voor kamer bestanden!</string>
+    <string name="chamber_uninstall_warning">Belangrijk: Als u Android Tweaker 2 deinstalleerd of alle data verwijderd, dan zullen alle bestanden in de kamer worden verwijderd! U kunt Android Tweaker 2 applicatie beheer gebruiken om een backup te maken en de applicatie gegevens te herstellen, dit zal ook werken voor kamer bestanden!</string>
     <string name="email">E-Mail</string>
     <string name="password_mismatch">Zorg ervoor dat u hetzelfde wachtwoord in beide velden invoert</string>
     <string name="password_empty">Wachtwoord veld kan niet leeg zijn!</string>
@@ -761,7 +761,7 @@
     <string name="chamber_has_opened">De kamer is geopent</string>
     <string name="tap_to_close_chamber">Klik hier om het te sluiten</string>
     <string name="put_note_chamber">Maak een geheime notitie</string>
-    <string name="put_note_chamber_summary">Alle gemaakte notities zijn versleuteld en opgeslagen in de app! Niemand anders dan u heeft er toegang tot</string>
+    <string name="put_note_chamber_summary">Alle gemaakte notities zijn versleuteld en opgeslagen in de applicatie! Niemand anders dan u heeft er toegang tot</string>
     <string name="chamber_note_title">Notitie titel</string>
     <string name="chamber_note_content">Notitie inhoud</string>
     <string name="chamber_select_note_type">Kies notitie type</string>
