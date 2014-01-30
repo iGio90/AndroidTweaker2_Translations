@@ -1,3 +1,5 @@
+** FOR ANY PROBLEM: SEND US AN EMAIL! WE WILL ALWAYS REPLY! **
+
 We are pleased to introduce Android Tweaker 2, the second chapter of the utility that had a great success in the Android community. Rising the performance of your device has never been so easy! With a clean and user friendly interface and a little preference to enable and hide the advanced user contents!
 
 Translations: you can find instructions on how to translate the app on the official github project (https://github.com/iGio90/AndroidTweaker2_Translations/). Translators have the right to requests a full unlocked version of the app. 
@@ -20,7 +22,8 @@ The new tweaks and tools:
 - Cache cleaner, Dalvik cleaner, uninstaller and Root Zipaligner
 - Many new tweaks to increase performance, battery, network, media (photos, videos and autio) and much more!
 - OTA tweaker for easy tweak your device back at every nightly/OTA update of your custom ROM
-- init.d scripts
+- Tasker profiles switcher
+- Init.d scripts
 - DNS Manager
 - Density modder (DPI)
 - Benchmarks for IO, CPU, Network speed and general hardware
