@@ -41,6 +41,7 @@
     <string name="whatsthis">Wat is dit?</string>
     <string name="multitasking">Multitasken</string>
     <string name="title_translations">Vertalingen</string>
+    <string name="no_connection">Het apparaat moet verbonden zijn voor deze actie</string>
 
     <!-- Color Picker -->
     <string name="dialog_color_picker">Kleurenkiezer</string>
@@ -60,6 +61,8 @@
       <!-- Advanced settings -->
     <string name="open_the_drawer">Tik hier om de lade te laten zien met de voorkeuren</string>
     <string name="title_launchers">Launchers</string>
+    <string name="title_rescan_purchases">Bekijk aankopen</string>
+    <string name="rescan_purchases_msg">Dit zal een scan uitvoeren die zal zien of u enkele addons heeft gekocht in onze winkel. Als u enkele fouten tegenkomt om een addon te gebruiken dan moet u proberen deze scan te draaien!</string>
     <string name="advanced_user">Geavanceerde gebruiker</string>
 
       <!-- TIPS -->
@@ -81,6 +84,7 @@
     <string name="tips_unity">Deze addon geeft toestemming om een volledig aanpasbare eenheid launcher met een uithaal van buiten het scherm aan de linkerkant of aan de rechterkant te creëren. Bekijk de video voor een kleine preview</string>
     <string name="tips_expose">Deze addon geeft u toestemming een volledig aanpasbare Mac OSX als Expose creëren. Deze expose staat u toe om aangepaste acties in te stellen wanneer u op de 4 hoeken van uw scherm tikt. Bekijk de video voor een kleine preview</string>
     <string name="tips_chamber">Deze addon geeft toestemming om veilig Documenten, APKs, Muziek, Audio, Foto\'s, Video\'s, Persoonlijke notities, Bladwijzers, Telefoonnummers etc. in de Geheime Kamer op te slaan. Een wachtwoord is vereist om de kamer te openen en alle bestanden zijn veilig gecodeerd!</string>
+    <string name="tips_tasker">Deze addon geeft u toestemming om tussen taak toevoegingen te wisselen via een widget en notificatie, zoals 2 toegevoegde profielen!</string>
 
     <!-- HOME -->
     <string name="unlicensed">Koop een legale versie van deze applicatie. Ontwikkelaars besteden er veel tijd en aandacht aan zoals apps als dit. U zou ons werk moeten supporten!</string>
@@ -369,6 +373,7 @@
     <string name="unity_purchased">Eenheid balken is gekocht! U heeft een nieuwe kaart in het maatwerk scherm!</string>
     <string name="expose_purchased">Exposè is gekocht! U hebt een nieuwe kaart in het hoofdscherm!</string>
     <string name="chamber_purchased">De geheime kamer is gekocht! U hebt een nieuwe kaart in het hoofdscherm!</string>
+    <string name="tasker_purchased">Taak toevoeging profielen is gekocht!</string>
 
     <!-- WEATHER NOTY -->
     <string name="enable_weather_noty">Weer notificatie</string>
@@ -466,10 +471,15 @@
     <string name="gestures_application">Applicaties</string>
     <string name="gestures_call">Snel bellen</string>
     <string name="gestures_sms">Snelle SMS</string>
-    <string name="gestures_action_home">Thuis</string>
+    <string name="gestures_intents">Intents</string> <!-- Intents is a common android word and should not be translated -->
+    <string name="gestures_action_home">Bureaublad</string>
     <string name="gestures_action_recent">Recent</string>
     <string name="gestures_action_torch">Licht</string>
     <string name="gestures_action_ringer">Beltoonmodus</string>
+    <string name="gestures_intents_new_email">Nieuwe email</string>
+    <string name="gestures_intents_new_email_blank">Email versturen</string>
+    <string name="gestures_intents_new_email_prefix">Vooraf ingevoerde contact email</string>
+    <string name="gestures_intents_new_email_prefix_title">Voer email adress in</string></string>
     <string name="button_add">Gebaar toevoegen</string>
     <string name="button_reload">Herladen</string>
     <string name="button_discard">Annuleren</string>
@@ -810,6 +820,33 @@
     <string name="oom_perceptible_app_mem">Perceptible app mem</string>
     <string name="oom_heavy_weight_app_mem">Heavy weight app mem</string>
     <string name="oom_content_provider_mem">Content provider mem</string>
+    <string name="oom_foreground_app_adj">Foreground app ADJ</string>
+    <string name="oom_visible_app_adj">Visible app ADJ</string>
+    <string name="oom_secondary_server_adj">Secondary server ADJ</string>
+    <string name="oom_backup_app_adj">Backup app ADJ</string>
+    <string name="oom_home_app_adj">Home app ADJ</string>
+    <string name="oom_empty_app_adj">Empty app ADJ</string>
+    <string name="oom_hidden_app_adj">Hidden app ADJ</string>
+    <string name="oom_perceptible_app_adj">Perceptible app ADJ</string>
+    <string name="oom_heavy_weight_app_adj">Heavy weight app ADJ</string>
+    <string name="oom_content_provider_adj">Content provider ADJ</string>
+    <string name="oom_enforce_process">Enfore process limit</string>
+    <string name="oom_max_service_inactivity">Max service inactivity</string>
+    <string name="oom_min_hidden_apps">Min verborgen apps</string>
+    <string name="oom_max_hidden_apps">Max verborgen apps</string>
+    <string name="oom_content_app_idle_offset">Content app idle offset</string>
+    <string name="oom_empty_app_idle_offset">Empty app idle offset</string>
+    <string name="oom_max_activities">Max activiteiten</string>
+    <string name="oom_activity_inactive_reset_time">Activity inactive reset time</string>
+    <string name="oom_max_recent_task">Max recente taken</string>
+    <string name="oom_min_recent_task">Min recente taken</string>
+    <string name="oom_app_switch_delay">App switch delay time</string>
+    <string name="oom_max_process">Max processes</string>
+    <string name="oom_proc_start_timeout">Proc start timout</string>
+    <string name="oom_cpu_min_check_duration">CPU min check duration</string>
+    <string name="oom_gc_timout">GC timout</string>
+    <string name="oom_service_timout">Service timout</string>
+    <string name="oom_min_crash_interval">Min crash interval</string>
     
     <!-- Restore -->
     <string name="reset_tweaks">Reset tweaks</string>
@@ -832,4 +869,27 @@
     <string name="flash_confirm">Wilt u het volgende bestand installeren</string> <!-- This will be followed by the file name. I.E: Do you want to flash: filename.zip? -->
     <string name="wipe_cache">Wipe cache</string>
     <string name="wipe_data">Wipe gegevens</string>
+    
+        <!-- Tasker Profiles -->
+    <string name="tasker_profiles_title">Taak Profielen</string>
+    <string name="tasker_profiles_summary">RAM beheer voor aangepaste profielen</string>
+    <string name="tasker_profiles_intro">Deze addon zal de waarde van uw lage geheugen doder aanpassen. Deze waarden verwijzen naar het minimum aantal van RAM in welke programma's worden gedood om RAM vrij te maken voor uw systeem.</string>
+    <string name="tasker_profiles_profile_selection_title">Selecteer een profiel</string>
+    <string name="tasker_profiles_profile_selection_summary">Deze waarden zullen worden herstelt naar standaard elke keer als u uw apparaat herstart tenzij u de knop "aanhouden" activeert. Tik op een afbeelding om een korte beschrijving te zien.</string>
+    <string name="tasker_profiles_selector_stock">Standaard</string>
+    <string name="tasker_profiles_selector_summary_stock">Deze waarden verwijzen naar de originele van uw apparaat</string>
+    <string name="tasker_profiles_selector_medium">Gemiddeld</string>
+    <string name="tasker_profiles_selector_summary_medium">Geen agressieve waarden. Voorgesteld als u alles blijvend wil draaien op de achtergrond</string>
+    <string name="tasker_profiles_selector_hard">Zwaar</string>
+    <string name="tasker_profiles_selector_summary_hard">Agressieve waarden. Voorgesteld als u wat ram vrij wilt houden tijdens het gebruiken van uw apps</string>
+    <string name="tasker_profiles_selector_gamer">Gamer</string>
+    <string name="tasker_profiles_selector_summary_gamer">Ultra agressieve waarden. Dit zal bijna alles doden op de achtergrond en zal een goede hoeveelheid RAM-geheugen toekennen tijdens het spelen van uw favoriete spellen</string>
+    <string name="tasker_profiles_selector_sleeper">Slaper</string>
+    <string name="tasker_profiles_selector_summary_sleeper">Deze waarden zal alles doden op de achtergrond en zal de batterij levensduur verhogen van uw apparaat tijdens de slaap modus. Vergeet dit niet te veranderen als u het apparaat gebruikt!</string>
+    <string name="tasker_profiles_boot_title">Aanhouden</string>
+    <string name="tasker_profiles_boot_summary">De huidige waarden zal worden aangehouden na herstart</string>
+    <string name="tasker_profiles_notification_title">Notificatie</string>
+    <string name="tasker_profiles_notification_summary">Maak een notificatie waarmee u van profiel kan wisselen</string>
+    <string name="tasker_profiles_widget_title">Bureaublad widget</string>
+    <string name="tasker_profiles_widget_summary">Activeer een widget op uw bureaublad waarmee u van profiel kan wisselen</string>
 </resources>
