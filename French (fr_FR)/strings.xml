@@ -2,14 +2,14 @@
 <resources>
     <string name="app_name" translatable="false">Android Tweaker 2</string>
     <string name="reboot">Reboot your device in order to apply changes</string>
-    <string name="apply">Apply changes</string>
+    <string name="applications">Apply changes</string>
     <string name="exit">Please tap BACK again to exit</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
     <string name="ok">Ok</string>
     <string name="cancel">Cancel</string>
-    <string name="warning">Warning</string>
-    <string name="error">Error</string>
+    <string name="attention">Warning</string>
+    <string name="erreur">Error</string>
     <string name="checking">Checking dependencies…</string>
     <string name="connectionc_error">Android tweaker needs an active connection to verify the app license. Please, connect your device and try back.</string>
     <string name="sure">Are your sure?</string>
