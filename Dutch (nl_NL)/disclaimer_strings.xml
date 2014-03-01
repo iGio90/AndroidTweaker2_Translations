@@ -2,7 +2,7 @@
 <resources>
     <string name="permissions">Machtigingen verklaring</string>
     <string name="disclaimer">- Sommige functies van deze applicatie kunnen zorgen voor onstabiliteit en in rare gevallen, het bricken van uw apparaat. Deze tweaks zijn voorgesteld, en getest, en werken op bijna alle apparaten draaiend op Android 4.0 en hoger.
-        \n\n- Ontwijk het spelen met deze applicatie. De meest voorgestelde functies kunnen uw gedrag van uw systeem aanraken en veranderen, dus gebruik het met uw hersenen.
+        \n\n- Ontwijk het spelen met deze applicatie. De meest voorgestelde functies kunnen het gedrag van uw systeem aanraken en veranderen, dus gebruik het met uw hersenen.
         \n\n- Deze app zal uw apparaat niet rooten, maar we hebben een paneel toegevoegt om u te helpen met het rooten van uw apparaat.
     </string>
     <string name="perm_license">Deze machtigingen zijn vereist om te controleren of de applicatie is geïnstalleerd via google play of gedownload van het internet</string>
