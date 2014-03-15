@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permissions">Permissions declaration</string>
+    <string name="disclaimer">- Some of the features of this app can cause unstability and, in rare case, the brick of the device. These tweaks are supposed, and tested, to works on almost every device running Android 4.0+.
+        \n\n- Avoid playing with this app. Most of the features proposed can touch and change the behavior of your system, so, you should use it with brain.
+        \n\n- This app doesn\'t root your device, however, we added a panel to help you find instruction about how to root your device.
+    </string>
+    <string name="perm_license">These permissions are required for checking if the app has been installed through play store or downloaded from the web</string>
+    <string name="perm_billing">These permissions are required for allowing in-app billing to allow users to purchase addons through our internal shop</string>
+    <string name="perm_access_extra_location">These permissions are required for GPS and location tweaks and certain addons that allows you to enable or disable network location</string>
+    <string name="perm_network">These permissions are required in order to allow the app to access web. They are also used for network tweaks and enable/disable wifi/data/sync through custom actions such as smart actions, floating gestures and more…</string>
+    <string name="perm_bluetooth">These permissions are required in order to allows certain addons such as smart actions, floating gestures and more, to interact with the device bluetooth and allows them to enable or disable bluetooth services</string>
+    <string name="perm_general">These sets of permissions are mainly used by private user data backups and restore and all the addons, such as floating gestures, that allows users to call, send short messages or interact with contacts through custom actions</string>
+    <string name="perm_camera">These permissions are required to allows users to add custom actions to launch camera or enable/disable torch flashlight</string>
+    <string name="perm_accounts">This permission is required in order to retrieve the emails address configured in your phone. None of these emails are stored in our databases since we haven\'t got any newsletters or similar things. This is required in order to allows Android Tweaker 1 customers to have unlocked contents and will allow us in future to setup custom unlocked things. An example could be if one day we will start some contest or give prizes to our users!</string>
+    <string name="perm_boot">Many addons inside Android Tweaker 2 have an option that allows you to start some features at boot. This permission is required in order to let that function works properly</string>
+    <string name="perm_disclaimer">We would also like to clarify that this application DOESN\'T record any data from your device and it\'s totally safe! The unique data we collect is through Google Analytics that allow us to know how many users are using our app and from which country. All the permissions required by this application are needed in order to allows all the addons and the various functionality to run correctly</string>
+</resources> 

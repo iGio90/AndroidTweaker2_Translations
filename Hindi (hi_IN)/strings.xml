@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Android Tweaker 2</string>
+    <string name="reboot">Reboot your device in order to apply changes</string>
+    <string name="apply">Apply changes</string>
+    <string name="exit">Please tap BACK again to exit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="warning">Warning</string>
+    <string name="error">Error</string>
+    <string name="checking">Checking dependencies…</string>
+    <string name="connectionc_error">Android tweaker needs an active connection to verify the app license. Please, connect your device and try back.</string>
+    <string name="sure">Are your sure?</string>
+    <string name="wait">Please wait…</string>
+    <string name="updating">Updating dependencies</string>
+    <string name="toolchain_exist">Needed resources are already installed. Skipping…</string>
+    <string name="require_busybox">This action require busybox installed on your device. Please, install busybox before using this tool</string>
+    <string name="require_sql">This action require SQL toolchain. If you are seeing this error it means your ROM doesn\'t support the SQL defragging tool.</string>
+    <string name="size">Size:</string>
+    <string name="rate_explanation">Give your opinion and help us to improve the various application content</string>
+    <string name="rate_now">Rate now</string>
+    <string name="understand">I understand</string>
+    <string name="share_at">I\'m customizing my device with Android Tweaker 2… Download it for free from the Google Play Store!\n\n</string>
+    <string name="share_with">Share with…</string>
+    <string name="draw">Draw something…</string>
+    <string name="no_root_activity">This tool require a rooted device. Please, root your device to enable this function</string>
+    <string name="info">Informations</string>
+    <string name="not_available_title">Not available</string>
+    <string name="not_available_summary">Please, visit the shop to purchase this addon</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="update">Update</string>
+    <string name="remove">Remove</string>
+    <string name="install">Do you want to install</string>
+    <string name="downloading">Downloading…</string>
+    <string name="launcher_summary">Enable or disable launcher icons for Android Tweaker 2 activities</string>
+    <string name="send_mail">Send mail…</string>
+    <string name="rate_us">If you find this application clear, easy and useful, don\'t forget to leave us a review on the store!\n\nDo not hesitate to contact us by email for any problems!</string>
+    <string name="preferences">Preferences</string>
+    <string name="whatsthis">What\'s this</string>
+    <string name="multitasking">Multitasking</string>
+    <string name="title_translations">Translations</string>
+    <string name="no_connection">The device needs to be connected to perform this action</string>
+
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Press on Color to apply</string>
+
+    <!-- Preferences -->
+    <string name="pref_category">Category</string>
+    <string name="color1_title">Color 1</string>
+    <string name="color1_summary">black color by default, set by reference</string>
+    <string name="color2_title">Color 2</string>
+    <string name="color2_summary">not persistent color\nalpha slider added via code</string>
+    <string name="color3_title">Color 3</string>
+    <string name="color3_summary">picker with alpha slider</string>
+    <string name="color4_title">Color 4</string>
+    <string name="color4_summary">color set with HEX code in xml</string>
+
+    <!-- Advanced settings -->
+    <string name="open_the_drawer">Tap here to show the drawer with preferences</string>
+    <string name="title_launchers">Launchers</string>
+    <string name="title_rescan_purchases">Check purchases</string>
+    <string name="rescan_purchases_msg">This will scan if you have purchased any addons in our shop. If you meet any issues while accessing your purchased addons, then, you should try to run this!</string>
+    <string name="advanced_user">Advanced user</string>
+
+    <!-- TIPS -->
+    <string name="tips">Tips:</string>
+    <string name="tips_reset">Reset tips</string>
+    <string name="tips_enable">Enable tips</string>
+    <string name="tips_disable">Disable tips</string>
+    <string name="tips_show">Show tips</string>
+    <string name="tips_tap_tweak">Tap around any tweak name to get a short description</string>
+    <string name="tips_tweaks_dont_enable_all">Do not enable all the tweaks proposed</string>
+    <string name="tips_tweaks_time">Some tweaks take time to activate. Always wait for the SU msg to disappear!</string>
+    <string name="tips_not_a_game">This is not a game. Use this app with your brain!</string>
+    <string name="tips_zipalign">You didn\'t zipalign your app yet! Zipalign decreases the RAM usage of your apps. Tap here to begin!</string>
+    <string name="tips_screenstate">This tool allows you to use the Android Tweaker 2 smart actions. Smart actions can be enabled through preferences panel (in app), a widget or the smart notification (activable in the smart actions preference). Smart actions allows you to setup custom behaviors when your device goes in standby. If, for example, you turn on the wifi smart action, wifi will be turned off, and back on, when the standby mode is inserted/removed. Currently there are 4 smart actions available: Wifi, Bluetooth, Data and Sync. These actions, will extend the battery life of your device up to 300%!</string>
+    <string name="tips_font">This addon allows you to change your system font with one tap. Choose between the 20+ proposed font and if you don\'t like the one you installed, simply tap on the reset button to restore your original one!</string>
+    <string name="tips_weather">This addon allows you to create a custom notification with weather informations based on your GPS location or custom location.</string>
+    <string name="tips_gestures">Floating gestures allows you to create custom gestures and assign an action to them. The floating icon will open the gestures pad in which you can draw your custom gestures! check out the video for a preview!</string>
+    <string name="tips_backup">This addon allows you to backup and restore your personal data such as short message, call logs, dictionaries, settings and more</string>
+    <string name="tips_unity">This addon allows you to create a fully customizable like unity launcher with a swipe from outside the screen on the left or on the right side. Check out the video for a little preview</string>
+    <string name="tips_expose">This addon allows you to create a fully customizable Mac OSX like exposè. This exposè allows you to setup custom actions when you tap the 4 corners of your device screen. Check out the video for a little preview</string>
+    <string name="tips_chamber">This addon allows you to securely store Documents, APKs, Music, Audio, Pictures, Videos, Personal notes, Bookmarks, Phone numbers etc. inside the chamber of secrets. A password is required to open the chamber and all the files are securely encrypted!</string>
+    <string name="tips_tasker">This addon allows you unlock tasker adittion such as 2 addition profiles, widget and notification switcher!</string>
+
+    <!-- HOME -->
+    <string name="unlicensed">Please, buy a legit copy of this app. Developers put dedication and time on creating applications like that. You should support our work!!</string>
+    <string name="root_check">Root status: </string>
+    <string name="rooted">Rooted</string>
+    <string name="unrooted">Not rooted</string>
+    <string name="busybox_check">Busybox status: </string>
+    <string name="mount_check">Mount status: </string>
+    <string name="android_version">Android version: </string>
+    <string name="device_brand">Brand: </string>
+    <string name="device_model">Model: </string>
+    <string name="device_board">Board: </string>
+    <string name="device_bootloard">Bootloader: </string>
+    <string name="device_hardware">Hardware: </string>
+    <string name="android_tweaker">System Tweaker</string>
+    <string name="android_tweaker_summary">Collection of system properties tweaks.</string>
+    <string name="initd">Init.d Scripts</string>
+    <string name="initd_summary">Collection of init.d scripts.</string>
+    <string name="appmanager">App manager</string>
+    <string name="appmanager_summary">Application data backup, uninstaller and enabler</string>
+    <string name="tools">Tools</string>
+    <string name="tools_summary">Collection of cleaners and utilities</string>
+    <string name="dns_manager">DNS manager</string>
+    <string name="dns_manager_summary">Set custom DNS or enable the ones proposed</string>
+    <string name="customization">Customizations</string>
+    <string name="customization_summary">Customize your Android OS</string>
+    <string name="changelog">Changelog</string>
+    <string name="changelog_summary">Detailed release notes</string>
+    <string name="no_root">This app require root access in order to works. Tap here to get root access on your device</string>
+    <string name="tweaker_store">Shop</string>
+    <string name="tweaker_store_summary">Purchase additional items for Android Tweaker 2</string>
+
+    <!-- CONTACT -->
+    <string name="contact_subject">Subject:</string>
+
+    <!-- TWEAKER HEADERS -->
+    <string name="title_general_performance">Performance</string>
+    <string name="title_general_performance_summary">Collection of tweaks that will increase the performances on your device</string>
+    <string name="title_ui_performance">UI Performance and scrolling</string>
+    <string name="title_battery">Battery</string>
+    <string name="title_battery_summary">Collection of tweaks that will extend the battery life of your device</string>
+    <string name="title_media">Media</string>
+    <string name="title_media_summary">Collection of tweaks that will tune images, videos and audio properties</string>
+    <string name="title_audio_video_recording">Audio and Video recording</string>
+    <string name="title_streaming">Video streaming</string>
+    <string name="title_audio">Audio</string>
+    <string name="title_images">Images</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_network">Network</string>
+    <string name="title_network_summary">Collection of tweaks that will tune your network speed</string>
+    <string name="title_net_speed">Network Speed</string>
+    <string name="title_phone">Phone</string>
+    <string name="title_signal">Signal</string>
+    <string name="title_ipv4_ipv6">IPV4 and IPV6</string>
+    <string name="title_gps">Location</string>
+    <string name="title_gps_summary">Collection of tweaks that will tune your GPS and network location</string>
+    <string name="title_gps_update">Server update</string>
+    <string name="title_misc">Miscellaneous</string>
+    <string name="title_misc_summary">Collection of miscellaneous tweaks</string>
+    <string name="title_misc_errors">Errors and loggers</string>
+    <string name="title_dalvik">Dalvik Virtual Machine</string>
+    <string name="title_additional">Additional</string>
+    
+    <!-- PERFORMANCE -->
+    <string name="debughw_title">HW debug</string>
+    <string name="debughw_summary">Enable or disable Hardware Debug. Gives a little extra system performance</string>
+    <string name="syshw_title">Persist Sys UI HW</string>
+    <string name="syshw_summary">Enable or disable persistent sys UI HW. Gives a little extra system performance</string>
+    <string name="debug_tuning_title">Performance tuning</string>
+    <string name="debug_tuning_summary">Enable or disable debug performance tuning. Gives a little extra system performance</string>
+    <string name="video_acceleration_title">HW video acceleration</string>
+    <string name="video_acceleration_summary">Enable or disable hardware video acceleration. Gives a little extra system performance</string>
+    <string name="debugegl_title">EGL HW debug</string>
+    <string name="debugegl_summary">Enable or disable EGL HW debug. Gives a little extra system performance</string>
+    <string name="debugeglprofiler_title">EGL Profiler debug</string>
+    <string name="debugeglprofiler_summary">Enable or disable EGL Profiler debug. Gives a little extra system performance</string>
+    <string name="min_fling_title">Minimum fling velocity</string>
+    <string name="min_fling_summary">Increase or decrese min fling veocity. Gives a better scroll and smothness. We suggest to rise this to max</string>
+    <string name="max_fling_title">Maximum fling velocity</string>
+    <string name="max_fling_summary">Increase or decrese max fling veocity. Gives a better scroll and smothness. We suggest to rise this to max</string>
+    <string name="multitouch_title">Multitouch</string>
+    <string name="multitouch_summary">Enable or disable multitouch. This is not working on all devices. Gives extra system performance and decrease battery drain</string>
+    <string name="max_event_title">Max events per sec</string>
+    <string name="max_event_summary">Increase or decrease max events per second. Gives a better scroll and smothness. For low ram devices we suggest to put this to 150 or below.</string>
+    <string name="pointer_dur_title">Pointer duration</string>
+    <string name="pointer_dur_summary">Decrease pointer duration. Gives a better scroll and smothness</string>
+
+    <!-- BATTERY -->
+    <string name="power_collapse">Power collapse</string>
+    <string name="power_collapse_summary">Change power collapse behavior. Helps to relieve pressur on CPU</string>
+    <string name="sleep_mode">PM sleep mode</string>
+    <string name="sleep_mode_summary">Change sleep mode behavior. Helps to relieve CPU pressure during sleep</string>
+    <string name="wifi_scan_interval">Wifi scan interval</string>
+    <string name="wifi_scan_interval_summary">Decrease wifi scan interval and saves some battery</string>
+    <string name="power_supply">Power supply</string>
+    <string name="power_supply_summary">Enable or disable power supply. Helps to decrease battery drain</string>
+    <string name="sensor_sleep">Sensor sleep control</string>
+    <string name="sensor_sleep_summary">Enable or disable sensor sleep control. Helps to decrease battery drain</string>
+    
+    <!-- NETWORK -->
+    <string name="default_net_speed">Default network speed</string>
+    <string name="default_net_speed_summary">Enable or disable this tweak to increase the default network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
+    <string name="wifi_net_speed">Wifi network speed</string>
+    <string name="wifi_net_speed_summary">Enable or disable this tweak to increase the wifi network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
+    <string name="umts_net_speed">Umts network speed</string>
+    <string name="umts_net_speed_summary">Enable or disable this tweak to increase the umts network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
+    <string name="gprs_net_speed">Gprs network speed</string>
+    <string name="gprs_net_speed_summary">Enable or disable this tweak to increase the gprs network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
+    <string name="edge_net_speed">Edge network speed</string>
+    <string name="edge_net_speed_summary">Enable or disable this tweak to increase the edge network speed. Note: If you already see this tweak enabled, it means you don\'t need it</string>
+    <string name="ipv4">IPV4</string>
+    <string name="ipv4_summary">Extends support for IPV4 protocol</string>
+    <string name="ipv6">IPV6</string>
+    <string name="ipv6_summary">Extends support for IPV6 protocol</string>
+    <string name="cust_tel">Cust telephony</string>
+    <string name="cust_tel_summary">Enable or disable this tweak to increase a bit your signal reception</string>
+    <string name="fast_dormancy">Fast dormancy</string>
+    <string name="fast_dormancy_summary">Enable or disable this tweak to increase a bit your signal reception</string>
+
+    <!-- MEDIA -->
+    <string name="jpeg_quality">JPEG quality</string>
+    <string name="jpeg_quality_summary">Increase or decrease overall JPEG quality</string>
+    <string name="dec_jpeg">JPEG decoder memcap</string>
+    <string name="dec_jpeg_summary">Increase or decrease JPEG decoder memcap. Gives a little extra JPEG quality</string>
+    <string name="enc_hprof_bps">Encode video bps</string>
+    <string name="enc_hprof_bps_summary">Increase or decrease hprof video BPS. Gives a better video recording quality</string>
+    <string name="enc_hprof_fps">Encode video fps</string>
+    <string name="enc_hprof_fps_summary">Increase or decrease hprof video FPS. Gives a better video recording quality</string>
+    <string name="panorama_defres">Panorama defres (HD)</string>
+    <string name="panorama_defres_summary">Enable or disable panorama defres. Rise to the maximum panorama defres resolution</string>
+    <string name="panorama_frameres">Panorama frame res (HD)</string>
+    <string name="panorama_frameres_summary">Enable or disable panorama frameres. Rise to the maximum panorama frame resolution</string>
+    <string name="camcorder_video">Camcorder video mode</string>
+    <string name="camcorder_video_summary">Enable or disable camcorder video mode. Gives a better video recording quality</string>
+    <string name="media_streaming">Media streaming speed</string>
+    <string name="media_streaming_summary">Improve media streaming speed with some net/video tweaks</string>
+    <string name="overall_image_quality">Increase overall image quality</string>
+    <string name="overall_image_quality_summary">Collection of image quality tweaks. Gives a little extra images and videos quality at cost of less performances</string>
+    <string name="flash_led">Flash led</string>
+    <string name="flash_led_summary">Enable or disable the flash led mode</string>
+    <string name="flash_intensity">Flash intensity</string>
+    <string name="flash_intensity_summary">Adjust flash intensity to an optimized value</string>
+    <string name="flash_voltage">Flash voltage</string>
+    <string name="flash_voltage_summary">Adjust flash voltage to an optimized value</string>
+    <string name="noise_reduction">Noise reduction</string>
+    <string name="noise_reduction_summary">Improve audio out quality by removing sound noises</string>
+
+    <!-- MISC -->
+    <string name="error_report">Disable error report</string>
+    <string name="error_report_summary">Disable error reporting. Saves some battery and increase general performances</string>
+    <string name="ulog">Disable uLog</string>
+    <string name="ulog_summary">Disable uLog error reporting. Saves some battery and increase general performances</string>
+    <string name="logcat">Disable LogCat</string>
+    <string name="logcat_summary">Disable LogCat error reporting. Saves some battery and increase general performances</string>
+    <string name="kernel_error">Disable kernel errors</string>
+    <string name="kernel_error_summary">Disable Kernel error reporting. Saves some battery and increase general performances</string>
+    <string name="usage_data">Disable sending of usage data</string>
+    <string name="usage_data_summary">Disable sending of usage data. Saves some battery and increase general performances</string>
+    <string name="phone_ring">Phone ring delay</string>
+    <string name="phone_ring_summary">Increase or decrease the phone ring delay</string>
+    <string name="blackscreen">Blackscreen after calls</string>
+    <string name="blackscreen_summary">Fix blackscreen after calls issues</string>
+    <string name="call_quality">Voice quality</string>
+    <string name="call_quality_summary">Increase the quality of voice during phone calls</string>
+    <string name="dalvik_checkjni">Dalvik checkjni</string>
+    <string name="dalvik_dexopt">Dalvik dexopt</string>
+    <string name="dalvik_heapstartsize">Dalvik heapstartsize</string>
+    <string name="dalvik_heapgrowthlimit">Dalvik heapgrowthlimit</string>
+    <string name="dalvik_heapsize">Dalvik heapsize</string>
+    <string name="dalvik_bytecode">Dalvik verify-bytecode</string>
+    <string name="dalvik_execution">Dalvik execution mode</string>
+    <string name="dalvik_treshold">Dalvik lockprof threshold</string>
+    <string name="dalvik_flags">Dalvik dexopt flags</string>
+    <string name="dalvik_jmiopts">Dalvik jmiopts</string>
+
+    <!-- GPS -->
+    <string name="disable_network_location">Network location</string>
+    <string name="disable_network_location_summary">Disable network location services</string>
+    <string name="gps_update_server_last_date">Last update:</string>
+    <string name="gps_update_server">GPS servers update</string>
+    <string name="gps_update_server_last_server">Today active servers:</string>
+    <string name="gps_update_updating">Updating…</string>
+    <string name="gps_update_choose_continent">Continent</string>
+    <string name="gps_update_choose_state">Country code</string>
+    <string name="gps_update_dialog_title">Setup the servers</string>
+    <string name="reset_gps_config">Restore original config</string>
+    <string name="original_config_not_found">Original config file not found!</string>
+
+    <!-- TOOLS -->
+    <string name="zipaling" translatable="false">Zipalign</string>
+    <string name="zipaling_summary">Optimize your installed apps and system apps</string>
+    <string name="zipalign_all">Zipalign all apps</string>
+    <string name="zipaligning">Zipaligning:\n\n</string>
+    <string name="already_aligned">This app is already zipaligned</string>
+    <string name="sql_defrag">SQL defrag</string>
+    <string name="sql_defrag_summary">Speed up and optimize your SQL databases</string>
+    <string name="sql_defrag_init">Defrag all SQL databases</string>
+    <string name="sql_defrag_last">Last SQL defrag:</string>
+    <string name="sql_report_last">Last SQL report:</string>
+    <string name="sql_setting_up">Setting up environment</string>
+    <string name="sql_executing">Running…</string>
+    <string name="sql_must_reboot">At the end of this process your device will be rebooted. Continue?</string>
+    <string name="cache_cleaner">Cache cleaner</string>
+    <string name="cache_cleaner_summary">Clean up cache partitions and dalvik cache</string>
+    <string name="cache_cleaner_run">Launch cache cleaner</string>
+    <string name="cache_clear">Cache</string>
+    <string name="cache_dalvik_clear">Dalvik cache</string>
+    <string name="cache_cleaner_last">Cache cleaned:</string>
+    <string name="cache_cleaner_dalvik_last">Dalvik cleaned:</string>
+    <string name="cache_available">Cache space available:</string>
+    <string name="enable_custom_dns">Custom DNS</string>
+    <string name="current_dns">Current DNS</string>
+    <string name="original_dns">Stock DNS</string>
+    <string name="primary_dns">Primary DNS</string>
+    <string name="secondary_dns">Secondary DNS</string>
+    <string name="apply_dns">Apply</string>
+    <string name="dns_apply">Set DNS to:</string>
+    <string name="dns_progress">Applying DNS…</string>
+    <string name="dns_restoreing">Restoring original DNS…</string>
+
+    <!-- INITD -->
+    <string name="initd_error">Your device doesn\'t support Init.D tweaks</string>
+    <string name="title_general_performance_initd_summary">Collection of init.d scripts that will increase the performances on your device</string>
+    <string name="title_battery_initd_summary">Collection of init.d scripts that will extend the battery life of your device</string>
+    <string name="title_network_initd_summary">Collection of init.d scripts that will tune your network speed</string>
+    <string name="title_misc_initd_summary">Collection of miscellaneous init.d scripts</string>
+    <string name="initd_strict_min_free">Strict min free</string>
+    <string name="initd_strict_min_free_summary">Tune low memory killer</string>
+    <string name="initd_vm_management">VM Management</string>
+    <string name="initd_vm_management_summary">Tune virtual memory management</string>
+    <string name="initd_improve_sd">SDCard</string>
+    <string name="initd_improve_sd_summary">Increase SDCard and Micro SDCard speed</string>
+    <string name="initd_normalize_sleeper">Normalize sleeper</string>
+    <string name="initd_normalize_sleeper_summary">Disable kernel normalize sleeper</string>
+
+    <!-- DAEMON -->
+    <string name="enable_daemon">Enable smart actions</string>
+    <string name="disable_daemon">Disable smart actions</string>
+    <string name="enable_daemon_boot">Persistence</string>
+    <string name="enable_daemon_boot_summary">Launch this service when the device is turned on</string>
+    <string name="screen_state" translatable="false">Smart actions</string>
+    <string name="screen_state_summary">Set custom actions when screen turns off/on</string>
+    <string name="screen_state_notification">Smart bar</string>
+    <string name="screen_state_notification_summary">Add smart actions widgets to the notification drawer</string>
+    <string name="screen_state_battery">Low battery</string>
+    <string name="screen_state_battery_summary">Enable actions only if battery is less then the level set by you</string>
+    <string name="set_battery_level">Set the minimum battery level</string>
+    <string name="screen_state_wifi">Wifi</string>
+    <string name="screen_state_wifi_summary">Disable wifi when the screen goes off</string>
+    <string name="screen_state_bluetooth">Bluetooth</string>
+    <string name="screen_state_bluetooth_summary">Disable bluetooth when the screen goes off</string>
+    <string name="screen_state_data">Data</string>
+    <string name="screen_state_data_summary">Disable data when the screen goes off</string>
+    <string name="screen_state_sync">Sync</string>
+    <string name="screen_state_sync_summary">Disable sync when the screen goes off</string>
+
+    <!-- CUSTOMIZATION -->
+    <string name="no_customization_owned">No customization available</string>
+    <string name="no_customization_owned_summary">There isn\'t any customization available on your Android Tweaker 2. Visit the shop to get some!</string>
+    <string name="unity_bars">Unity bars</string>
+    <string name="unity_bars_summary">Add unity like launcher bars</string>
+    <string name="font_manager" translatable="false">Font manager</string>
+    <string name="font_manager_summary">Install custom fonts on your device</string>
+    <string name="backup_font">Backing up current font to allows you to restore in future</string>
+    <string name="installing_font">Installing font…</string>
+    <string name="install_font">Do you want to install</string>
+    <string name="reset_font">Set original Roboto font?</string>
+    <string name="bravia_engine">Bravia engine v3</string>
+    <string name="bravia_engine_summary">The Mobile BRAVIA® Engine is a set of Sony-specific image processing algorithms which are applied to the rendering process when drawing an image or video on the screen of your smartphone</string>
+    <string name="install_bravia">Install Bravia</string>
+    <string name="remove_bravia">Remove Bravia</string>
+    <string name="installing_bravia">Installing bravia engine…</string>
+    <string name="removing_bravia">Uninstalling bravia engine…</string>
+
+    <!-- SHOP -->
+    <string name="details">Details</string>
+    <string name="shop_no_ads">Remove ads</string>
+    <string name="no_ads_purchased">Thanks for your donation! The ads are gone now!</string>
+    <string name="shop_screen_state" translatable="false">Smart actions</string>
+    <string name="screen_state_not_purchased">You didn\'t purchase the smart actions tool</string>
+    <string name="screen_state_purchased">Smart actions has been purchased! You got a new card on the main page!</string>
+    <string name="font_manager_purchased">Font manager has been purchased! You got a new card on the customization page!</string>
+    <string name="noty_weather_purchased">Notification weather has been purchased! You got a new card on the customization page!</string>
+    <string name="gestures_purchased">Floating gestures has been purchased! You got a new card on the customization page!</string>
+    <string name="backup_purchased">Data backup has been purchased! You got a new card on the tools page!</string>
+    <string name="unity_purchased">Unity bars has been puchased! You got a new card on the customization page!</string>
+    <string name="expose_purchased">Exposè has been puchased! You got a new card on the home page!</string>
+    <string name="chamber_purchased">The chamber of secrets has been puchased! You got a new card on the home page!</string>
+    <string name="tasker_purchased">Tasker profiles additions has been purchased!</string>
+
+    <!-- WEATHER NOTY -->
+    <string name="enable_weather_noty">Notification weather</string>
+    <string name="enable_weather_noty_summary">Add weather into notification drawer</string>
+    <string name="building_weather_noty">Hold on! I\'m building your new weather notification</string>
+    <string name="weather_use_gps">Use GPS</string>
+    <string name="gps_disabled">Enable GPS</string>
+    <string name="gps_disabled_summary">Tap here to enable your GPS</string>
+    <string name="weather_prior">High priority</string>
+    <string name="weather_prior_summary">Keep weather notification on top</string>
+    <string name="setting_custom_location">Your custom location is set to:</string>
+    <string name="weather_null">Not available</string>
+    <string name="title_weather_location">Weather location</string>
+    <string name="title_weather_customization">Weather customization</string>
+    <string name="title_weather_colors">Weather colors</string>
+    <string name="weather_fah">Fahrenheit</string>
+    <string name="weather_fah_summary">Use fahrenheit instead of celsius</string>
+    <string name="weather_actions">Weather action</string>
+    <string name="weather_actions_summary">If enabled, weather will be updated if notification receive a click</string>
+    <string name="reset_colors">Reset color</string>
+    <string-array name="weather_conditions">
+        <item>tornado</item>
+        <item>tropical storm</item>
+        <item>hurricane</item>
+        <item>severe thunderstorms</item>
+        <item>thunderstorms</item>
+        <item>mixed rain and snow</item>
+        <item>mixed rain and sleet</item>
+        <item>mixed snow and sleet</item>
+        <item>freezing drizzle</item>
+        <item>drizzle</item>
+        <item>freezing rain</item>
+        <item>showers</item>
+        <item>showers</item>
+        <item>snow flurries</item>
+        <item>light snow showers</item>
+        <item>blowing snow</item>
+        <item>snow</item>
+        <item>hail</item>
+        <item>sleet</item>
+        <item>dust</item>
+        <item>foggy</item>
+        <item>haze</item>
+        <item>smoky</item>
+        <item>blustery</item>
+        <item>windy</item>
+        <item>cold</item>
+        <item>cloudy</item>
+        <item>mostly cloudy</item>
+        <item>mostly cloudy</item>
+        <item>partly cloudy</item>
+        <item>partly cloudy</item>
+        <item>clear (night)</item>
+        <item>sunny</item>
+        <item>fair</item>
+        <item>fair</item>
+        <item>mixed rain and hail</item>
+        <item>hot</item>
+        <item>isolated thunderstorms</item>
+        <item>scattered thunderstorms</item>
+        <item>scattered thunderstorms</item>
+        <item>scattered showers</item>
+        <item>heavy snow</item>
+        <item>partly cloudy</item>
+        <item>thundershowers</item>
+        <item>snow showers</item>
+        <item>isolated thundershowers</item>
+    </string-array>
+
+    <string-array name="week_day">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+    <!-- Density modder -->
+    <string name="density_modder">Density modder</string>
+    <string name="density_modder_summary">Customize the density (DPI) of your screen!</string>
+    <string name="nav_bar">Navigation bar</string>
+    <string name="nav_bar_summary">Enable navigation bar on device that doesn\'t have it enabled by default. This is not working on every device… Once enabled, don\'t forget to tap the save button</string>
+    <string name="current_density">Current density:</string>
+    <string name="is_tablet">You can\'t remove navigation bar from your device!</string>
+
+    <!-- Custom gestures -->
+    <string name="custom_gestures_title">Floating gestures</string>
+    <string name="custom_gestures_summary">Create custom gestures</string>
+    <string name="custom_gestures_pause">Floating gestures is in pause</string>
+    <string name="custom_gestures_enable">Enable</string>
+    <string name="custom_gestures_close">Close</string>
+    <string name="gestures_android_action">Android actions</string>
+    <string name="gestures_application">Applications</string>
+    <string name="gestures_call">Quick call</string>
+    <string name="gestures_sms">Quick SMS</string>
+    <string name="gestures_intents">Intents</string> <!-- Intents is a common android word and should not be translated -->
+    <string name="gestures_action_home">Home</string>
+    <string name="gestures_action_recent">Recent</string>
+    <string name="gestures_action_torch">Torch</string>
+    <string name="gestures_action_ringer">Ringer mode</string>
+    <string name="gestures_intents_new_email">New email</string>
+    <string name="gestures_intents_new_email_blank">Clean email</string>
+    <string name="gestures_intents_new_email_prefix">Prefixed contact email</string>
+    <string name="gestures_intents_new_email_prefix_title">Insert email address</string>
+    <string name="button_add">Add gesture</string>
+    <string name="button_reload">Reload</string>
+    <string name="button_discard">Discard</string>
+    <string name="button_done">Done</string>
+    <string name="prompt_gesture_name">Name</string>
+    <string name="error_missing_name">You must enter a name</string>
+    <string name="error_duplicate_name">This name is already in my database</string>
+    <string name="save_success">Gesture saved in %s</string>
+    <string name="rename_action">OK</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="gestures_loading">Loading gestures…</string>
+    <string name="gestures_empty">No gestures</string>
+    <string name="gestures_activity">Gestures</string>
+    <string name="gestures_rename">Rename</string>
+    <string name="gestures_delete">Delete</string>
+    <string name="gestures_delete_success">Gesture deleted</string>
+    <string name="gestures_rename_title">Rename gesture</string>
+    <string name="gestures_rename_label">Gesture name</string>
+    <string name="gestures_error_loading">Could not load %s. Make sure you have storage available.</string>
+    <string name="add_action">Add an action</string>
+    <string name="select_action">Select an action</string>
+    <string name="android_actions">Android actions</string>
+    <string name="gestures_pad_size">Half screen</string>
+    <string name="gestures_inverted_icon">Inverted icon</string>
+
+    <!-- App Manager -->
+    <string name="all_apps">All apps</string>
+    <string name="user_apps">User apps</string>
+    <string name="system_apps">System apps</string>
+    <string name="new_updated_apps">New and updated apps</string>
+    <string name="custom_list">Custom list</string>
+    <string name="backup">Backup</string>
+    <string name="restore">Restore</string>
+    <string name="backupConfirmation">Backup?</string>
+    <string name="restoreConfirmation">Restore?</string>
+    <string name="handleApk">apk</string>
+    <string name="handleData">data</string>
+    <string name="handleBoth">both</string>
+    <string name="radioApk">Apk</string>
+    <string name="radioData">Data</string>
+    <string name="radioBoth">Data + Apk</string>
+    <string name="de_selectAll">De/select all</string>
+    <string name="onlyApkBackedUp">Only apk</string>
+    <string name="onlyDataBackedUp">Only data</string>
+    <string name="refresh">Refresh</string>
+    <string name="batchbackup">Batch backup</string>
+    <string name="batchrestore">Batch restore</string>
+    <string name="search">Search</string>
+    <string name="searchHint">Search for apps</string>
+    <string name="deleteBackup">Delete backup</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="uninstallProgress">Uninstalling</string>
+    <string name="showAll">Show all apps</string>
+    <string name="showOnlySystem">Show only system apps</string>
+    <string name="showOnlyUser">Show only user apps</string>
+    <string name="showNotBackedup">Show apps not backed up yet</string>
+    <string name="showNotInstalled">Show apps not installed</string>
+    <string name="showNewAndUpdated">Show new and updated apps</string>
+    <string name="showOldBackups">Show old backups</string>
+    <string name="showOnlyApkBackedUp">Show apps with only apk backed up</string>
+    <string name="showOnlyDataBackedUp">Show apps with only data backed up</string>
+    <string name="sortByLabel">Sort by label</string>
+    <string name="sortByPackageName">Sort by packagename</string>
+    <string name="sort">Sort and filters</string>
+    <string name="uninstallDialogMessage">Uninstall this app?</string>
+    <string name="deleteBackupDialogMessage">Delete backup files?</string>
+    <string name="noBackupYet">No backup yet</string>
+    <string name="restoreDataWithoutApkError">Cannot restore data without restoring apk, package is not installed: </string>
+    <string name="collectingData">Collecting package infos</string>
+    <string name="suCheck">Checking for superuser and busybox</string>
+    <string name="noSu">Couldn\'t get superuser permissions</string>
+    <string name="busyboxProblem">Couldn\'t find busybox. please check error log</string>
+    <string name="mkfileError">Couldn\'t create</string>
+    <string name="fallbackToDefault">Fall back to default</string>
+    <string name="backupFolderError">Please set the correct path in preferences and ensure it exists or is createable</string>
+    <string name="shellReturnSuccess">Success</string>
+    <string name="backupProgress">Backing up</string>
+    <string name="backupSuccess">Backup complete</string>
+    <string name="backupFailure">Error on backup</string>
+    <string name="restoreProgress">Restoring</string>
+    <string name="restoreSuccess">Restore complete</string>
+    <string name="restoreFailure">Error on restore</string>
+    <string name="batchSuccess">Operation complete</string>
+    <string name="batchFailure">Complete with errors</string>
+    <string name="errorDialogTitle">Errors occurred</string>
+    <string name="customListTitle">Custom list</string>
+    <string name="quickReboot">Quick reboot</string>
+    <string name="quickRebootMessage">Do you wish to restart userspace?</string>
+    <string name="tools_title">Tools</string>
+    <string name="tools_batchDeleteTitle">delete backups?</string>
+    <string name="tools_batchDeleteMessage">deleting backups</string>
+    <string name="enablePackageTitle">Enable for users</string>
+    <string name="disablePackageTitle">Disable for users</string>
+    <string name="prefs_title">Preferences</string>
+    <string name="prefs_timestamp">Use local date format</string>
+    <string name="prefs_acquireWakelock">Acquire wakelock</string>
+    <string name="prefs_summaryAcquireWakelock">Will speed up backups running in the background considerably but will consume more energy</string>
+    <string name="prefs_pathscategory">Custom paths</string>
+    <string name="prefs_pathBackupFolder">Backup folder</string>
+    <string name="prefs_summaryBackupFolder">Path to backup folder. leave blank for default.</string>
+    <string name="prefs_pathLogfile">Logfile</string>
+    <string name="prefs_summaryLogfile">Path to logfile. leave blank for default.</string>
+    <string name="prefs_pathBusybox">Busybox</string>
+    <string name="prefs_summaryBusybox">Path to busybox executable. be sure it\'s correct. leave blank for default.</string>
+    <string name="prefs_oldBackups">Filter backups by age</string>
+    <string name="prefs_summaryOldBackups">Filter backups older than value in days. used with the filter \'show old backups\'</string>
+    <string name="prefs_copySelfApk">Copy own apk</string>
+    <string name="prefs_summaryCopySelfApk">Place a copy of oandbackup in the top level of the backup folder when backed up</string>
+    <string name="prefs_languages">Languages</string>
+    <string name="prefs_languageSystemDefault">System default</string>
+    <string name="sched_title">Scheduling</string>
+    <string name="sched_notificationMessage">Scheduled backup</string>
+    <string name="sched_interval">Interval in days</string>
+    <string name="sched_hourOfDay">Hour of day (0..23)</string>
+    <string name="sched_startingbackup">Starting scheduled backup</string>
+    <string name="sched_backupMode">Backup mode</string>
+    <string name="sched_timeLeft">Hours until next backup</string>
+    <string name="sched_addSchudule">Add schedule</string>
+    <string name="sched_customListUpdateButton">Update custom list</string>
+
+    <!-- Data backup -->
+    <string name="data_backup">Data backup</string>
+    <string name="data_backup_summary">Backup and restore your personal data</string>
+    <string name="menu_export">Export</string>
+    <string name="menu_exporteverything">Export everything</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about">About</string>
+    <string name="contextmenu_deletefile">Delete file</string>
+    <string name="contextmenu_deletedaydata">Delete this days data</string>
+    <string name="error_nosdcard">No SD-card present.</string>
+    <string name="error_unsupporteddatabasestructure">Unsupported database structure</string>
+    <string name="error_couldnotcreatebackupfolder">Could not create backupfolder (%s)</string>
+    <string name="error_somethingwentwrong">Something went wrong: %s.</string>
+    <string name="hint_nobackupsfound">No backups found\n\n
+        press the menu key to create some.</string>
+    <string name="hint_noexportdata">No data available for export.</string>
+    <string name="hint_exporting">Exporting %s &#8230;</string>
+    <string name="hint_existed">\"%s\" existed</string>
+    <string name="message_exportedto">Exported into %s.</string>
+    <string name="message_importsuccessful">Import successful.</string>
+    <plurals name="message_importsuccessful_skipped">
+        <item quantity="one">Import successful, but skipped 1 entry.</item>
+        <item quantity="other">Import successful, but skipped %d entries.</item>
+    </plurals>
+    <string name="message_skippedallentries">Skipped all entries.</string>
+    <plurals name="listentry_items">
+        <item quantity="one">1 item in</item>
+        <item quantity="other">%d items in</item>
+    </plurals>
+    <string name="button_import">Import</string>
+    <string name="smsmessages">Short messages</string>
+    <string name="calllogs">Call logs</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="userdictionary">User dictionary</string>
+    <string name="playlists">Playlists</string>
+    <string name="settings">Settings</string>
+    <string name="wifisettings">Wifi settings</string>
+    <string name="contacts">Contacts</string>
+    <string name="dialog_export">Export</string>
+    <string name="dialog_licenseagreement">License</string>
+    <string name="question_deletefile">Do you really want to delete the file %s?</string>
+    <string name="settings_category_cyclicbehavior">Cyclic behavior</string>
+    <string name="settings_cyclecount">Cycle count (experimental)</string>
+    <string name="settings_cyclecount_description">Max. number of backups of one type</string>
+    <string name="settings_category_storage">Storage</string>
+    <string name="settings_storagelocation">Storage location</string>
+    <string name="settings_storagelocation_description">Location of the backup files</string>
+    <string name="settings_storagelocation_hint">Standard external storage</string>
+    <string name="settings_hideincompletedatawarnings">Hide data warnings</string>
+    <string name="settings_hideincompletedatawarnings_description">Hide warnings about incomplete data and export</string>
+    <string name="warning_incompletedata_import">The import of the %s will be very likely incomplete.</string>
+    <string name="warning_incompletedata_export">The export of the %s will be very likely incomplete.</string>
+    <string-array name="settings_cyclecountvalues">
+        <item>Unlimited</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+
+    <!-- Unity bars + Smart center -->
+    <string name="start_unity">Unity bars</string>
+    <string name="unity_left">Left bar</string>
+    <string name="unity_right">Right bar</string>
+    <string name="trigger_width">Trigger width</string>
+    <string name="background_color">Background color</string>
+    <string name="text_color">Text color</string>
+    <string name="layer_color">Layer color</string>
+    <string name="battery_level">Battery level</string>
+
+    <!-- Auto Tweaker -->
+    <string name="auto_tweaker">Auto tweaker</string>
+    <string name="auto_tweaker_summary">Auto tweak your device with custom profiles</string>
+    <string name="take_a_sit">This process may take a few minutes. Get a cup of coffee in the meantime!</string>
+    <string name="profile_select">Choose a profile</string>
+    <string name="profile_performance">Performance</string>
+    <string name="profile_battery">Battery</string>
+    <string name="profile_balanced">Balanced</string>
+    <string name="safety_select">Choose safety level</string>
+    <string name="safety_safe">Safe tweaks</string>
+    <string name="safety_extreme">Extreme tweaks</string>
+
+    <!-- Benchmarks -->
+    <string name="benchmarks_title">Benchmarks</string>
+    <string name="benchmarks_summary">Check your device performance score</string>
+    <string name="share_result">Share your results</string>
+    <string name="my_score">Here is my scores with Android Tweaker 2 benchmarks</string>
+    <string name="running">Running…</string>
+    <string name="result">Results:</string>
+    <string name="speed">Speed</string>
+    <string name="progress">Progress</string>
+    <string name="network_type">Network type</string>
+    <string name="test_all">Test all</string>
+    <string name="hardware_info">Hardware information</string>
+    <string name="cpu_test">CPU test</string>
+    <string name="io_test">IO test</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="external_storage">External storage</string>
+    <string name="write_speed">Write speed:</string>
+    <string name="read_speed">Read speed:</string>
+    <string name="network_test">Network speed test</string>
+    <string name="connection_speed">Connection speed:</string>
+    <string name="network_edge">Network : EDGE</string>
+    <string name="network_3g">Network : 3G</string>
+    <string name="network_detecting">Network : Detecting</string>
+    <string name="update_speed">%s kbit/sec</string>
+    <string name="update_downloaded" formatted="false">Downloaded %s of %s</string>
+    <string name="update_connectionspeed">Connection time %s ms</string>
+    <string name="update_downloaded_complete" formatted="false">Downloaded %s @ %s kbit/sec</string>
+
+    <!-- Expose -->
+    <string name="expose_title" translatable="false">Exposè</string>
+    <string name="expose_summary">Mac OSX like exposè corner actions</string>
+    <string name="expose_pause">Exposè is in pause</string>
+    <string name="expose_long_click">Long click</string>
+    <string name="expose_long_click_summary">Long click on exposè to pause</string>
+    <string name="expose_top_left">Top left exposè</string>
+    <string name="expose_top_right">Top right exposè</string>
+    <string name="expose_bottom_left">Bottom left exposè</string>
+    <string name="expose_bottom_right">Bottom right exposè</string>
+    <string name="expose_widget_center">Smart center</string>
+    <string name="expose_start">Start</string>
+
+    <!-- Bootanimation -->
+    <string name="bootanimation">Bootanimation</string>
+    <string name="bootanimation_summary">Download and install custom bootanimations</string>
+    <string name="bootanimation_not_found">I can\'t find a bootanimation that matches the size of your screen width. Please, try with another one!</string>
+    <string name="bootanimation_reboot">Reboot your device and enjoy the new bootanimation!</string>
+    <string name="custom_bootanimation">Install custom bootanimation</string>
+    <string name="custom_bootanimation_summary">Place the bootanimation.zip file inside the folder:</string>
+    <string name="custom_bootanimation_install">Tap here to install your custom bootanimation</string>
+    <string name="restore_bootanimation">Do you want to restore your original bootanimation?</string>
+    <string name="backup_bootanimation">Backing up current bootanimation to allows you to restore in future</string>
+    <string name="bam_roms_title">BAM</string>
+    <string name="cyanogenmod">CyanogenMod</string>
+    <string name="aokp">AOKP</string>
+    <string name="chaos">ChameleonOS</string>
+    <string name="carbon">Carbon ROMs</string>
+    <string name="slim">Slim ROMs</string>
+
+    <!-- The chamber of secrets -->
+    <string name="chamber_title">The chamber of secrets</string>
+    <string name="chamber_main_message">Create a password that will allows you to open the chamber. Password will be stored in your phone with AES and SALT encryption. It\'s extremely important that you don\'t forget your password!</string>
+    <string name="create_master_password">Create master password</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Password (6 Char min)</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="chamber_uninstall_warning">Important: If you uninstall Android Tweaker 2 or you wipe your data all the files inside the chamber will be deleted! You can use Android Tweaker 2 appmanager to backup/restore app data that will also works for chamber files!</string>
+    <string name="email">E-Mail</string>
+    <string name="password_mismatch">Make sure you enter the same password in both fields</string>
+    <string name="password_empty">Password field can\'t be empty!</string>
+    <string name="chamber_pass_lenght">Password must contain at least 6 char!</string>
+    <string name="password_created">Master password created</string>
+    <string name="password_edited">Master password has been updated!</string>
+    <string name="insert_password">Insert password</string>
+    <string name="wrong_password">Wrong password</string>
+    <string name="open_chamber">Open the chamber</string>
+    <string name="chamber_pictures">Pictures</string>
+    <string name="chamber_videos">Videos</string>
+    <string name="chamber_audio">Audio</string>
+    <string name="chamber_notes">Notes</string>
+    <string name="chamber_apks">APKs</string>
+    <string name="chamber_docs">Documents and general files</string>
+    <string name="chamber_edit_password">Edit password</string>
+    <string name="remove_from_chamber">Remove from chamber</string>
+    <string name="chamber_has_opened">The chamber has been opened</string>
+    <string name="tap_to_close_chamber">Tap here to close it</string>
+    <string name="put_note_chamber">Create secret note</string>
+    <string name="put_note_chamber_summary">All the notes created are encypted and stored into the app! No one except you can access to them</string>
+    <string name="chamber_note_title">Note title</string>
+    <string name="chamber_note_content">Note content</string>
+    <string name="chamber_select_note_type">Choose note type</string>
+    <string name="chamber_note_bookmark">Bookmarks</string>
+    <string name="chamber_note_phone_number">Phone numbers</string>
+    <string name="chamber_note_personal">Personal notes</string>
+    <string name="chamber_insert_title">Please insert a title!</string>
+    <string name="chamber_different_title">This title is already in use. Please use a different note title</string>
+    <string name="chamber_note_edit">Edit</string>
+    <string name="chamber_note_open">Open</string>
+    <string name="chamber_note_mail">Mail</string>
+    <string name="chamber_note_call">Call</string>
+    <string name="chamber_note_sms">SMS</string>
+    <string name="add_some_pics_to_chamber">Pictures chamber is empty! Add some files before entering</string>
+    <string name="add_some_vids_to_chamber">Videos chamber is empty! Add some files before entering</string>
+    <string name="add_some_audio_to_chamber">Audio chamber is empty! Add some files before entering</string>
+    <string name="add_some_personal_notes_to_chamber">Personal notes chamber is empty! Add some files before entering</string>
+    <string name="add_some_bookmarks_notes_to_chamber">Bookmarks notes chamber is empty! Add some files before entering</string>
+    <string name="add_some_phone_notes_to_chamber">Phone numbers notes chamber is empty! Add some files before entering</string>
+    <string name="add_some_apks_notes_to_chamber">Apks chamber is empty! Add some files before entering</string>
+    <string name="add_some_docs_notes_to_chamber">Docs chamber is empty! Add some files before entering</string>
+    <string name="chamber_clearall">Restore all files</string>
+    <string name="chamber_clearnotes">Clear notes</string>
+    <string name="chamber_clearall_dlg">Do you want to move back all files to their original location?</string>
+    <string name="chamber_clearnotes_dlg">Do you want to delete all saved notes?</string>
+    <string name="chamber_prefs_play_files">Play media and docs</string>
+    <string name="chamber_prefs_play_files_summary">Allows you to play media files such as audio, images, docs, videos etc. The files needs to be moved out from the chamber and moved to original directory before get played. All the files will be automatically moved back once you close the chamber!</string>
+
+    <!-- OOM and Caching --> <!-- Translate only things like "cache size" or "app mem". leave all other things such as Texture, Layer, Path etc. as provided -->
+    <string name="oom_caching_title">OOM and caching</string>
+    <string name="oom_caching_summary">Tweaks collection for OOM and caching</string>
+    <string name="caching_title">Caching</string>
+    <string name="oom_title">OOM</string>
+    <string name="texture_cache_size">Texture cache size</string>
+    <string name="layer_cache_size">Layer cache size</string>
+    <string name="buffer_cache_size">Buffer cache size</string>
+    <string name="path_cache_size">Path cache size</string>
+    <string name="drop_shadow_cache_size">Drop shadow cache size</string>
+    <string name="oom_foreground_app_mem">Foreground app mem</string>
+    <string name="oom_visible_app_mem">Visible app mem</string>
+    <string name="oom_secondary_server_mem">Secondary server mem</string>
+    <string name="oom_backup_app_mem">Backup app mem</string>
+    <string name="oom_home_app_mem">Home app mem</string>
+    <string name="oom_hidden_app_mem">Hidden app mem</string>
+    <string name="oom_empty_app_mem">Empty app mem</string>
+    <string name="oom_perceptible_app_mem">Perceptible app mem</string>
+    <string name="oom_heavy_weight_app_mem">Heavy weight app mem</string>
+    <string name="oom_content_provider_mem">Content provider mem</string>
+    <string name="oom_foreground_app_adj">Foreground app ADJ</string>
+    <string name="oom_visible_app_adj">Visible app ADJ</string>
+    <string name="oom_secondary_server_adj">Secondary server ADJ</string>
+    <string name="oom_backup_app_adj">Backup app ADJ</string>
+    <string name="oom_home_app_adj">Home app ADJ</string>
+    <string name="oom_empty_app_adj">Empty app ADJ</string>
+    <string name="oom_hidden_app_adj">Hidden app ADJ</string>
+    <string name="oom_perceptible_app_adj">Perceptible app ADJ</string>
+    <string name="oom_heavy_weight_app_adj">Heavy weight app ADJ</string>
+    <string name="oom_content_provider_adj">Content provider ADJ</string>
+    <string name="oom_enforce_process">Enfore process limit</string>
+    <string name="oom_max_service_inactivity">Max service inactivity</string>
+    <string name="oom_min_hidden_apps">Min hidden apps</string>
+    <string name="oom_max_hidden_apps">Max hidden apps</string>
+    <string name="oom_content_app_idle_offset">Content app idle offset</string>
+    <string name="oom_empty_app_idle_offset">Empty app idle offset</string>
+    <string name="oom_max_activities">Max activities</string>
+    <string name="oom_activity_inactive_reset_time">Activity inactive reset time</string>
+    <string name="oom_max_recent_task">Max recent tasks</string>
+    <string name="oom_min_recent_task">Min recent tasks</string>
+    <string name="oom_app_switch_delay">App switch delay time</string>
+    <string name="oom_max_process">Max processes</string>
+    <string name="oom_proc_start_timeout">Proc start timout</string>
+    <string name="oom_cpu_min_check_duration">CPU min check duration</string>
+    <string name="oom_gc_timout">GC timout</string>
+    <string name="oom_service_timout">Service timout</string>
+    <string name="oom_min_crash_interval">Min crash interval</string>
+
+    <!-- Restore -->
+    <string name="reset_tweaks">Reset tweaks</string>
+    <string name="cant_reset_tweaks">Root access is required in order to tweak and restore your Android OS</string>
+    <string name="reset_tweaks_sure">Do you want to reset all tweaks?</string>
+
+    <!-- Ota tweaker -->
+    <string name="ota_tweaker">OTA Tweaker</string>
+    <string name="ota_tweaker_summary">Auto tweaks on OTA updates</string>
+    <string name="ota_start">Launch OTA auto tweaker</string>
+    <string name="ota_init">Initializing…</string>
+    <string name="ota_writing">Writing</string>
+    <string name="ota_ready">OTA Tweaker is ready to tweak back your device</string>
+    <string name="ota_tweaker_summary_tips">OTA Tweaker will tweak your device back if device receive OTA updates such as nightlies or new build. Keep in mind that this will not work if during update process the data will be wiped!\n\nNote: if you already tweaked your device with Android Tweaker 2, you should tweak it again to store the new tweaks into the OTA tweaker!</string>
+
+    <!-- Quick flasher -->
+    <string name="quick_flasher_title">Quick flasher</string>
+    <string name="quick_flasher_summary">Allows you to flash zip files. A custom recovery is required in order to flash zip files on your device!</string>
+    <string name="no_zips_in_dir">there aren\'t any zip files inside this folder</string>
+    <string name="flash_confirm">Do you want to flash</string> <!-- This will be followed by the file name. I.E: Do you want to flash: filename.zip? -->
+    <string name="wipe_cache">Wipe cache</string>
+    <string name="wipe_data">Wipe data</string>
+
+    <!-- Tasker Profiles -->
+    <string name="tasker_profiles_title">Tasker profiles</string>
+    <string name="tasker_profiles_summary">Custom RAM management profiles</string>
+    <string name="tasker_profiles_intro">This addon will touch the values of the lowmemorykiller. These values refers to the minimum amount of RAM in which programs are killed off to free RAM for your system.</string>
+    <string name="tasker_profiles_profile_selection_title">Select profile</string>
+    <string name="tasker_profiles_profile_selection_summary">These values will be restored to default every time you reboot the device unless there is persistent option enabled. Tap the image to get a short description.</string>
+    <string name="tasker_profiles_selector_stock">Stock</string>
+    <string name="tasker_profiles_selector_summary_stock">These values refer to the original ones of your device</string>
+    <string name="tasker_profiles_selector_medium">Medium</string>
+    <string name="tasker_profiles_selector_summary_medium">Non aggressive values. Suggested if you want to keep everything running in background</string>
+    <string name="tasker_profiles_selector_hard">Hard</string>
+    <string name="tasker_profiles_selector_summary_hard">Aggressive values. Suggested if you want to free some ram while using your apps</string>
+    <string name="tasker_profiles_selector_gamer">Gamer</string>
+    <string name="tasker_profiles_selector_summary_gamer">Ultra aggressive values. This will kill almost everything started in background and will grant a good amount of RAM while playing your favourite games</string>
+    <string name="tasker_profiles_selector_sleeper">Sleeper</string>
+    <string name="tasker_profiles_selector_summary_sleeper">These values kills everything in background and will increase the battery life of your device during sleep mode. Don\'t forget to change while using the device!</string>
+    <string name="tasker_profiles_boot_title">Persistence</string>
+    <string name="tasker_profiles_boot_summary">The current values will be injected at boot</string>
+    <string name="tasker_profiles_notification_title">Notification</string>
+    <string name="tasker_profiles_notification_summary">Create a notification that will let you swith between profiles</string>
+    <string name="tasker_profiles_widget_title">Home widget</string>
+    <string name="tasker_profiles_widget_summary">Enable a widget that will let you switch between profiles</string>
+</resources>
