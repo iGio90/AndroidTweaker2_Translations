@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name" translatable="false">Android Tweaker 2</string>
-    <string name="reboot">Reboot your device in order to apply changes</string>
-    <string name="apply">Apply changes</string>
-    <string name="exit">Please tap BACK again to exit</string>
-    <string name="yes">Yes</string>
-    <string name="no">No</string>
-    <string name="ok">Ok</string>
-    <string name="cancel">Cancel</string>
-    <string name="warning">Warning</string>
-    <string name="error">Error</string>
-    <string name="checking">Checking dependencies…</string>
+    <string name="reboot">परिवर्तनों को लागू करने के लिए आपके डिवाइस रिबूट</string>
+    <string name="apply">परिवर्तन लागू </string>
+    <string name="exit">बाहर निकलने के लिए फिर से वापस नल कृपया</string>
+    <string name="yes">हां</string>
+    <string name="no">नहीं</string>
+    <string name="ok">ठीक</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="warning">संकेत</string>
+    <string name="error">गलती</string>
+    <string name="checking"> dependencies जाँe  rahehच …</string>
     <string name="connectionc_error">Android tweaker needs an active connection to verify the app license. Please, connect your device and try back.</string>
     <string name="sure">Are your sure?</string>
     <string name="wait">Please wait…</string>
